@@ -137,7 +137,7 @@ class TFOb:
         return len(self.ids)
     
     def __eq__(self, ob):
-        return self.ids == ob.ids
+        return isinstance(ob, TFOb) and self.ids == ob.ids
 
     @property
     def text(self):
