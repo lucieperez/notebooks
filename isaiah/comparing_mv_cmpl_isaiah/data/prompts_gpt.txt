@@ -1,0 +1,157 @@
+PROMPTS GPT
+
+PROMPT 1
+
+# Messages for GPT: PROMPT 1
+
+template_messages = [
+    {"role": "system", "content": """You are a helpful assistant specilised in Biblical Hebrew analysis.
+        This is a verse from the Hebrew Bible and the analysis of one of its clause, which contains a motion verb and the complement (or goal, or destination) of this motion verb.
+
+Here are some examples:
+
+The verse is: שָׂרַ֣יִךְ סֹורְרִ֗ים וְחַבְרֵי֙ גַּנָּבִ֔ים כֻּלֹּו֙ אֹהֵ֣ב שֹׁ֔חַד וְרֹדֵ֖ף שַׁלְמֹנִ֑ים יָתֹום֙ לֹ֣א יִשְׁפֹּ֔טוּ וְרִ֥יב אַלְמָנָ֖ה לֹֽא־יָבֹ֥וא אֲלֵיהֶֽם׃ פ 
+The motion verb is: יָבֹ֥וא 
+The clause of this motion verb is: וְרִ֥יב אַלְמָנָ֖ה לֹֽא־יָבֹ֥וא אֲלֵיהֶֽם׃ פ .
+In this clause, the complement of the verb יָבֹ֥וא  is אֲלֵיהֶֽם׃ פ
+
+The verse is : רַחֲצוּ֙ הִזַּכּ֔וּ הָסִ֛ירוּ רֹ֥עַ מַעַלְלֵיכֶ֖ם מִנֶּ֣גֶד עֵינָ֑י חִדְל֖וּ הָרֵֽעַ׃ 
+The motion verb is: הָסִ֛ירוּ 
+The clause of this motion verb is: הָסִ֛ירוּ רֹ֥עַ מַעַלְלֵיכֶ֖ם מִנֶּ֣גֶד עֵינָ֑י .
+In this clause, the complement of the verb הָסִ֛ירוּ  is: מִנֶּ֣גֶד עֵינָ֑י 
+
+The verse is: וְאָשִׁ֤יבָה יָדִי֙ עָלַ֔יִךְ וְאֶצְרֹ֥ף כַּבֹּ֖ר סִיגָ֑יִךְ וְאָסִ֖ירָה כָּל־בְּדִילָֽיִךְ׃ 
+The motion verb is: אָשִׁ֤יבָה 
+The clause of this motion verb is: וְאָשִׁ֤יבָה יָדִי֙ עָלַ֔יִךְ .
+In this clause, the complement of the verb אָשִׁ֤יבָה  is: עָלַ֔יִךְ.
+
+The verse is: כִּ֣י תָבֹ֔אוּ לֵרָאֹ֖ות פָּנָ֑י מִי־בִקֵּ֥שׁ זֹ֛את מִיֶּדְכֶ֖ם רְמֹ֥ס חֲצֵרָֽי׃ 
+The motion verb is: תָבֹ֔אוּ 
+The clause of this motion verb is:כִּ֣י תָבֹ֔אוּ
+In this clause, the motion verb has no complement.
+
+The verse is: וְאָשִׁ֤יבָה שֹׁפְטַ֨יִךְ֙ כְּבָרִ֣אשֹׁנָ֔ה וְיֹעֲצַ֖יִךְ כְּבַתְּחִלָּ֑ה אַחֲרֵי־כֵ֗ן יִקָּ֤רֵא לָךְ֙ עִ֣יר הַצֶּ֔דֶק קִרְיָ֖ה נֶאֱמָנָֽה׃ .
+The motion verb is:אָשִׁ֤יבָה .
+The clause of this motion verb is: וְאָשִׁ֤יבָה שֹׁפְטַ֨יִךְ֙ כְּבָרִ֣אשֹׁנָ֔ה .
+In this clause, the motion verb has no complement.
+
+The verse is: ס֤וּרוּ ס֨וּרוּ֙ צְא֣וּ מִשָּׁ֔ם טָמֵ֖א אַל־תִּגָּ֑עוּ צְא֣וּ מִתֹּוכָ֔הּ הִבָּ֕רוּ נֹשְׂאֵ֖י כְּלֵ֥י יְהוָֽה׃.
+The motion verb is: צְא֣וּ (occurrence number 1).
+The clause of this motion verb is: צְא֣וּ מִשָּׁ֔ם.
+In this clause, the complement of the verb צְא֣וּ (occurrence number 1) is: מִשָּׁ֔ם.
+
+The verse is:תַּ֤חַת הַֽנַּעֲצוּץ יַעֲלֶ֣ה בְרֹ֔ושׁ וְתַ֥חַת הַסִּרְפַּ֖ד יַעֲלֶ֣ה הֲדַ֑ס וְהָיָ֤ה לַֽיהוָה֙ לְשֵׁ֔ם לְאֹ֥ות עֹולָ֖ם לֹ֥א יִכָּרֵֽת ס .
+The motion verb is: יַעֲלֶ֣ה  (occurrence number 1).
+The clause of this motion verb is:תַּ֤חַת הַֽנַּעֲצוּץ יַעֲלֶ֣ה בְרֹ֔ושׁ.
+In this clause, the complement of the verb יַעֲלֶ֣ה  (occurrence number 1) has no complement.
+
+The verse is: ס֤וּרוּ ס֨וּרוּ֙ צְא֣וּ מִשָּׁ֔ם טָמֵ֖א אַל־תִּגָּ֑עוּ צְא֣וּ מִתֹּוכָ֔הּ הִבָּ֕רוּ נֹשְׂאֵ֖י כְּלֵ֥י יְהוָֽה׃.
+The motion verb is: צְא֣וּ (occurrence number 2).
+The clause of this motion verb is: צְא֣וּ מִתֹּוכָ֔הּ.
+In this clause, the verb צְא֣וּ (occurrence number 2) is: מִתֹּוכָ֔הּ.
+
+The verse is: תַּ֤חַת הַֽנַּעֲצוּץ יַעֲלֶ֣ה בְרֹ֔ושׁ וְתַ֥חַת הַסִּרְפַּ֖ד יַעֲלֶ֣ה הֲדַ֑ס וְהָיָ֤ה לַֽיהוָה֙ לְשֵׁ֔ם לְאֹ֥ות עֹולָ֖ם לֹ֥א יִכָּרֵֽת ס.
+The motion verb is: יַעֲלֶ֣ה (occurrence number 2).
+The clause of this motion verb is: וְתַ֥חַת הַסִּרְפַּ֖ד יַעֲלֶ֣ה הֲדַ֑ס.
+In this clause, the verb יַעֲלֶ֣ה (occurrence number 2) has no complement.
+
+The verse is: יְהוָה֙ בְּמִשְׁפָּ֣ט יָבֹ֔וא עִם־זִקְנֵי עַמֹּו וְשָׂרָ֑יו וְאַתֶּם֙ בִּֽעַרְתֶּ֣ם הַכֶּ֔רֶם גְּזֵלַ֥ת הֶֽעָנִ֖י בְּבָתֵּיכֶֽם׃.
+The motion verb is: יָבֹ֔וא.
+The clause of this motion verb is: יְהוָה֙ בְּמִשְׁפָּ֣ט יָבֹ֔וא עִם־זִקְנֵי עַמֹּו וְשָׂרָ֑יו.
+In this clause, the verb יָבֹ֔וא has two complements.
+Complement 1 is:בְּמִשְׁפָּ֣ט.
+Complement 2 is:עִם־זִקְנֵ֥י עַמֹּ֖ו וְשָׂרָ֑יו.
+
+In the verses that I give you later, I want to know: 1) what is the clause of the motion verb 2) what is the complement of the motion verb. """},
+    
+    {"role": "user", "content": """The verse is:שָׂרַ֣יִךְ סֹורְרִ֗ים וְחַבְרֵי֙ גַּנָּבִ֔ים כֻּלֹּו֙ אֹהֵ֣ב שֹׁ֔חַד וְרֹדֵ֖ף שַׁלְמֹנִ֑ים יָתֹום֙ לֹ֣א יִשְׁפֹּ֔טוּ וְרִ֥יב אַלְמָנָ֖ה לֹֽא־יָבֹ֥וא אֲלֵיהֶֽם׃ פ . The motion verb is: יָבֹ֥וא """},
+    
+    {"role": "assistant", "content": """In the verse שָׂרַ֣יִךְ סֹורְרִ֗ים וְחַבְרֵי֙ גַּנָּבִ֔ים כֻּלֹּו֙ אֹהֵ֣ב שֹׁ֔חַד וְרֹדֵ֖ף שַׁלְמֹנִ֑ים יָתֹום֙ לֹ֣א יִשְׁפֹּ֔טוּ וְרִ֥יב אַלְמָנָ֖ה לֹֽא־יָבֹ֥וא אֲלֵיהֶֽם׃ פ: 
+    1) The clause of the motion verb הָסִ֛ירוּ is: הָסִ֛ירוּ רֹ֥עַ מַעַלְלֵיכֶ֖ם מִנֶּ֣גֶד עֵינָ֑י.
+    2) The complement of the motion verb הָסִ֛ירוּ is: מִנֶּ֣גֶד עֵינָ֑י."""},
+
+    ]
+
+questions = ["""The verse is:וְֽהָלְכ֞וּ עַמִּ֣ים רַבִּ֗ים וְאָמְרוּ֙ לְכ֣וּ׀ וְנַעֲלֶ֣ה אֶל־הַר־יְהוָ֗ה אֶל־בֵּית֙ אֱלֹהֵ֣י יַעֲקֹ֔ב וְיֹרֵ֨נוּ֙ מִדְּרָכָ֔יו וְנֵלְכָ֖ה בְּאֹרְחֹתָ֑יו כִּ֤י מִצִּיֹּון֙ תֵּצֵ֣א תֹורָ֔ה וּדְבַר־יְהוָ֖ה מִירוּשָׁלִָֽם׃ 
+The motion verb is: נַעֲלֶ֣ה """]
+
+############################################################################################
+
+PROMPT 2 # Messages for GPT
+
+template_messages = [
+    {"role": "system", "content": """You are a helpful assistant specilised in Biblical Hebrew analysis.
+        This is a verse from the Hebrew Bible and the analysis of one of its clause, which contains a motion verb and the complement (or goal, or destination) of this motion verb.
+
+Here are some examples:
+
+The verse is: שָׂרַ֣יִךְ סֹורְרִ֗ים וְחַבְרֵי֙ גַּנָּבִ֔ים כֻּלֹּו֙ אֹהֵ֣ב שֹׁ֔חַד וְרֹדֵ֖ף שַׁלְמֹנִ֑ים יָתֹום֙ לֹ֣א יִשְׁפֹּ֔טוּ וְרִ֥יב אַלְמָנָ֖ה לֹֽא־יָבֹ֥וא אֲלֵיהֶֽם׃ פ 
+The motion verb is: יָבֹ֥וא 
+The clause of this motion verb is: וְרִ֥יב אַלְמָנָ֖ה לֹֽא־יָבֹ֥וא אֲלֵיהֶֽם׃ פ .
+In this clause, the complement of the verb יָבֹ֥וא  is אֲלֵיהֶֽם׃ פ
+
+The verse is: כִּ֣י תָבֹ֔אוּ לֵרָאֹ֖ות פָּנָ֑י מִי־בִקֵּ֥שׁ זֹ֛את מִיֶּדְכֶ֖ם רְמֹ֥ס חֲצֵרָֽי׃ 
+The motion verb is: תָבֹ֔אוּ 
+The clause of this motion verb is:כִּ֣י תָבֹ֔אוּ
+In this clause, the motion verb has no complement.
+
+The verse is: וְאָשִׁ֤יבָה שֹׁפְטַ֨יִךְ֙ כְּבָרִ֣אשֹׁנָ֔ה וְיֹעֲצַ֖יִךְ כְּבַתְּחִלָּ֑ה אַחֲרֵי־כֵ֗ן יִקָּ֤רֵא לָךְ֙ עִ֣יר הַצֶּ֔דֶק קִרְיָ֖ה נֶאֱמָנָֽה׃ .
+The motion verb is:אָשִׁ֤יבָה .
+The clause of this motion verb is: וְאָשִׁ֤יבָה שֹׁפְטַ֨יִךְ֙ כְּבָרִ֣אשֹׁנָ֔ה .
+In this clause, the motion verb has no complement.
+
+
+In the verses that I give you later, I want to know: 1) what is the clause of the motion verb 2) what is the complement of the motion verb. """},
+    
+    {"role": "user", "content": """The verse is:שָׂרַ֣יִךְ סֹורְרִ֗ים וְחַבְרֵי֙ גַּנָּבִ֔ים כֻּלֹּו֙ אֹהֵ֣ב שֹׁ֔חַד וְרֹדֵ֖ף שַׁלְמֹנִ֑ים יָתֹום֙ לֹ֣א יִשְׁפֹּ֔טוּ וְרִ֥יב אַלְמָנָ֖ה לֹֽא־יָבֹ֥וא אֲלֵיהֶֽם׃ פ . The motion verb is: יָבֹ֥וא """},
+    
+    {"role": "assistant", "content": """In the verse שָׂרַ֣יִךְ סֹורְרִ֗ים וְחַבְרֵי֙ גַּנָּבִ֔ים כֻּלֹּו֙ אֹהֵ֣ב שֹׁ֔חַד וְרֹדֵ֖ף שַׁלְמֹנִ֑ים יָתֹום֙ לֹ֣א יִשְׁפֹּ֔טוּ וְרִ֥יב אַלְמָנָ֖ה לֹֽא־יָבֹ֥וא אֲלֵיהֶֽם׃ פ: 
+    1) The clause of the motion verb הָסִ֛ירוּ is: הָסִ֛ירוּ רֹ֥עַ מַעַלְלֵיכֶ֖ם מִנֶּ֣גֶד עֵינָ֑י.
+    2) The complement of the motion verb הָסִ֛ירוּ is: מִנֶּ֣גֶד עֵינָ֑י."""},
+  
+    ]
+
+#################################################################################################
+
+PROMPT 3 
+
+# Messages for GPT
+
+template_messages = [
+    {"role": "system", "content": """You are a helpful assistant specilised in Biblical Hebrew analysis.
+        This is a verse from the Hebrew Bible and the analysis of one of its clause, which contains a motion verb and the complement (or goal, or destination) of this motion verb.
+
+Here are some examples:
+
+The verse is: שָׂרַ֣יִךְ סֹורְרִ֗ים וְחַבְרֵי֙ גַּנָּבִ֔ים כֻּלֹּו֙ אֹהֵ֣ב שֹׁ֔חַד וְרֹדֵ֖ף שַׁלְמֹנִ֑ים יָתֹום֙ לֹ֣א יִשְׁפֹּ֔טוּ וְרִ֥יב אַלְמָנָ֖ה לֹֽא־יָבֹ֥וא אֲלֵיהֶֽם׃ פ 
+The motion verb is: יָבֹ֥וא 
+The clause of this motion verb is: וְרִ֥יב אַלְמָנָ֖ה לֹֽא־יָבֹ֥וא אֲלֵיהֶֽם׃ פ .
+In this clause, the complement of the verb יָבֹ֥וא  is אֲלֵיהֶֽם׃ פ
+
+The verse is: כִּ֣י תָבֹ֔אוּ לֵרָאֹ֖ות פָּנָ֑י מִי־בִקֵּ֥שׁ זֹ֛את מִיֶּדְכֶ֖ם רְמֹ֥ס חֲצֵרָֽי׃ 
+The motion verb is: תָבֹ֔אוּ 
+The clause of this motion verb is:כִּ֣י תָבֹ֔אוּ
+In this clause, the motion verb has no complement.
+
+The verse is: וְאָשִׁ֤יבָה שֹׁפְטַ֨יִךְ֙ כְּבָרִ֣אשֹׁנָ֔ה וְיֹעֲצַ֖יִךְ כְּבַתְּחִלָּ֑ה אַחֲרֵי־כֵ֗ן יִקָּ֤רֵא לָךְ֙ עִ֣יר הַצֶּ֔דֶק קִרְיָ֖ה נֶאֱמָנָֽה׃ .
+The motion verb is:אָשִׁ֤יבָה .
+The clause of this motion verb is: וְאָשִׁ֤יבָה שֹׁפְטַ֨יִךְ֙ כְּבָרִ֣אשֹׁנָ֔ה .
+In this clause, the motion verb has no complement.
+
+
+In the verses that I give you later, I want to know: 1) what is the clause of the motion verb 2) what is the complement of the motion verb. """},
+    
+    {"role": "user", "content": """The verse is:שָׂרַ֣יִךְ סֹורְרִ֗ים וְחַבְרֵי֙ גַּנָּבִ֔ים כֻּלֹּו֙ אֹהֵ֣ב שֹׁ֔חַד וְרֹדֵ֖ף שַׁלְמֹנִ֑ים יָתֹום֙ לֹ֣א יִשְׁפֹּ֔טוּ וְרִ֥יב אַלְמָנָ֖ה לֹֽא־יָבֹ֥וא אֲלֵיהֶֽם׃ פ . The motion verb is: יָבֹ֥וא """},
+    
+    {"role": "assistant", "content": """In the verse שָׂרַ֣יִךְ סֹורְרִ֗ים וְחַבְרֵי֙ גַּנָּבִ֔ים כֻּלֹּו֙ אֹהֵ֣ב שֹׁ֔חַד וְרֹדֵ֖ף שַׁלְמֹנִ֑ים יָתֹום֙ לֹ֣א יִשְׁפֹּ֔טוּ וְרִ֥יב אַלְמָנָ֖ה לֹֽא־יָבֹ֥וא אֲלֵיהֶֽם׃ פ: 
+    1) The clause of the motion verb הָסִ֛ירוּ is: הָסִ֛ירוּ רֹ֥עַ מַעַלְלֵיכֶ֖ם מִנֶּ֣גֶד עֵינָ֑י.
+    2) The complement of the motion verb הָסִ֛ירוּ is: מִנֶּ֣גֶד עֵינָ֑י."""},
+    
+        {"role": "user", "content": """The verse is: וְאָשִׁ֤יבָה שֹׁפְטַ֨יִךְ֙ כְּבָרִ֣אשֹׁנָ֔ה וְיֹעֲצַ֖יִךְ כְּבַתְּחִלָּ֑ה אַחֲרֵי־כֵ֗ן יִקָּ֤רֵא לָךְ֙ עִ֣יר הַצֶּ֔דֶק קִרְיָ֖ה נֶאֱמָנָֽה׃ . The motion verb is:אָשִׁ֤יבָה . """},
+    
+    {"role": "assistant", "content": """In the verse: וְאָשִׁ֤יבָה שֹׁפְטַ֨יִךְ֙ כְּבָרִ֣אשֹׁנָ֔ה וְיֹעֲצַ֖יִךְ כְּבַתְּחִלָּ֑ה אַחֲרֵי־כֵ֗ן יִקָּ֤רֵא לָךְ֙ עִ֣יר הַצֶּ֔דֶק קִרְיָ֖ה נֶאֱמָנָֽה׃ .
+    1) The clause of this motion verb is: וְאָשִׁ֤יבָה שֹׁפְטַ֨יִךְ֙ כְּבָרִ֣אשֹׁנָ֔ה .
+    2) In this clause, the motion verb has no complement."""},
+    ]
+
+#################################################################################################
