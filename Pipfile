@@ -4,11 +4,11 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-text-fabric = "*"
 openai = "*"
 notebook = "*"
 munch = "*"
 pandas = "*"
+text-fabric = {extras = ["all"], version = "*"}
 
 [dev-packages]
 
