@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "ee48c00a1b0b39214c637e784fe01a6b3910aecc8102e070637e594886187e22"
+            "sha256": "86b1f6235e7772579d11ee22821b198abddad4f529aff362f92187a3b45545dd"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -1201,6 +1201,14 @@
             "markers": "python_version >= '3.7'",
             "version": "==3.10.0"
         },
+        "plumbum": {
+            "hashes": [
+                "sha256:3ad9e5f56c6ec98f6f7988f7ea8b52159662ea9e915868d369dbccbfca0e367e",
+                "sha256:9e6dc032f4af952665f32f3206567bc23b7858b1413611afe603a3f8ad9bfd75"
+            ],
+            "markers": "python_version >= '3.6'",
+            "version": "==1.8.2"
+        },
         "prometheus-client": {
             "hashes": [
                 "sha256:21e674f39831ae3f8acde238afd9a27a37d0d2fb5a28ea094f0ce25d2cbf2091",
@@ -1628,6 +1636,13 @@
             "markers": "python_version >= '3.8'",
             "version": "==0.10.3"
         },
+        "rpyc": {
+            "hashes": [
+                "sha256:6e8153792ac221a80f420d2e0b241a10c6e43b105d325998b18a4e7af329f9ec",
+                "sha256:f2233174879faf18ae266437d5a65511ce46c817cec4edc1344f036758cfbf52"
+            ],
+            "version": "==5.3.1"
+        },
         "send2trash": {
             "hashes": [
                 "sha256:a384719d99c07ce1eefd6905d2decb6f8b7ed054025bb0e618919f945de4f679",
@@ -1680,11 +1695,11 @@
                 "all"
             ],
             "hashes": [
-                "sha256:ebabea31125c31b311ca5ac324487d3fb7b183c9c1c2a683d6c75d5ed72116f5",
-                "sha256:ecbb35a806be3d622eeb49cfe8fd770f708ff3212c385511c2f87d0b0989331a"
+                "sha256:4d6511e33eb66634240f64919394fd89c2af8c47cb27db957d5c9e837b5d109b",
+                "sha256:b5263d0169f3fd48bfd9ed2c8de7168200dcc0a763ad61820fa25e3c78ed836e"
             ],
             "markers": "python_full_version >= '3.9.0'",
-            "version": "==12.0.7"
+            "version": "==11.5.1"
         },
         "tinycss2": {
             "hashes": [

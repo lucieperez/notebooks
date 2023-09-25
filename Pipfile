@@ -8,7 +8,7 @@ openai = "*"
 notebook = "*"
 munch = "*"
 pandas = "*"
-text-fabric = {extras = ["all"], version = "*"}
+text-fabric = {extras = ["all"], version = "==11.5.1"}
 
 [dev-packages]
 
