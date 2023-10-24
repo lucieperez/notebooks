@@ -50,6 +50,7 @@ class TFOb:
     @classmethod
     def section(self, section, source, scroll=None):
         if source.name == "BHSA":
+            section = [section[0], int(section[1]), int(section[2])]
             return TFOb(source.T.nodeFromSection(section), source)
 
         section = (section[0], str(section[1]), str(section[2]))
@@ -134,6 +135,9 @@ class TFOb:
 
     def __len__(self):
         return len(self.ids)
+    
+    def __eq__(self, ob):
+        return isinstance(ob, TFOb) and self.ids == ob.ids
 
     @property
     def text(self):
