@@ -1,12 +1,23 @@
-from munch import Munch
-from tf.app import use
 import pandas as pd
+
+from munch import Munch
+
+from tf.app import use
+from tf.fabric import Fabric
+
 
 B = use("etcbc/dss", hoist=globals())
 DSS = Munch({"F": F, "L": L, "T": T, "name": "DSS", "A": B})
 
 A = use("etcbc/bhsa", hoist=globals())
 BHSA = Munch({"F": F, "L": L, "T": T, "name": "BHSA", "A": A})
+
+
+TF_XB = Fabric(locations='C:/Users/perez/Documents/extrabiblical/tf/0.2') 
+C = TF_XB.load('''otype lex g_cons g_prs txt prs kind vs vt sp book chapter verse label language function uvf''')
+C.makeAvailableIn(globals())
+XB = Munch({"F": F, "L": L, "T": T, "name": "XB", "A": C})
+
 
 del F, L, T
 
@@ -195,6 +206,10 @@ class TFOb:
             )
         elif self.source.name == "BHSA":
             return [self.source.T.sectionFromNode(id_) for id_ in self.ids]
+        
+        elif self.source.name == "XB":
+            return [self.source.T.sectionFromNode(id_) for id_ in self.ids]
+
 
     @property
     def book(self):
