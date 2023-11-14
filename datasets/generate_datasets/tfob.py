@@ -6,36 +6,42 @@ from tf.app import use
 from tf.fabric import Fabric
 
 
-B = use("etcbc/dss", hoist=globals())
-DSS = Munch({"F": F, "L": L, "T": T, "name": "DSS", "A": B})
+def get_dss():
+    B = use("etcbc/dss", hoist=globals())
+    DSS = Munch({"F": F, "L": L, "T": T, "name": "DSS", "A": B})
+    global dss_sections
+    dss_sections = build_dss_sections(DSS)
+    return DSS
 
-A = use("etcbc/bhsa", hoist=globals())
-BHSA = Munch({"F": F, "L": L, "T": T, "name": "BHSA", "A": A})
+def get_bhsa():
+    A = use("etcbc/bhsa", hoist=globals())
+    return Munch({"F": F, "L": L, "T": T, "name": "BHSA", "A": A})
 
 
-TF_XB = Fabric(locations='C:/Users/perez/Documents/extrabiblical/tf/0.2') 
-C = TF_XB.load('''otype lex g_cons g_prs txt prs kind vs vt sp book chapter verse label language function uvf''')
-C.makeAvailableIn(globals())
-XB = Munch({"F": F, "L": L, "T": T, "name": "XB", "A": C})
+def get_xb():
+    TF_XB = Fabric(locations='C:/Users/perez/Documents/extrabiblical/tf/0.2') 
+    C = TF_XB.load('''otype lex g_cons g_prs txt prs kind vs vt sp book chapter verse label language function uvf''')
+    C.makeAvailableIn(globals())
+    return Munch({"F": F, "L": L, "T": T, "name": "XB", "A": C})
 
-
-del F, L, T
 
 import os
 import collections
 from itertools import chain
 from collections import defaultdict
 
-dss_sections = {}
-for word in DSS.F.otype.s("word"):
-    scroll = DSS.T.scrollName(DSS.L.u(word, "scroll")[0])
-    book = DSS.F.book_etcbc.v(word)
-    chapter = DSS.F.chapter.v(word)
-    verse = DSS.F.verse.v(word)
-    if None in (scroll, book, chapter, verse):
-        continue
-    section = (book, chapter, verse)
-    dss_sections.setdefault(section, {}).setdefault(scroll, []).append(word)
+def build_dss_sections(DSS):
+    dss_sections = {}
+    for word in DSS.F.otype.s("word"):
+        scroll = DSS.T.scrollName(DSS.L.u(word, "scroll")[0])
+        book = DSS.F.book_etcbc.v(word)
+        chapter = DSS.F.chapter.v(word)
+        verse = DSS.F.verse.v(word)
+        if None in (scroll, book, chapter, verse):
+            continue
+        section = (book, chapter, verse)
+        dss_sections.setdefault(section, {}).setdefault(scroll, []).append(word)
+    return dss_sections
 
 
 def remove_duplicates(iterable):
