@@ -1,6 +1,63 @@
-Date and Time: 2023-11-30 16:58
-DataFrame: biblical_dss
-Current Index: 3
-Current Row Index: 3
-Fully Annotated Rows: 1404
+Date and Time: 2023-12-04 10:21
+DataFrame: isaiah_dataset
+Current Index: 20
+Current Row Index: 20
+Rows Annotated This Session: 21
+
+Date and Time: 2023-12-04 10:37
+DataFrame: isaiah_dataset
+Current Index: 21
+Current Row Index: 21
+Rows Annotated This Session: 4
+
+Date and Time: 2023-12-04 10:39
+DataFrame: isaiah_dataset
+Current Index: 20
+Current Row Index: 20
+Rows Annotated This Session: 3
+
+Date and Time: 2023-12-04 11:32
+DataFrame: isaiah_dataset
+Current Row Index: 22
+Rows Annotated This Session: 3
+
+Date and Time: 2023-12-04 12:25
+DataFrame: isaiah_dataset
+Current Row Index: 30
+Rows Annotated This Session: 9
+
+Date and Time: 2023-12-04 12:30
+DataFrame: isaiah_dataset
+Current Row Index: 33
+Rows Annotated This Session: 12
+
+Date and Time: 2023-12-04 12:31
+DataFrame: isaiah_dataset
+Current Row Index: 33
+Rows Annotated This Session: 1
+
+Date and Time: 2023-12-04 15:04
+DataFrame: isaiah_dataset
+Current Row Index: 39
+Rows Annotated This Session: 7
+
+Date and Time: 2023-12-04 15:51
+DataFrame: isaiah_dataset
+Current Row Index: 52
+Rows Annotated This Session: 20
+
+Date and Time: 2023-12-04 16:14
+DataFrame: isaiah_dataset
+Current Row Index: 70
+Rows Annotated This Session: 19
+
+Date and Time: 2023-12-04 17:04
+DataFrame: isaiah_dataset
+Current Row Index: 102
+Rows Annotated This Session: 51
+
+Date and Time: 2023-12-04 17:05
+DataFrame: isaiah_dataset
+Current Row Index: 102
+Rows Annotated This Session: 51
 
