@@ -1,0 +1,6 @@
+Date and Time: 2023-11-30 16:58
+DataFrame: biblical_dss
+Current Index: 3
+Current Row Index: 3
+Fully Annotated Rows: 1404
+
