@@ -65,7 +65,7 @@ class TFOb:
         return TFOb(list(source.F.otype.s(level)), source)
 
     @classmethod
-    def section(self, section, source, scroll=None):
+    def section2(self, section, source, scroll=None):
         if source.name == "BHSA":
             section = [section[0], int(section[1]), int(section[2])]
             return TFOb(source.T.nodeFromSection(section), source)
@@ -75,6 +75,25 @@ class TFOb:
         if scroll is None:
             scroll = list(dss_section.keys())[0]
         return TFOb(dss_section[scroll], source)
+    
+    @classmethod
+    def section(self, section, source, scroll=None):
+        if source.name == "BHSA":
+            section = [section[0], int(section[1]), int(section[2])]
+            return TFOb(source.T.nodeFromSection(section), source)
+
+        section = (section[0], str(section[1]), str(section[2]))
+
+        try:
+            dss_section = dss_sections[section]
+            if scroll is None:
+                scroll = list(dss_section.keys())[0]
+            return TFOb(dss_section[scroll], source)
+        except KeyError:
+            print(f"Warning: Section {section} or Scroll '{scroll}' not found.")
+            # Handle the error or return a default value
+            return None  # or some other default handling
+
 
     def __getattr__(self, attr):
         if attr in self._levels:
