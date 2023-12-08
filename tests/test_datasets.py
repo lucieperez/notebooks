@@ -28,5 +28,6 @@ def test_motion_type_allowed_values(input_df):
     allowed_values = {"factive", "fictive", "factive fictive", "other", "unknown"}
     assert all([value in allowed_values for value in set(input_df.motion_type) if isinstance(value, str)])
 
-def test_name(input_df):
+
+def test_len_g_cons_verse_and_len_sign_info_are_equal(input_df):
     assert all([len(text_str) == len(sign_str) for text_str, sign_str in zip(input_df.gcons_verse, input_df.sign_info) if isinstance(sign_str, str)])
