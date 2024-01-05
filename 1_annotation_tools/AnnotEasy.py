@@ -56,6 +56,10 @@ class AnnotationTool:
         self.columns_to_annotate = self.columns_line2 + self.columns_line3
 
     def configure_dataframe(self):
+        pd.set_option('display.max_colwidth', None)  # For older versions of pandas, use -1 instead of None
+        pd.set_option('display.max_columns', None)   # Ensure all columns are shown
+        pd.set_option('display.max_rows', None) 
+
         self.df = self.df.fillna("")
         self.df["dir_he"] = self.df["dir_he"].astype(str)
         self.df["dir_he"] = self.df["dir_he"].replace("1.0", "1").replace("0.0", "0")
@@ -267,12 +271,22 @@ class AnnotationTool:
         self.prev_translation_button = widgets.Button(
             description='Use Previous Translation',
             disabled=False,
-            button_style='success',
-            tooltip='Use the translation from the previous version'
+            button_style='',
+            tooltip='Use the translation from the other version'
         )
         # Event handler
         self.prev_translation_button.on_click(self.use_prev_translation)    
         
+        # CMPL_LEX
+        # Buttons
+        self.prev_cmpl_lex_button = widgets.Button(
+            description='Use Previous cmpl_lex',
+            disabled=False,
+            button_style='',
+            tooltip='Use the cmpl_lex from the other version'
+        )
+        # Event handler
+        self.prev_cmpl_lex_button.on_click(self.use_prev_cmpl_lex)  
 
         # Initialize other widgets here
         # ...
@@ -310,6 +324,7 @@ class AnnotationTool:
     # Display Function: Handles the display of the annotation area and of buttons
 
     def display_row(self, row_index, col_index):
+        display(widgets.Label('Display row method called'))
         self.current_index, self.current_column_index = row_index, col_index
         matching_index = None  # Initialize matching_index
         
@@ -332,11 +347,26 @@ class AnnotationTool:
         # Add the annotation buttons for specific columns
         # Ensure you have methods or logic to handle the display of these buttons
         # Example for 'translation':
-        if self.columns_to_annotate[col_index] == 'translation':
-            matching_index = self.find_matching_row(self.current_index)
         
-        if matching_index is not None:
-            display(self.prev_translation_button)
+        if self.columns_to_annotate[col_index] == 'cmpl_lex':
+            matching_index = self.find_matching_row()
+            if matching_index is not None:
+                prev_cmpl_lex = self.df.at[matching_index, 'cmpl_lex']
+                # Update button text with previous translation
+                self.prev_cmpl_lex_button.description = f"Previous cmpl_lex: {prev_cmpl_lex}"
+                display(self.prev_cmpl_lex_button)
+                self.prev_cmpl_lex_button.layout.width = '500px'  # Adjust the width as needed
+
+        
+        if self.columns_to_annotate[col_index] == 'cmpl_translation':
+            matching_index = self.find_matching_row()
+            if matching_index is not None:
+                prev_translation = self.df.at[matching_index, 'cmpl_translation']
+                # Update button text with previous translation
+                self.prev_translation_button.description = f"Previous translation: {prev_translation}"
+                display(self.prev_translation_button)
+                self.prev_translation_button.layout.width = '500px'  # Adjust the width as needed
+
         
         if self.columns_to_annotate[col_index] == "dir_he":
             display(widgets.HBox(self.dir_he_buttons))
@@ -375,9 +405,27 @@ class AnnotationTool:
         if 0 <= new_index < len(self.df):
             self.display_row(new_index, 0)
 
-    def find_matching_row(self, df, current_index):
-        # Place the code for finding a matching row here
-        pass
+
+    def find_matching_row(self):
+        current_row = self.df.iloc[self.current_index]
+        matching_criteria = ['lex', 'book', 'stem']
+
+        # Convert 'chapter' and 'verse_num' to strings for comparison
+        current_chapter = str(current_row['chapter'])
+        current_verse = str(current_row['verse_num'])
+
+        # Start checking from one row before the current index, up to five rows back
+        start_index = max(0, self.current_index - 5)  # Ensure it doesn't go below 0
+        for index in range(self.current_index - 1, start_index - 1, -1):  # Iterate backwards
+            row = self.df.iloc[index]
+            if row['scroll'] != current_row['scroll'] and \
+               all(str(row[crit]) == str(current_row[crit]) for crit in matching_criteria) and \
+               str(row['chapter']) == current_chapter and \
+               str(row['verse_num']) == current_verse:
+                return index
+
+        return None
+
 
     def on_prev_col_clicked(self, b):
         # Check if we are not in the first column
@@ -426,16 +474,42 @@ class AnnotationTool:
             self.display_row(self.current_index, self.current_column_index)
         else:
             print("All annotations for this row are complete.")
-            # Optional: Reset column index or navigate to the next row 
    
-   
+
     def use_prev_translation(self, b):
-        matching_index = self.find_matching_row(self.df, self.current_index)
+        matching_index = self.find_matching_row()
         if matching_index is not None:
-            prev_translation = self.df.at[matching_index, 'translation']
+            prev_translation = self.df.at[matching_index, 'cmpl_translation']
             self.annotation_input.value = prev_translation
-            self.df.at[self.current_index, 'translation'] = prev_translation
-            # Optionally, automatically move to the next column or row here
+            self.df.at[self.current_index, 'cmpl_translation'] = prev_translation
+
+            # Automatically move to the next column
+            if self.current_column_index + 1 < len(self.columns_to_annotate):
+                self.current_column_index += 1
+            else:
+                # Optional: Handle the case when it's already the last column
+                print("Reached the last column in this row.")
+
+            # Refresh the display with the new column
+            self.display_row(self.current_index, self.current_column_index)
+         
+        
+    def use_prev_cmpl_lex(self, b):
+        matching_index = self.find_matching_row()
+        if matching_index is not None:
+            prev_cmpl_lex = self.df.at[matching_index, 'cmpl_lex']
+            self.annotation_input.value = prev_cmpl_lex
+            self.df.at[self.current_index, 'cmpl_lex'] = prev_cmpl_lex
+
+            # Automatically move to the next column
+            if self.current_column_index + 1 < len(self.columns_to_annotate):
+                self.current_column_index += 1
+            else:
+                # Optional: Handle the case when it's already the last column
+                print("Reached the last column in this row.")
+
+            # Refresh the display with the new column
+            self.display_row(self.current_index, self.current_column_index)
 
 
     def save_annotation_details(self):
