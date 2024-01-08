@@ -221,6 +221,7 @@ class AnnotationTool:
         self.cmpl_det_buttons = [
             widgets.Button(description='det'),
             widgets.Button(description='und'),
+            widgets.Button(description='na'),
         ]
         
         # Event handler
@@ -408,14 +409,14 @@ class AnnotationTool:
 
     def find_matching_row(self):
         current_row = self.df.iloc[self.current_index]
-        matching_criteria = ['lex', 'book', 'stem']
+        matching_criteria = ['lex', 'book', 'stem', 'tense']
 
         # Convert 'chapter' and 'verse_num' to strings for comparison
         current_chapter = str(current_row['chapter'])
         current_verse = str(current_row['verse_num'])
 
         # Start checking from one row before the current index, up to five rows back
-        start_index = max(0, self.current_index - 5)  # Ensure it doesn't go below 0
+        start_index = max(0, self.current_index - 10)  # Ensure it doesn't go below 0
         for index in range(self.current_index - 1, start_index - 1, -1):  # Iterate backwards
             row = self.df.iloc[index]
             if row['scroll'] != current_row['scroll'] and \
