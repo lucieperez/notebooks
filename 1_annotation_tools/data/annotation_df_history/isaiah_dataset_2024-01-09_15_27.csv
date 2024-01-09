@@ -897,7 +897,7 @@ verb_id,lex,scroll,book,chapter,verse_num,gcons_verb,gcons_verse,sign_info,stem,
 227766,CWB[,MT,Isaiah,44,22,CWBH,MXJTJ K <B PC<JK W K <NN XV>WTJK CWBH >LJ KJ G>LTJK,,qal,impv,CWBH >LJ,,>LJ,>L,to me,0,prep,prps,anim,det,prsf,simple,factive fictive,>L,,,,
 1911339,CWB[,1Qisaa,Isaiah,44,22,CWBH,MXJTJ K <B PC<KH W K <NN XV>WTJKH CWBH >LJ KJ> G>LTJKH,00000 0 00 000000 0 0 000 000000000 00000 0000 000 00000000 00,qal,impv,CWBH >LJ,,>LJ,>L,to me,0,prep,prps,anim,det,prsf,simple,factive fictive,>L,,,,
 1922732,CWB[,1Q8,Isaiah,44,22,CWBH,MXJTJ K <B PC<JK W K <NN XV>WTJK CWBH >LJ KJ G>LTJK,00000 0 00 000000 0 0 000 00000000 00000 0000 00 0000000 00,qal,impv,CWBH >LJ,,>LJ,>L,to me,0,prep,prps,anim,det,prsf,simple,factive fictive,>L,,,,
-227821,CWB[,MT,Isaiah,44,25,MCJB,MPR >TWT BDJM W QSMJM JHWLL MCJB XKMJM >XWR W D<TM JFKL,,hif,ptca,MCJB XKMJM >XWR,,>XWR,>XWR/,backwards,0,vc,dir,inanim,und,subs,simple,fictive,,,,,fictive-the liars who turn wise men backwards-as in creates a change in their intellect
+227821,CWB[,MT,Isaiah,44,25,MCJB,MPR >TWT BDJM W QSMJM JHWLL MCJB XKMJM >XWR W D<TM JFKL,,hif,ptca,MCJB XKMJM >XWR,,>XWR,>XWR/,,0,vc,,,,subs,,,,,,,
 1911399,CWB[,1Qisaa,Isaiah,44,25,MCJB,MPR >WTWT BDJM W QSMJM JHWLL MCJB XKMJM >XWR W D<TM JSKL,000 00000 0000 0 00000 00000 0000 00000 0000 0 00000 0000 00,hifil,ptca,MCJB XKMJM >XWR,,>XWR,>XWR/,,0,vc,,,,subs,,,,,,,
 1922790,CWB[,1Q8,Isaiah,44,25,MCJB,MPR >TT BDJM W QWSMJM JHWLL MCJB XKMJM >XWR W D<TM JSKL,000 000 0000 0 000000 00000 0000 00000 0000 0 00000 0000 00,hifil,ptca,MCJB XKMJM >XWR,,>XWR,>XWR/,,0,vc,,,,subs,,,,,,,
 227906,HLK[,MT,Isaiah,45,2,>LK,>NJ L PNJK >LK W HDWRJM >WCR DLTWT NXWCH >CBR W BRJXJ BRZL >GD<,,qal,impf,>NJ L PNJK >LK,>NJ,no complement,no complement,,,,,,,,,,,,,,
