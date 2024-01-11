@@ -289,6 +289,16 @@ class AnnotationTool:
         # Event handler
         self.prev_cmpl_lex_button.on_click(self.use_prev_cmpl_lex)  
 
+        # COMMENTS
+        # Buttons
+        self.prev_comment_button = widgets.Button(
+            description='Use Previous Comment',
+            disabled=False,
+            button_style='',
+            tooltip='Use the comment from the other version'
+        )
+        # Event handler
+        self.prev_comment_button.on_click(self.use_prev_comment)   
         # Initialize other widgets here
         # ...
             
@@ -367,6 +377,15 @@ class AnnotationTool:
                 self.prev_translation_button.description = f"Previous translation: {prev_translation}"
                 display(self.prev_translation_button)
                 self.prev_translation_button.layout.width = '500px'  # Adjust the width as needed
+                
+        if self.columns_to_annotate[col_index] == 'comments':
+            matching_index = self.find_matching_row()
+            if matching_index is not None:
+                prev_comment = self.df.at[matching_index, 'comments']
+                # Update button text with previous comment
+                self.prev_comment_button.description = f"Previous comment: {prev_comment}"
+                display(self.prev_comment_button)
+                self.prev_comment_button.layout.width = '800px'  # Adjust the width as needed
 
         
         if self.columns_to_annotate[col_index] == "dir_he":
@@ -512,6 +531,22 @@ class AnnotationTool:
             # Refresh the display with the new column
             self.display_row(self.current_index, self.current_column_index)
 
+    def use_prev_comment(self, b):
+        matching_index = self.find_matching_row()
+        if matching_index is not None:
+            prev_comment = self.df.at[matching_index, 'comments']
+            self.annotation_input.value = prev_translation
+            self.df.at[self.current_index, 'comments'] = prev_comment
+
+            # Automatically move to the next column
+            if self.current_column_index + 1 < len(self.columns_to_annotate):
+                self.current_column_index += 1
+            else:
+                # Optional: Handle the case when it's already the last column
+                print("Reached the last column in this row.")
+
+            # Refresh the display with the new column
+            self.display_row(self.current_index, self.current_column_index)
 
     def save_annotation_details(self):
         current_datetime = datetime.datetime.now().strftime("%Y-%m-%d %H:%M")
