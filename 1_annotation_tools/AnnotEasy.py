@@ -535,7 +535,7 @@ class AnnotationTool:
         matching_index = self.find_matching_row()
         if matching_index is not None:
             prev_comment = self.df.at[matching_index, 'comments']
-            self.annotation_input.value = prev_translation
+            self.annotation_input.value = prev_comment
             self.df.at[self.current_index, 'comments'] = prev_comment
 
             # Automatically move to the next column
