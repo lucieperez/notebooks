@@ -541,3 +541,78 @@ DataFrame: isaiah_dataset
 Current Row Index: 938
 Rows Annotated This Session: 1
 
+Date and Time: 2024-01-12 15:22
+DataFrame: isaiah_dataset
+Current Row Index: 938
+Rows Annotated This Session: 1
+
+Date and Time: 2024-01-12 15:23
+DataFrame: isaiah_dataset
+Current Row Index: 938
+Rows Annotated This Session: 1
+
+Date and Time: 2024-01-12 15:45
+DataFrame: isaiah_dataset
+Current Row Index: 941
+Rows Annotated This Session: 4
+
+Date and Time: 2024-01-15 09:26
+DataFrame: isaiah_dataset
+Current Row Index: 974
+Rows Annotated This Session: 34
+
+Date and Time: 2024-01-15 09:31
+DataFrame: isaiah_dataset
+Current Row Index: 977
+Rows Annotated This Session: 4
+
+Date and Time: 2024-01-15 09:37
+DataFrame: isaiah_dataset
+Current Row Index: 983
+Rows Annotated This Session: 7
+
+Date and Time: 2024-01-15 09:53
+DataFrame: isaiah_dataset
+Current Row Index: 986
+Rows Annotated This Session: 4
+
+Date and Time: 2024-01-15 09:53
+DataFrame: isaiah_dataset
+Current Row Index: 986
+Rows Annotated This Session: 1
+
+Date and Time: 2024-01-15 11:06
+DataFrame: isaiah_dataset
+Current Row Index: 1003
+Rows Annotated This Session: 18
+
+Date and Time: 2024-01-15 11:47
+DataFrame: isaiah_dataset
+Current Row Index: 1010
+Rows Annotated This Session: 8
+
+Date and Time: 2024-01-15 11:51
+DataFrame: isaiah_dataset
+Current Row Index: 1014
+Rows Annotated This Session: 5
+
+Date and Time: 2024-01-15 12:41
+DataFrame: isaiah_dataset
+Current Row Index: 1027
+Rows Annotated This Session: 14
+
+Date and Time: 2024-01-15 12:47
+DataFrame: isaiah_dataset
+Current Row Index: 1030
+Rows Annotated This Session: 4
+
+Date and Time: 2024-01-15 13:45
+DataFrame: isaiah_dataset
+Current Row Index: 1040
+Rows Annotated This Session: 11
+
+Date and Time: 2024-01-15 13:48
+DataFrame: isaiah_dataset
+Current Row Index: 1042
+Rows Annotated This Session: 3
+
