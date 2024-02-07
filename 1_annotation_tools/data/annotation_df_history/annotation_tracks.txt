@@ -799,3 +799,8 @@ DataFrame: isaiah_dataset
 Current Row Index: 869
 Rows Annotated This Session: 1
 
+Date and Time: 2024-02-07 12:01
+DataFrame: isaiah_dataset
+Current Row Index: 966
+Rows Annotated This Session: 98
+
