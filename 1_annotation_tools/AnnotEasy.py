@@ -105,7 +105,8 @@ class AnnotationTool:
             disabled=False,
             layout=widgets.Layout(width='100%', height='100px'),
         )
-        
+
+
         # PREVIOUS COLUMN
         # Button
         self.prev_col_button = widgets.Button(
@@ -335,6 +336,7 @@ class AnnotationTool:
     # Display Function: Handles the display of the annotation area and of buttons
 
     def display_row(self, row_index, col_index):
+        # Annotation area
         display(widgets.Label('Display row method called'))
         self.current_index, self.current_column_index = row_index, col_index
         matching_index = None  # Initialize matching_index
@@ -418,7 +420,46 @@ class AnnotationTool:
         display(widgets.HBox([self.prev_row_button, self.next_row_button]))
 
     # ... [rest of the class] ...
+    ########################################
+    
+    def jump_to_index(self, button):
+        desired_index = self.index_input.value  # Get the index from the input widget
 
+        # Validate the desired index
+        if 0 <= desired_index < len(self.df):
+            self.current_index = desired_index
+            # Optionally, print a message or update a status widget to confirm the jump
+            print(f"Jumped to row {self.current_index}. Call the display method to view.")
+        else:
+            print("Index out of range. Please enter a valid index.")
+
+            
+    def display_jump_widget(self):
+        # Check if the jump widgets have been initialized; if not, initialize them
+        if not hasattr(self, 'index_input') or not hasattr(self, 'jump_button'):
+            self.index_input = widgets.IntText(
+                value=self.current_index,
+                description='Index:',
+                disabled=False,
+                layout=widgets.Layout(width='200px'),
+            )
+            self.jump_button = widgets.Button(description="Jump to Index")
+
+            # Define the event handler for the jump button
+            def on_jump_button_clicked(button):
+                desired_index = self.index_input.value
+                if 0 <= desired_index < len(self.df):
+                    self.current_index = desired_index
+                    print(f"Set to row {self.current_index}. Now, call the display method to view this row.")
+                else:
+                    print("Index out of range. Please enter a valid index.")
+
+            self.jump_button.on_click(on_jump_button_clicked)
+
+        # Display the widgets
+        display(widgets.HBox([self.index_input, self.jump_button]))
+
+##################################################
             
     def navigate_row(self, offset):
         new_index = self.current_index + offset
