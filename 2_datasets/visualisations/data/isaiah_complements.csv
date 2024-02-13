@@ -1,0 +1,582 @@
+verb_id,lex,scroll,book,chapter,verse_num,complement,cmpl_lex,cmpl_translation,dir_he,cmpl_constr,cmpl_anim,cmpl_det,cmpl_indiv,cmpl_complex
+212315,SWR[,MT,Isaiah,1,16,M NGD <JNJ,MN NGD/ <JN/,from before my eyes,0,prep,inanim,det,subs,complex
+1895129,SWR[,1Qisaa,Isaiah,1,16,M NGD <JNJ,MN NGD/ <JN/,from before my eyes,0,prep,inanim,det,subs,complex
+212418,BW>[,MT,Isaiah,1,23,>LJHM,>L,to them,0,prep,anim,det,prsf,simple
+1895234,BW>[,1Qisaa,Isaiah,1,23,>LJHM,>L,to them,0,prep,anim,det,prsf,simple
+212437,CWB[,MT,Isaiah,1,25,<LJK,<L,against you,0,prep,anim,det,prsf,simple
+1895257,CWB[,1Qisaa,Isaiah,1,25,<LJK,<L,against you,0,prep,anim,det,prsf,simple
+212564,NHR[,MT,Isaiah,2,2,>LJW,>L,to it (the mountain),0,prep,inanim,det,prsf,simple
+1895388,NHR[,1Qisaa,Isaiah,2,2,<LWHJ,<L,to it (the mountain),0,prep,inanim,det,prsf,simple
+212577,<LH[,MT,Isaiah,2,3,>L HR JHWH >L BJT >LHJ J<QB,>L HR/ JHWH/ >L BJT/ >LHJM/ J<QB/,to the mountain of Yahwe to the house of the God of Jacob,0,prep,inanim,det,subs,complex
+212590,HLK[,MT,Isaiah,2,3,B >RXTJW,B >RX/,in his paths,0,prep,inanim,det,subs,complex
+212596,JY>[,MT,Isaiah,2,3,M YJWN,MN YJWN==/,from Zion,0,prep,inanim,det,nmpr,simple
+1895402,<LH[,1Qisaa,Isaiah,2,3,>L BJT >LWHJ J<QWB,>L BJT/ >LHJM/ J<QB/,to the house of the God of Jacob,0,prep,inanim,det,subs,complex
+1895412,HLK[,1Qisaa,Isaiah,2,3,B >WRXTJW,B >RX/,in his paths,0,prep,inanim,det,subs,complex
+1895418,JY>[,1Qisaa,Isaiah,2,3,M YJWN,MN YJWN==/,from Zion,0,prep,inanim,det,nmpr,simple
+212637,HLK[,MT,Isaiah,2,5,B >WR JHWH,B >WR/ JHWH/,in the light of Yahwe,0,prep,inanim,det,subs,complex
+1895466,HLK[,1Qisaa,Isaiah,2,5,B >WR JHWH,B >WR/ JHWH/,in the light of Yahwe,0,prep,inanim,det,subs,complex
+212702,BW>[,MT,Isaiah,2,10,B YWR,B H YWR/,in the rock,0,prep,inanim,det,subs,simple
+212830,BW>[,MT,Isaiah,2,19,B M<RWT YRJM W B MXLWT <PR,B M<RH/ YWR/ W B MXLH==/ <PR/,in caves of rocks and in holes of dust,0,prep,inanim,und,subs,complex
+1895648,BW>[,1Qisaa,Isaiah,2,19,B M<RWT YWRJM W B MXLWT <PR,B M<RH/ YWR/ W B MXLH==/ <PR/,in caves of rocks and in holes of dust,0,prep,inanim,und,subs,complex
+212880,BW>[,MT,Isaiah,2,21,B NQRWT H YRJM W B S<PJ H SL<JM,B NQRH/ H YWR/ W B S<JP/ H SL</,in the caverns of the rocks and in the clefts of the cliffs,0,prep,inanim,det,subs,complex
+1895697,BW>[,1Qisaa,Isaiah,2,21,B NQRWT H YWRJM W B S<PJ H SL<JM,B NQRH/ H YWR/ W B S<JP/ H SL</,in the caverns of the rocks and in the clefts of the cliffs,0,prep,inanim,det,subs,complex
+212924,SWR[,MT,Isaiah,3,1,M JRWCLM W M JHWDH,MN JRWCLM/ W MN JHWDH/,from Jerusalem and from Judah,0,prep,anim inanim,det,nmpr,complex
+1895743,SWR[,1Qisaa,Isaiah,3,1,M JRWCLM W M JHWDH,MN JRWCLM/ W MN JHWDH/,from Jerusalem and from Judah,0,prep,inanim,det,nmpr,complex
+1895915,CWB[,1Qisaa,Isaiah,3,11,LW>,L,to him,0,prep,anim,det,prsf,simple
+213114,BW>[,MT,Isaiah,3,14,B MCPV,B MCPV/,in judgment,0,prep,inanim,und,subs,simple
+213114,BW>[,MT,Isaiah,3,14,<M ZQNJ <MW W FRJW,<M ZQN/ <M/ W FR/,with the elder ones of his people and his princes,0,prep,anim,det,subs,complex
+1895945,BW>[,1Qisaa,Isaiah,3,14,B MCPV,B MCPV/,in judgment,0,prep,inanim,und,subs,simple
+1895945,BW>[,1Qisaa,Isaiah,3,14,<M ZQNJ <MW W FRJW,<M ZQN/ <M/ W FR/,with the elder ones of his people and his princes,0,prep,anim,det,subs,complex
+213573,QRB[,MT,Isaiah,5,8,B FDH,B FDH/,in (with) field,0,prep,inanim,und,subs,simple
+1896409,QRB[,1Qisaa,Isaiah,5,8,B FDH,B FDH/,in (with) field,0,prep,inanim,und,subs,simple
+214081,<WP[,MT,Isaiah,6,6,>LJ,>L,to me,0,prep,anim,det,prsf,simple
+1896924,<WP[,1Qisaa,Isaiah,6,6,>LJ,>L,to me,0,prep,anim,det,prsf,simple
+214256,<LH[,MT,Isaiah,7,1,JRWCLM,JRWCLM/,to Jerusalem,0,vc,inanim,det,nmpr,simple
+1897102,<LH[,1Qisaa,Isaiah,7,1,JRWCLM,JRWCLM/,to Jerusalem,0,vc,inanim,det,nmpr,simple
+214368,<LH[,MT,Isaiah,7,6,B JHWDH,B JHWDH/,against Judah,0,prep,anim inanim,det,nmpr,simple
+1897221,<LH[,1Qisaa,Isaiah,7,6,B JHWDH,B JHWDH/,against  Judah,0,prep,anim inanim,det,nmpr,simple
+214531,BW>[,MT,Isaiah,7,17,<LJK W <L <MK W <L BJT >BJK,<L W <L <M/ W <L BJT/ >B/,upon you and upon your people and upon the house of your father,0,prep,anim,det,prsf,complex
+214548,SWR[,MT,Isaiah,7,17,M <L JHWDH,MN <L JHWDH/,from Judah,0,prep,anim inanim,det,nmpr,simple
+1897394,BW>[,1Qisaa,Isaiah,7,17,<LJK W <L <MK W <L BJT >BJK,<L W <L <M/ W <L BJT/ >B/,upon you and upon your people and upon the house of your father,0,prep,anim,det,prsf,complex
+1897411,SWR[,1Qisaa,Isaiah,7,17,M <L JHWDH,MN <L JHWDH/,from Judah,0,prep,anim inanim,det,nmpr,simple
+214584,NWX[,MT,Isaiah,7,19,B NXLJ H BTWT W B NQJQJ H SL<JM W B KL H N<YWYJM W B KL H NHLLJM,B NXL/ H BTH/ W B NQJQ/ H SL</ W B KL/ H N<YWY/ W B KL/ H NHLL/,in the ravines of the precipices and in the clefts of the rocks and in all the thornbushes and in all the watering places,0,prep,inanim,det,subs,complex
+1897446,NWX[,1Qisaa,Isaiah,7,19,B NXLJ H BTWT W B NQJQJ H SL<JM W B KWL H N<YWYJM W B KWL H NHLJLJM,B NXL/ H BTH/ W B NQJQ/ H SL</ W B KL/ H N<YWY/ W B KL/ H NHLL/,in the ravines of the precipices and in the clefts of the rocks and in all the thornbushes and in all the watering places,0,prep,inanim,det,subs,complex
+214702,BW>[,MT,Isaiah,7,24,CMH,CM,there,1,dir-he,inanim,det,adv,simple
+1897562,BW>[,1Qisaa,Isaiah,7,24,CMH,CM,there,1,dir-he,inanim,det,adv,simple
+1919017,BW>[,1Q8,Isaiah,7,24,CMH,CM,there,1,dir-he,inanim,det,adv,simple
+214722,BW>[,MT,Isaiah,7,25,CMH,CM,there,1,dir-he,inanim,det,adv,simple
+1897582,BW>[,1Qisaa,Isaiah,7,25,CMH,CM,there,1,dir-he,inanim,det,adv,simple
+1919037,BW>[,1Q8,Isaiah,7,25,CMH,CM,there,1,dir-he,inanim,det,adv,simple
+214768,QRB[,MT,Isaiah,8,3,>L H NBJ>H,>L H NBJ>H/,to the prophetess,0,prep,anim,det,subs,simple
+1897634,QRB[,1Qisaa,Isaiah,8,3,>L H NBJ>,>L H NBJ>,to the prophet,0,prep,anim,det,subs,simple
+214840,<LH[,MT,Isaiah,8,7,<LJHM,<L,against them,0,prep,anim,det,prsf,simple
+214859,<LH[,MT,Isaiah,8,7,<L KL >PJQJW,<L KL/ >PJQ/,over all its channels,0,prep,inanim,det,subs,complex
+214864,HLK[,MT,Isaiah,8,7,<L KL GDWTJW,<L KL/ GDJH/,over all its banks,0,prep,inanim,det,subs,complex
+1897717,<LH[,1Qisaa,Isaiah,8,7,<LJHM,<L,against them,0,prep,anim,det,prsf,simple
+1897737,<LH[,1Qisaa,Isaiah,8,7,<L KWL >PJQJW,<L KL/ >PJQ/,over all its channels,0,prep,inanim,det,subs,complex
+1897742,HLK[,1Qisaa,Isaiah,8,7,<L KWL GDWWTJW,<L KL/ GDJH/,over all its banks,0,prep,inanim,det,subs,complex
+214869,XLP[,MT,Isaiah,8,8,B JHWDH,B JHWDH/,in/into Judah,0,prep,anim inanim,det,nmpr,simple
+1897748,XLP[,1Qisaa,Isaiah,8,8,B JHWDH,B JHWDH/,in/into Judah,0,prep,anim inanim,det,nmpr,simple
+214926,HLK[,MT,Isaiah,8,11,B DRK H <M H ZH,B DRK/ H <M/ H ZH,in the way of this people,0,prep,inanim,det,subs,complex
+1897804,HLK[,1Qisaa,Isaiah,8,11,B DRK H <M H ZH,B DRK/ H <M/ H ZH,in the way of this people,0,prep,inanim,det,subs,complex
+215093,<BR[,MT,Isaiah,8,21,BH,B,in it,0,prep,inanim,det,prsf,simple
+215112,PNH[,MT,Isaiah,8,21,L M<LH,L M<L/,upwards,1,prep + dir-he,inanim,und,subs,simple
+1897981,<BR[,1Qisaa,Isaiah,8,21,BH,B,in it,0,prep,inanim,det,prsf,simple
+1898000,PNH[,1Qisaa,Isaiah,8,21,L M<LH,L M<L/,upwards,1,prep + dir-he,inanim,und,subs,simple
+215297,NPL[,MT,Isaiah,9,7,B JFR>L,B JFR>L/,on Israel,0,prep,anim inanim,det,nmpr,simple
+1898195,NPL[,1Qisaa,Isaiah,9,7,B JFR>L,B JFR>L/,on Israel,0,prep,anim inanim,det,nmpr,simple
+215564,BW>[,MT,Isaiah,10,3,M MRXQ,MN MRXQ/,from a distant place,0,prep,inanim,und,subs,simple
+215567,NWS[,MT,Isaiah,10,3,<L MJ,<L MJ,to whom,0,prep,anim,und,ppin,simple
+1898482,BW>[,1Qisaa,Isaiah,10,3,M MRXQ,MN MRXQ/,from a distant place,0,prep,inanim,und,subs,simple
+1898485,NWS[,1Qisaa,Isaiah,10,3,<L MJ,<L MJ,to whom,0,prep,anim,und,ppin,simple
+215581,NPL[,MT,Isaiah,10,4,TXT HRWGJM,TXT/ HRG[,instead of/among the ones being killed,0,prep,anim,und,subs,simple
+1898500,NPL[,1Qisaa,Isaiah,10,4,TXT HRWGJM,TXT/ HRG[,instead of/among the ones being killed,0,prep,anim,und,subs,simple
+215894,CWB[,MT,Isaiah,10,21,>L >L GBWR,>L >L/ GBWR/,to the mighty god,0,prep,anim,und,subs,complex
+1898827,CWB[,1Qisaa,Isaiah,10,21,>L >L GBWR,>L >L/ GBWR/,to the mighty god,0,prep,anim,und,subs,complex
+215910,CWB[,MT,Isaiah,10,22,BW,B,to him,0,prep,anim,det,prsf,simple
+1898844,CWB[,1Qisaa,Isaiah,10,22,BW,B,to him,0,prep,anim,det,prsf,simple
+215993,SWR[,MT,Isaiah,10,27,M <L CKMK,MN <L CKM/,from your shoulder,0,prep,inanim,det,subs,complex
+1898931,SWR[,1Qisaa,Isaiah,10,27,M <L CKMK,MN <L CKM/,from your shoulder,0,prep,inanim,det,subs,complex
+216009,BW>[,MT,Isaiah,10,28,<L <JT,<L <JT/,to Aiath,0,prep,inanim,det,nmpr,simple
+216012,<BR[,MT,Isaiah,10,28,B MGRWN,B MGRWN/,through Migron,0,prep,inanim,det,nmpr,simple
+1898948,BW>[,1Qisaa,Isaiah,10,28,<L <JTH,<L <JT/,to Aiath,1,prep + dir-he,inanim,det,nmpr,simple
+1898951,<BR[,1Qisaa,Isaiah,10,28,B MGRWN,B MGRWN/,through Migron,0,prep,inanim,det,nmpr,simple
+216019,<BR[,MT,Isaiah,10,29,M<BRH,M<BRH/,(in) a pass,0,vc,inanim,und,subs,simple
+1898959,<BR[,1Qisaa,Isaiah,10,29,B M<BRH,B M<BRH/,(in) a pass,0,prep,inanim,und,subs,simple
+216091,JY>[,MT,Isaiah,11,1,M GZ< JCJ,MN GZ</ JCJ/,from the stump of Jesse,0,prep,inanim,det,subs,complex
+1899037,JY>[,1Qisaa,Isaiah,11,1,M GZ< JCJ,MN GZ</ JCJ/,from the stump of Jesse,0,prep,inanim,det,subs,complex
+216102,NWX[,MT,Isaiah,11,2,<LJW,<L,upon him,0,prep,anim,det,prsf,simple
+1899049,NWX[,1Qisaa,Isaiah,11,2,<LJW,<L,upon him,0,prep,anim,det,prsf,simple
+216346,<WP[,MT,Isaiah,11,14,PLCTJM,PLCTJ/,towards the Philistines,0,vc,anim,und,nmpr,simple
+1899300,<WP[,1Qisaa,Isaiah,11,14,PLCTJJM,PLCTJ/,towards the Philistines,0,vc,anim,und,nmpr,simple
+216407,<LH[,MT,Isaiah,11,16,M >RY MYRJM,MN >RY/ MYRJM/,from the land of Egypt,0,prep,inanim,det,subs,complex
+1899364,<LH[,1Qisaa,Isaiah,11,16,M >RY MYRJM,MN >RY/ MYRJM/,from the land of Egypt,0,prep,inanim,det,subs,complex
+216516,BW>[,MT,Isaiah,13,2,PTXJ NDJBJM,PTX/ NDJB/,the doors of the nobles,0,vc,inanim,und,subs,complex
+1899480,BW>[,1Qisaa,Isaiah,13,2,PTXJ NDJBJM,PTX/ NDJB/,the doors of the nobles,0,vc,inanim,und,subs,complex
+1919255,BW>[,1Q8,Isaiah,13,2,PTXJ NDJBJM,PTX/ NDJB/,the doors of the nobles,0,vc,inanim,und,subs,complex
+216548,BW>[,MT,Isaiah,13,5,M >RY MRXQ M QYH H CMJM,MN >RY/ MRXQ/ MN QYH=/ H CMJM/,from a distant land from the end of the heavens,0,prep,inanim,und,subs,complex
+1899514,BW>[,1Qisaa,Isaiah,13,5,M >RY MRXQ M QYH H CMJM,MN >RY/ MRXQ/ MN QYH=/ H CMJM/,from a distant land from the end of the heavens,0,prep,inanim,und,subs,complex
+1919289,BW>[,1Q8,Isaiah,13,5,M >RY MRXQ M QYH H CMJM,MN >RY/ MRXQ/ MN QYH=/ H CMJM/,from a distant land from the end of the heavens,0,prep,inanim,und,subs,complex
+216840,NWX[,MT,Isaiah,14,1,<L >DMTM,<L >DMH/,in their land,0,prep,inanim,det,subs,complex
+1899825,NWX[,1Qisaa,Isaiah,14,1,<L >DMTM,<L >DMH/,in their land,0,prep,inanim,det,subs,complex
+216857,BW>[,MT,Isaiah,14,2,>L MQWMM,>L MQWM/,to their place,0,prep,inanim,det,subs,complex
+1899844,BW>[,1Qisaa,Isaiah,14,2,>L >DMTM W >L MQWMM,>L >DMH/ W >L MQWM/,to their land and to their place,0,prep,inanim,det,subs,complex
+216885,NWX[,MT,Isaiah,14,3,LK,L,to you,0,prep,anim,det,prsf,simple
+1899876,NWX[,1Qisaa,Isaiah,14,3,LK,L,to you,0,prep,anim,det,prsf,simple
+216956,<LH[,MT,Isaiah,14,8,<LJNW,<L,against us (the cedars),0,prep,inanim,det,prsf,simple
+1899954,<LH[,1Qisaa,Isaiah,14,8,<LJNW,<L,against us (the cedars),0,prep,inanim,det,prsf,simple
+216991,JRD[,MT,Isaiah,14,11,C>WL,C>WL/,to the underworld,0,vc,inanim,und,subs,simple
+1899992,JRD[,1Qisaa,Isaiah,14,11,C>WL,C>WL/,to the underworld,0,vc,inanim,und,subs,simple
+217003,NPL[,MT,Isaiah,14,12,M CMJM,MN CMJM/,from (the) heavens,0,prep,inanim,und,subs,simple
+1900006,NPL[,1Qisaa,Isaiah,14,12,M H CMJM,MN H CMJM/,from the heavens,0,prep,inanim,det,subs,simple
+217023,<LH[,MT,Isaiah,14,13,H CMJM,H CMJM/,the heavens,0,vc,inanim,det,subs,simple
+1900027,<LH[,1Qisaa,Isaiah,14,13,H CMJM,H CMJM/,the heavens,0,vc,inanim,det,subs,simple
+217039,<LH[,MT,Isaiah,14,14,<L BMTJ <B,<L BMH/ <B/,above the heights of the cloud(s),0,prep,inanim,und,subs,complex
+1900043,<LH[,1Qisaa,Isaiah,14,14,<L BWMTJ <B,<L BMH/ <B/,above the heights of the cloud(s),0,prep,inanim,und,subs,complex
+217049,JRD[,MT,Isaiah,14,15,>K >L C>WL >L JRKTJ BWR,>K >L C>WL/ >L JRKH/ BWR/,"but to the underworld, to the extremities of the pit",0,prep,inanim,und,subs,complex
+1900054,JRD[,1Qisaa,Isaiah,14,15,>K >L C>WL TWRD >L JRKTJ BWR,>K >L C>WL/ >L JRKH/ BWR/,"but to the underworld, to the extremities of the pit",0,prep,inanim,und,subs,complex
+217101,JRD[,MT,Isaiah,14,19,>L >BNJ BWR,>L >BN/ BWR/,to stones of the pit,0,prep,inanim,und,subs,complex
+1900109,JRD[,1Qisaa,Isaiah,14,19,>L >BNJ BWR,>L >BN/ BWR/,to stones of the pit,0,prep,inanim,und,subs,complex
+217204,SWR[,MT,Isaiah,14,25,M <LJHM,MN <L,from them (my mountains),0,prep,inanim,det,prsf,simple
+217213,SWR[,MT,Isaiah,14,25,M <L CKMW,MN <L CKM/,from his shoulder,0,prep,inanim,det,subs,complex
+1900216,SWR[,1Qisaa,Isaiah,14,25,M <LJKMH,MN <L,from them (my mountains),0,prep,inanim,det,prsf,simple
+1900225,SWR[,1Qisaa,Isaiah,14,25,M <L CKMKH,MN <L CKM/,from your shoulder,0,prep,inanim,det,subs,complex
+217270,JY>[,MT,Isaiah,14,29,M CRC NXC,MN CRC/ NXC/,from the root of the serpent,0,prep,inanim,und,subs,complex
+1900287,JY>[,1Qisaa,Isaiah,14,29,M CWRC NXC,MN CRC/ NXC/,from the root of the serpent,0,prep,inanim,und,subs,complex
+217305,BW>[,MT,Isaiah,14,31,M YPWN,MN YPWN/,from the north,0,prep,inanim,und,subs,simple
+1900323,BW>[,1Qisaa,Isaiah,14,31,M YPWN,MN YPWN/,from the north,0,prep,inanim,und,subs,simple
+217340,<LH[,MT,Isaiah,15,2,H BJT,H BJT/,to the house/to the temple,0,vc,inanim,det,subs,simple
+1900363,<LH[,1Qisaa,Isaiah,15,2,H BJT,H BJT/,to the house/to the temple,0,vc,inanim,det,subs,simple
+217409,<LH[,MT,Isaiah,15,5,BW,B,on him (the Luhith),0,prep,inanim,det,prsf,simple
+1900437,<LH[,1Qisaa,Isaiah,15,5,BW,B,on him (the Luhith),0,prep,inanim,det,prsf,simple
+1919468,<LH[,1Q8,Isaiah,15,5,BW,B,on him (the Luhith),0,prep,inanim,det,prsf,simple
+217594,T<H[,MT,Isaiah,16,8,MDBR,MDBR/,to a desert,0,vc,inanim,und,subs,simple
+1919634,T<H[,1Q8,Isaiah,16,8,MDBR,MDBR/,to a desert,0,vc,inanim,und,subs,simple
+217671,BW>[,MT,Isaiah,16,12,>L MQDCW,>L MQDC/,to his sanctuary,0,prep,inanim,det,subs,complex
+1900688,BW>[,1Qisaa,Isaiah,16,12,<L H BMH,<L H BMH/,on the high place,0,prep,inanim,det,subs,simple
+1900694,BW>[,1Qisaa,Isaiah,16,12,>L MQDCJW,>L MQDC/,to his sanctuary,0,prep,inanim,det,subs,complex
+1919714,BW>[,1Q8,Isaiah,16,12,>L MQDCW,>L MQDC/,to his sanctuary,0,prep,inanim,det,subs,complex
+217721,SWR[,MT,Isaiah,17,1,M <JR,MN <JR/,from (being) a city,0,prep,inanim,und,subs,simple
+1900748,SWR[,1Qisaa,Isaiah,17,1,M <JR,MN <JR/,from (being) a city,0,prep,inanim,und,subs,simple
+217935,NWS[,MT,Isaiah,17,13,M MRXQ,MN MRXQ/,from a distant place,0,prep,inanim,und,subs,simple
+1900970,NWS[,1Qisaa,Isaiah,17,13,M MRXQ,MN MRXQ/,from a distant place,0,prep,inanim,und,subs,simple
+217992,HLK[,MT,Isaiah,18,2,>L GWJ MMCK W MWRV,>L GWJ/ MCK[ W MRV[,to a nation tall and smooth,0,prep,anim,und,subs,complex
+1901031,HLK[,1Qisaa,Isaiah,18,2,L GWJ MMCK W MMWRV,L GWJ/ MCK[ W MRV[,to a nation tall and smooth,0,prep,anim,und,subs,complex
+218147,BW>[,MT,Isaiah,19,1,MYRJM,MYRJM/,to Egypt,0,vc,inanim,det,nmpr,simple
+1901188,BW>[,1Qisaa,Isaiah,19,1,MYRJM,MYRJM/,to Egypt,0,vc,inanim,det,nmpr,simple
+218530,CWB[,MT,Isaiah,19,22,<D JHWH,<D JHWH/,to Yahweh,0,prep,anim,det,nmpr,simple
+1901591,CWB[,1Qisaa,Isaiah,19,22,<D JHWH,<D JHWH/,to Yahweh,0,prep,anim,det,nmpr,simple
+1919975,CWB[,1Q8,Isaiah,19,22,<D JHWH,<D JHWH/,to Yahweh,0,prep,anim,det,nmpr,simple
+218549,BW>[,MT,Isaiah,19,23,B MYRJM,B MYRJM/,to Egypt,0,prep,inanim,det,nmpr,simple
+1901610,BW>[,1Qisaa,Isaiah,19,23,B MYRJM,B MYRJM/,to Egypt,0,prep,inanim,det,nmpr,simple
+1919994,BW>[,1Q8,Isaiah,19,23,B MYRJM,B MYRJM/,to Egypt,0,prep,inanim,det,nmpr,simple
+218598,BW>[,MT,Isaiah,20,1,>CDWDH,>CDWD/,to Ashdod,1,dir-he,inanim,det,nmpr,simple
+1901660,BW>[,1Qisaa,Isaiah,20,1,>CDWDH,>CDWD/,to Ashdod,1,dir-he,inanim,det,nmpr,simple
+1920045,BW>[,1Q8,Isaiah,20,1,>CDWDH,>CDWD/,to Ashdod,1,dir-he,inanim,det,nmpr,simple
+218718,NWS[,MT,Isaiah,20,6,CM,CM,there,0,vc,inanim,det,adv,simple
+218744,BW>[,MT,Isaiah,21,1,M MDBR M >RY NWR>H,MN MDBR/ MN >RY/ JR>[,"from the wilderness, from a dreadful land",0,prep,inanim,und,subs,complex
+1901809,BW>[,1Qisaa,Isaiah,21,1,M MDBR M >RY NWR>H,MN MDBR/ MN >RY/ JR>[,"from the wilderness, from a dreadful land",0,prep,inanim,und,subs,complex
+218991,<LH[,MT,Isaiah,22,1,L GGWT,L H GG/,to the rooftops,0,prep,inanim,det,subs,simple
+1902075,<LH[,1Qisaa,Isaiah,22,1,L GGWT,L H GG/,to the rooftops,0,prep,inanim,det,subs,simple
+219224,BW>[,MT,Isaiah,22,15,>L H SKN H ZH <L CBN>,>L H SKN[ H ZH <L CBN>/,"to this steward, to Shebna",0,prep,anim,det,subs,complex
+1902319,BW>[,1Qisaa,Isaiah,22,15,>L H SWKN H ZH >L CBN,>L H SKN[ H ZH <L CBN>/,"to this steward, to Shebna",0,prep,anim,det,subs,complex
+1920191,BW>[,1Q8,Isaiah,22,15,>L H SKN H ZH <L CBN>,>L H SKN[ H ZH <L CBN>/,"to this steward, to Shebna",0,prep,anim,det,subs,complex
+219425,BW>[,MT,Isaiah,23,1,M >RY KTJM,MN >RY/ KTJ/,from the land of Cyprus,0,prep,inanim,und,subs,complex
+219429,GLH[,MT,Isaiah,23,1,LMW,L,to them,0,prep,anim,det,prsf,simple
+1902527,BW>[,1Qisaa,Isaiah,23,1,M >RY KTJJM,MN >RY/ KTJ/,from the land of Cyprus,0,prep,inanim,und,subs,complex
+1902531,GLH[,1Qisaa,Isaiah,23,1,LMW,L,to them,0,prep,anim,det,prsf,simple
+1920341,BW>[,1Q8,Isaiah,23,1,M >RY KTJJM,MN >RY/ KTJ/,from the land of Cyprus,0,prep,inanim,und,subs,complex
+1920345,GLH[,1Q8,Isaiah,23,1,LMW,L,to them,0,prep,anim,det,prsf,simple
+219482,<BR[,MT,Isaiah,23,6,TRCJCH,TRCJC=/,to Tarshish,1,dir-he,inanim,det,nmpr,simple
+1902589,<BR[,1Qisaa,Isaiah,23,6,TLRCJCH,TRCJC=/,to Tarshish,1,dir-he,inanim,det,nmpr,simple
+219527,<BR[,MT,Isaiah,23,10,>RYK,>RY/,to your land,0,vc,inanim,det,subs,complex
+219565,<BR[,MT,Isaiah,23,12,KTJJM,KTJ/,to Cyprus,0,vc,inanim,und,subs,simple
+1902679,<BR[,1Qisaa,Isaiah,23,12,KTJJM,KTJ/,to Cyprus,0,vc,inanim,und,subs,simple
+219646,CWB[,MT,Isaiah,23,17,L >TNNH,L >TNN/,to her wages,0,prep,inanim,det,subs,complex
+1902749,CWB[,1Qisaa,Isaiah,23,17,L >TNNH,L >TNN/,to her wages,0,prep,inanim,det,subs,complex
+219938,NWS[,MT,Isaiah,24,18,M QWL H PXD,MN QWL/ H PXD/,from the sound of terror,0,prep,inanim,det,subs,complex
+219943,NPL[,MT,Isaiah,24,18,>L H PXT,>L H PXT/,into the pit,0,prep,inanim,det,subs,simple
+219949,<LH[,MT,Isaiah,24,18,M TWK H PXT,MN TWK/ H PXT/,from the midst of the pit,0,prep,inanim,det,subs,complex
+1903044,NWS[,1Qisaa,Isaiah,24,18,M QWL H PXD,MN QWL/ H PXD/,from the sound of terror,0,prep,inanim,det,subs,complex
+1903049,NPL[,1Qisaa,Isaiah,24,18,>L H PXT,>L H PXT/,into the pit,0,prep,inanim,det,subs,simple
+1903055,<LH[,1Qisaa,Isaiah,24,18,M TWK H PXT,MN TWK/ H PXT/,from the midst of the pit,0,prep,inanim,det,subs,complex
+1920401,NWS[,1Q8,Isaiah,24,18,M QWL H PXD,MN QWL/ H PXD/,from the sound of terror,0,prep,inanim,det,subs,complex
+1920406,NPL[,1Q8,Isaiah,24,18,>L H PXT,>L H PXT/,into the pit,0,prep,inanim,det,subs,simple
+1920412,<LH[,1Q8,Isaiah,24,18,M TWK H PXT,MN TWK/ H PXT/,from the midst of the pit,0,prep,inanim,det,subs,complex
+220204,SWR[,MT,Isaiah,25,8,M <L KL H >RY,MN <L KL/ H >RY/,from all the earth,0,prep,inanim,det,subs,complex
+1903313,SWR[,1Qisaa,Isaiah,25,8,M <L KWL H >RY,MN <L KL/ H >RY/,from all the earth,0,prep,inanim,det,subs,complex
+1920668,SWR[,1Q8,Isaiah,25,8,M <L KWL H >RY,MN <L KL/ H >RY/,from all the earth,0,prep,inanim,det,subs,complex
+220237,NWX[,MT,Isaiah,25,10,B HR H ZH,B H HR/ H ZH,on this mountain,0,prep,inanim,det,subs,complex
+1903348,NWX[,1Qisaa,Isaiah,25,10,B HR H ZH,B H HR/ H ZH,on this mountain,0,prep,inanim,det,subs,complex
+220526,BW>[,MT,Isaiah,26,20,B XDRJK,B XDR/,in your chambers,0,prep,inanim,det,subs,complex
+1903652,BW>[,1Qisaa,Isaiah,26,20,B XDRJK,B XDR/,in your chambers,0,prep,inanim,det,subs,complex
+220543,JY>[,MT,Isaiah,26,21,M MQWMW,MN MQWM/,from his place,0,prep,inanim,det,subs,complex
+1903669,JY>[,1Qisaa,Isaiah,26,21,M MQWMW,MN MQWM/,from his place,0,prep,inanim,det,subs,complex
+220632,PF<[,MT,Isaiah,27,4,BH,B,against her,0,prep,inanim,det,prsf,simple
+1903759,PF<[,1Qisaa,Isaiah,27,4,BH,B,against her,0,prep,inanim,det,prsf,simple
+220841,NWX[,MT,Isaiah,28,2,L >RY,L H >RY/,to the earth,0,prep,inanim,det,subs,simple
+1903982,NWX[,1Qisaa,Isaiah,28,2,L >RY,L H >RY/,to the earth,0,prep,inanim,det,subs,simple
+221007,NWX[,MT,Isaiah,28,12,L <JP,L H <JP/,to the weary,0,prep,anim,det,adj,simple
+1904151,NWX[,1Qisaa,Isaiah,28,12,L J<WP,L H <JP/,to the weary,0,prep,anim,det,adj,simple
+221291,SBB[,MT,Isaiah,28,27,<L KMN,<L KMN/,over cummin,0,prep,inanim,und,subs,simple
+1904447,SBB[,1Qisaa,Isaiah,28,27,<L KMN,<L KMN/,over cummin,0,prep,inanim,und,subs,simple
+221325,JY>[,MT,Isaiah,28,29,M <M JHWH YB>WT,MN <M JHWH/ YB>/,from Yahweh of hosts,0,prep,anim,det,nmpr,complex
+1904480,JY>[,1Qisaa,Isaiah,28,29,M <M JHWH YB>WT,MN <M JHWH/ YB>/,from Yahweh of hosts,0,prep,anim,det,nmpr,complex
+221673,CWB[,MT,Isaiah,29,17,L KRML,L H KRML/,into the plantation,0,prep,inanim,det,subs,simple
+1904852,CWB[,1Qisaa,Isaiah,29,17,L KRML,L H KRML/,into the plantation,0,prep,inanim,det,subs,simple
+221822,JRD[,MT,Isaiah,30,2,MYRJM,MYRJM/,to Egypt,0,vc,inanim,det,nmpr,simple
+221829,<WZ[,MT,Isaiah,30,2,B M<WZ PR<H,B M<WZ/ PR<H/,under the protection of Pharaoh,0,prep,inanim,det,subs,complex
+221835,XSH[,MT,Isaiah,30,2,B YL MYRJM,B YL/ MYRJM/,in the shadow of Egypt,0,prep,inanim,det,subs,complex
+1905005,JRD[,1Qisaa,Isaiah,30,2,MYRJM,MYRJM/,to Egypt,0,vc,inanim,det,nmpr,simple
+1905012,<WZ[,1Qisaa,Isaiah,30,2,B M<WZ PR<WH,B M<WZ/ PR<H/,under the protection of Pharaoh,0,prep,inanim,det,subs,complex
+1905018,XSH[,1Qisaa,Isaiah,30,2,B YL MYRJM,B YL/ MYRJM/,in the shadow of Egypt,0,prep,inanim,det,subs,complex
+221978,SWR[,MT,Isaiah,30,11,MNJ DRK,MN DRK/,out of the way,0,prep,inanim,und,subs,simple
+1905172,SWR[,1Qisaa,Isaiah,30,11,MNW DRK,MN DRK/,out of the way,0,prep,inanim,und,subs,simple
+1921047,SWR[,1Q8,Isaiah,30,11,MNW DRK,MN DRK/,out of the way,0,prep,inanim,und,subs,simple
+222193,HLK[,MT,Isaiah,30,21,BW,B,in it (the way),0,prep,inanim,det,prsf,simple
+1905399,HLK[,1Qisaa,Isaiah,30,21,BW,B,in it (the way),0,prep,inanim,det,prsf,simple
+222321,BW>[,MT,Isaiah,30,27,M MRXQ,MN MRXQ/,from a distant place,0,prep,inanim,und,subs,simple
+1905530,BW>[,1Qisaa,Isaiah,30,27,M MRXQ,MN MRXQ/,from a distant place,0,prep,inanim,und,subs,simple
+222375,BW>[,MT,Isaiah,30,29,>L YWR JFR>L,>L YWR/ JFR>L/,the rock of Israel,0,prep,inanim,det,subs,complex
+1905586,BW>[,1Qisaa,Isaiah,30,29,>L YWR JFR>L,>L YWR/ JFR>L/,the rock of Israel,0,prep,inanim,det,subs,complex
+222422,NWX[,MT,Isaiah,30,32,<LJW,<L,on him,0,prep,anim,det,prsf,simple
+1905635,NWX[,1Qisaa,Isaiah,30,32,<LJW,<L,on him,0,prep,anim,det,prsf,simple
+222463,JRD[,MT,Isaiah,31,1,MYRJM,MYRJM/,to Egypt,0,vc,inanim,det,nmpr,simple
+1905679,JRD[,1Qisaa,Isaiah,31,1,MYRJM,MYRJM/,to Egypt,0,vc,inanim,det,nmpr,simple
+222635,NWS[,MT,Isaiah,31,8,M PNJ XRB,MN PNH/ XRB/,from the presence of the sword,0,prep,inanim,det,subs,complex
+1905862,NWS[,1Qisaa,Isaiah,31,8,M PNJ XRB,MN PNH/ XRB/,from the presence of the sword,0,prep,inanim,det,subs,complex
+222649,<BR[,MT,Isaiah,31,9,M MGWR,MN MGWR/,from (in) terror,0,prep,inanim,und,subs,simple
+1905878,<BR[,1Qisaa,Isaiah,31,9,M MGWR,MN MGWR/,from (in) terror,0,prep,inanim,und,subs,simple
+222995,CQQ[,MT,Isaiah,33,4,BW,B,on it (your spoil),0,prep,inanim,det,prsf,simple
+1906247,CQQ[,1Qisaa,Isaiah,33,4,BW,B,on it (your spoil),0,prep,inanim,det,prsf,simple
+223214,HLK[,MT,Isaiah,33,21,BW,B,in it (a place),0,prep,inanim,det,prsf,simple
+1906478,HLK[,1Qisaa,Isaiah,33,21,BW,B,in it (a place),0,prep,inanim,det,prsf,simple
+223343,JRD[,MT,Isaiah,34,5,<L >DWM,<L >DWM/,upon Edom,0,prep,inanim,det,nmpr,simple
+1906621,JRD[,1Qisaa,Isaiah,34,5,<L >DWM,<L >DWM/,upon Edom,0,prep,inanim,det,nmpr,simple
+223440,<BR[,MT,Isaiah,34,10,BH,B,through it (Edom),0,prep,inanim,det,prsf,simple
+1906728,<BR[,1Qisaa,Isaiah,34,10,BH>,B,through it,0,prep,inanim,det,prsf,simple
+1906957,HLK[,1Qisaa,Isaiah,35,6,B <RBH,B <RBH/,in a desert,0,prep,inanim,und,subs,simple
+223722,BW>[,MT,Isaiah,35,10,YJWN,YJWN==/,to Zion,0,vc,inanim,det,nmpr,simple
+1907027,BW>[,1Qisaa,Isaiah,35,10,YJWN,YJWN==/,to Zion,0,vc,inanim,det,nmpr,simple
+223750,<LH[,MT,Isaiah,36,1,<L KL <RJ JHWDH H BYRWT,<L KL/ <JR/ JHWDH/ H BYWR/,against all the fortified cities of Judah,0,prep,inanim,det,subs,complex
+1907056,<LH[,1Qisaa,Isaiah,36,1,<L KWL <RJ JHWDH H BYWRWT,<L KL/ <JR/ JHWDH/ H BYWR/,against all the fortified cities of Judah,0,prep,inanim,det,subs,complex
+223791,JY>[,MT,Isaiah,36,3,>LJW,>L,to him,0,prep,anim,det,prsf,simple
+1907101,JY>[,1Qisaa,Isaiah,36,3,>LJW,>L,to him,0,prep,anim,det,prsf,simple
+223867,BW>[,MT,Isaiah,36,6,B KPW,B KP/,in his hand,0,prep,inanim,det,subs,complex
+1907184,BW>[,1Qisaa,Isaiah,36,6,B KPW,B KP/,in his hand,0,prep,inanim,det,subs,complex
+223962,<LH[,MT,Isaiah,36,10,<L H >RY H Z>T,<L H >RY/ H Z>T,against this land,0,prep,inanim,det,subs,complex
+223973,<LH[,MT,Isaiah,36,10,>L H >RY H Z>T,>L H >RY/ H Z>T,against this land,0,prep,inanim,det,subs,complex
+1907286,<LH[,1Qisaa,Isaiah,36,10,<L H >RY H ZW>T,<L H >RY/ H Z>T,against this land,0,prep,inanim,det,subs,complex
+1907297,<LH[,1Qisaa,Isaiah,36,10,>L H >RY H ZWT,>L H >RY/ H Z>T,against this land,0,prep,inanim,det,subs,complex
+224119,JY>[,MT,Isaiah,36,16,>LJ,>L,to me,0,prep,anim,det,prsf,simple
+1907455,JY>[,1Qisaa,Isaiah,36,16,>LJ,>L,to me,0,prep,anim,det,prsf,simple
+224223,BW>[,MT,Isaiah,36,22,>L XZQJHW,>L XZQJHW/,To Hezekiah,0,prep,anim,det,nmpr,simple
+1907568,BW>[,1Qisaa,Isaiah,36,22,>L XWZQJH,>L XZQJHW/,to Hezekiah,0,prep,anim,det,nmpr,simple
+224268,BW>[,MT,Isaiah,37,1,BJT JHWH,BJT/ JHWH/,into the house of Yahweh,0,vc,inanim,det,subs,complex
+1907614,BW>[,1Qisaa,Isaiah,37,1,BJT JHWH,BJT/ JHWH/,into the house of Yahweh,0,vc,inanim,det,subs,complex
+224316,BW>[,MT,Isaiah,37,3,<D MCBR,<D MCBR=/,to birth,0,prep,inanim,und,subs,simple
+1907663,BW>[,1Qisaa,Isaiah,37,3,<D MCBR,<D MCBR=/,to birth,0,prep,inanim,und,subs,simple
+224359,BW>[,MT,Isaiah,37,5,>L JC<JHW,>L JC<JHW/,to Isaiah,0,prep,anim,det,nmpr,simple
+1907714,BW>[,1Qisaa,Isaiah,37,5,>L JC<JH,>L JC<JHW/,to Isaiah,0,prep,anim,det,nmpr,simple
+224399,CWB[,MT,Isaiah,37,7,>L >RYW,>L >RY/,to his land,0,prep,inanim,det,subs,complex
+1907758,CWB[,1Qisaa,Isaiah,37,7,L >RYW,L >RY/,to his land,0,prep,inanim,det,subs,complex
+1921407,CWB[,1Q8,Isaiah,37,7,>L >RYW,>L >RY/,to his land,0,prep,inanim,det,subs,complex
+224423,NS<[,MT,Isaiah,37,8,M LKJC,MN LKJC/,from Lachish,0,prep,inanim,det,nmpr,simple
+1907783,NS<[,1Qisaa,Isaiah,37,8,M LKJC,MN LKJC/,from Lachish,0,prep,inanim,det,nmpr,simple
+1921432,NS<[,1Q8,Isaiah,37,8,M LKJC,MN LKJC/,from Lachish,0,prep,inanim,det,nmpr,simple
+224537,<LH[,MT,Isaiah,37,14,BJT JHWH,BJT/ JHWH/,to the house of Yahweh,0,vc,inanim,det,subs,complex
+1907908,<LH[,1Qisaa,Isaiah,37,14,BJT JHWH,BJT/ JHWH/,to the house of Yahweh,0,vc,inanim,det,subs,complex
+224721,<LH[,MT,Isaiah,37,24,MRWM HRJM JRKTJ LBNWN,MRWM/ HR/ JRKH/ LBNWN/,"to the heights of the mountains, to the remote parts of Lebanon",0,vc,inanim,und,subs,complex
+224733,BW>[,MT,Isaiah,37,24,MRWM QYW J<R KRMLW,MRWM/ QY/ J<R/ KRML/,"to its remotest heights, its garden-like forest",0,vc,inanim,det,subs,complex
+1908099,<LH[,1Qisaa,Isaiah,37,24,MRWM HRJM JRKTJ LBNWN,MRWM/ HR/ JRKH/ LBNWN/,"to the heights of the mountains, to the remote parts of Lebanon",0,vc,inanim,und,subs,complex
+1908111,BW>[,1Qisaa,Isaiah,37,24,MRWM QYW J<R KRMLJW,MRWM/ QY/ J<R/ KRML/,"to its remotest heights, its garden-like forest",0,vc,inanim,det,subs,complex
+224810,<LH[,MT,Isaiah,37,29,B >ZNJ,B >ZN/,in my two ears,0,prep,inanim,det,subs,complex
+1908190,<LH[,1Qisaa,Isaiah,37,29,B >WZNJ,B >ZN/,in my two ears,0,prep,inanim,det,subs,complex
+224879,JY>[,MT,Isaiah,37,32,M JRWCLM,MN JRWCLM/,from Jerusalem / out of Jerusalem,0,prep,inanim,det,nmpr,simple
+1908259,JY>[,1Qisaa,Isaiah,37,32,M YJWN,MN YJWN==/,from Zion / out of Zion,0,prep,inanim,det,nmpr,simple
+224899,BW>[,MT,Isaiah,37,33,>L H <JR H Z>T,>L H <JR/ H Z>T,into this city,0,prep,inanim,det,subs,complex
+1908280,BW>[,1Qisaa,Isaiah,37,33,>L H <JR H Z>WT,>L H <JR/ H Z>T,into this city,0,prep,inanim,det,subs,complex
+224933,BW>[,MT,Isaiah,37,34,>L H <JR H Z>T,>L H <JR/ H Z>T,into this city,0,prep,inanim,det,subs,complex
+1908314,BW>[,1Qisaa,Isaiah,37,34,>L H <JR H ZW>T,>L H <JR/ H Z>T,into this city,0,prep,inanim,det,subs,complex
+225024,BW>[,MT,Isaiah,38,1,>LJW,>L,to him,0,prep,anim,det,prsf,simple
+1908409,BW>[,1Qisaa,Isaiah,38,1,>LJW,>L,to him,0,prep,anim,det,prsf,simple
+225047,SBB[,MT,Isaiah,38,2,>L H QJR,>L H QJR/,to/toward the wall,0,prep,inanim,det,subs,simple
+1908433,SBB[,1Qisaa,Isaiah,38,2,>L H QJR,>L H QJR/,to/toward the wall,0,prep,inanim,det,subs,simple
+225224,GLH[,MT,Isaiah,38,12,MNJ,MN,from me,0,prep,anim,det,prsf,simple
+1921550,GLH[,1Q8,Isaiah,38,12,MNJ,MN,from me,0,prep,anim,det,prsf,simple
+225377,<LH[,MT,Isaiah,38,22,BJT JHWH,BJT/ JHWH/,to the house of Yahweh,0,vc,inanim,det,subs,complex
+1908805,<LH[,1Qisaa,Isaiah,38,22,BJT JHWH,BJT/ JHWH/,to the house of Yahweh,0,vc,inanim,det,subs,complex
+1921694,<LH[,1Q8,Isaiah,38,22,BJT JHWH,BJT/ JHWH/,to the house of Yahweh,0,vc,inanim,det,subs,complex
+225454,BW>[,MT,Isaiah,39,3,>L H MLK XZQJHW,>L H MLK/ XZQJHW/,to king Hezekiah,0,prep,anim,det,subs,complex
+225474,BW>[,MT,Isaiah,39,3,M >JN,MN >JN,from whence,0,prep,inanim,na,adv,simple
+225474,BW>[,MT,Isaiah,39,3,>LJK,>L,to you,0,prep,anim,det,prsf,simple
+225482,BW>[,MT,Isaiah,39,3,M >RY RXWQH M BBL,MN >RY/ RXWQ/ MN BBL/,"from a distant country, from Babylon",0,prep,inanim,und,subs,complex
+225482,BW>[,MT,Isaiah,39,3,>LJ,>L,to me,0,prep,anim,det,prsf,simple
+1908886,BW>[,1Qisaa,Isaiah,39,3,>L H MLK JXWZQJH,>L H MLK/ XZQJHW/,to king Hezekiah,0,prep,anim,det,subs,complex
+1908906,BW>[,1Qisaa,Isaiah,39,3,M >JN,MN >JN,from whence,0,prep,inanim,na,adv,simple
+1908906,BW>[,1Qisaa,Isaiah,39,3,>LJKH,>L,to you,0,prep,anim,det,prsf,simple
+1908914,BW>[,1Qisaa,Isaiah,39,3,M >RY RXWQH M BBL,MN >RY/ RXWQ/ MN BBL/,"from a distant country, from Babylon",0,prep,inanim,und,subs,complex
+1908914,BW>[,1Qisaa,Isaiah,39,3,>LJ,>L,to me,0,prep,anim,det,prsf,simple
+1921775,BW>[,1Q8,Isaiah,39,3,>L H MLK XZQJHW,>L H MLK/ XZQJHW/,to king Hezekiah,0,prep,anim,det,subs,complex
+1921795,BW>[,1Q8,Isaiah,39,3,M >JN,MN >JN,from whence,0,prep,inanim,na,adv,simple
+1921795,BW>[,1Q8,Isaiah,39,3,>LJK,>L,to you,0,prep,anim,det,prsf,simple
+1921803,BW>[,1Q8,Isaiah,39,3,M >RY RXWQH M BBL,MN >RY/ RXWQ/ MN BBL/,"from a distant country, from Babylon",0,prep,inanim,und,subs,complex
+1921803,BW>[,1Q8,Isaiah,39,3,>LJ,>L,to me,0,prep,anim,det,prsf,simple
+225546,JY>[,MT,Isaiah,39,7,MMK,MN,from you,0,prep,anim,det,prsf,simple
+1908984,JY>[,1Qisaa,Isaiah,39,7,M M<JKH,MN M<JM/,from your inwards,0,prep,inanim,det,subs,complex
+1921871,JY>[,1Q8,Isaiah,39,7,MMK,MN,from you,0,prep,anim,det,prsf,simple
+225696,<LH[,MT,Isaiah,40,9,<L HR GBH,<L HR/ GBH/,to a high mountain,0,prep,inanim,und,subs,complex
+1909147,<LH[,1Qisaa,Isaiah,40,9,<L HR GBH,<L HR/ GBH/,to a high mountain,0,prep,inanim,und,subs,complex
+226545,JY>[,MT,Isaiah,42,1,L GWJM,L H GWJ/,to the nations,0,prep,anim,det,subs,simple
+1910040,JY>[,1Qisaa,Isaiah,42,1,L GW>JM,L H GWJ/,to the nations,0,prep,anim,det,subs,simple
+226612,HLK[,MT,Isaiah,42,5,BH,B,on it (the earth),0,prep,inanim,det,prsf,simple
+1910109,HLK[,1Qisaa,Isaiah,42,5,BH,B,on it (the earth),0,prep,inanim,det,prsf,simple
+226638,JY>[,MT,Isaiah,42,7,M MSGR,MN MSGR/,from a dungeon,0,prep,inanim,und,subs,simple
+1910137,JY>[,1Qisaa,Isaiah,42,7,M MSGR,MN MSGR/,from a dungeon,0,prep,inanim,und,subs,simple
+226764,HLK[,MT,Isaiah,42,16,B DRK,B DRK/,in a way/in a path,0,prep,inanim,und,subs,simple
+1910273,HLK[,1Qisaa,Isaiah,42,16,B DRK,B DRK/,in a way/in a path,0,prep,inanim,und,subs,simple
+226959,<BR[,MT,Isaiah,43,2,B MJM,B H MJM/,in the waters,0,prep,inanim,det,subs,simple
+226972,HLK[,MT,Isaiah,43,2,BMW >C,BMW >C/,in fire,0,prep,inanim,und,subs,simple
+1910483,<BR[,1Qisaa,Isaiah,43,2,B MJM,B H MJM/,in the waters,0,prep,inanim,det,subs,simple
+1910494,HLK[,1Qisaa,Isaiah,43,2,BMW >C,BMW >C/,in fire,0,prep,inanim,und,subs,simple
+1922376,<BR[,1Q8,Isaiah,43,2,B MJM,B H MJM/,in the waters,0,prep,inanim,det,subs,simple
+1922387,HLK[,1Q8,Isaiah,43,2,BMW >C,BMW >C/,in fire,0,prep,inanim,und,subs,simple
+227020,BW>[,MT,Isaiah,43,5,M MZRX,MN MZRX/,from the east,0,prep,inanim,und,subs,simple
+1910545,BW>[,1Qisaa,Isaiah,43,5,M MZRX,MN MZRX/,from the east,0,prep,inanim,und,subs,simple
+1922438,BW>[,1Q8,Isaiah,43,5,M MZRX,MN MZRX/,from the east,0,prep,inanim,und,subs,simple
+227036,BW>[,MT,Isaiah,43,6,M RXWQ,MN RXWQ/,from a distance,0,prep,inanim,und,subs,simple
+1910561,BW>[,1Qisaa,Isaiah,43,6,M RXWQ,MN RXWQ/,from a distance,0,prep,inanim,und,subs,simple
+1922454,BW>[,1Q8,Isaiah,43,6,M RXWQ,MN RXWQ/,from a distance,0,prep,inanim,und,subs,simple
+227276,BW>[,MT,Isaiah,43,23,LJ,L,to me,0,prep,anim,det,prsf,simple
+1910817,BW>[,1Qisaa,Isaiah,43,23,LJ,L,to me,0,prep,anim,det,prsf,simple
+1922630,BW>[,1Q8,Isaiah,43,23,LJ,L,to me,0,prep,anim,det,prsf,simple
+227689,CWB[,MT,Isaiah,44,19,>L LBW,>L LB/,to his heart/soul,0,prep,inanim,det,subs,complex
+1911262,CWB[,1Qisaa,Isaiah,44,19,>L LBW,>L LB/,to his heart/soul,0,prep,inanim,det,subs,complex
+227766,CWB[,MT,Isaiah,44,22,>LJ,>L,to me,0,prep,anim,det,prsf,simple
+1911339,CWB[,1Qisaa,Isaiah,44,22,>LJ,>L,to me,0,prep,anim,det,prsf,simple
+1922732,CWB[,1Q8,Isaiah,44,22,>LJ,>L,to me,0,prep,anim,det,prsf,simple
+227821,CWB[,MT,Isaiah,44,25,>XWR,>XWR/,backwards,0,vc,inanim,und,subs,simple
+1911399,CWB[,1Qisaa,Isaiah,44,25,>XWR,>XWR/,backwards,0,vc,inanim,und,subs,simple
+1922790,CWB[,1Q8,Isaiah,44,25,>XWR,>XWR/,backwards,0,vc,inanim,und,subs,simple
+228114,<BR[,MT,Isaiah,45,14,<LJK,<L,over you,0,prep,anim,det,prsf,simple
+228119,HLK[,MT,Isaiah,45,14,>XRJK,>XR/,from your behind/from behind you,0,vc,inanim,det,subs,complex
+1911707,<BR[,1Qisaa,Isaiah,45,14,<LJK,<L,over you,0,prep,anim,det,prsf,simple
+1911712,HLK[,1Qisaa,Isaiah,45,14,>XRJK,>XR/,from your behind/from behind you,0,vc,inanim,det,subs,complex
+228271,PNH[,MT,Isaiah,45,22,>LJ,>L,to me,0,prep,anim,det,prsf,simple
+1911876,PNH[,1Qisaa,Isaiah,45,22,>LJ,>L,to me,0,prep,anim,det,prsf,simple
+228286,JY>[,MT,Isaiah,45,23,M PJ,MN PH/,from my mouth,0,prep,inanim,det,subs,complex
+1911892,JY>[,1Qisaa,Isaiah,45,23,M PJ>,MN PH/,from my mouth,0,prep,inanim,det,subs,complex
+228311,BW>[,MT,Isaiah,45,24,<DJW,<D,to him,0,prep,anim,det,prsf,simple
+1911919,BW>[,1Qisaa,Isaiah,45,24,<DJW,<D,to him,0,prep,anim,det,prsf,simple
+228356,HLK[,MT,Isaiah,46,2,B CBJ,B H CBJ/,in captivity,0,prep,inanim,det,subs,simple
+1911961,HLK[,1Qisaa,Isaiah,46,2,B CBJ,B H CBJ/,in captivity,0,prep,inanim,det,subs,simple
+228434,MWC[,MT,Isaiah,46,7,M MQWMW,MN MQWM/,from its place,0,prep,inanim,det,subs,complex
+1912043,MWC[,1Qisaa,Isaiah,46,7,M MQWMW,MN MQWM/,from its place,0,prep,inanim,det,subs,complex
+1923162,MWC[,1Q8,Isaiah,46,7,M MQWMW,MN MQWM/,from its place,0,prep,inanim,det,subs,complex
+228449,CWB[,MT,Isaiah,46,8,<L LB,<L LB/,to the heart/to the mind,0,prep,inanim,und,subs,simple
+1912059,CWB[,1Qisaa,Isaiah,46,8,<L LB,<L LB/,to the heart/to the mind,0,prep,inanim,und,subs,simple
+1923178,CWB[,1Q8,Isaiah,46,8,<L LB,<L LB/,to the heart/to the mind,0,prep,inanim,und,subs,simple
+228652,BW>[,MT,Isaiah,47,9,LK,L,to you,0,prep,anim,det,prsf,simple
+228665,BW>[,MT,Isaiah,47,9,<LJK,<L,upon you,0,prep,anim,det,prsf,simple
+1912280,BW>[,1Qisaa,Isaiah,47,9,LK,L,to you,0,prep,anim,det,prsf,simple
+1912293,BW>[,1Qisaa,Isaiah,47,9,<LJK,<L,upon you,0,prep,anim,det,prsf,simple
+1923393,BW>[,1Q8,Isaiah,47,9,LK,L,to you,0,prep,anim,det,prsf,simple
+1923406,BW>[,1Q8,Isaiah,47,9,<LJK,<L,upon you,0,prep,anim,det,prsf,simple
+228695,BW>[,MT,Isaiah,47,11,<LJK,<L,upon you,0,prep,anim,det,prsf,simple
+228702,NPL[,MT,Isaiah,47,11,<LJK,<L,upon you,0,prep,anim,det,prsf,simple
+228709,BW>[,MT,Isaiah,47,11,<LJK,<L,upon you,0,prep,anim,det,prsf,simple
+1912325,BW>[,1Qisaa,Isaiah,47,11,<LJK,<L,upon you,0,prep,anim,det,prsf,simple
+1912333,NPL[,1Qisaa,Isaiah,47,11,<LJK,<L,upon you,0,prep,anim,det,prsf,simple
+1912341,BW>[,1Qisaa,Isaiah,47,11,<LJK,<L,upon you,0,prep,anim,det,prsf,simple
+1923438,BW>[,1Q8,Isaiah,47,11,<LJK,<L,upon you,0,prep,anim,det,prsf,simple
+1923445,NPL[,1Q8,Isaiah,47,11,<LJK,<L,upon you,0,prep,anim,det,prsf,simple
+1923453,BW>[,1Q8,Isaiah,47,11,<LJK,<L,upon you,0,prep,anim,det,prsf,simple
+228754,BW>[,MT,Isaiah,47,13,<LJK,<L,upon you,0,prep,anim,det,prsf,simple
+1912387,BW>[,1Qisaa,Isaiah,47,13,<LJHMH,<L,upon you,0,prep,anim,det,prsf,simple
+1923499,BW>[,1Q8,Isaiah,47,13,<LJK,<L,upon you,0,prep,anim,det,prsf,simple
+228804,JY>[,MT,Isaiah,48,1,M MJ JHWDH,MN MJM/ JHWDH/,from the waters of Judah,0,prep,inanim,det,subs,complex
+1912440,JY>[,1Qisaa,Isaiah,48,1,M MJ JHWDH,MN MJM/ JHWDH/,from the waters of Judah,0,prep,inanim,det,subs,complex
+228844,JY>[,MT,Isaiah,48,3,M PJ,MN PH/,from my mouth,0,prep,inanim,det,subs,complex
+1912482,JY>[,1Qisaa,Isaiah,48,3,M PJ,MN PH/,from my mouth,0,prep,inanim,det,subs,complex
+229023,QRB[,MT,Isaiah,48,16,>LJ,>L,to me,0,prep,anim,det,prsf,simple
+1912677,QRB[,1Qisaa,Isaiah,48,16,>LJ,>L,to me,0,prep,anim,det,prsf,simple
+1912718,HLK[,1Qisaa,Isaiah,48,17,BH,B,in it,0,prep,inanim,det,prsf,simple
+229098,JY>[,MT,Isaiah,48,20,M BBL,MN BBL/,from Babylon,0,prep,inanim,det,nmpr,simple
+229101,BRX[,MT,Isaiah,48,20,M KFDJM,MN KFDJM/,from the Chaldeans,0,prep,anim,det,nmpr,simple
+229110,JY>[,MT,Isaiah,48,20,<D QYH H >RY,<D QYH=/ H >RY/,to the end of the earth,0,prep,inanim,det,subs,complex
+1912757,JY>[,1Qisaa,Isaiah,48,20,M BBL,MN BBL/,from Babylon,0,prep,inanim,det,nmpr,simple
+1912760,BRX[,1Qisaa,Isaiah,48,20,M KFDJJM,MN KFDJM/,from the Chaldeans,0,prep,anim,det,nmpr,simple
+1923587,JY>[,1Q8,Isaiah,48,20,M BBL,MN BBL/,from Babylon,0,prep,inanim,det,nmpr,simple
+1923590,BRX[,1Q8,Isaiah,48,20,M KFDJM,MN KFDJM/,from the Chaldeans,0,prep,anim,det,nmpr,simple
+1923599,JY>[,1Q8,Isaiah,48,20,<D QYH H >RY,<D QYH=/ H >RY/,to the end of the earth,0,prep,inanim,det,subs,complex
+229219,CWB[,MT,Isaiah,49,5,>LJW,>L,to him,0,prep,anim,det,prsf,simple
+1912889,CWB[,1Qisaa,Isaiah,49,5,>LJW,>L,to him,0,prep,anim,det,prsf,simple
+1923715,CWB[,1Q8,Isaiah,49,5,>LJW,>L,to him,0,prep,anim,det,prsf,simple
+229372,BW>[,MT,Isaiah,49,12,M RXWQ,MN RXWQ/,from a distance ,0,prep,inanim,und,subs,simple
+1913051,BW>[,1Qisaa,Isaiah,49,12,M RXWQ,MN RXWQ/,from a distance ,0,prep,inanim,und,subs,simple
+1923873,BW>[,1Q8,Isaiah,49,12,M RXWQ,MN RXWQ/,from a distance ,0,prep,inanim,und,subs,simple
+229438,JY>[,MT,Isaiah,49,17,MMK,MN,from you,0,prep,anim,det,prsf,simple
+1913124,JY>[,1Qisaa,Isaiah,49,17,MMK,MN,from you,0,prep,anim,det,prsf,simple
+229446,BW>[,MT,Isaiah,49,18,LK,L,to you,0,prep,anim,det,prsf,simple
+1913133,BW>[,1Qisaa,Isaiah,49,18,LKJ,L,to you,0,prep,anim,det,prsf,simple
+229785,NGC[,MT,Isaiah,50,8,>LJ,>L,(to) me,0,prep,anim,det,prsf,simple
+1913481,NGC[,1Qisaa,Isaiah,50,8,>LJ,>L,(to) me,0,prep,anim,det,prsf,simple
+1923957,NGC[,1Q8,Isaiah,50,8,>LJ,>L,(to) me,0,prep,anim,det,prsf,simple
+229915,JY>[,MT,Isaiah,51,4,M >TJ,MN >T==,from me,0,prep,anim,det,prsf,simple
+1913621,JY>[,1Qisaa,Isaiah,51,4,M >TJ,MN >T==,from me,0,prep,anim,det,prsf,simple
+1924094,JY>[,1Q8,Isaiah,51,4,M >TJ,MN >T==,from me,0,prep,anim,det,prsf,simple
+230059,BW>[,MT,Isaiah,51,11,YJWN,YJWN==/,to Zion,0,vc,inanim,det,nmpr,simple
+1913764,BW>[,1Qisaa,Isaiah,51,11,YJWN,YJWN==/,to Zion,0,vc,inanim,det,nmpr,simple
+1924240,BW>[,1Q8,Isaiah,51,11,YJWN,YJWN==/,to Zion,0,prep,inanim,det,nmpr,simple
+230320,BW>[,MT,Isaiah,52,1,BK,B,in you/to you (Zion),0,prep,inanim,det,prsf,simple
+1914037,BW>[,1Qisaa,Isaiah,52,1,BK,B,in you/to you (Zion),0,prep,inanim,det,prsf,simple
+230355,JRD[,MT,Isaiah,52,4,MYRJM,MYRJM/,to Egypt,0,vc,inanim,det,nmpr,simple
+1914075,JRD[,1Qisaa,Isaiah,52,4,MYRJM,MYRJM/,to Egypt,0,vc,inanim,det,nmpr,simple
+230436,CWB[,MT,Isaiah,52,8,YJWN,YJWN==/,to Zion,0,vc,inanim,det,nmpr,simple
+1914158,CWB[,1Qisaa,Isaiah,52,8,YJWN,YJWN==/,to Zion,0,vc,inanim,det,nmpr,simple
+1924265,CWB[,1Q8,Isaiah,52,8,YJWN,YJWN==/,to Zion,0,vc,inanim,det,nmpr,simple
+230470,JY>[,MT,Isaiah,52,11,M CM,MN CM,from there,0,prep,inanim,det,adv,simple
+230476,JY>[,MT,Isaiah,52,11,M TWKH,MN TWK/,from (her) its midst,0,prep,inanim,det,subs,complex
+1914200,JY>[,1Qisaa,Isaiah,52,11,M CMH,MN CM,from there,1,prep + dir-he,inanim,det,adv,simple
+1914207,JY>[,1Qisaa,Isaiah,52,11,M TWKH,MN TWK/,from (her) its midst,0,prep,inanim,det,subs,complex
+1924302,JY>[,1Q8,Isaiah,52,11,M CM,MN CM,from there,0,prep,inanim,det,adv,simple
+230554,GLH[,MT,Isaiah,53,1,<L MJ,<L MJ,to whom,0,prep,anim,und,ppin,simple
+1914300,GLH[,1Qisaa,Isaiah,53,1,>L MJ,>L MJ,to whom,0,prep,anim,und,ppin,simple
+1924388,GLH[,1Q8,Isaiah,53,1,>L MJ,>L MJ,to whom,0,prep,anim,und,ppin,simple
+230556,<LH[,MT,Isaiah,53,2,L PNJW,L PNH/,before him,0,prep,inanim,det,subs,complex
+1914303,<LH[,1Qisaa,Isaiah,53,2,L PNJW,L PNH/,before him,0,prep,inanim,det,subs,complex
+1924391,<LH[,1Q8,Isaiah,53,2,L PNJW,L PNH/,before him,0,prep,inanim,det,subs,complex
+230911,<BR[,MT,Isaiah,54,9,<L H >RY,<L H >RY/,over the earth,0,prep,inanim,det,subs,simple
+1914682,<BR[,1Qisaa,Isaiah,54,9,<L H >RY,<L H >RY/,over the earth,0,prep,inanim,det,subs,simple
+230940,MWC[,MT,Isaiah,54,10,M >TK,MN >T==,from you,0,prep,anim,det,prsf,simple
+1914713,MWC[,1Qisaa,Isaiah,54,10,M >TK,MN >T==,from you,0,prep,anim,det,prsf,simple
+231003,QRB[,MT,Isaiah,54,14,>LJK,>L,(to) you,0,prep,anim,det,prsf,simple
+1914778,QRB[,1Qisaa,Isaiah,54,14,>LJK,>L,(to) you,0,prep,anim,det,prsf,simple
+231063,HLK[,MT,Isaiah,55,1,L MJM,L H MJM/,to the waters,0,prep,inanim,det,subs,simple
+1914832,HLK[,1Qisaa,Isaiah,55,1,L MJM,L H MJM/,to the waters,0,prep,inanim,det,subs,simple
+231116,HLK[,MT,Isaiah,55,3,>LJ,>L,to me,0,prep,anim,det,prsf,simple
+1914879,HLK[,1Qisaa,Isaiah,55,3,>LJ,>L,to me,0,prep,anim,det,prsf,simple
+1924743,HLK[,1Q8,Isaiah,55,3,>LJ,>L,to me,0,prep,anim,det,prsf,simple
+231149,RWY[,MT,Isaiah,55,5,>LJK,>L,to you,0,prep,anim,det,prsf,simple
+1914915,RWY[,1Qisaa,Isaiah,55,5,>LJKH,>L,to you,0,prep,anim,det,prsf,simple
+1924779,RWY[,1Q8,Isaiah,55,5,>LJK,>L,to you,0,prep,anim,det,prsf,simple
+231175,CWB[,MT,Isaiah,55,7,>L JHWH,>L JHWH/,to Yahweh,0,prep,anim,det,nmpr,simple
+1914943,CWB[,1Qisaa,Isaiah,55,7,>L JHWH,>L JHWH/,to Yahweh,0,prep,anim,det,nmpr,simple
+1924807,CWB[,1Q8,Isaiah,55,7,>L JHWH,>L JHWH/,to Yahweh,0,prep,anim,det,nmpr,simple
+231214,JRD[,MT,Isaiah,55,10,MN H CMJM,MN H CMJM/,from the heavens,0,prep,inanim,det,subs,simple
+231226,CWB[,MT,Isaiah,55,10,CMH,CM,there,1,dir-he,inanim,det,adv,simple
+1914986,JRD[,1Qisaa,Isaiah,55,10,MN H CMJM,MN H CMJM/,from the heavens,0,prep,inanim,det,subs,simple
+1914998,CWB[,1Qisaa,Isaiah,55,10,CMH,CM,there,1,dir-he,inanim,det,adv,simple
+1924849,JRD[,1Q8,Isaiah,55,10,MN H CMJM,MN H CMJM/,from the heavens,0,prep,inanim,det,adv,simple
+1924861,CWB[,1Q8,Isaiah,55,10,CMH,CM,there,1,dir-he,inanim,det,adv,simple
+231252,JY>[,MT,Isaiah,55,11,M PJ,MN PH/,from my mouth,0,prep,inanim,det,subs,complex
+231256,CWB[,MT,Isaiah,55,11,>LJ,>L,to me,0,prep,anim,det,prsf,simple
+1915024,JY>[,1Qisaa,Isaiah,55,11,M PJ ,MN PH/,from my mouth,0,prep,inanim,det,subs,complex
+1915028,CWB[,1Qisaa,Isaiah,55,11,>LJ,>L,to me,0,prep,anim,det,prsf,simple
+1924886,JY>[,1Q8,Isaiah,55,11,M PJ,MN PH/,from my mouth,0,prep,inanim,det,subs,complex
+1924890,CWB[,1Q8,Isaiah,55,11,>LJ,>L,to me,0,prep,anim,det,prsf,simple
+231454,BW>[,MT,Isaiah,56,7,>L HR QDCJ,>L HR/ QDC/,to my holy mountain,0,prep,inanim,det,subs,complex
+1915236,BW>[,1Qisaa,Isaiah,56,7,>L HR QWDCJ,>L HR/ QDC/,to my holy mountain,0,prep,inanim,det,subs,complex
+1915248,<LH[,1Qisaa,Isaiah,56,7,<L MZBXJ,<L MZBX/,on my altar,0,prep,inanim,det,subs,complex
+1925097,BW>[,1Q8,Isaiah,56,7,>L HR QDCJ,>L HR/ QDC/,to my holy mountain,0,prep,inanim,det,subs,complex
+231535,PNH[,MT,Isaiah,56,11,L DRKM,L DRK/,to their way,0,prep,inanim,det,subs,complex
+1915324,PNH[,1Qisaa,Isaiah,56,11,L DRKM,L DRK/,to their way,0,prep,inanim,det,subs,complex
+1925180,PNH[,1Q8,Isaiah,56,11,L DRKM,L DRK/,to their way,0,prep,inanim,det,subs,complex
+231582,NWX[,MT,Isaiah,57,2,<L MCKBWTM,<L MCKB/,on their beds,0,prep,inanim,det,subs,complex
+231580,BW>[,MT,Isaiah,57,2,CLWM,CLWM/,into peace,0,vc,inanim,und,subs,simple
+1915378,BW>[,1Qisaa,Isaiah,57,2,CLWM,CLWM/,into peace,0,vc,inanim,und,subs,simple
+1915381,NWX[,1Qisaa,Isaiah,57,2,<L MCKBWTJW,<L MCKB/,on their beds,0,prep,inanim,det,subs,complex
+1925228,BW>[,1Q8,Isaiah,57,2,CLWM,CLWM/,into peace,0,vc,inanim,und,subs,simple
+1925230,NWX[,1Q8,Isaiah,57,2,<L MCKBTM,<L MCKB/,on their beds,0,prep,inanim,det,subs,complex
+231589,QRB[,MT,Isaiah,57,3,HNH,HNH==,here,0,vc,inanim,det,adv,simple
+1915389,QRB[,1Qisaa,Isaiah,57,3,HNH,HNH==,here,0,vc,inanim,det,adv,simple
+1925238,QRB[,1Q8,Isaiah,57,3,HNH,HNH==,here,0,vc,inanim,det,adv,simple
+231688,CWR=[,MT,Isaiah,57,9,L MLK,L H MLK/,to the king,0,prep,anim,det,subs,simple
+1915493,CWR=[,1Qisaa,Isaiah,57,9,L MLK,L H MLK/,to the king,0,prep,anim,det,subs,simple
+231771,XSH[,MT,Isaiah,57,13,BJ,B,in me,0,prep,anim,det,prsf,simple
+1915581,XSH[,1Qisaa,Isaiah,57,13,BJ>,B,in me,0,prep,anim,det,prsf,simple
+231850,HLK[,MT,Isaiah,57,17,B DRK LBW,B DRK/ LB/,in the way of this heart,0,prep,inanim,det,subs,complex
+1915669,HLK[,1Qisaa,Isaiah,57,17,B DRK LBJ,B DRK/ LB/,in the way of his heart,0,prep,inanim,det,subs,complex
+1925269,HLK[,1Q8,Isaiah,57,17,B DRK LBW,B DRK/ LB/,in the way of his heart,0,prep,inanim,det,subs,complex
+232056,BW>[,MT,Isaiah,58,7,BJT,BJT/,to the house,0,vc,inanim,und,subs,simple
+1915881,BW>[,1Qisaa,Isaiah,58,7,BJT,BJT/,to the house,0,vc,inanim,und,subs,simple
+1915893,<LH[,1Qisaa,Isaiah,58,7,M BFRKH,MN BFR/,from your own flesh,0,prep,inanim,det,subs,complex
+1925476,BW>[,1Q8,Isaiah,58,7,BJT,BJT/,to the house,0,vc,inanim,und,subs,simple
+232079,HLK[,MT,Isaiah,58,8,L PNJK,L PNH/,before you,0,prep,inanim,det,subs,complex
+1915905,HLK[,1Qisaa,Isaiah,58,8,L PNJKH,L PNH/,before you,0,prep,inanim,det,subs,complex
+1925498,HLK[,1Q8,Isaiah,58,8,L PNJK,L PNH/,before you,0,prep,inanim,det,subs,complex
+232096,SWR[,MT,Isaiah,58,9,M TWKK,MN TWK/,from your midst,0,prep,inanim,det,subs,complex
+1915924,SWR[,1Qisaa,Isaiah,58,9,M TWKKH,MN TWK/,from your midst,0,prep,inanim,det,subs,complex
+1925517,SWR[,1Q8,Isaiah,58,9,M TWKK,MN TWK/,from your midst,0,prep,inanim,det,subs,complex
+232171,CWB[,MT,Isaiah,58,13,M CBT,MN CBT/,from the sabbath,0,prep,inanim,und,subs,simple
+1916001,CWB[,1Qisaa,Isaiah,58,13,M CBT,MN CBT/,from the sabbath,0,prep,inanim,und,subs,simple
+1925593,CWB[,1Q8,Isaiah,58,13,M CBT,MN CBT/,from the sabbath,0,prep,inanim,und,subs,simple
+232324,RWY[,MT,Isaiah,59,7,L R<,L H R</,towards the evil,0,prep,inanim,det,subs,simple
+1916158,RWY[,1Qisaa,Isaiah,59,7,L R<,L H R</,towards the evil,0,prep,inanim,det,subs,simple
+1925749,RWY[,1Q8,Isaiah,59,7,L R<,L H R</,towards the evil,0,prep,inanim,det,subs,simple
+232378,HLK[,MT,Isaiah,59,9,B >PLWT,B H >PLH/,in the darkness,0,prep,inanim,det,subs,simple
+1916216,HLK[,1Qisaa,Isaiah,59,9,B >PLH,B H >PLH/,in the darkness,0,prep,inanim,det,subs,simple
+232485,SWR[,MT,Isaiah,59,15,M R<,MN R</,from evil,0,prep,inanim,und,subs,simple
+1916320,SWR[,1Qisaa,Isaiah,59,15,M R<,MN R</,from evil,0,prep,inanim,und,subs,simple
+232577,NWS[,MT,Isaiah,59,19,BW,B,against him,0,prep,anim,det,prsf,simple
+1916412,NWS[,1Qisaa,Isaiah,59,19,BWH,B,against him,0,prep,anim,det,prsf,simple
+232580,BW>[,MT,Isaiah,59,20,L YJWN,L YJWN==/,to Zion,0,prep,inanim,det,nmpr,simple
+1916416,BW>[,1Qisaa,Isaiah,59,20,>L YJWN,L YJWN==/,to Zion,0,prep,inanim,det,nmpr,simple
+232609,MWC[,MT,Isaiah,59,21,M PJK W M PJ ZR<K W M PJ ZR< ZR<K,MN PH/ W MN PH/ ZR</ W MN PH/ ZR</ ZR</,from your mouth nor from the mouth of your offspring nor from the mouth of your offspring's offspring,0,prep,inanim,det,subs,complex
+1916447,MWC[,1Qisaa,Isaiah,59,21,M PJKH W M PJ ZR<KH W M PJ ZR< ZR<KH,MN PH/ W MN PH/ ZR</ W MN PH/ ZR</ ZR</,from your mouth nor from the mouth of your offspring nor from the mouth of your offspring's offspring,0,prep,inanim,det,subs,complex
+1925792,MWC[,1Q8,Isaiah,59,21,M PJK W M PJ ZR<K W M PJ ZR< ZR<K,MN PH/ W MN PH/ ZR</ W MN PH/ ZR</ ZR</,from your mouth nor from the mouth of your offspring nor from the mouth of your offspring's offspring,0,prep,inanim,det,subs,complex
+232656,HLK[,MT,Isaiah,60,3,L >WRK,L >WR/,to your light,0,prep,inanim,det,subs,complex
+1916494,HLK[,1Qisaa,Isaiah,60,3,L >WRK,L >WR/,to your light,0,prep,inanim,det,subs,complex
+1925843,HLK[,1Q8,Isaiah,60,3,L >WRK,L >WR/,to your light,0,prep,inanim,det,subs,complex
+232672,BW>[,MT,Isaiah,60,4,LK,L,to you,0,prep,anim,det,prsf,simple
+232677,BW>[,MT,Isaiah,60,4,M RXWQ,MN RXWQ/,from a distance,0,prep,inanim,und,subs,simple
+1916511,BW>[,1Qisaa,Isaiah,60,4,LK,L,to you,0,prep,anim,det,prsf,simple
+1916516,BW>[,1Qisaa,Isaiah,60,4,M RXWQ,MN RXWQ/,from a distance,0,prep,inanim,und,subs,simple
+1925860,BW>[,1Q8,Isaiah,60,4,LK,L,to you,0,prep,anim,det,prsf,simple
+1925865,BW>[,1Q8,Isaiah,60,4,M RXWQ,MN RXWQ/,from a distance,0,prep,inanim,und,subs,simple
+232699,BW>[,MT,Isaiah,60,5,LK,L,to you,0,prep,anim,det,prsf,simple
+1916537,BW>[,1Qisaa,Isaiah,60,5,LK,L,to you,0,prep,anim,det,prsf,simple
+1925888,BW>[,1Q8,Isaiah,60,5,LK,L,to you,0,prep,anim,det,prsf,simple
+232711,BW>[,MT,Isaiah,60,6,M CB>,MN CB>/,from Sheba,0,prep,inanim,det,nmpr,simple
+1916550,BW>[,1Qisaa,Isaiah,60,6,M CB>W,MN CB>/,from Sheba,0,prep,inanim,det,nmpr,simple
+1925901,BW>[,1Q8,Isaiah,60,6,M CB>W,MN CB>/,from Sheba,0,prep,inanim,det,nmpr,simple
+232728,<LH[,MT,Isaiah,60,7,MZBXJ,MZBX/,on my altar,0,vc,inanim,det,subs,complex
+1916569,<LH[,1Qisaa,Isaiah,60,7,<L MZBXJ,<L MZBX/,on my altar,0,prep,inanim,det,subs,complex
+1925919,<LH[,1Q8,Isaiah,60,7,MZBXJ,MZBX/,on my altar,0,vc,inanim,det,subs,complex
+232759,BW>[,MT,Isaiah,60,9,M RXWQ,MN RXWQ/,from a distance,0,prep,inanim,und,subs,simple
+1916600,BW>[,1Qisaa,Isaiah,60,9,M RXWQ,MN RXWQ/,from a distance,0,prep,inanim,und,subs,simple
+1925948,BW>[,1Q8,Isaiah,60,9,M RXWQ,MN RXWQ/,from a distance,0,prep,inanim,und,subs,simple
+232803,BW>[,MT,Isaiah,60,11,>LJK,>L,to you,0,prep,anim,det,prsf,simple
+1916647,BW>[,1Qisaa,Isaiah,60,11, >LJK,>L,to you,0,prep,anim,det,prsf,simple
+1925994,BW>[,1Q8,Isaiah,60,11,>LJK,>L,to you,0,prep,anim,det,prsf,simple
+232829,BW>[,MT,Isaiah,60,13,>LJK,>L,to you,0,prep,inanim,det,prsf,simple
+1916678,BW>[,1Qisaa,Isaiah,60,13,>LJK ,>L,to you,0,prep,inanim,det,prsf,simple
+1926022,BW>[,1Q8,Isaiah,60,13,>LJK,>L,to you,0,prep,inanim,det,prsf,simple
+232844,HLK[,MT,Isaiah,60,14,>LJK,>L,to you,0,prep,inanim,det,prsf,simple
+1916695,HLK[,1Qisaa,Isaiah,60,14,>LJK,>L,to you,0,prep,inanim,det,prsf,simple
+1926038,HLK[,1Q8,Isaiah,60,14,>LJK,>L,to you,0,prep,inanim,det,prsf,simple
+233408,<BR[,MT,Isaiah,62,10,B C<RJM,B H C<R/,through the gates,0,prep,inanim,det,subs,simple
+1917298,<BR[,1Qisaa,Isaiah,62,10,B C<RJM,B H C<R/,through the gates,0,prep,inanim,det,subs,simple
+1926409,<BR[,1Q8,Isaiah,62,10,B C<RJM,B H C<R/,through the gates,0,prep,inanim,det,subs,simple
+233466,BW>[,MT,Isaiah,63,1,M >DWM,MN >DWM/,from Edom,0,prep,inanim,det,nmpr,simple
+1917358,BW>[,1Qisaa,Isaiah,63,1,M >DWM,MN >DWM/,from Edom,0,prep,inanim,det,nmpr,simple
+1926468,BW>[,1Q8,Isaiah,63,1,M >DWM,MN >DWM/,from Edom,0,prep,inanim,det,nmpr,simple
+233562,JRD[,MT,Isaiah,63,6,L >RY,L H >RY/,to the earth,0,prep,inanim,det,subs,simple
+1917446,JRD[,1Qisaa,Isaiah,63,6,L >RY,L H >RY/,to the earth,0,prep,inanim,det,subs,simple
+1926569,JRD[,1Q8,Isaiah,63,6,L >RY,L H >RY/,to the earth,0,prep,inanim,det,subs,simple
+233652,<LH[,MT,Isaiah,63,11,M JM,MN JM/,from the sea,0,prep,inanim,und,subs,simple
+1917541,<LH[,1Qisaa,Isaiah,63,11,M JM,MN JM/,from the sea,0,prep,inanim,und,subs,simple
+1926663,<LH[,1Q8,Isaiah,63,11,M JM,MN JM/,from the sea,0,prep,inanim,und,subs,simple
+233681,HLK[,MT,Isaiah,63,13,B THMWT,B H THWM/,through the depths,0,prep,inanim,det,subs,simple
+1917572,HLK[,1Qisaa,Isaiah,63,13,B TWMWT,B H THWM/,through the depths,0,prep,inanim,det,subs,simple
+1926694,HLK[,1Q8,Isaiah,63,13,B THMWT,B H THWM/,through the depths,0,prep,inanim,det,subs,simple
+233699,JRD[,MT,Isaiah,63,14,B BQ<H,B H BQ<H/,in the valley,0,prep,inanim,det,subs,simple
+1917586,JRD[,1Qisaa,Isaiah,63,14,B BQ<H,B H BQ<H/,in the valley,0,prep,inanim,det,subs,simple
+1926708,JRD[,1Q8,Isaiah,63,14,B BQ<H,B H BQ<H/,in the valley,0,prep,inanim,det,subs,simple
+233750,T<H[,MT,Isaiah,63,17,M DRKJK,MN DRK/,from your ways,0,prep,inanim,det,subs,complex
+1917643,T<H[,1Qisaa,Isaiah,63,17,M DRKJKH,MN DRK/,from your ways,0,prep,inanim,det,subs,complex
+1926762,T<H[,1Q8,Isaiah,63,17,M DRKJK,MN DRK/,from your ways,0,prep,inanim,det,subs,complex
+233985,HLK[,MT,Isaiah,65,2,>XR MXCBTJHM,>XR/ MXCBH/,after (in accordance with) their purposes,0,prep,inanim,det,subs,complex
+1917892,HLK[,1Qisaa,Isaiah,65,2,>XR MXCBWTJHMH,>XR/ MXCBH/,after (in accordance with) their purposes,0,prep,inanim,det,subs,complex
+234030,QRB[,MT,Isaiah,65,5,>LJK,>L,to you (yourself),0,prep,anim,det,prsf,simple
+234033,NGC[,MT,Isaiah,65,5,BJ,B,me,0,prep,anim,det,prsf,simple
+1917940,QRB[,1Qisaa,Isaiah,65,5,>LJKH,>L,to you (yourself),0,prep,anim,det,prsf,simple
+234110,JY>[,MT,Isaiah,65,9,M J<QB,MN J<QB/,from Jacob,0,prep,anim,det,nmpr,simple
+1918021,JY>[,1Qisaa,Isaiah,65,9,M J<QWB,MN J<QB/,from Jacob,0,prep,anim,det,nmpr,simple
+234239,NWX[,MT,Isaiah,65,15,L CBW<H,L CBW<H/,as a curse,0,prep,inanim,und,subs,simple
+1918152,NWX[,1Qisaa,Isaiah,65,15,L CBW<H,L CBW<H/,as a curse,0,prep,inanim,und,subs,simple
+234301,<LH[,MT,Isaiah,65,17,<L LB,<L LB/,to the mind/to the heart,0,prep,inanim,und,subs,simple
+1918207,<LH[,1Qisaa,Isaiah,65,17,<L LB,<L LB/,to the mind/to the heart,0,prep,inanim,und,subs,simple
+1926994,<LH[,1Q8,Isaiah,65,17,<L LB,<L LB/,to the mind/to the heart,0,prep,inanim,und,subs,simple
+234544,BW>[,MT,Isaiah,66,4,LHM,L,upon them,0,prep,anim,det,prsf,simple
+1918463,BW>[,1Qisaa,Isaiah,66,4,LHMH,L,upon them,0,prep,anim,det,prsf,simple
+1927246,BW>[,1Q8,Isaiah,66,4,LHM,L,upon them,0,prep,anim,det,prsf,simple
+234608,BW>[,MT,Isaiah,66,7,LH,L,to her,0,prep,anim,det,prsf,simple
+1918530,BW>[,1Qisaa,Isaiah,66,7,LH,L,to her,0,prep,anim,det,prsf,simple
+1927313,BW>[,1Q8,Isaiah,66,7,LH,L,to her,0,prep,anim,det,prsf,simple
+234871,BW>[,MT,Isaiah,66,20,<L HR QDCJ JRWCLM,<L HR/ QDC/ JRWCLM/,to my holy mountain Jerusalem,0,prep,inanim,det,subs,complex
+234909,BW>[,MT,Isaiah,66,20,BJT JHWH,BJT/ JHWH/,into the house of Yahweh,0,vc,inanim,det,subs,complex
+1918802,BW>[,1Qisaa,Isaiah,66,20,>L HR QDCJ JRWCLJM,>L HR/ QDC/ JRWCLM/,to my holy mountain Jerusalem,0,prep,inanim,det,subs,complex
+1918839,BW>[,1Qisaa,Isaiah,66,20,BJT JHWH,BJT/ JHWH/,to the house of Yahweh,0,vc,inanim,det,subs,complex
+1927583,BW>[,1Q8,Isaiah,66,20,<L HR QDCJ JRWCLM,<L HR/ QDC/ JRWCLM/,to my holy mountain Jerusalem,0,prep,inanim,det,prsf,complex
+1927616,BW>[,1Q8,Isaiah,66,20,BJT JHWH,BJT/ JHWH/,to the house of Yahweh,0,vc,inanim,det,subs,complex
