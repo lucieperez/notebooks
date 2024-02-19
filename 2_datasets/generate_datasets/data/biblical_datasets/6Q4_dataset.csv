@@ -1,0 +1,4 @@
+verb_id,lex,scroll,book,chapter,verse_num,gcons_verb,gcons_verse,gcons_clause,subject,complement,dir_he,cmpl_constr,cmpl_nt,cmpl_anim,cmpl_det,cmpl_indiv,dir_he_dss,sign_info,stem,tense,preposition_1,preposition_2,preposition_3,preposition_4,preposition_5,preposition_6,preposition_7,cmpl_lex,motion_type
+2074793,JY>[,6Q4,6Q4,f26,1,no_g_cons,,None,None,,,,,,,,0,01 00 0 000 01,qal,impf,,,,,,,,,
+2074794,JY>[,6Q4,6Q4,f26,1,no_g_cons,,None,None,,,,,,,,0,01 00 0 000 01,,,,,,,,,,,
+2074795,JY>[,6Q4,6Q4,f26,2,no_g_cons,,None,None,,,,,,,,0,01 000000 01 00,,,,,,,,,,,
