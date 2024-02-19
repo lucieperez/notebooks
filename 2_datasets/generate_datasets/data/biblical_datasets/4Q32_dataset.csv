@@ -1,0 +1,11 @@
+verb_id,lex,scroll,book,chapter,verse_num,gcons_verb,gcons_verse,gcons_clause,subject,complement,dir_he,cmpl_constr,cmpl_nt,cmpl_anim,cmpl_det,cmpl_indiv,dir_he_dss,sign_info,stem,tense,preposition_1,preposition_2,preposition_3,preposition_4,preposition_5,preposition_6,preposition_7,cmpl_lex,motion_type
+1982968,HLK[,4Q32,4Q32,f7,1,no_g_cons,,None,None,,,,,,,,0,01 0 0000 01 00,qal,perf,,,,,,,,,
+1982969,HLK[,4Q32,4Q32,f7,1,no_g_cons,,None,None,,,,,,,,0,01 0 0000 01 00,,,,,,,,,,,
+1982971,HLK[,4Q32,4Q32,f8,1,no_g_cons,,None,None,,,,,,,,0,01 01 011 01,,,,,,,,,,,
+1982972,HLK[,4Q32,4Q32,f8,1,no_g_cons,,None,None,,,,,,,,0,01 01 011 01,,,,,,,,,,,
+1982973,HLK[,4Q32,4Q32,f8,1,no_g_cons,,None,None,,,,,,,,0,01 01 011 01,,,,,,,,,,,
+1982974,HLK[,4Q32,4Q32,f8,1,no_g_cons,,None,None,,,,,,,,0,01 01 011 01,,,,,,,,,,,
+1982975,HLK[,4Q32,4Q32,f8,2,no_g_cons,,None,None,,,,,,,,0,01 011 0111 01 00,,,,,,,,,,,
+1982976,HLK[,4Q32,4Q32,f8,2,no_g_cons,,None,None,,,,,,,,0,01 011 0111 01 00,,,,,,,,,,,
+1982977,HLK[,4Q32,4Q32,f8,2,no_g_cons,,None,None,,,,,,,,0,01 011 0111 01 00,,,,,,,,,,,
+1982978,HLK[,4Q32,4Q32,f8,2,no_g_cons,,None,None,,,,,,,,0,01 011 0111 01 00,,,,,,,,,,,
