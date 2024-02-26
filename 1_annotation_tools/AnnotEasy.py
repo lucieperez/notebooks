@@ -106,6 +106,17 @@ class AnnotationTool:
             layout=widgets.Layout(width='100%', height='100px'),
         )
 
+        # FILL IN ONE CLICK
+        # Button
+        self.matching_columns_button = widgets.Button(
+            description='Fill columns',
+            disabled=False,
+            button_style='success',
+            tooltip='Click to annotate matching columns based on a previous row',
+        )
+        
+        # Event handler
+        self.matching_columns_button.on_click(self.annotate_matching_columns)
 
         # PREVIOUS COLUMN
         # Button
@@ -361,6 +372,10 @@ class AnnotationTool:
         # Ensure you have methods or logic to handle the display of these buttons
         # Example for 'translation':
         
+        matching_index = self.find_matching_row()
+        if matching_index is not None:
+            display(self.matching_columns_button)
+        
         if self.columns_to_annotate[col_index] == 'cmpl_lex':
             matching_index = self.find_matching_row()
             if matching_index is not None:
@@ -487,6 +502,29 @@ class AnnotationTool:
 
         return None
 
+    def annotate_matching_columns(self, b):
+        matching_index = self.find_matching_row()
+        if matching_index is not None:
+            columns_to_copy = ['cmpl_lex', 
+                               'cmpl_translation', 
+                               'cmpl_constr', 
+                               'cmpl_nt', 
+                               'cmpl_anim', 
+                               'cmpl_det', 
+                               'cmpl_indiv', 
+                               'cmpl_complex', 
+                               'motion_type', 
+                               'preposition_1',
+                               'preposition_2',
+                               'preposition_3',
+                               'preposition_4',
+                               'comments']
+            
+            for col in columns_to_copy:
+                self.df.at[self.current_index, col] = self.df.at[matching_index, col]
+            # Optionally refresh the display or move to the next row
+            self.display_row(self.current_index, self.current_column_index)
+
 
     def on_prev_col_clicked(self, b):
         # Check if we are not in the first column
@@ -596,23 +634,20 @@ class AnnotationTool:
         # Calculate the number of rows annotated in this session
         rows_annotated_this_session = self.current_index - self.get_session_start_index() + 1
 
-        details = f"Date and Time: {current_datetime}\nDataFrame: isaiah_dataset\nCurrent Row Index: {current_row_index}\nRows Annotated This Session: {rows_annotated_this_session}\n\n"
+        details = f"Date and Time: {current_datetime}\nDataFrame: Exodus_dataset\nCurrent Row Index: {current_row_index}\nRows Annotated This Session: {rows_annotated_this_session}\n\n"
 
         with open(self.history_file_path, 'a') as file:
             file.write(details)
 
-    def save_dataframe(self):
-        current_date = datetime.datetime.now().strftime("%Y-%m-%d_%H_%M")
+    def save_dataframe(self, historical_filename, current_filename):
+        # Save the DataFrame to a CSV file with a timestamp
+        self.df.to_csv(historical_filename, index=False)
 
-        # Construct the filename
-        filename = f"data/annotation_df_history/isaiah_dataset_{current_date}.csv"
-        current_file_name = f"data/annotation_df_history/isaiah_dataset.csv"
+        # Save the DataFrame to a CSV file without a timestamp
+        self.df.to_csv(current_filename, index=False)
 
-        # Save the DataFrame to a CSV file
-        self.df.to_csv(filename, index=False)
-        self.df.to_csv(current_file_name, index=False)
+        print(f"DataFrame saved as {historical_filename} and {current_filename}.")
 
-        print(f"DataFrame saved as {filename} and {current_file_name}.")
 
 
     def display(self):
