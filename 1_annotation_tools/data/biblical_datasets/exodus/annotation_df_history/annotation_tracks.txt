@@ -1,0 +1,40 @@
+Date and Time: 2024-02-26 10:08
+DataFrame: isaiah_dataset
+Current Row Index: 3
+Rows Annotated This Session: 4
+
+Date and Time: 2024-02-26 10:29
+DataFrame: isaiah_dataset
+Current Row Index: 1
+Rows Annotated This Session: -1
+
+Date and Time: 2024-02-26 11:14
+DataFrame: Exodus_dataset
+Current Row Index: 17
+Rows Annotated This Session: 17
+
+Date and Time: 2024-02-26 11:56
+DataFrame: Exodus_dataset
+Current Row Index: 33
+Rows Annotated This Session: 17
+
+Date and Time: 2024-02-26 13:47
+DataFrame: Exodus_dataset
+Current Row Index: 60
+Rows Annotated This Session: 28
+
+Date and Time: 2024-02-26 14:21
+DataFrame: Exodus_dataset
+Current Row Index: 83
+Rows Annotated This Session: 24
+
+Date and Time: 2024-02-26 14:33
+DataFrame: Exodus_dataset
+Current Row Index: 95
+Rows Annotated This Session: 13
+
+Date and Time: 2024-02-26 15:19
+DataFrame: Exodus_dataset
+Current Row Index: 97
+Rows Annotated This Session: 3
+

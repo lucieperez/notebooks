@@ -1,4 +1,4 @@
-verb_id,lex,scroll,book,chapter,verse_num,gcons_verb,gcons_verse,gcons_clause,subject,complement,dir_he,cmpl_constr,cmpl_nt,cmpl_anim,cmpl_det,cmpl_indiv,dir_he_dss,sign_info,stem,tense,preposition_1,preposition_2,preposition_3,preposition_4,preposition_5,preposition_6,preposition_7,cmpl_lex,motion_type
-1966698,HWH[,4Q23,4Q23,f98,1,no_g_cons,,None,None,,,,,,,,0,01 000 01,,,,,,,,,,,
-1966699,HWH[,4Q23,4Q23,f98,1,no_g_cons,,None,None,,,,,,,,0,01 000 01,,,,,,,,,,,
-1966700,HWH[,4Q23,4Q23,f98,2,no_g_cons,,None,None,,,,,,,,0,01 00 01 00,,,,,,,,,,,
+verb_id,lex,scroll,book,chapter,verse_num,gcons_verb,gcons_verse,gcons_clause,subject,complement,cmpl_lex,dir_he,cmpl_constr,cmpl_nt,cmpl_anim,cmpl_det,cmpl_indiv,dir_he_dss,sign_info,stem,tense,preposition_1,preposition_2,preposition_3,preposition_4,preposition_5,preposition_6,preposition_7,cmpl_translation,cmpl_complex,motion_type,comments
+1966698,HWH[,4Q23,4Q23,f98,1,no_g_cons,,None,None,,,,,,,,,0,1 000 1,,,,,,,,,,,,,
+1966699,HWH[,4Q23,4Q23,f98,1,no_g_cons,,None,None,,,,,,,,,0,1 000 1,,,,,,,,,,,,,
+1966700,HWH[,4Q23,4Q23,f98,2,no_g_cons,,None,None,,,,,,,,,0,1 00 1,,,,,,,,,,,,,

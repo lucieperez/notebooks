@@ -1,4 +1,4 @@
-verb_id,lex,scroll,book,chapter,verse_num,gcons_verb,gcons_verse,gcons_clause,subject,complement,dir_he,cmpl_constr,cmpl_nt,cmpl_anim,cmpl_det,cmpl_indiv,dir_he_dss,sign_info,stem,tense,preposition_1,preposition_2,preposition_3,preposition_4,preposition_5,preposition_6,preposition_7,cmpl_lex,motion_type
-1994703,CWB[,4Q45,4Q45,f59,1,no_g_cons,,None,None,,,,,,,,0,01 01 0 00000 01,qal,impf,,,,,,,,,
-1994704,CWB[,4Q45,4Q45,f59,1,no_g_cons,,None,None,,,,,,,,0,01 01 0 00000 01,,,,,,,,,,,
-1994705,CWB[,4Q45,4Q45,f59,2,no_g_cons,,None,None,,,,,,,,0,01 000000 01 00,,,,,,,,,,,
+verb_id,lex,scroll,book,chapter,verse_num,gcons_verb,gcons_verse,gcons_clause,subject,complement,cmpl_lex,dir_he,cmpl_constr,cmpl_nt,cmpl_anim,cmpl_det,cmpl_indiv,dir_he_dss,sign_info,stem,tense,preposition_1,preposition_2,preposition_3,preposition_4,preposition_5,preposition_6,preposition_7,cmpl_translation,cmpl_complex,motion_type,comments
+1994703,CWB[,4Q45,4Q45,f59,1,no_g_cons,,None,None,,,,,,,,,0,1 1 0 00000 1,qal,impf,,,,,,,,,,,
+1994704,CWB[,4Q45,4Q45,f59,1,no_g_cons,,None,None,,,,,,,,,0,1 1 0 00000 1,,,,,,,,,,,,,
+1994705,CWB[,4Q45,4Q45,f59,2,no_g_cons,,None,None,,,,,,,,,0,1 00000 1,,,,,,,,,,,,,
