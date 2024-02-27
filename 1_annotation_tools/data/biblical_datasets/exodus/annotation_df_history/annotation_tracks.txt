@@ -38,3 +38,18 @@ DataFrame: Exodus_dataset
 Current Row Index: 97
 Rows Annotated This Session: 3
 
+Date and Time: 2024-02-27 09:12
+DataFrame: Exodus_dataset
+Current Row Index: 117
+Rows Annotated This Session: 21
+
+Date and Time: 2024-02-27 10:02
+DataFrame: Exodus_dataset
+Current Row Index: 134
+Rows Annotated This Session: 18
+
+Date and Time: 2024-02-27 12:40
+DataFrame: Exodus_dataset
+Current Row Index: 160
+Rows Annotated This Session: 27
+
