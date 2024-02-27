@@ -169,6 +169,15 @@ class AnnotationTool:
         # Event handler
         self.next_row_button.on_click(self.on_next_row_clicked)
         
+        # COMPLEMENT
+        # Button
+        self.complement_button = widgets.Button(
+            description='no complement'
+        )
+        
+        # Even handler
+        self.complement_button.on_click(self.set_value)
+        
         # DIR_HE
         # Buttons
         self.dir_he_buttons = [
@@ -375,6 +384,10 @@ class AnnotationTool:
         matching_index = self.find_matching_row()
         if matching_index is not None:
             display(self.matching_columns_button)
+            
+            
+        if self.columns_to_annotate[col_index] == "complement":
+            display(self.complement_button)
         
         if self.columns_to_annotate[col_index] == 'cmpl_lex':
             matching_index = self.find_matching_row()
