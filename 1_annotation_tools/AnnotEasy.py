@@ -2,6 +2,7 @@ import ipywidgets as widgets
 import pandas as pd
 import datetime
 from IPython.display import display, clear_output
+from ipywidgets import VBox, HBox, Button, Text 
 
 class AnnotationTool:
     def __init__(self, csv_file_path, history_file_path):
@@ -105,6 +106,43 @@ class AnnotationTool:
             disabled=False,
             layout=widgets.Layout(width='100%', height='100px'),
         )
+        
+        # TExt widgets in case of adding of new row:
+        
+            # Text input for 'verb_id'
+        self.verb_id_input = widgets.Text(
+            value='',
+            placeholder='Enter verb_id',
+            description='verb_id:',
+            disabled=False
+        )
+
+        # Text input for 'lex'
+        # Create text input widgets for user inputs
+        self.verb_id_input = Text(description='verb_id:')
+        self.lex_input = Text(description='lex:')
+        self.gcons_verb_input = Text(description='gcons_verb:')
+        self.stem_input = Text(description='stem:')
+        self.tense_input = Text(description='tense:')
+        
+        # Group input widgets together in a vertical box (VBox)
+        self.user_inputs = VBox([self.verb_id_input, 
+                                 self.lex_input, 
+                                 self.gcons_verb_input, 
+                                 self.stem_input, 
+                                 self.tense_input])
+        
+        # ADD A NEW ROW
+        # Button
+        self.add_row_button = widgets.Button(
+            description='Add row',
+            disabled=False,
+            button_style='success',
+            tooltip='Click to add a new row',
+        )
+        
+        # Event handler
+        self.add_row_button.on_click(self.on_add_row_button_clicked)
 
         # FILL IN ONE CLICK
         # Button
@@ -196,6 +234,7 @@ class AnnotationTool:
             widgets.Button(description='dir-he'),
             widgets.Button(description='vc'),
             widgets.Button(description='prep + dir-he'),
+            widgets.Button(description='prep + prep'),
         ]
         # Event handler
         for button in self.cmpl_constr_buttons:
@@ -214,6 +253,7 @@ class AnnotationTool:
             widgets.Button(description='other'),
             widgets.Button(description='pers'),
             widgets.Button(description='phen'),
+            widgets.Button(description='ppde'),
             widgets.Button(description='ppin'),
             widgets.Button(description='prps'),
             widgets.Button(description='topo'),
@@ -255,6 +295,7 @@ class AnnotationTool:
             widgets.Button(description='subs'),
             widgets.Button(description='nmpr'),
             widgets.Button(description='prsf'),
+            widgets.Button(description='ppde'),
             widgets.Button(description='ppin'),
             widgets.Button(description='adj'),
             widgets.Button(description='adv'),
@@ -336,6 +377,54 @@ class AnnotationTool:
         else:
             # Optionally handle the case when it's already the first column
             print("Already at the first column.")
+
+            
+    def add_new_row(self, new_row_data):
+        # Copy specified columns from the current row
+        columns_to_copy = ['scroll', 'book', 'chapter', 'verse_num', 'gcons_verse', "sign_info"]
+        new_row = {col: self.df.iloc[self.current_index][col] for col in columns_to_copy}
+
+        # Use the values from new_row_data for specific columns
+        new_row['verb_id'] = new_row_data['verb_id']
+        new_row['lex'] = new_row_data['lex']
+        new_row['gcons_verb'] = new_row_data['gcons_verb']
+        new_row['stem'] = new_row_data['stem']
+        new_row['tense'] = new_row_data['tense']
+        
+            # For any columns not covered in columns_to_copy or new_row_data, fill in with empty string
+        for col in self.df.columns:
+            if col not in new_row:
+                new_row[col] = ''
+
+        # Insert the new row after the current row in the DataFrame
+        self.df = pd.concat([self.df.iloc[:self.current_index+1], 
+                             pd.DataFrame([new_row], index=[self.current_index + 0.5]),
+                             self.df.iloc[self.current_index+1:]]).reset_index(drop=True)
+
+
+    def on_add_row_button_clicked(self, b):
+        # Gather data from the widgets
+        new_row_data = {
+            'verb_id': self.verb_id_input.value,
+            'lex': self.lex_input.value,
+            'gcons_verb': self.gcons_verb_input.value,
+            'stem': self.stem_input.value,
+            'tense': self.tense_input.value,
+            
+        }
+
+        # Call the add_new_row method with the gathered data
+        self.add_new_row(new_row_data)
+
+        # Confirm row addition
+        print(f'A new row has been added at index {self.current_index + 1} with the following information:\n')
+        print(f'''
+              verb_id: {self.verb_id_input.value}, 
+              lex: {self.lex_input.value}, 
+              gcons_verb: {self.gcons_verb_input.value}, 
+              stem: {self.stem_input.value}, 
+              tense: {self.tense_input.value}\n''')
+              
 
             
     def get_session_start_index(self):
@@ -449,6 +538,8 @@ class AnnotationTool:
 
     # ... [rest of the class] ...
     ########################################
+    
+    
     
     def jump_to_index(self, button):
         desired_index = self.index_input.value  # Get the index from the input widget
