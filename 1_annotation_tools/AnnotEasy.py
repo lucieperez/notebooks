@@ -536,7 +536,7 @@ class AnnotationTool:
         display(widgets.HBox([self.prev_col_button, self.next_col_button]))
         display(widgets.HBox([self.prev_row_button, self.next_row_button]))
 
-    # ... [rest of the class] ...
+
     ########################################
     
     
