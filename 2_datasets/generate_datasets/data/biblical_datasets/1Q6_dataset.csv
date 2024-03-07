@@ -1,4 +1,4 @@
-verb_id,lex,scroll,book,chapter,verse_num,gcons_verb,gcons_verse,gcons_clause,subject,complement,cmpl_lex,dir_he,cmpl_constr,cmpl_nt,cmpl_anim,cmpl_det,cmpl_indiv,dir_he_dss,sign_info,stem,tense,preposition_1,preposition_2,preposition_3,preposition_4,preposition_5,preposition_6,preposition_7,cmpl_translation,cmpl_complex,motion_type,comments
-1894421,<BR[,1Q6,1Q6,f20,2,no_g_cons,,None,None,,,,,,,,,0,1 0 00000 1,qal,wayq,,,,,,,,,,,
-1894422,<BR[,1Q6,1Q6,f20,2,no_g_cons,,None,None,,,,,,,,,0,1 0 00000 1,,,,,,,,,,,,,
-1894424,<BR[,1Q6,1Q6,f21,1,no_g_cons,,None,None,,,,,,,,,0,1 0 0000 0 1,,,,,,,,,,,,,
+verb_id,lex,scroll,book,chapter,verse_num,gcons_verb,gcons_verse,gcons_clause,subject,complement,cmpl_lex,dir_he,cmpl_constr,cmpl_nt,cmpl_anim,cmpl_det,cmpl_indiv,cmpl_complex,dir_he_dss,sign_info,stem,tense,preposition_1,preposition_2,preposition_3,preposition_4,preposition_5,preposition_6,preposition_7,cmpl_translation,motion_type,comments
+1894421,<BR[,1Q6,1Q6,f20,2,no_g_cons,,None,None,,,,,,,,,,0,1 0 00000 1,qal,wayq,,,,,,,,,,
+1894422,<BR[,1Q6,1Q6,f20,2,no_g_cons,,None,None,,,,,,,,,,0,1 0 00000 1,,,,,,,,,,,,
+1894424,<BR[,1Q6,1Q6,f21,1,no_g_cons,,None,None,,,,,,,,,,0,1 0 0000 0 1,,,,,,,,,,,,

@@ -1,5 +1,5 @@
-verb_id,lex,scroll,book,chapter,verse_num,gcons_verb,gcons_verse,gcons_clause,subject,complement,cmpl_lex,dir_he,cmpl_constr,cmpl_nt,cmpl_anim,cmpl_det,cmpl_indiv,dir_he_dss,sign_info,stem,tense,preposition_1,preposition_2,preposition_3,preposition_4,preposition_5,preposition_6,preposition_7,cmpl_translation,cmpl_complex,motion_type,comments
-1981820,BW>[,4Q30,4Q30,f65,1,no_g_cons,,None,None,,,,,,,,,0,1 00 1,qal,ptca,,,,,,,,,,,
-1981821,BW>[,4Q30,4Q30,f65,1,no_g_cons,,None,None,,,,,,,,,0,1 00 1,,,,,,,,,,,,,
-1981822,BW>[,4Q30,4Q30,f65,2,no_g_cons,,None,None,,,,,,,,,0,1 1 00 1,,,,,,,,,,,,,
-1981823,BW>[,4Q30,4Q30,f65,2,no_g_cons,,None,None,,,,,,,,,0,1 1 00 1,,,,,,,,,,,,,
+verb_id,lex,scroll,book,chapter,verse_num,gcons_verb,gcons_verse,gcons_clause,subject,complement,cmpl_lex,dir_he,cmpl_constr,cmpl_nt,cmpl_anim,cmpl_det,cmpl_indiv,cmpl_complex,dir_he_dss,sign_info,stem,tense,preposition_1,preposition_2,preposition_3,preposition_4,preposition_5,preposition_6,preposition_7,cmpl_translation,motion_type,comments
+1981820,BW>[,4Q30,4Q30,f65,1,no_g_cons,,None,None,,,,,,,,,,0,1 00 1,qal,ptca,,,,,,,,,,
+1981821,BW>[,4Q30,4Q30,f65,1,no_g_cons,,None,None,,,,,,,,,,0,1 00 1,,,,,,,,,,,,
+1981822,BW>[,4Q30,4Q30,f65,2,no_g_cons,,None,None,,,,,,,,,,0,1 1 00 1,,,,,,,,,,,,
+1981823,BW>[,4Q30,4Q30,f65,2,no_g_cons,,None,None,,,,,,,,,,0,1 1 00 1,,,,,,,,,,,,

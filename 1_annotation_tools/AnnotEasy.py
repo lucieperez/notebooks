@@ -50,7 +50,10 @@ class AnnotationTool:
             'preposition_1', 
             'preposition_2', 
             'preposition_3', 
-            'preposition_4', 
+            'preposition_4',
+            'preposition_5',
+            'preposition_6',
+            'preposition_7',
             'comments',
         ]
 
@@ -92,6 +95,9 @@ class AnnotationTool:
             'preposition_2',
             'preposition_3',
             'preposition_4',
+            'preposition_5',
+            'preposition_6',
+            'preposition_7',
             'comments',
             ]]
         
@@ -622,6 +628,9 @@ class AnnotationTool:
                                'preposition_2',
                                'preposition_3',
                                'preposition_4',
+                               'preposition_5',
+                               'preposition_6',
+                               'preposition_7',
                                'comments']
             
             for col in columns_to_copy:
