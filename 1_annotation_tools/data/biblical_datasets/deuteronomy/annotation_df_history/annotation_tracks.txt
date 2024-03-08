@@ -1,5 +1,10 @@
-Date and Time: 2024-03-07 14:54
+Date and Time: 2024-03-08 11:37
 DataFrame: Exodus_dataset
-Current Row Index: 0
-Rows Annotated This Session: 1
+Current Row Index: 13
+Rows Annotated This Session: 14
+
+Date and Time: 2024-03-08 14:39
+DataFrame: Exodus_dataset
+Current Row Index: 45
+Rows Annotated This Session: 33
 
