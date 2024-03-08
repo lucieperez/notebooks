@@ -14,6 +14,25 @@ class AnnotationTool:
         self.initialize_widgets()
         self.configure_dataframe()
         
+         # Initialize a dictionary to store buttons
+        self.buttons = {}
+
+        # Create buttons dynamically
+        self.column_names = [
+            "cmpl_translation",
+            "dir_he",
+            "cmpl_constr",
+            "cmpl_nt",
+            "cmpl_anim",
+            "cmpl_det",
+            "cmpl_indiv",
+            "cmpl_complex",
+            "motion_type",
+            "comments",   
+        ]
+        for column_name in self.column_names:
+            self.create_button_for_column(column_name)
+        
         # Initialize column lists
         self.columns = self.df.columns.to_list()
         self.columns_for_info = [
@@ -102,6 +121,22 @@ class AnnotationTool:
             ]]
         
 
+    def create_button_for_column(self, column_name):
+            # Create a button for the given column name
+            button = widgets.Button(
+                description=column_name,
+                disabled=False,
+                button_style='info',
+                tooltip=f'Go to the {column_name} column',
+            )
+
+            # Bind the on_click event to the handler function
+            button.on_click(self.go_to_on_clicked)
+
+            # Store the button in the dictionary
+            self.buttons[column_name] = button
+
+            
     def initialize_widgets(self):
         
         # Annotation display area
@@ -161,7 +196,8 @@ class AnnotationTool:
         
         # Event handler
         self.matching_columns_button.on_click(self.annotate_matching_columns)
-
+        
+        
         # PREVIOUS COLUMN
         # Button
         self.prev_col_button = widgets.Button(
@@ -451,6 +487,7 @@ class AnnotationTool:
     # Display Function: Handles the display of the annotation area and of buttons
 
     def display_row(self, row_index, col_index):
+        
         # Annotation area
         display(widgets.Label('Display row method called'))
         self.current_index, self.current_column_index = row_index, col_index
@@ -470,16 +507,31 @@ class AnnotationTool:
         display(self.df.iloc[row_index:row_index+1][self.columns_for_info])
         display(self.df.iloc[row_index:row_index+1][self.columns_line2])
         display(self.df.iloc[row_index:row_index+1][self.columns_line3])
+        
+        
+            
+        # Display buttons to navigate columns easily  
+        
+        display(widgets.HTML(value=f"<b>Go to column:</b>"))
+        buttons = list(self.buttons.values())
+
+        # Use HBox to arrange the buttons horizontally
+        hbox = HBox(buttons)
+
+        # Display the HBox containing all the buttons
+        display(hbox)
+        
+        # Indicates which columns you are annotating
         display(widgets.HTML(value=f"<b>Annotate '{self.columns_to_annotate[col_index]}':</b>"))
         
-        # Add the annotation buttons for specific columns
-        # Ensure you have methods or logic to handle the display of these buttons
-        # Example for 'translation':
+        # Display the matching column button
         
         matching_index = self.find_matching_row()
         if matching_index is not None:
             display(self.matching_columns_button)
-            
+       
+    
+        # Display specific buttons for each column  
             
         if self.columns_to_annotate[col_index] == "complement":
             display(self.complement_button)
@@ -541,6 +593,7 @@ class AnnotationTool:
         display(self.annotation_input)
         display(widgets.HBox([self.prev_col_button, self.next_col_button]))
         display(widgets.HBox([self.prev_row_button, self.next_row_button]))
+        
 
 
     ########################################
@@ -590,6 +643,27 @@ class AnnotationTool:
         new_index = self.current_index + offset
         if 0 <= new_index < len(self.df):
             self.display_row(new_index, 0)
+
+            
+    def go_to_on_clicked(self, button):
+        # Retrieve the column name from the button's description
+        column_name = button.description
+        
+        # Retrieve the column index and adapts is to the display_row 
+        # which does not start at index 0 but at index 11 for the columns
+        column_index = self.df.columns.get_loc(column_name) - 11 
+
+            # Save the current annotation before moving
+        if self.current_column_index is not None:
+            self.df.at[self.current_index, self.columns_to_annotate[self.current_column_index]] = self.annotation_input.value
+
+            # Directly set the current column index to the exact index of the specified column
+            self.current_column_index = column_index
+            self.display_row(self.current_index, self.current_column_index)
+        else:
+            # Handle the case when the column name does not exist
+            print(f"Column '{column_name}' not found in the dataframe.")
+
 
 
     def find_matching_row(self):
