@@ -19,6 +19,7 @@ class AnnotationTool:
 
         # Create buttons dynamically
         self.column_names = [
+            "cmpl_type",
             "cmpl_translation",
             "dir_he",
             "cmpl_constr",
@@ -64,15 +65,16 @@ class AnnotationTool:
             'cmpl_complex',
         ]
 
-        self.columns_line3 = [   
+        self.columns_line3 = [
+            'cmpl_type',
             'motion_type', 
             'preposition_1', 
             'preposition_2', 
             'preposition_3', 
             'preposition_4',
-            'preposition_5',
-            'preposition_6',
-            'preposition_7',
+         #   'preposition_5',
+         #   'preposition_6',
+         #   'preposition_7',
             'comments',
         ]
 
@@ -109,14 +111,15 @@ class AnnotationTool:
             'cmpl_det', 
             'cmpl_indiv',
             'cmpl_complex',
+            'cmpl_type',
             'motion_type',
             'preposition_1',
             'preposition_2',
             'preposition_3',
             'preposition_4',
-            'preposition_5',
-            'preposition_6',
-            'preposition_7',
+           # 'preposition_5',
+           # 'preposition_6',
+           # 'preposition_7',
             'comments',
             ]]
         
