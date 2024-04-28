@@ -19,7 +19,7 @@ class AnnotationTool:
 
         # Create buttons dynamically
         self.column_names = [
-            "cmpl_type",
+            "cmpl_lex",
             "cmpl_translation",
             "dir_he",
             "cmpl_constr",
@@ -66,15 +66,13 @@ class AnnotationTool:
         ]
 
         self.columns_line3 = [
-            'cmpl_type',
             'motion_type', 
             'preposition_1', 
             'preposition_2', 
             'preposition_3', 
             'preposition_4',
-         #   'preposition_5',
-         #   'preposition_6',
-         #   'preposition_7',
+            'preposition_5',
+            'preposition_6',
             'comments',
         ]
 
@@ -90,6 +88,7 @@ class AnnotationTool:
         self.df["dir_he"] = self.df["dir_he"].replace("1.0", "1").replace("0.0", "0")
         self.df = self.df[[ 
             'verb_id',
+            
             'lex',
             'scroll',
             'book',
@@ -111,15 +110,13 @@ class AnnotationTool:
             'cmpl_det', 
             'cmpl_indiv',
             'cmpl_complex',
-            'cmpl_type',
             'motion_type',
             'preposition_1',
             'preposition_2',
             'preposition_3',
             'preposition_4',
-           # 'preposition_5',
-           # 'preposition_6',
-           # 'preposition_7',
+            'preposition_5',
+            'preposition_6',
             'comments',
             ]]
         
@@ -445,6 +442,18 @@ class AnnotationTool:
         self.df = pd.concat([self.df.iloc[:self.current_index+1], 
                              pd.DataFrame([new_row], index=[self.current_index + 0.5]),
                              self.df.iloc[self.current_index+1:]]).reset_index(drop=True)
+        
+        
+    def delete_row(self, index):
+        try:
+            if index in self.df.index:
+                self.df = self.df.drop(index)
+                self.df = self.df.reset_index(drop=True)
+                print(f"Row at index {index} has been deleted.")
+            else:
+                print("Invalid index. No row deleted.")
+        except Exception as e:
+            print(f"An error occurred: {e}")
 
 
     def on_add_row_button_clicked(self, b):
@@ -707,7 +716,6 @@ class AnnotationTool:
                                'preposition_4',
                                'preposition_5',
                                'preposition_6',
-                               'preposition_7',
                                'comments']
             
             for col in columns_to_copy:
