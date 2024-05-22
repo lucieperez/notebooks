@@ -88,7 +88,6 @@ class AnnotationTool:
         self.df["dir_he"] = self.df["dir_he"].replace("1.0", "1").replace("0.0", "0")
         self.df = self.df[[ 
             'verb_id',
-            
             'lex',
             'scroll',
             'book',
@@ -405,6 +404,15 @@ class AnnotationTool:
         self.prev_comment_button.on_click(self.use_prev_comment)   
         # Initialize other widgets here
         # ...
+        
+        self.comments_buttons = [
+            widgets.Button(description='reconstructed'),
+            widgets.Button(description='reconstructed?'),
+        ]
+            
+        # Event handler
+        for button in self.comments_buttons:
+            button.on_click(self.set_value)
             
 
     def on_prev_col_clicked(self, b):
@@ -600,6 +608,9 @@ class AnnotationTool:
 
         if self.columns_to_annotate[col_index] == 'motion_type':
             display(widgets.HBox(self.motion_type_buttons))
+            
+        if self.columns_to_annotate[col_index] == 'comments':
+            display(widgets.HBox(self.comments_buttons))
 
         # Displaying the annotation input and navigation buttons
         display(self.annotation_input)
