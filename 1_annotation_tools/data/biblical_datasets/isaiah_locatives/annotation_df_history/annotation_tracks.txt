@@ -134,3 +134,58 @@ DataFrame: Exodus_dataset
 Current Row Index: 961
 Rows Annotated This Session: 1
 
+Date and Time: 2024-05-27 11:37
+DataFrame: Exodus_dataset
+Current Row Index: 977
+Rows Annotated This Session: 17
+
+Date and Time: 2024-05-27 12:01
+DataFrame: Exodus_dataset
+Current Row Index: 1100
+Rows Annotated This Session: 124
+
+Date and Time: 2024-05-27 12:13
+DataFrame: Exodus_dataset
+Current Row Index: 1150
+Rows Annotated This Session: 51
+
+Date and Time: 2024-05-27 13:31
+DataFrame: Exodus_dataset
+Current Row Index: 1184
+Rows Annotated This Session: 35
+
+Date and Time: 2024-05-27 13:48
+DataFrame: Exodus_dataset
+Current Row Index: 1229
+Rows Annotated This Session: 46
+
+Date and Time: 2024-05-27 14:17
+DataFrame: Exodus_dataset
+Current Row Index: 1315
+Rows Annotated This Session: 87
+
+Date and Time: 2024-05-27 14:28
+DataFrame: Exodus_dataset
+Current Row Index: 1342
+Rows Annotated This Session: 28
+
+Date and Time: 2024-05-27 14:35
+DataFrame: Exodus_dataset
+Current Row Index: 1361
+Rows Annotated This Session: 20
+
+Date and Time: 2024-05-27 15:12
+DataFrame: Exodus_dataset
+Current Row Index: 1420
+Rows Annotated This Session: 60
+
+Date and Time: 2024-05-27 15:32
+DataFrame: Exodus_dataset
+Current Row Index: 1444
+Rows Annotated This Session: 25
+
+Date and Time: 2024-05-27 15:51
+DataFrame: Exodus_dataset
+Current Row Index: 1472
+Rows Annotated This Session: 29
+
