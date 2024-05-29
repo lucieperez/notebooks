@@ -74,6 +74,7 @@ class AnnotationTool:
             'preposition_5',
             'preposition_6',
             'comments',
+            'reconstructed_verse',
         ]
 
         self.columns_to_annotate = self.columns_line2 + self.columns_line3
@@ -117,6 +118,7 @@ class AnnotationTool:
             'preposition_5',
             'preposition_6',
             'comments',
+            'reconstructed_verse',
             ]]
         
 
