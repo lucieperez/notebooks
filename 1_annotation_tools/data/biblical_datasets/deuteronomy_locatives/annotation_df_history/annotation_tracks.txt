@@ -1,0 +1,30 @@
+Date and Time: 2024-06-04 11:13
+DataFrame: Exodus_dataset
+Current Row Index: 3
+Rows Annotated This Session: 4
+
+Date and Time: 2024-06-04 11:18
+DataFrame: Exodus_dataset
+Current Row Index: 0
+Rows Annotated This Session: -2
+
+Date and Time: 2024-06-04 15:02
+DataFrame: Exodus_dataset
+Current Row Index: 420
+Rows Annotated This Session: 421
+
+Date and Time: 2024-06-04 15:30
+DataFrame: Exodus_dataset
+Current Row Index: 622
+Rows Annotated This Session: 203
+
+Date and Time: 2024-06-04 15:43
+DataFrame: Exodus_dataset
+Current Row Index: 650
+Rows Annotated This Session: 29
+
+Date and Time: 2024-06-04 15:50
+DataFrame: Exodus_dataset
+Current Row Index: 650
+Rows Annotated This Session: 1
+
