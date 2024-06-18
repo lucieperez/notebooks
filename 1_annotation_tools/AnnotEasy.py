@@ -410,6 +410,7 @@ class AnnotationTool:
         self.comments_buttons = [
             widgets.Button(description='reconstructed'),
             widgets.Button(description='reconstructed?'),
+            widgets.Button(description='min excluded')
         ]
             
         # Event handler
