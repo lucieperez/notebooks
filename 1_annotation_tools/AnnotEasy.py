@@ -71,8 +71,8 @@ class AnnotationTool:
             'preposition_2', 
             'preposition_3', 
             'preposition_4',
-            'preposition_5',
-            'preposition_6',
+            #'preposition_5',
+            #'preposition_6',
             'comments',
             'reconstructed_verse',
         ]
@@ -115,8 +115,8 @@ class AnnotationTool:
             'preposition_2',
             'preposition_3',
             'preposition_4',
-            'preposition_5',
-            'preposition_6',
+            #'preposition_5',
+            #'preposition_6',
             'comments',
             'reconstructed_verse',
             ]]
