@@ -368,7 +368,7 @@ class AnnotationTool:
         self.motion_type_buttons = [
             widgets.Button(description='factive'),
             widgets.Button(description='fictive'),
-            widgets.Button(description='horizontal'),
+            widgets.Button(description='vertical'),
             widgets.Button(description='posture/not motion'),
 
         ]
