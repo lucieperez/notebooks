@@ -29,7 +29,8 @@ class AnnotationTool:
             "cmpl_indiv",
             "cmpl_complex",
             "motion_type",
-            "comments",   
+            "spatial_arg_type",
+            "comments",
         ]
         for column_name in self.column_names:
             self.create_button_for_column(column_name)
@@ -66,7 +67,8 @@ class AnnotationTool:
         ]
 
         self.columns_line3 = [
-            'motion_type', 
+            'motion_type',
+            'spatial_arg_type',
             'preposition_1', 
             'preposition_2', 
             'preposition_3', 
@@ -111,6 +113,7 @@ class AnnotationTool:
             'cmpl_indiv',
             'cmpl_complex',
             'motion_type',
+            'spatial_arg_type',
             'preposition_1',
             'preposition_2',
             'preposition_3',
@@ -365,11 +368,28 @@ class AnnotationTool:
         self.motion_type_buttons = [
             widgets.Button(description='factive'),
             widgets.Button(description='fictive'),
-            widgets.Button(description='factive fictive'),
+            widgets.Button(description='vertical'),
+            widgets.Button(description='posture/not motion'),
+
         ]
             
         # Event handler
         for button in self.motion_type_buttons:
+            button.on_click(self.set_value)
+            
+        # SPATIAL_ARG_TYPE
+        # Buttons
+        self.spatial_arg_type_buttons = [
+            widgets.Button(description='goal'),
+            widgets.Button(description='trajectory'),
+            widgets.Button(description='goal/traj'),
+            widgets.Button(description='goal/recipient'),
+            widgets.Button(description='location'),
+            widgets.Button(description='other'),
+        ]
+            
+        # Event handler
+        for button in self.spatial_arg_type_buttons:
             button.on_click(self.set_value)
             
         # TRANSLATION
@@ -611,6 +631,9 @@ class AnnotationTool:
 
         if self.columns_to_annotate[col_index] == 'motion_type':
             display(widgets.HBox(self.motion_type_buttons))
+            
+        if self.columns_to_annotate[col_index] == 'spatial_arg_type':
+            display(widgets.HBox(self.spatial_arg_type_buttons))
             
         if self.columns_to_annotate[col_index] == 'comments':
             display(widgets.HBox(self.comments_buttons))
