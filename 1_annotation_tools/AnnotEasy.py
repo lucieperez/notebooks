@@ -385,6 +385,7 @@ class AnnotationTool:
             widgets.Button(description='goal/traj'),
             widgets.Button(description='goal/recipient'),
             widgets.Button(description='location'),
+            widgets.Button(description='source'),
             widgets.Button(description='other'),
         ]
             
