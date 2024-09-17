@@ -747,13 +747,14 @@ class AnnotationTool:
                                'cmpl_det', 
                                'cmpl_indiv', 
                                'cmpl_complex', 
-                               'motion_type', 
+                               'motion_type',
+                               'spatial_arg_type',
                                'preposition_1',
                                'preposition_2',
                                'preposition_3',
                                'preposition_4',
-                               'preposition_5',
-                               'preposition_6',
+                               #'preposition_5',
+                               #'preposition_6',
                                'comments']
             
             for col in columns_to_copy:
