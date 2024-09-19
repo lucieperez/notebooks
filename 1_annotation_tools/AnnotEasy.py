@@ -169,13 +169,21 @@ class AnnotationTool:
         self.gcons_verb_input = Text(description='gcons_verb:')
         self.stem_input = Text(description='stem:')
         self.tense_input = Text(description='tense:')
+        self.gcons_clause_input = Text(description='gcons_clause:')
+        self.subject_input = Text(description='subject:')
+        self.complement_input = Text(description='complement:')
+        self.cmpl_lex_input = Text(description='cmpl_lex:')
         
         # Group input widgets together in a vertical box (VBox)
         self.user_inputs = VBox([self.verb_id_input, 
                                  self.lex_input, 
                                  self.gcons_verb_input, 
                                  self.stem_input, 
-                                 self.tense_input])
+                                 self.tense_input,
+                                 self.gcons_clause_input,
+                                 self.subject_input,
+                                 self.complement_input,
+                                 self.cmpl_lex_input])
         
         # ADD A NEW ROW
         # Button
@@ -464,6 +472,10 @@ class AnnotationTool:
         new_row['gcons_verb'] = new_row_data['gcons_verb']
         new_row['stem'] = new_row_data['stem']
         new_row['tense'] = new_row_data['tense']
+        new_row['gcons_clause'] = new_row_data['gcons_clause']
+        new_row['subject'] = new_row_data['subject']
+        new_row['complement'] = new_row_data['complement']
+        new_row['cmpl_lex'] = new_row_data['cmpl_lex']
         
             # For any columns not covered in columns_to_copy or new_row_data, fill in with empty string
         for col in self.df.columns:
@@ -496,6 +508,10 @@ class AnnotationTool:
             'gcons_verb': self.gcons_verb_input.value,
             'stem': self.stem_input.value,
             'tense': self.tense_input.value,
+            'gcons_clause': self.gcons_clause_input.value,
+            'subject': self.subject_input.value,
+            'complement': self.complement_input.value,
+            'cmpl_lex': self.cmpl_lex_input.value,
             
         }
 
