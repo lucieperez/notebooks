@@ -317,10 +317,12 @@ class AnnotationTool:
             widgets.Button(description='other'),
             widgets.Button(description='pers'),
             widgets.Button(description='phen'),
+            widgets.Button(description='place'),
             widgets.Button(description='ppde'),
             widgets.Button(description='ppin'),
             widgets.Button(description='prps'),
             widgets.Button(description='topo'),
+            
         ]
         
         # Even handler
