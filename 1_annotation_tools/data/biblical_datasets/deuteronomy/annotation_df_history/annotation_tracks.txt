@@ -1,225 +1,225 @@
 Date and Time: 2024-03-08 11:37
-DataFrame: Exodus_dataset
+DataFrame: Deuteronomy_dataset
 Current Row Index: 13
 Rows Annotated This Session: 14
 
 Date and Time: 2024-03-08 14:39
-DataFrame: Exodus_dataset
+DataFrame: Deuteronomy_dataset
 Current Row Index: 45
 Rows Annotated This Session: 33
 
 Date and Time: 2024-03-11 11:22
-DataFrame: Exodus_dataset
+DataFrame: Deuteronomy_dataset
 Current Row Index: 113
 Rows Annotated This Session: 69
 
 Date and Time: 2024-03-11 12:48
-DataFrame: Exodus_dataset
+DataFrame: Deuteronomy_dataset
 Current Row Index: 126
 Rows Annotated This Session: 14
 
 Date and Time: 2024-03-12 10:55
-DataFrame: Exodus_dataset
+DataFrame: Deuteronomy_dataset
 Current Row Index: 125
 Rows Annotated This Session: 0
 
 Date and Time: 2024-03-12 14:23
-DataFrame: Exodus_dataset
+DataFrame: Deuteronomy_dataset
 Current Row Index: 165
 Rows Annotated This Session: 41
 
 Date and Time: 2024-03-13 10:07
-DataFrame: Exodus_dataset
+DataFrame: Deuteronomy_dataset
 Current Row Index: 190
 Rows Annotated This Session: 26
 
 Date and Time: 2024-03-13 11:58
-DataFrame: Exodus_dataset
+DataFrame: Deuteronomy_dataset
 Current Row Index: 253
 Rows Annotated This Session: 64
 
 Date and Time: 2024-03-13 14:18
-DataFrame: Exodus_dataset
+DataFrame: Deuteronomy_dataset
 Current Row Index: 284
 Rows Annotated This Session: 32
 
 Date and Time: 2024-03-14 10:11
-DataFrame: Exodus_dataset
+DataFrame: Deuteronomy_dataset
 Current Row Index: 321
 Rows Annotated This Session: 38
 
 Date and Time: 2024-03-14 10:51
-DataFrame: Exodus_dataset
+DataFrame: Deuteronomy_dataset
 Current Row Index: 334
 Rows Annotated This Session: 14
 
 Date and Time: 2024-03-14 14:30
-DataFrame: Exodus_dataset
+DataFrame: Deuteronomy_dataset
 Current Row Index: 349
 Rows Annotated This Session: 16
 
 Date and Time: 2024-03-18 13:47
-DataFrame: Exodus_dataset
+DataFrame: Deuteronomy_dataset
 Current Row Index: 388
 Rows Annotated This Session: 40
 
 Date and Time: 2024-03-18 14:29
-DataFrame: Exodus_dataset
+DataFrame: Deuteronomy_dataset
 Current Row Index: 408
 Rows Annotated This Session: 21
 
 Date and Time: 2024-03-18 14:33
-DataFrame: Exodus_dataset
+DataFrame: Deuteronomy_dataset
 Current Row Index: 411
 Rows Annotated This Session: 4
 
 Date and Time: 2024-03-18 15:36
-DataFrame: Exodus_dataset
+DataFrame: Deuteronomy_dataset
 Current Row Index: 451
 Rows Annotated This Session: 41
 
 Date and Time: 2024-03-19 13:33
-DataFrame: Exodus_dataset
+DataFrame: Deuteronomy_dataset
 Current Row Index: 540
 Rows Annotated This Session: 90
 
 Date and Time: 2024-03-19 13:57
-DataFrame: Exodus_dataset
+DataFrame: Deuteronomy_dataset
 Current Row Index: 568
 Rows Annotated This Session: 29
 
 Date and Time: 2024-03-20 11:05
-DataFrame: Exodus_dataset
+DataFrame: Deuteronomy_dataset
 Current Row Index: 641
 Rows Annotated This Session: 74
 
 Date and Time: 2024-03-20 11:47
-DataFrame: Exodus_dataset
+DataFrame: Deuteronomy_dataset
 Current Row Index: 655
 Rows Annotated This Session: 15
 
 Date and Time: 2024-03-20 17:34
-DataFrame: Exodus_dataset
+DataFrame: Deuteronomy_dataset
 Current Row Index: 657
 Rows Annotated This Session: 3
 
 Date and Time: 2024-03-21 17:05
-DataFrame: Exodus_dataset
+DataFrame: Deuteronomy_dataset
 Current Row Index: 672
 Rows Annotated This Session: 16
 
 Date and Time: 2024-03-22 11:49
-DataFrame: Exodus_dataset
+DataFrame: Deuteronomy_dataset
 Current Row Index: 712
 Rows Annotated This Session: 41
 
 Date and Time: 2024-04-02 10:02
-DataFrame: Exodus_dataset
+DataFrame: Deuteronomy_dataset
 Current Row Index: 739
 Rows Annotated This Session: 28
 
 Date and Time: 2024-04-02 10:41
-DataFrame: Exodus_dataset
+DataFrame: Deuteronomy_dataset
 Current Row Index: 782
 Rows Annotated This Session: 44
 
 Date and Time: 2024-04-02 10:59
-DataFrame: Exodus_dataset
+DataFrame: Deuteronomy_dataset
 Current Row Index: 807
 Rows Annotated This Session: 26
 
 Date and Time: 2024-04-02 11:16
-DataFrame: Exodus_dataset
+DataFrame: Deuteronomy_dataset
 Current Row Index: 807
 Rows Annotated This Session: 1
 
 Date and Time: 2024-04-02 13:32
-DataFrame: Exodus_dataset
+DataFrame: Deuteronomy_dataset
 Current Row Index: 848
 Rows Annotated This Session: 42
 
 Date and Time: 2024-04-02 13:58
-DataFrame: Exodus_dataset
+DataFrame: Deuteronomy_dataset
 Current Row Index: 869
 Rows Annotated This Session: 22
 
 Date and Time: 2024-04-02 14:04
-DataFrame: Exodus_dataset
+DataFrame: Deuteronomy_dataset
 Current Row Index: 880
 Rows Annotated This Session: 12
 
 Date and Time: 2024-04-02 14:29
-DataFrame: Exodus_dataset
+DataFrame: Deuteronomy_dataset
 Current Row Index: 904
 Rows Annotated This Session: 25
 
 Date and Time: 2024-04-02 15:25
-DataFrame: Exodus_dataset
+DataFrame: Deuteronomy_dataset
 Current Row Index: 931
 Rows Annotated This Session: 28
 
 Date and Time: 2024-04-03 11:16
-DataFrame: Exodus_dataset
+DataFrame: Deuteronomy_dataset
 Current Row Index: 945
 Rows Annotated This Session: 15
 
 Date and Time: 2024-04-03 11:26
-DataFrame: Exodus_dataset
+DataFrame: Deuteronomy_dataset
 Current Row Index: 956
 Rows Annotated This Session: 12
 
 Date and Time: 2024-04-03 11:31
-DataFrame: Exodus_dataset
+DataFrame: Deuteronomy_dataset
 Current Row Index: 967
 Rows Annotated This Session: 12
 
 Date and Time: 2024-04-03 11:37
-DataFrame: Exodus_dataset
+DataFrame: Deuteronomy_dataset
 Current Row Index: 973
 Rows Annotated This Session: 7
 
 Date and Time: 2024-04-03 11:41
-DataFrame: Exodus_dataset
+DataFrame: Deuteronomy_dataset
 Current Row Index: 978
 Rows Annotated This Session: 6
 
 Date and Time: 2024-04-03 11:46
-DataFrame: Exodus_dataset
+DataFrame: Deuteronomy_dataset
 Current Row Index: 984
 Rows Annotated This Session: 7
 
 Date and Time: 2024-07-10 16:32
-DataFrame: Exodus_dataset
+DataFrame: Deuteronomy_dataset
 Current Row Index: 722
 Rows Annotated This Session: -261
 
 Date and Time: 2024-07-10 16:32
-DataFrame: Exodus_dataset
+DataFrame: Deuteronomy_dataset
 Current Row Index: 720
 Rows Annotated This Session: -1
 
 Date and Time: 2024-07-10 16:35
-DataFrame: Exodus_dataset
+DataFrame: Deuteronomy_dataset
 Current Row Index: 720
 Rows Annotated This Session: 1
 
 Date and Time: 2024-07-10 16:36
-DataFrame: Exodus_dataset
+DataFrame: Deuteronomy_dataset
 Current Row Index: 720
 Rows Annotated This Session: 1
 
 Date and Time: 2024-07-10 16:52
-DataFrame: Exodus_dataset
+DataFrame: Deuteronomy_dataset
 Current Row Index: 438
 Rows Annotated This Session: -281
 
 Date and Time: 2024-07-13 11:04
-DataFrame: Exodus_dataset
+DataFrame: Deuteronomy_dataset
 Current Row Index: 487
 Rows Annotated This Session: 50
 
 Date and Time: 2024-07-13 11:40
-DataFrame: Exodus_dataset
+DataFrame: Deuteronomy_dataset
 Current Row Index: 573
 Rows Annotated This Session: 87
 

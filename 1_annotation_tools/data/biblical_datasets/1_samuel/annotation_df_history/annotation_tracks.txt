@@ -1,280 +1,280 @@
 Date and Time: 2024-06-11 09:15
-DataFrame: Exodus_dataset
+DataFrame: 1_Samuel_dataset
 Current Row Index: 19
 Rows Annotated This Session: 20
 
 Date and Time: 2024-06-11 11:21
-DataFrame: Exodus_dataset
+DataFrame: 1_Samuel_dataset
 Current Row Index: 59
 Rows Annotated This Session: 41
 
 Date and Time: 2024-06-11 11:35
-DataFrame: Exodus_dataset
+DataFrame: 1_Samuel_dataset
 Current Row Index: 75
 Rows Annotated This Session: 17
 
 Date and Time: 2024-06-11 11:45
-DataFrame: Exodus_dataset
+DataFrame: 1_Samuel_dataset
 Current Row Index: 75
 Rows Annotated This Session: 1
 
 Date and Time: 2024-06-12 10:52
-DataFrame: Exodus_dataset
+DataFrame: 1_Samuel_dataset
 Current Row Index: 86
 Rows Annotated This Session: 12
 
 Date and Time: 2024-06-12 11:07
-DataFrame: Exodus_dataset
+DataFrame: 1_Samuel_dataset
 Current Row Index: 107
 Rows Annotated This Session: 22
 
 Date and Time: 2024-06-12 11:13
-DataFrame: Exodus_dataset
+DataFrame: 1_Samuel_dataset
 Current Row Index: 112
 Rows Annotated This Session: 6
 
 Date and Time: 2024-06-12 11:34
-DataFrame: Exodus_dataset
+DataFrame: 1_Samuel_dataset
 Current Row Index: 129
 Rows Annotated This Session: 18
 
 Date and Time: 2024-06-13 11:49
-DataFrame: Exodus_dataset
+DataFrame: 1_Samuel_dataset
 Current Row Index: 148
 Rows Annotated This Session: 20
 
 Date and Time: 2024-06-13 13:56
-DataFrame: Exodus_dataset
+DataFrame: 1_Samuel_dataset
 Current Row Index: 166
 Rows Annotated This Session: 19
 
 Date and Time: 2024-06-13 14:38
-DataFrame: Exodus_dataset
+DataFrame: 1_Samuel_dataset
 Current Row Index: 172
 Rows Annotated This Session: 7
 
 Date and Time: 2024-06-14 11:02
-DataFrame: Exodus_dataset
+DataFrame: 1_Samuel_dataset
 Current Row Index: 241
 Rows Annotated This Session: 70
 
 Date and Time: 2024-06-14 11:08
-DataFrame: Exodus_dataset
+DataFrame: 1_Samuel_dataset
 Current Row Index: 264
 Rows Annotated This Session: 24
 
 Date and Time: 2024-06-14 11:10
-DataFrame: Exodus_dataset
+DataFrame: 1_Samuel_dataset
 Current Row Index: 267
 Rows Annotated This Session: 4
 
 Date and Time: 2024-06-18 08:50
-DataFrame: Exodus_dataset
+DataFrame: 1_Samuel_dataset
 Current Row Index: 290
 Rows Annotated This Session: 24
 
 Date and Time: 2024-06-18 08:55
-DataFrame: Exodus_dataset
+DataFrame: 1_Samuel_dataset
 Current Row Index: 292
 Rows Annotated This Session: 3
 
 Date and Time: 2024-06-18 10:42
-DataFrame: Exodus_dataset
+DataFrame: 1_Samuel_dataset
 Current Row Index: 296
 Rows Annotated This Session: 5
 
 Date and Time: 2024-09-11 16:46
-DataFrame: Exodus_dataset
+DataFrame: 1_Samuel_dataset
 Current Row Index: 59
 Rows Annotated This Session: -236
 
 Date and Time: 2024-09-16 14:31
-DataFrame: Exodus_dataset
+DataFrame: 1_Samuel_dataset
 Current Row Index: 144
 Rows Annotated This Session: 86
 
 Date and Time: 2024-09-16 14:33
-DataFrame: Exodus_dataset
+DataFrame: 1_Samuel_dataset
 Current Row Index: 148
 Rows Annotated This Session: 5
 
 Date and Time: 2024-09-16 15:14
-DataFrame: Exodus_dataset
+DataFrame: 1_Samuel_dataset
 Current Row Index: 200
 Rows Annotated This Session: 53
 
 Date and Time: 2024-09-16 15:24
-DataFrame: Exodus_dataset
+DataFrame: 1_Samuel_dataset
 Current Row Index: 212
 Rows Annotated This Session: 13
 
 Date and Time: 2024-09-16 16:03
-DataFrame: Exodus_dataset
+DataFrame: 1_Samuel_dataset
 Current Row Index: 212
 Rows Annotated This Session: 1
 
 Date and Time: 2024-09-17 11:56
-DataFrame: Exodus_dataset
+DataFrame: 1_Samuel_dataset
 Current Row Index: 282
 Rows Annotated This Session: 71
 
 Date and Time: 2024-09-17 13:12
-DataFrame: Exodus_dataset
+DataFrame: 1_Samuel_dataset
 Current Row Index: 305
 Rows Annotated This Session: 24
 
 Date and Time: 2024-09-17 13:22
-DataFrame: Exodus_dataset
+DataFrame: 1_Samuel_dataset
 Current Row Index: 319
 Rows Annotated This Session: 15
 
 Date and Time: 2024-09-17 14:21
-DataFrame: Exodus_dataset
+DataFrame: 1_Samuel_dataset
 Current Row Index: 361
 Rows Annotated This Session: 43
 
 Date and Time: 2024-09-19 10:41
-DataFrame: Exodus_dataset
+DataFrame: 1_Samuel_dataset
 Current Row Index: 395
 Rows Annotated This Session: 35
 
 Date and Time: 2024-09-19 11:19
-DataFrame: Exodus_dataset
+DataFrame: 1_Samuel_dataset
 Current Row Index: 416
 Rows Annotated This Session: 22
 
 Date and Time: 2024-09-19 11:52
-DataFrame: Exodus_dataset
+DataFrame: 1_Samuel_dataset
 Current Row Index: 438
 Rows Annotated This Session: 23
 
 Date and Time: 2024-09-19 12:15
-DataFrame: Exodus_dataset
+DataFrame: 1_Samuel_dataset
 Current Row Index: 469
 Rows Annotated This Session: 32
 
 Date and Time: 2024-09-19 12:25
-DataFrame: Exodus_dataset
+DataFrame: 1_Samuel_dataset
 Current Row Index: 486
 Rows Annotated This Session: 18
 
 Date and Time: 2024-09-19 12:55
-DataFrame: Exodus_dataset
+DataFrame: 1_Samuel_dataset
 Current Row Index: 519
 Rows Annotated This Session: 34
 
 Date and Time: 2024-09-19 13:09
-DataFrame: Exodus_dataset
+DataFrame: 1_Samuel_dataset
 Current Row Index: 523
 Rows Annotated This Session: 5
 
 Date and Time: 2024-09-19 13:10
-DataFrame: Exodus_dataset
+DataFrame: 1_Samuel_dataset
 Current Row Index: 523
 Rows Annotated This Session: 1
 
 Date and Time: 2024-09-19 13:21
-DataFrame: Exodus_dataset
+DataFrame: 1_Samuel_dataset
 Current Row Index: 528
 Rows Annotated This Session: 6
 
 Date and Time: 2024-09-25 10:46
-DataFrame: Exodus_dataset
+DataFrame: 1_Samuel_dataset
 Current Row Index: 557
 Rows Annotated This Session: 30
 
 Date and Time: 2024-09-25 11:47
-DataFrame: Exodus_dataset
+DataFrame: 1_Samuel_dataset
 Current Row Index: 579
 Rows Annotated This Session: 23
 
 Date and Time: 2024-09-25 11:47
-DataFrame: Exodus_dataset
+DataFrame: 1_Samuel_dataset
 Current Row Index: 579
 Rows Annotated This Session: 1
 
 Date and Time: 2024-09-25 12:01
-DataFrame: Exodus_dataset
+DataFrame: 1_Samuel_dataset
 Current Row Index: 584
 Rows Annotated This Session: 6
 
 Date and Time: 2024-09-25 12:17
-DataFrame: Exodus_dataset
+DataFrame: 1_Samuel_dataset
 Current Row Index: 612
 Rows Annotated This Session: 29
 
 Date and Time: 2024-09-25 14:00
-DataFrame: Exodus_dataset
+DataFrame: 1_Samuel_dataset
 Current Row Index: 624
 Rows Annotated This Session: 13
 
 Date and Time: 2024-09-25 14:10
-DataFrame: Exodus_dataset
+DataFrame: 1_Samuel_dataset
 Current Row Index: 632
 Rows Annotated This Session: 9
 
 Date and Time: 2024-09-26 13:52
-DataFrame: Exodus_dataset
+DataFrame: 1_Samuel_dataset
 Current Row Index: 669
 Rows Annotated This Session: 38
 
 Date and Time: 2024-09-26 14:23
-DataFrame: Exodus_dataset
+DataFrame: 1_Samuel_dataset
 Current Row Index: 694
 Rows Annotated This Session: 26
 
 Date and Time: 2024-09-26 14:26
-DataFrame: Exodus_dataset
+DataFrame: 1_Samuel_dataset
 Current Row Index: 699
 Rows Annotated This Session: 6
 
 Date and Time: 2024-09-26 14:55
-DataFrame: Exodus_dataset
+DataFrame: 1_Samuel_dataset
 Current Row Index: 710
 Rows Annotated This Session: 12
 
 Date and Time: 2024-09-26 15:06
-DataFrame: Exodus_dataset
+DataFrame: 1_Samuel_dataset
 Current Row Index: 744
 Rows Annotated This Session: 35
 
 Date and Time: 2024-09-26 15:20
-DataFrame: Exodus_dataset
+DataFrame: 1_Samuel_dataset
 Current Row Index: 753
 Rows Annotated This Session: 10
 
 Date and Time: 2024-09-26 15:20
-DataFrame: Exodus_dataset
+DataFrame: 1_Samuel_dataset
 Current Row Index: 753
 Rows Annotated This Session: 1
 
 Date and Time: 2024-09-30 15:11
-DataFrame: Exodus_dataset
+DataFrame: 1_Samuel_dataset
 Current Row Index: 802
 Rows Annotated This Session: 50
 
 Date and Time: 2024-09-30 15:37
-DataFrame: Exodus_dataset
+DataFrame: 1_Samuel_dataset
 Current Row Index: 824
 Rows Annotated This Session: 23
 
 Date and Time: 2024-09-30 15:39
-DataFrame: Exodus_dataset
+DataFrame: 1_Samuel_dataset
 Current Row Index: 824
 Rows Annotated This Session: 1
 
 Date and Time: 2024-10-01 11:24
-DataFrame: Exodus_dataset
+DataFrame: 1_Samuel_dataset
 Current Row Index: 864
 Rows Annotated This Session: 41
 
 Date and Time: 2024-10-01 12:04
-DataFrame: Exodus_dataset
+DataFrame: 1_Samuel_dataset
 Current Row Index: 929
 Rows Annotated This Session: 66
 
 Date and Time: 2024-10-01 12:26
-DataFrame: Exodus_dataset
+DataFrame: 1_Samuel_dataset
 Current Row Index: 971
 Rows Annotated This Session: 43
 
