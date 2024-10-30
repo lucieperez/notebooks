@@ -58,3 +58,18 @@ DataFrame: 2_samuel_dataset
 Current Row Index: 282
 Rows Annotated This Session: 47
 
+Date and Time: 2024-10-30 13:49
+DataFrame: 2_samuel_dataset
+Current Row Index: 326
+Rows Annotated This Session: 45
+
+Date and Time: 2024-10-30 14:18
+DataFrame: 2_samuel_dataset
+Current Row Index: 419
+Rows Annotated This Session: 94
+
+Date and Time: 2024-10-30 14:18
+DataFrame: 2_samuel_dataset
+Current Row Index: 419
+Rows Annotated This Session: 1
+
