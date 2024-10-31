@@ -73,3 +73,38 @@ DataFrame: 2_samuel_dataset
 Current Row Index: 419
 Rows Annotated This Session: 1
 
+Date and Time: 2024-10-31 10:16
+DataFrame: 2_samuel_dataset
+Current Row Index: 476
+Rows Annotated This Session: 58
+
+Date and Time: 2024-10-31 10:32
+DataFrame: 2_samuel_dataset
+Current Row Index: 507
+Rows Annotated This Session: 32
+
+Date and Time: 2024-10-31 11:25
+DataFrame: 2_samuel_dataset
+Current Row Index: 606
+Rows Annotated This Session: 100
+
+Date and Time: 2024-10-31 11:35
+DataFrame: 2_samuel_dataset
+Current Row Index: 633
+Rows Annotated This Session: 28
+
+Date and Time: 2024-10-31 11:36
+DataFrame: 2_samuel_dataset
+Current Row Index: 633
+Rows Annotated This Session: 1
+
+Date and Time: 2024-10-31 11:51
+DataFrame: 2_samuel_dataset
+Current Row Index: 665
+Rows Annotated This Session: 33
+
+Date and Time: 2024-10-31 11:52
+DataFrame: 2_samuel_dataset
+Current Row Index: 674
+Rows Annotated This Session: 10
+
