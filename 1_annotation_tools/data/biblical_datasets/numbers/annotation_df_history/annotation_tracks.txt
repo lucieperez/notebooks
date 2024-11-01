@@ -1,0 +1,40 @@
+Date and Time: 2024-11-01 10:38
+DataFrame: numbers_dataset
+Current Row Index: 82
+Rows Annotated This Session: 83
+
+Date and Time: 2024-11-01 10:51
+DataFrame: numbers_dataset
+Current Row Index: 126
+Rows Annotated This Session: 45
+
+Date and Time: 2024-11-01 11:13
+DataFrame: numbers_dataset
+Current Row Index: 152
+Rows Annotated This Session: 27
+
+Date and Time: 2024-11-01 11:31
+DataFrame: numbers_dataset
+Current Row Index: 198
+Rows Annotated This Session: 47
+
+Date and Time: 2024-11-01 11:45
+DataFrame: numbers_dataset
+Current Row Index: 201
+Rows Annotated This Session: 4
+
+Date and Time: 2024-11-01 12:12
+DataFrame: numbers_dataset
+Current Row Index: 237
+Rows Annotated This Session: 37
+
+Date and Time: 2024-11-01 12:22
+DataFrame: numbers_dataset
+Current Row Index: 261
+Rows Annotated This Session: 25
+
+Date and Time: 2024-11-01 12:23
+DataFrame: numbers_dataset
+Current Row Index: 262
+Rows Annotated This Session: 2
+
