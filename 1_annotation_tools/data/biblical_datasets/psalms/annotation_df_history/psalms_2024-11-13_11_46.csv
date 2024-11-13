@@ -188,49 +188,49 @@ verb_id,lex,scroll,book,chapter,verse_num,gcons_verb,gcons_verse,sign_info,stem,
 317405,BW>[,MT,Psalms,42,3,>BW>,YM>H NPCJ L >LHJM L >L XJ MTJ >BW> W >R>H PNJ >LHJM,,qal,impf,MTJ >BW>,,no complement,no complement,,,,,,,,,,,,,,,,,,
 317432,<BR[,MT,Psalms,42,5,><BR,>LH >ZKRH W >CPKH <LJ NPCJ KJ ><BR B SK >DDM <D BJT >LHJM B QWL RNH W TWDH HMWN XWGG,,qal,impf,KJ ><BR B SK,,no complement,no complement,,,,,,,,,,,,,,,,,,
 2054217,<BR[,4Q98d,Psalms,42,5,><BR,>LH >ZKRH W >CPKH <LJ NPCJ KJ ><BR B SK >DDM <D BJT >LHJM B QWL RNH W TWDH HMWN XWGG,000 11111 1 11111 111 1111 11 1111 1 11 1111 11 111 11111 1 111 000 0 0111 1111 1111,qal,impf,None,None,,,,,,,,,,,,,,,,,,,reconstructed,>LH [>ZKRH W >CPKH <LJ NPCJ KJ ><BR B SK >DDM <D BJT >LHJM B QWL] RNH W T[WDH HMWN XWGG]
-317488,<BR[,MT,Psalms,42,8,<BRW,THWM >L THWM QWR> L QWL YNWRJK KL MCBRJK W GLJK <LJ <BRW,,qal,perf,KL MCBRJK W GLJK <LJ <BRW,KL MCBRJK W GLJK,<LJ,<L,upon / to me,0,prep,prps,anim,det,prsf,simple,factive,trajectory,<L,,,,,,,
+317488,<BR[,MT,Psalms,42,8,<BRW,THWM >L THWM QWR> L QWL YNWRJK KL MCBRJK W GLJK <LJ <BRW,,qal,perf,KL MCBRJK W GLJK <LJ <BRW,KL MCBRJK W GLJK,<LJ,<L,upon / to me,0,prep,prps,anim,det,prsf,simple,,,<L,,,,,,,
 317511,HLK[,MT,Psalms,42,10,>LK,>WMRH L >L SL<J LMH CKXTNJ LMH QDR >LK B LXY >WJB,,qal,impf,LMH QDR >LK B LXY >WJB,,no complement,no complement,,,,,,,,,,,,,,,,,,
 317569,HLK[,MT,Psalms,43,2,>THLK,KJ >TH >LHJ M<WZJ LMH ZNXTNJ LMH QDR >THLK B LXY >WJB,,hit,impf,LMH QDR >THLK B LXY >WJB,,no complement,no complement,,,,,,,,,,,,,,,,,,
-317579,BW>[,MT,Psalms,43,3,JBJ>WNJ,CLX >WRK W >MTK HMH JNXWNJ JBJ>WNJ >L HR QDCK W >L MCKNWTJK,,hif,impf,JBJ>WNJ >L HR QDCK W >L MCKNWTJK,,>L HR QDCK W >L MCKNWTJK,>L HR/ QDC/ W >L MCKN/,to your holy hill and to your tabernacles,0,prep,place,inanim,det,subs,complex,factive,goal,>L,>L,,,,,,
-2087980,BW>[,11Q8,Psalms,43,3,JBJ>WNJ,CLX >WRKH W >MTKH HMH JNXWNJ JBJ>WNJ >L HR QDCK W >L MCKNWTJK,111 11111 1 11111 111 111111 1111111 10 11 1111 1 11 11111111,hif,impf,None,None,,,,,,,,,,,,,,,,,,,reconstructed,[CLX >WRKH W >MTKH HMH JNXWNJ JBJ>WNJ >]L [HR QDCK W >L MCKNWTJK]
-317587,BW>[,MT,Psalms,43,4,>BW>H,W >BW>H >L MZBX >LHJM >L >L FMXT GJLJ W >WDK B KNWR >LHJM >LHJ,,qal,impf,W >BW>H >L MZBX >LHJM,,>L MZBX >LHJM,>L MZBX/ >LHJM/,to the altar of god,0,prep,place,inanim,det,subs,complex,factive,goal,>L,,,,,,,
-317717,JY>[,MT,Psalms,44,10,TY>,>P ZNXT W TKLJMNW W L> TY> B YB>WTJNW,,qal,impf,W L> TY> B YB>WTJNW,,B YB>WTJNW,B YB>/,in / with our armies,0,prep,pers,anim,det,subs,complex,factive,other,B,,,,,,,
+317579,BW>[,MT,Psalms,43,3,JBJ>WNJ,CLX >WRK W >MTK HMH JNXWNJ JBJ>WNJ >L HR QDCK W >L MCKNWTJK,,hif,impf,JBJ>WNJ >L HR QDCK W >L MCKNWTJK,,>L HR QDCK W >L MCKNWTJK,>L HR/ QDC/ W >L MCKN/,,0,prep + prep,,,det,subs,complex,,,>L,>L,,,,,,
+2087980,BW>[,11Q8,Psalms,43,3,JBJ>WNJ,CLX >WRKH W >MTKH HMH JNXWNJ JBJ>WNJ >L HR QDCK W >L MCKNWTJK,111 11111 1 11111 111 111111 1111111 10 11 1111 1 11 11111111,hif,impf,None,None,,,,,,,,,,,,,,,,,,,,[CLX >WRKH W >MTKH HMH JNXWNJ JBJ>WNJ >]L [HR QDCK W >L MCKNWTJK]
+317587,BW>[,MT,Psalms,43,4,>BW>H,W >BW>H >L MZBX >LHJM >L >L FMXT GJLJ W >WDK B KNWR >LHJM >LHJ,,qal,impf,W >BW>H >L MZBX >LHJM,,>L MZBX >LHJM,>L MZBX/ >LHJM/,,0,prep,,,det,subs,complex,,,>L,,,,,,,
+317717,JY>[,MT,Psalms,44,10,TY>,>P ZNXT W TKLJMNW W L> TY> B YB>WTJNW,,qal,impf,W L> TY> B YB>WTJNW,,B YB>WTJNW,B YB>/,,0,prep,,,det,subs,simple,,,B,,,,,,,
 317786,BW>[,MT,Psalms,44,18,B>TNW,KL Z>T B>TNW W L> CKXNWK W L> CQRNW B BRJTK,,qal,perf,KL Z>T B>TNW,KL Z>T,no complement,no complement,,,,,,,,,,,,,,,,,,
-317942,NPL[,MT,Psalms,45,6,JPLW,XYJK CNWNJM <MJM TXTJK JPLW B LB >WJBJ H MLK,,qal,impf,<MJM TXTJK JPLW,<MJM,TXTJK,TXT/,under you,0,vc,prps,anim,det,prsf,simple,vertical,location,TXT/,,,,,,,
-2087993,NPL[,11Q8,Psalms,45,6,JPLW,XYJK CNWNJM <MJM TXTJK JPLW B LB >WJBJ H MLK >LP,1111 111111 1111 11111 1111 1 11 11100 0 000 000,qal,impf,None,None,,,,,,,,,,,,,,,,,,,reconstructed,[XYJK CNWNJM <MJM TXTJK JPLW B LB >WJ]BJ H MLK >LP
-318044,BW>[,MT,Psalms,45,15,MWB>WT,L RQMWT TWBL L MLK BTWLWT >XRJH R<WTJH MWB>WT LK,,hof,ptcp,R<WTJH MWB>WT LK,R<WTJH,LK,L,to you,0,prep,prps,anim,det,prsf,simple,factive,goal,L,,,,,,,
-318051,BW>[,MT,Psalms,45,16,TB>JNH,TWBLNH B FMXT W GJL TB>JNH B HJKL MLK,,qal,impf,TB>JNH B HJKL MLK,,B HJKL MLK,B HJKL/ MLK/,in the palace of the king,0,prep,place,inanim,det,subs,complex,factive,goal,B,,,,,,,
+317942,NPL[,MT,Psalms,45,6,JPLW,XYJK CNWNJM <MJM TXTJK JPLW B LB >WJBJ H MLK,,qal,impf,<MJM TXTJK JPLW,<MJM,TXTJK,TXT/,,0,vc,,,det,subs,simple,,,,,,,,,,
+2087993,NPL[,11Q8,Psalms,45,6,JPLW,XYJK CNWNJM <MJM TXTJK JPLW B LB >WJBJ H MLK >LP,1111 111111 1111 11111 1111 1 11 11100 0 000 000,qal,impf,None,None,,,,,,,,,,,,,,,,,,,,[XYJK CNWNJM <MJM TXTJK JPLW B LB >WJ]BJ H MLK >LP
+318044,BW>[,MT,Psalms,45,15,MWB>WT,L RQMWT TWBL L MLK BTWLWT >XRJH R<WTJH MWB>WT LK,,hof,ptcp,R<WTJH MWB>WT LK,R<WTJH,LK,L,,0,prep,,,det,,simple,,,L,,,,,,,
+318051,BW>[,MT,Psalms,45,16,TB>JNH,TWBLNH B FMXT W GJL TB>JNH B HJKL MLK,,qal,impf,TB>JNH B HJKL MLK,,B HJKL MLK,B HJKL/ MLK/,,0,prep,,,det,subs,complex,,,B,,,,,,,
 318138,PNH[,MT,Psalms,46,6,PNWT,>LHJM B QRBH BL TMWV J<ZRH >LHJM L PNWT BQR,,qal,infc,L PNWT BQR,BQR,no complement,no complement,,,,,,,,,,,,,,,,,,
 318157,HLK[,MT,Psalms,46,9,LKW,LKW XZW MP<LWT JHWH >CR FM CMWT B >RY,,qal,impv,LKW,,no complement,no complement,,,,,,,,,,,,,,,,,,
 318250,<LH[,MT,Psalms,47,6,<LH,<LH >LHJM B TRW<H JHWH B QWL CWPR,,qal,perf,<LH >LHJM B TRW<H,>LHJM,no complement,no complement,,,,,,,,,,,,,,,,,,
 318294,<LH[,MT,Psalms,47,10,N<LH,NDJBJ <MJM N>SPW <M >LHJ >BRHM KJ L >LHJM MGNJ >RY M>D N<LH,,nif,perf,M>D N<LH,,no complement,no complement,,,,,,,,,,,,,,,,,,
 318334,<BR[,MT,Psalms,48,5,<BRW,KJ HNH H MLKJM NW<DW <BRW JXDW,,qal,perf,<BRW JXDW,,no complement,no complement,,,,,,,,,,,,,,,,,,
-2052582,<BR[,4Q91,Psalms,48,5,<BRW,KJ HNH MLKJM NW<DW <BRW JXDW,11 000 00011 11111 1111 1111,qal,perf,None,None,,,,,,,,,,,,,,,,,,,reconstructed,[KJ] HNH MLK[JM NW<DW <BRW JXDW]
+2052582,<BR[,4Q91,Psalms,48,5,<BRW,KJ HNH MLKJM NW<DW <BRW JXDW,11 000 00011 11111 1111 1111,qal,perf,None,None,,,,,,,,,,,,,,,,,,,,[KJ] HNH MLK[JM NW<DW <BRW JXDW]
 318397,SBB[,MT,Psalms,48,13,SBW,SBW YJWN W HQJPWH SPRW MGDLJH,,qal,impv,SBW YJWN,,no complement,no complement,,,,,,,,,,,,,,,,,,
 318473,SBB[,MT,Psalms,49,6,JSWBNJ,LMH >JR> B JMJ R< <WN <QBJ JSWBNJ,,qal,impf,<WN <QBJ JSWBNJ,<WN <QBJ,no complement,no complement,,,,,,,,,,,,,,,,,,
-2052627,SBB[,4Q91,Psalms,49,6,JSWBNJ,LMH >JR> B JMJ R< <WN <QBJ JSWBNJ,111 1100 0 011 11 111 1111 111111,qal,impf,None,None,,,,,,,,,,,,,,,,,,,reconstructed,[LMH >J]R> B J[MJ R< <WN <QBJ JSWBNJ]
+2052627,SBB[,4Q91,Psalms,49,6,JSWBNJ,LMH >JR> B JMJ R< <WN <QBJ JSWBNJ,111 1100 0 011 11 111 1111 111111,qal,impf,None,None,,,,,,,,,,,,,,,,,,,,[LMH >J]R> B J[MJ R< <WN <QBJ JSWBNJ]
 318609,JRD[,MT,Psalms,49,18,JRD,KJ L> B MWTW JQX H KL L> JRD >XRJW KBWDW,,qal,impf,L> JRD >XRJW KBWDW,KBWDW,no complement,no complement,,,,,,,,,,,,,,,,,,
-318622,BW>[,MT,Psalms,49,20,TBW>,TBW> <D DWR >BWTJW <D NYX L> JR>W >WR,,qal,impf,TBW> <D DWR >BWTJW,,<D DWR >BWTJW,<D DWR/ >B/,to the dwelling place of his fathers,0,prep,place,inanim,det,subs,complex,factive,goal,<D,,,,,,,
+318622,BW>[,MT,Psalms,49,20,TBW>,TBW> <D DWR >BWTJW <D NYX L> JR>W >WR,,qal,impf,TBW> <D DWR >BWTJW,,<D DWR >BWTJW,<D DWR/ >B/,,0,prep,,,det,subs,complex,,,<D,,,,,,,
 318663,BW>[,MT,Psalms,50,3,JB>,JB> >LHJNW W >L JXRC >C L PNJW T>KL W SBJBJW NF<RH M>D,,qal,impf,JB> >LHJNW,>LHJNW,no complement,no complement,,,,,,,,,,,,,,,,,,
-318876,BW>[,MT,Psalms,51,2,BW>,B BW> >LJW NTN H NBJ> K >CR B> >L BT_CB<,,qal,infc,B BW> >LJW NTN H NBJ>,NTN H NBJ>,>LJW,>L,to him / it,0,prep,prps,inanim,det,prsf,simple,factive,goal,>L,,,,,,,
-318883,BW>[,MT,Psalms,51,2,B>,B BW> >LJW NTN H NBJ> K >CR B> >L BT_CB<,,qal,perf,K >CR B> >L BT_CB<,,>L BT_CB<,>L BT_CB</,to Bath-sheba,0,prep,pers,anim,det,nmpr,simple,factive,goal,>L,,,,,,,
-2052746,BW>[,4Q91,Psalms,51,2,BW>,B BW> >LJW NTN H NBJ> K >CR B> >L BT CB<,1 111 1111 111 1 1111 1 111 11 11 00 111,qal,infc,None,None,,,,,,,,,,,,,,,,,,,reconstructed,[B BW> >LJW NTN H NBJ> K >CR B> >L] BT [CB<]
-2052753,BW>[,4Q91,Psalms,51,2,B>,B BW> >LJW NTN H NBJ> K >CR B> >L BT CB<,1 111 1111 111 1 1111 1 111 11 11 00 111,qal,perf,None,None,,,,,,,,,,,,,,,,,,,reconstructed,[B BW> >LJW NTN H NBJ> K >CR B> >L] BT [CB<]
-2050416,BW>[,4Q85,Psalms,51,2,BW>,B BW> >LJW NTN H NBJ> K >CR B> >L BT CB<,0 000 0000 000 0 0000 0 000 00 11 00 000,qal,infc,B BW> >LJW NTN H NBJ>,NTN H NBJ>,>LJW,>L,to him / it,0,prep,prps,inanim,det,prsf,simple,factive,goal,>L,,,,,,,B BW> >LJW NTN H NBJ> K >CR B> [>L] BT CB<
-2050423,BW>[,4Q85,Psalms,51,2,B>,B BW> >LJW NTN H NBJ> K >CR B> >L BT CB<,0 000 0000 000 0 0000 0 000 00 11 00 000,qal,perf,K >CR B> [>L] BT CB<,,[>L] BT CB<,,,,,,,,,,,,,,,,,,reconstructed,B BW> >LJW NTN H NBJ> K >CR B> [>L] BT CB<
-318995,CWB[,MT,Psalms,51,14,HCJBH,HCJBH LJ FFWN JC<K W RWX NDJBH TSMKNJ,,hif,impv,HCJBH LJ FFWN JC<K,,LJ,L,to me,0,prep,prps,anim,det,prsf,simple,fictive,goal/recipient,L,,,,,,,
-319009,CWB[,MT,Psalms,51,15,JCWBW,>LMDH PC<JM DRKJK W XV>JM >LJK JCWBW,,qal,impf,W XV>JM >LJK JCWBW,XV>JM,>LJK,>L,to you,0,prep,prps,anim,det,prsf,simple,fictive,goal,>L,,,,,,sinners shall come back to you,
-319062,<LH[,MT,Psalms,51,21,J<LW,>Z TXPY ZBXJ YDQ <WLH W KLJL >Z J<LW <L MZBXK PRJM,,hif,impf,>Z J<LW <L MZBXK PRJM,,<L MZBXK,<L MZBX/,on your altar,0,prep,obj,inanim,det,subs,complex,factive,location,<L,,,,,,,
+318876,BW>[,MT,Psalms,51,2,BW>,B BW> >LJW NTN H NBJ> K >CR B> >L BT_CB<,,qal,infc,B BW> >LJW NTN H NBJ>,NTN H NBJ>,>LJW,>L,,0,prep,,,det,,simple,,,>L,,,,,,,
+318883,BW>[,MT,Psalms,51,2,B>,B BW> >LJW NTN H NBJ> K >CR B> >L BT_CB<,,qal,perf,K >CR B> >L BT_CB<,,>L BT_CB<,>L BT_CB</,,0,prep,pers,anim,det,nmpr,simple,,,>L,,,,,,,
+2052746,BW>[,4Q91,Psalms,51,2,BW>,B BW> >LJW NTN H NBJ> K >CR B> >L BT CB<,1 111 1111 111 1 1111 1 111 11 11 00 111,qal,infc,None,None,,,,,,,,,,,,,,,,,,,,[B BW> >LJW NTN H NBJ> K >CR B> >L] BT [CB<]
+2052753,BW>[,4Q91,Psalms,51,2,B>,B BW> >LJW NTN H NBJ> K >CR B> >L BT CB<,1 111 1111 111 1 1111 1 111 11 11 00 111,qal,perf,None,None,,,,,,,,,,,,,,,,,,,,[B BW> >LJW NTN H NBJ> K >CR B> >L] BT [CB<]
+2050416,BW>[,4Q85,Psalms,51,2,BW>,B BW> >LJW NTN H NBJ> K >CR B> >L BT CB<,0 000 0000 000 0 0000 0 000 00 11 00 000,qal,infc,None,None,,,,,,,,,,,,,,,,,,,,B BW> >LJW NTN H NBJ> K >CR B> [>L] BT CB<
+2050423,BW>[,4Q85,Psalms,51,2,B>,B BW> >LJW NTN H NBJ> K >CR B> >L BT CB<,0 000 0000 000 0 0000 0 000 00 11 00 000,qal,perf,None,None,,,,,,,,,,,,,,,,,,,,B BW> >LJW NTN H NBJ> K >CR B> [>L] BT CB<
+318995,CWB[,MT,Psalms,51,14,HCJBH,HCJBH LJ FFWN JC<K W RWX NDJBH TSMKNJ,,hif,impv,HCJBH LJ FFWN JC<K,,LJ,L,,0,prep,,,det,,simple,,,L,,,,,,,
+319009,CWB[,MT,Psalms,51,15,JCWBW,>LMDH PC<JM DRKJK W XV>JM >LJK JCWBW,,qal,impf,W XV>JM >LJK JCWBW,XV>JM,>LJK,>L,,0,prep,,,det,,simple,,,>L,,,,,,,
+319062,<LH[,MT,Psalms,51,21,J<LW,>Z TXPY ZBXJ YDQ <WLH W KLJL >Z J<LW <L MZBXK PRJM,,hif,impf,>Z J<LW <L MZBXK PRJM,,<L MZBXK,<L MZBX/,,0,prep,,,det,subs,simple,,,<L,,,,,,,
 319073,BW>[,MT,Psalms,52,2,BW>,B BW> DW>G H >DMJ W JGD L C>WL W J>MR LW B> DWD >L BJT >XJMLK,,qal,infc,B BW> DW>G H >DMJ,DW>G H >DMJ,no complement,no complement,,,,,,,,,,,,,,,,,,
-319084,BW>[,MT,Psalms,52,2,B>,B BW> DW>G H >DMJ W JGD L C>WL W J>MR LW B> DWD >L BJT >XJMLK,,qal,perf,B> DWD >L BJT >XJMLK,DWD,>L BJT >XJMLK,>L BJT/ >XJMLK/,to the house of Ahimelech,0,prep,place,inanim,det,subs,complex,factive,goal,>L,,,,,,,
-319159,<WZ[,MT,Psalms,52,9,J<Z,HNH H GBR L> JFJM >LHJM M<WZW W JBVX B RB <CRW J<Z B HWTW,,qal,impf,J<Z B HWTW,,B HWTW,B HWH==/,in his wickedness,0,prep,abs,inanim,det,subs,complex,posture/not motion,other,B,,,,,,,
-2050503,<WZ[,4Q85,Psalms,52,9,J<Z,HNH H GBR L> JFJM >LHJM M<WZW W JBVX B RB <CRW J<Z B HWTW,000 0 000 00 0000 00000 00000 0 0000 0 00 0000 000 0 0000,qal,impf,J<Z B HWTW,,B HWTW,B HWH==/,in his wickedness,0,prep,abs,inanim,det,subs,complex,posture/not motion,other,B,,,,,,,HNH H GBR L> JFJM >LHJM M<WZW W JBVX B RB <CRW J<Z B HWTW
+319084,BW>[,MT,Psalms,52,2,B>,B BW> DW>G H >DMJ W JGD L C>WL W J>MR LW B> DWD >L BJT >XJMLK,,qal,perf,B> DWD >L BJT >XJMLK,DWD,>L BJT >XJMLK,>L BJT/ >XJMLK/,,0,prep,pers,anim,det,subs,complex,,,>L,,,,,,,
+319159,<WZ[,MT,Psalms,52,9,J<Z,HNH H GBR L> JFJM >LHJM M<WZW W JBVX B RB <CRW J<Z B HWTW,,qal,impf,J<Z B HWTW,,B HWTW,B HWH==/,,0,prep,,,det,subs,simple,,,B,,,,,,,
+2050503,<WZ[,4Q85,Psalms,52,9,J<Z,HNH H GBR L> JFJM >LHJM M<WZW W JBVX B RB <CRW J<Z B HWTW,000 0 000 00 0000 00000 00000 0 0000 0 00 0000 000 0 0000,qal,impf,J<Z B HWTW,,B HWTW,,,0,,,,,,,,,B,,,,,,,HNH H GBR L> JFJM >LHJM M<WZW W JBVX B RB <CRW J<Z B HWTW
 319286,BW>[,MT,Psalms,54,2,BW>,B BW> H ZJPJM W J>MRW L C>WL H L> DWD MSTTR <MNW,,qal,infc,B BW> H ZJPJM,H ZJPJM,no complement,no complement,,,,,,,,,,,,,,,,,,
-319335,CWB[,MT,Psalms,54,7,JCWB,JCWB H R< L CRRJ B >MTK HYMJTM,,hif,impf,JCWB H R< L CRRJ,,L CRRJ,L CWRR/,to my enemies,0,prep,pers,anim,det,subs,complex,fictive,goal,L,,,,,,I will return / bring back evil to my enemies,
-319409,NPL[,MT,Psalms,55,5,NPLW,LBJ JXJL B QRBJ W >JMWT MWT NPLW <LJ,,qal,perf,W >JMWT MWT NPLW <LJ,>JMWT MWT,<LJ,<L,upon / to me,0,prep,prps,anim,det,prsf,simple,vertical,goal,<L,,,,,,,
-319414,BW>[,MT,Psalms,55,6,JB>,JR>H W R<D JB> BJ W TKSNJ PLYWT,,qal,impf,JR>H W R<D JB> BJ,JR>H W R<D,BJ,B,through / in me,0,prep,prps,inanim,det,prsf,simple,fictive,goal,B,,,,,,,
+319335,CWB[,MT,Psalms,54,7,JCWB,JCWB H R< L CRRJ B >MTK HYMJTM,,hif,impf,JCWB H R< L CRRJ,,L CRRJ,L CWRR/,,0,prep,,,det,subs,simple,,,L,,,,,,,
+319409,NPL[,MT,Psalms,55,5,NPLW,LBJ JXJL B QRBJ W >JMWT MWT NPLW <LJ,,qal,perf,W >JMWT MWT NPLW <LJ,>JMWT MWT,<LJ,<L,,0,prep,,,det,,simple,,,<L,,,,,,,
+319414,BW>[,MT,Psalms,55,6,JB>,JR>H W R<D JB> BJ W TKSNJ PLYWT,,qal,impf,JR>H W R<D JB> BJ,JR>H W R<D,BJ,B,,0,prep,,,det,,simple,,,B,,,,,,,
 319428,<WP[,MT,Psalms,55,7,><WPH,W >MR MJ JTN LJ >BR K JWNH ><WPH W >CKNH,,qal,impf,><WPH,,no complement,no complement,,,,,,,,,,,,,,,,,,
-319439,XWC[,MT,Psalms,55,9,>XJCH,>XJCH MPLV LJ M RWX S<H M S<R,,hif,impf,>XJCH MPLV LJ M RWX S<H,,LJ,L,to me,0,prep,prps,anim,det,prsf,simple,,,L,,,,,,,
+319439,XWC[,MT,Psalms,55,9,>XJCH,>XJCH MPLV LJ M RWX S<H M S<R,,hif,impf,>XJCH MPLV LJ M RWX S<H,,LJ,L,,0,prep,,,det,,simple,,,L,,,,,,,
 319462,SBB[,MT,Psalms,55,11,JSWBBH,JWMM W LJLH JSWBBH <L XWMTJH W >WN W <ML B QRBH,,piel,impf,JWMM W LJLH JSWBBH <L XWMTJH,,no complement,no complement,,,,,,,,,,,,,,,,,,
 319510,HLK[,MT,Psalms,55,15,NHLK,>CR JXDW NMTJQ SWD B BJT >LHJM NHLK B RGC,,piel,impf,B BJT >LHJM NHLK B RGC,,B BJT >LHJM,B BJT/ >LHJM/,,0,prep,,,det,subs,complex,,,B,,,,,,,
 319516,JRD[,MT,Psalms,55,16,JRDW,JCJ MWT <LJMW JRDW C>WL XJJM KJ R<WT B MGWRM B QRBM,,qal,impf,JRDW C>WL XJJM,,C>WL,C>WL/,,0,vc,,,det,subs,simple,,,,,,,,,,
