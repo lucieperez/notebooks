@@ -1,0 +1,10 @@
+Date and Time: 2024-11-15 13:31
+DataFrame: 1 Kings dataset
+Current Row Index: 52
+Rows Annotated This Session: 53
+
+Date and Time: 2024-11-15 13:37
+DataFrame: 1 Kings dataset
+Current Row Index: 53
+Rows Annotated This Session: 2
+
