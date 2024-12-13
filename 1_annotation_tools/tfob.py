@@ -90,8 +90,8 @@ class TFOb:
             else:
                 return self
 
-        if self.source.name == "DSS" and attr == "lex":
-            attr = "lex_etcbc"
+      #  if self.source.name == "DSS" and attr == "lex":
+      #      attr = "lex_etcbc"
 
         feature = getattr(self.source.F, attr)
         return [getattr(self.source.F, attr).v(id_) for id_ in self.ids]
