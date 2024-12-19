@@ -854,3 +854,58 @@ DataFrame: isaiah_dataset
 Current Row Index: 1403
 Rows Annotated This Session: 1
 
+Date and Time: 2024-12-19 12:55
+DataFrame: 1 Kings dataset
+Current Row Index: 0
+Rows Annotated This Session: -1402
+
+Date and Time: 2024-12-19 13:13
+DataFrame: 1 Kings dataset
+Current Row Index: 123
+Rows Annotated This Session: 124
+
+Date and Time: 2024-12-19 13:31
+DataFrame: 1 Kings dataset
+Current Row Index: 227
+Rows Annotated This Session: 105
+
+Date and Time: 2024-12-19 13:32
+DataFrame: 1 Kings dataset
+Current Row Index: 227
+Rows Annotated This Session: 1
+
+Date and Time: 2024-12-19 13:32
+DataFrame: 1 Kings dataset
+Current Row Index: 227
+Rows Annotated This Session: 1
+
+Date and Time: 2024-12-19 13:33
+DataFrame: 1 Kings dataset
+Current Row Index: 227
+Rows Annotated This Session: 1
+
+Date and Time: 2024-12-19 13:38
+DataFrame: 1 Kings dataset
+Current Row Index: 253
+Rows Annotated This Session: 27
+
+Date and Time: 2024-12-19 13:53
+DataFrame: 1 Kings dataset
+Current Row Index: 388
+Rows Annotated This Session: 136
+
+Date and Time: 2024-12-19 14:12
+DataFrame: 1 Kings dataset
+Current Row Index: 505
+Rows Annotated This Session: 118
+
+Date and Time: 2024-12-19 14:19
+DataFrame: 1 Kings dataset
+Current Row Index: 567
+Rows Annotated This Session: 63
+
+Date and Time: 2024-12-19 15:54
+DataFrame: 1 Kings dataset
+Current Row Index: 567
+Rows Annotated This Session: 1
+
