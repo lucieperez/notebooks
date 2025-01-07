@@ -43,3 +43,8 @@ DataFrame: 2 Kings dataset
 Current Row Index: 302
 Rows Annotated This Session: 16
 
+Date and Time: 2025-01-07 18:29
+DataFrame: 2 Kings dataset
+Current Row Index: 302
+Rows Annotated This Session: 1
+
