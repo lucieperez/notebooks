@@ -48,3 +48,58 @@ DataFrame: 2 Kings dataset
 Current Row Index: 302
 Rows Annotated This Session: 1
 
+Date and Time: 2025-01-09 10:52
+DataFrame: 2 Kings dataset
+Current Row Index: 357
+Rows Annotated This Session: 56
+
+Date and Time: 2025-01-09 11:23
+DataFrame: 2 Kings dataset
+Current Row Index: 359
+Rows Annotated This Session: 3
+
+Date and Time: 2025-01-09 11:24
+DataFrame: 2 Kings dataset
+Current Row Index: 364
+Rows Annotated This Session: 6
+
+Date and Time: 2025-01-09 12:26
+DataFrame: 2 Kings dataset
+Current Row Index: 365
+Rows Annotated This Session: 2
+
+Date and Time: 2025-01-09 13:55
+DataFrame: 2 Kings dataset
+Current Row Index: 412
+Rows Annotated This Session: 48
+
+Date and Time: 2025-01-09 14:09
+DataFrame: 2 Kings dataset
+Current Row Index: 446
+Rows Annotated This Session: 35
+
+Date and Time: 2025-01-09 14:19
+DataFrame: 2 Kings dataset
+Current Row Index: 480
+Rows Annotated This Session: 35
+
+Date and Time: 2025-01-09 14:24
+DataFrame: 2 Kings dataset
+Current Row Index: 500
+Rows Annotated This Session: 21
+
+Date and Time: 2025-01-09 14:30
+DataFrame: 2 Kings dataset
+Current Row Index: 518
+Rows Annotated This Session: 19
+
+Date and Time: 2025-01-09 14:44
+DataFrame: 2 Kings dataset
+Current Row Index: 564
+Rows Annotated This Session: 47
+
+Date and Time: 2025-01-09 14:45
+DataFrame: 2 Kings dataset
+Current Row Index: 564
+Rows Annotated This Session: 1
+
