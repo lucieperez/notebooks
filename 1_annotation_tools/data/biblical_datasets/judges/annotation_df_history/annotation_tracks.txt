@@ -1,0 +1,80 @@
+Date and Time: 2025-01-10 10:26
+DataFrame: Judges dataset
+Current Row Index: 0
+Rows Annotated This Session: 1
+
+Date and Time: 2025-01-10 11:59
+DataFrame: Judges dataset
+Current Row Index: 89
+Rows Annotated This Session: 90
+
+Date and Time: 2025-01-10 13:37
+DataFrame: Judges dataset
+Current Row Index: 176
+Rows Annotated This Session: 88
+
+Date and Time: 2025-01-10 13:37
+DataFrame: Judges dataset
+Current Row Index: 176
+Rows Annotated This Session: 1
+
+Date and Time: 2025-01-10 13:43
+DataFrame: Judges dataset
+Current Row Index: 200
+Rows Annotated This Session: 25
+
+Date and Time: 2025-01-10 14:09
+DataFrame: Judges dataset
+Current Row Index: 273
+Rows Annotated This Session: 74
+
+Date and Time: 2025-01-10 14:22
+DataFrame: Judges dataset
+Current Row Index: 314
+Rows Annotated This Session: 42
+
+Date and Time: 2025-01-10 14:37
+DataFrame: Judges dataset
+Current Row Index: 346
+Rows Annotated This Session: 33
+
+Date and Time: 2025-01-10 14:53
+DataFrame: Judges dataset
+Current Row Index: 389
+Rows Annotated This Session: 44
+
+Date and Time: 2025-01-10 14:54
+DataFrame: Judges dataset
+Current Row Index: 392
+Rows Annotated This Session: 4
+
+Date and Time: 2025-01-10 15:00
+DataFrame: Judges dataset
+Current Row Index: 409
+Rows Annotated This Session: 18
+
+Date and Time: 2025-01-10 15:09
+DataFrame: Judges dataset
+Current Row Index: 414
+Rows Annotated This Session: 6
+
+Date and Time: 2025-01-10 15:21
+DataFrame: Judges dataset
+Current Row Index: 456
+Rows Annotated This Session: 43
+
+Date and Time: 2025-01-10 15:51
+DataFrame: Judges dataset
+Current Row Index: 477
+Rows Annotated This Session: 22
+
+Date and Time: 2025-01-10 15:56
+DataFrame: Judges dataset
+Current Row Index: 494
+Rows Annotated This Session: 18
+
+Date and Time: 2025-01-10 16:04
+DataFrame: Judges dataset
+Current Row Index: 513
+Rows Annotated This Session: 20
+
