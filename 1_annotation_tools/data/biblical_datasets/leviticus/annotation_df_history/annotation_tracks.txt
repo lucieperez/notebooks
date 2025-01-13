@@ -38,3 +38,68 @@ DataFrame: Leviticus dataset
 Current Row Index: 246
 Rows Annotated This Session: 1
 
+Date and Time: 2025-01-13 13:50
+DataFrame: Leviticus dataset
+Current Row Index: 295
+Rows Annotated This Session: 50
+
+Date and Time: 2025-01-13 14:10
+DataFrame: Leviticus dataset
+Current Row Index: 327
+Rows Annotated This Session: 33
+
+Date and Time: 2025-01-13 14:32
+DataFrame: Leviticus dataset
+Current Row Index: 353
+Rows Annotated This Session: 27
+
+Date and Time: 2025-01-13 14:42
+DataFrame: Leviticus dataset
+Current Row Index: 392
+Rows Annotated This Session: 40
+
+Date and Time: 2025-01-13 14:51
+DataFrame: Leviticus dataset
+Current Row Index: 405
+Rows Annotated This Session: 14
+
+Date and Time: 2025-01-13 15:03
+DataFrame: Leviticus dataset
+Current Row Index: 425
+Rows Annotated This Session: 21
+
+Date and Time: 2025-01-13 15:03
+DataFrame: Leviticus dataset
+Current Row Index: 425
+Rows Annotated This Session: 1
+
+Date and Time: 2025-01-13 15:10
+DataFrame: Leviticus dataset
+Current Row Index: 450
+Rows Annotated This Session: 26
+
+Date and Time: 2025-01-13 15:17
+DataFrame: Leviticus dataset
+Current Row Index: 459
+Rows Annotated This Session: 10
+
+Date and Time: 2025-01-13 15:18
+DataFrame: Leviticus dataset
+Current Row Index: 459
+Rows Annotated This Session: 1
+
+Date and Time: 2025-01-13 16:04
+DataFrame: Leviticus dataset
+Current Row Index: 497
+Rows Annotated This Session: 39
+
+Date and Time: 2025-01-13 16:11
+DataFrame: Leviticus dataset
+Current Row Index: 517
+Rows Annotated This Session: 21
+
+Date and Time: 2025-01-13 16:19
+DataFrame: Leviticus dataset
+Current Row Index: 542
+Rows Annotated This Session: 26
+
