@@ -1,0 +1,10 @@
+Date and Time: 2025-01-14 10:48
+DataFrame: Joshua dataset
+Current Row Index: 34
+Rows Annotated This Session: 35
+
+Date and Time: 2025-01-14 11:25
+DataFrame: Joshua dataset
+Current Row Index: 102
+Rows Annotated This Session: 69
+
