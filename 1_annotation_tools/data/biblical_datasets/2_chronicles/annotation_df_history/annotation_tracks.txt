@@ -1,0 +1,15 @@
+Date and Time: 2025-01-16 11:23
+DataFrame: 2 Chronicles dataset
+Current Row Index: 45
+Rows Annotated This Session: 46
+
+Date and Time: 2025-01-16 12:03
+DataFrame: 2 Chronicles dataset
+Current Row Index: 102
+Rows Annotated This Session: 58
+
+Date and Time: 2025-01-16 12:12
+DataFrame: 2 Chronicles dataset
+Current Row Index: 108
+Rows Annotated This Session: 7
+
