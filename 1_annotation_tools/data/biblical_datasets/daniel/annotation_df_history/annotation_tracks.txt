@@ -1,0 +1,5 @@
+Date and Time: 2025-01-20 15:55
+DataFrame: Daniel dataset
+Current Row Index: 10
+Rows Annotated This Session: 11
+
