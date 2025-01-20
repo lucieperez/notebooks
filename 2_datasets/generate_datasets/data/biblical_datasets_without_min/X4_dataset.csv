@@ -1,0 +1,5 @@
+verb_id,lex,scroll,book,chapter,verse_num,gcons_verb,gcons_verse,gcons_clause,subject,complement,cmpl_lex,cmpl_translation,dir_he,cmpl_constr,cmpl_nt,cmpl_anim,cmpl_det,cmpl_indiv,cmpl_complex,dir_he_dss,sign_info,stem,tense,motion_type,comments,preposition_1,preposition_2,preposition_3,preposition_4,preposition_5,preposition_6,preposition_7
+2107847,HLK[,X4,X4,f1,1,no_g_cons,,None,None,,,,,,,,,,,0,,qal,impf,,,,,,,,,
+2107848,HLK[,X4,X4,f1,1,no_g_cons,,None,None,,,,,,,,,,,0,,,,,,,,,,,,
+2107849,HLK[,X4,X4,f1,1,no_g_cons,,None,None,,,,,,,,,,,0,,,,,,,,,,,,
+2107850,HLK[,X4,X4,f1,2,no_g_cons,,None,None,,,,,,,,,,,0,,,,,,,,,,,,
