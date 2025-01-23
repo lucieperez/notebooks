@@ -1,0 +1,25 @@
+Date and Time: 2025-01-23 11:59
+DataFrame: Amos dataset
+Current Row Index: 37
+Rows Annotated This Session: 38
+
+Date and Time: 2025-01-23 12:06
+DataFrame: Amos dataset
+Current Row Index: 64
+Rows Annotated This Session: 28
+
+Date and Time: 2025-01-23 12:14
+DataFrame: Amos dataset
+Current Row Index: 88
+Rows Annotated This Session: 25
+
+Date and Time: 2025-01-23 12:20
+DataFrame: Amos dataset
+Current Row Index: 111
+Rows Annotated This Session: 24
+
+Date and Time: 2025-01-23 12:25
+DataFrame: Amos dataset
+Current Row Index: 112
+Rows Annotated This Session: 2
+
