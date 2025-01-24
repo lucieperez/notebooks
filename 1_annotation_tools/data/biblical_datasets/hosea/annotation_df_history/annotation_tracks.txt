@@ -1,0 +1,30 @@
+Date and Time: 2025-01-24 11:48
+DataFrame: Hosea dataset
+Current Row Index: 0
+Rows Annotated This Session: 1
+
+Date and Time: 2025-01-24 12:12
+DataFrame: Hosea dataset
+Current Row Index: 17
+Rows Annotated This Session: 18
+
+Date and Time: 2025-01-24 13:17
+DataFrame: Hosea dataset
+Current Row Index: 98
+Rows Annotated This Session: 82
+
+Date and Time: 2025-01-24 13:17
+DataFrame: Hosea dataset
+Current Row Index: 98
+Rows Annotated This Session: 1
+
+Date and Time: 2025-01-24 13:17
+DataFrame: Hosea dataset
+Current Row Index: 98
+Rows Annotated This Session: 1
+
+Date and Time: 2025-01-24 13:22
+DataFrame: Hosea dataset
+Current Row Index: 118
+Rows Annotated This Session: 21
+
