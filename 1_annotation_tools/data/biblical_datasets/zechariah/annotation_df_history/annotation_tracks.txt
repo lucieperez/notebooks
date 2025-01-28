@@ -1,0 +1,20 @@
+Date and Time: 2025-01-24 13:41
+DataFrame: Zechariah dataset
+Current Row Index: 7
+Rows Annotated This Session: 8
+
+Date and Time: 2025-01-28 14:34
+DataFrame: Zechariah dataset
+Current Row Index: 42
+Rows Annotated This Session: 36
+
+Date and Time: 2025-01-28 14:56
+DataFrame: Zechariah dataset
+Current Row Index: 64
+Rows Annotated This Session: 23
+
+Date and Time: 2025-01-28 15:13
+DataFrame: Zechariah dataset
+Current Row Index: 93
+Rows Annotated This Session: 30
+
