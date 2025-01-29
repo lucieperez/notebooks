@@ -1,0 +1,15 @@
+Date and Time: 2025-01-29 14:53
+DataFrame: Exodus DSS BW>[ dataset
+Current Row Index: 25
+Rows Annotated This Session: 26
+
+Date and Time: 2025-01-29 15:05
+DataFrame: Exodus DSS BW>[ dataset
+Current Row Index: 70
+Rows Annotated This Session: 46
+
+Date and Time: 2025-01-29 15:09
+DataFrame: Exodus DSS BW>[ dataset
+Current Row Index: 91
+Rows Annotated This Session: 22
+
