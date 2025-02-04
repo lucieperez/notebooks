@@ -1,0 +1,20 @@
+Date and Time: 2025-02-04 09:52
+DataFrame: Jonah dataset
+Current Row Index: 27
+Rows Annotated This Session: 28
+
+Date and Time: 2025-02-04 10:42
+DataFrame: Jonah dataset
+Current Row Index: 63
+Rows Annotated This Session: 37
+
+Date and Time: 2025-02-04 10:58
+DataFrame: Jonah dataset
+Current Row Index: 78
+Rows Annotated This Session: 16
+
+Date and Time: 2025-02-04 11:02
+DataFrame: Jonah dataset
+Current Row Index: 94
+Rows Annotated This Session: 17
+
