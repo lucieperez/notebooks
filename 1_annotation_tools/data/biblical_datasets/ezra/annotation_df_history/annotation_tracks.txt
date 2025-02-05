@@ -1,0 +1,10 @@
+Date and Time: 2025-02-05 15:05
+DataFrame: Ezra dataset
+Current Row Index: 40
+Rows Annotated This Session: 41
+
+Date and Time: 2025-02-05 15:10
+DataFrame: Ezra dataset
+Current Row Index: 56
+Rows Annotated This Session: 17
+
