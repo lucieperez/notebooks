@@ -7,7 +7,7 @@ import datetime
 from IPython.display import display, clear_output
 from ipywidgets import VBox, HBox, Button, Text 
 
-AUTO_COLUMNS = ["cmpl_translation", "cmpl_constr", "cmpl_nt", "cmpl_anim", "cmpl_det", "cmpl_indiv", "cmpl_complex", "preposition_1"]
+AUTO_COLUMNS = ["cmpl_translation", "cmpl_constr", "cmpl_nt", "cmpl_anim", "cmpl_det", "cmpl_indiv", "cmpl_complex"]
 AUTO_CACHE_PATH = "data/biblical_datasets/auto_cache.json"
 
 class AnnotationTool:
@@ -897,7 +897,7 @@ class AnnotationTool:
         # Calculate the number of rows annotated in this session
         rows_annotated_this_session = self.current_index - self.get_session_start_index() + 1
 
-        details = f"Date and Time: {current_datetime}\nDataFrame: Ecclesiastes dataset\nCurrent Row Index: {current_row_index}\nRows Annotated This Session: {rows_annotated_this_session}\n\n"
+        details = f"Date and Time: {current_datetime}\nDataFrame: Ruth dataset\nCurrent Row Index: {current_row_index}\nRows Annotated This Session: {rows_annotated_this_session}\n\n"
 
         with open(self.history_file_path, 'a') as file:
             file.write(details)
