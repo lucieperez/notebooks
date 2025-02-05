@@ -7,7 +7,7 @@ import datetime
 from IPython.display import display, clear_output
 from ipywidgets import VBox, HBox, Button, Text 
 
-AUTO_COLUMNS = ["cmpl_translation", "cmpl_constr", "cmpl_nt", "cmpl_anim", "cmpl_det", "cmpl_indiv", "cmpl_complex"]
+AUTO_COLUMNS = ["cmpl_translation", "cmpl_constr", "cmpl_nt", "cmpl_anim", "cmpl_det", "cmpl_indiv", "cmpl_complex", "preposition_1"]
 AUTO_CACHE_PATH = "data/biblical_datasets/auto_cache.json"
 
 class AnnotationTool:
