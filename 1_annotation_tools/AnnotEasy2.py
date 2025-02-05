@@ -897,7 +897,7 @@ class AnnotationTool:
         # Calculate the number of rows annotated in this session
         rows_annotated_this_session = self.current_index - self.get_session_start_index() + 1
 
-        details = f"Date and Time: {current_datetime}\nDataFrame: Lamentations dataset\nCurrent Row Index: {current_row_index}\nRows Annotated This Session: {rows_annotated_this_session}\n\n"
+        details = f"Date and Time: {current_datetime}\nDataFrame: Ezra dataset\nCurrent Row Index: {current_row_index}\nRows Annotated This Session: {rows_annotated_this_session}\n\n"
 
         with open(self.history_file_path, 'a') as file:
             file.write(details)
