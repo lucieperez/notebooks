@@ -1,0 +1,20 @@
+Date and Time: 2025-02-05 13:45
+DataFrame: Lamentations dataset
+Current Row Index: 2
+Rows Annotated This Session: 3
+
+Date and Time: 2025-02-05 14:20
+DataFrame: Lamentations dataset
+Current Row Index: 46
+Rows Annotated This Session: 45
+
+Date and Time: 2025-02-05 14:28
+DataFrame: Lamentations dataset
+Current Row Index: 70
+Rows Annotated This Session: 25
+
+Date and Time: 2025-02-05 14:39
+DataFrame: Lamentations dataset
+Current Row Index: 85
+Rows Annotated This Session: 16
+
