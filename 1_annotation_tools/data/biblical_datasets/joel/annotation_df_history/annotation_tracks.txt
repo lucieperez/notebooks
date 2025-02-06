@@ -1,0 +1,20 @@
+Date and Time: 2025-02-06 14:44
+DataFrame: Joel dataset
+Current Row Index: 12
+Rows Annotated This Session: 13
+
+Date and Time: 2025-02-06 15:05
+DataFrame: Joel dataset
+Current Row Index: 47
+Rows Annotated This Session: 36
+
+Date and Time: 2025-02-06 15:12
+DataFrame: Joel dataset
+Current Row Index: 69
+Rows Annotated This Session: 23
+
+Date and Time: 2025-02-06 15:19
+DataFrame: Joel dataset
+Current Row Index: 87
+Rows Annotated This Session: 19
+
