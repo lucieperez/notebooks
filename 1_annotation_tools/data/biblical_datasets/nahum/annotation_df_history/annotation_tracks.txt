@@ -1,0 +1,5 @@
+Date and Time: 2025-02-07 16:08
+DataFrame: Nahum dataset
+Current Row Index: 5
+Rows Annotated This Session: 6
+
