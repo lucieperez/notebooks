@@ -1,0 +1,20 @@
+Date and Time: 2025-02-07 13:03
+DataFrame: Malachi dataset
+Current Row Index: 3
+Rows Annotated This Session: 4
+
+Date and Time: 2025-02-07 13:53
+DataFrame: Malachi dataset
+Current Row Index: 30
+Rows Annotated This Session: 28
+
+Date and Time: 2025-02-07 13:55
+DataFrame: Malachi dataset
+Current Row Index: 31
+Rows Annotated This Session: 2
+
+Date and Time: 2025-02-07 14:30
+DataFrame: Malachi dataset
+Current Row Index: 40
+Rows Annotated This Session: 10
+
