@@ -1,0 +1,25 @@
+Date and Time: 2025-02-07 12:34
+DataFrame: song of songs dataset
+Current Row Index: 16
+Rows Annotated This Session: 17
+
+Date and Time: 2025-02-07 12:45
+DataFrame: song of songs dataset
+Current Row Index: 24
+Rows Annotated This Session: 9
+
+Date and Time: 2025-02-07 12:52
+DataFrame: song of songs dataset
+Current Row Index: 33
+Rows Annotated This Session: 10
+
+Date and Time: 2025-02-07 12:57
+DataFrame: song of songs dataset
+Current Row Index: 52
+Rows Annotated This Session: 20
+
+Date and Time: 2025-02-07 13:00
+DataFrame: song of songs dataset
+Current Row Index: 58
+Rows Annotated This Session: 7
+
