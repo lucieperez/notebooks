@@ -3,3 +3,13 @@ DataFrame: Nahum dataset
 Current Row Index: 5
 Rows Annotated This Session: 6
 
+Date and Time: 2025-02-10 14:13
+DataFrame: Nahum dataset
+Current Row Index: 27
+Rows Annotated This Session: 23
+
+Date and Time: 2025-02-10 14:21
+DataFrame: Nahum dataset
+Current Row Index: 35
+Rows Annotated This Session: 9
+
