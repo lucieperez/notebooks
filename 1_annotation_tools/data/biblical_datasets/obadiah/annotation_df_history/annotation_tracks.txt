@@ -1,0 +1,20 @@
+Date and Time: 2025-02-10 14:49
+DataFrame: Obadiah dataset
+Current Row Index: 11
+Rows Annotated This Session: 12
+
+Date and Time: 2025-02-10 14:53
+DataFrame: Obadiah dataset
+Current Row Index: 17
+Rows Annotated This Session: 7
+
+Date and Time: 2025-02-10 14:55
+DataFrame: Obadiah dataset
+Current Row Index: 21
+Rows Annotated This Session: 5
+
+Date and Time: 2025-02-10 14:56
+DataFrame: Obadiah dataset
+Current Row Index: 21
+Rows Annotated This Session: 1
+
