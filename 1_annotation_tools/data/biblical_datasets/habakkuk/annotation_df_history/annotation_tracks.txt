@@ -1,0 +1,15 @@
+Date and Time: 2025-02-10 14:25
+DataFrame: Habakkuk dataset
+Current Row Index: 12
+Rows Annotated This Session: 13
+
+Date and Time: 2025-02-10 14:28
+DataFrame: Habakkuk dataset
+Current Row Index: 26
+Rows Annotated This Session: 15
+
+Date and Time: 2025-02-10 14:30
+DataFrame: Habakkuk dataset
+Current Row Index: 28
+Rows Annotated This Session: 3
+
