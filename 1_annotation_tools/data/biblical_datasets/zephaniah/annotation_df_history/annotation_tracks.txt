@@ -1,0 +1,10 @@
+Date and Time: 2025-02-10 14:31
+DataFrame: Zephaniah dataset
+Current Row Index: 2
+Rows Annotated This Session: 3
+
+Date and Time: 2025-02-10 14:42
+DataFrame: Zephaniah dataset
+Current Row Index: 22
+Rows Annotated This Session: 21
+
