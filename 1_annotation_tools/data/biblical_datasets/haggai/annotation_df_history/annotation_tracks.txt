@@ -1,0 +1,15 @@
+Date and Time: 2025-02-10 14:57
+DataFrame: Haggai dataset
+Current Row Index: 0
+Rows Annotated This Session: 1
+
+Date and Time: 2025-02-10 15:02
+DataFrame: Haggai dataset
+Current Row Index: 13
+Rows Annotated This Session: 14
+
+Date and Time: 2025-02-10 15:49
+DataFrame: Haggai dataset
+Current Row Index: 17
+Rows Annotated This Session: 5
+
