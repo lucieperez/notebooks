@@ -37,6 +37,7 @@ class AnnotationTool:
             "motion_type",
             "spatial_arg_type",
             "comments",
+            "Study_Edition", #only for XB
         ]
         for column_name in self.column_names:
             self.create_button_for_column(column_name)
@@ -83,6 +84,7 @@ class AnnotationTool:
            # 'preposition_6',
             'comments',
             'reconstructed_verse',
+            'Study_Edition' #only for XB
         ]
 
         self.columns_to_annotate = self.columns_line2 + self.columns_line3
@@ -132,6 +134,7 @@ class AnnotationTool:
          #   'preposition_6',
             'comments',
             'reconstructed_verse',
+            'Study_Edition', 
             ]]
         
 
