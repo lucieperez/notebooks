@@ -19,8 +19,8 @@ def get_bhsa():
 
 
 def get_xb():
-    TF_XB = Fabric(locations='C:/Users/perez/Documents/extrabiblical/tf/0.2') 
-    C = TF_XB.load('''otype lex g_cons g_prs txt prs kind vs vt sp book chapter verse label language function uvf''')
+    TF_XB = Fabric(locations='C:/Users/University/text-fabric-data/github/ETCBC/extrabiblical/tf/0.2')
+    C = TF_XB.load('''otype lex det g_cons g_prs txt prs kind vs vt sp book chapter verse label language function uvf''')
     C.makeAvailableIn(globals())
     return Munch({"F": F, "L": L, "T": T, "name": "XB", "A": C})
 
@@ -65,7 +65,7 @@ class TFOb:
         return TFOb(list(source.F.otype.s(level)), source)
 
     @classmethod
-    def section2(self, section, source, scroll=None):
+    def section(self, section, source, scroll=None):
         if source.name == "BHSA":
             section = [section[0], int(section[1]), int(section[2])]
             return TFOb(source.T.nodeFromSection(section), source)
@@ -75,25 +75,6 @@ class TFOb:
         if scroll is None:
             scroll = list(dss_section.keys())[0]
         return TFOb(dss_section[scroll], source)
-    
-    @classmethod
-    def section(self, section, source, scroll=None):
-        if source.name == "BHSA":
-            section = [section[0], int(section[1]), int(section[2])]
-            return TFOb(source.T.nodeFromSection(section), source)
-
-        section = (section[0], str(section[1]), str(section[2]))
-
-        try:
-            dss_section = dss_sections[section]
-            if scroll is None:
-                scroll = list(dss_section.keys())[0]
-            return TFOb(dss_section[scroll], source)
-        except KeyError:
-            print(f"Warning: Section {section} or Scroll '{scroll}' not found.")
-            # Handle the error or return a default value
-            return None  # or some other default handling
-
 
     def __getattr__(self, attr):
         if attr in self._levels:
@@ -109,8 +90,8 @@ class TFOb:
             else:
                 return self
 
-        if self.source.name == "DSS" and attr == "lex":
-            attr = "lex_etcbc"
+      #  if self.source.name == "DSS" and attr == "lex":
+      #      attr = "lex_etcbc"
 
         feature = getattr(self.source.F, attr)
         return [getattr(self.source.F, attr).v(id_) for id_ in self.ids]
