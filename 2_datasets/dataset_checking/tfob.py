@@ -19,7 +19,7 @@ def get_bhsa():
 
 
 def get_xb():
-    TF_XB = Fabric(locations='C:/Users/perez/Documents/extrabiblical/tf/0.2') 
+    TF_XB = Fabric(locations='C:/Users/University/text-fabric-data/github/ETCBC/extrabiblical/tf/0.2')
     C = TF_XB.load('''otype lex g_cons g_prs txt prs kind vs vt sp book chapter verse label language function uvf''')
     C.makeAvailableIn(globals())
     return Munch({"F": F, "L": L, "T": T, "name": "XB", "A": C})
@@ -90,8 +90,8 @@ class TFOb:
             else:
                 return self
 
-        if self.source.name == "DSS" and attr == "lex":
-            attr = "lex_etcbc"
+      #  if self.source.name == "DSS" and attr == "lex":
+      #      attr = "lex_etcbc"
 
         feature = getattr(self.source.F, attr)
         return [getattr(self.source.F, attr).v(id_) for id_ in self.ids]
