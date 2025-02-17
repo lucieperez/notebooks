@@ -44,8 +44,8 @@ verb_id,lex,scroll,book,chapter,verse_num,gcons_verb,gcons_verse,sign_info,stem,
 4366,T<H,1QH,1QH,15,27,TT<,W L> TT< M B JD XLK>JM K ZWMM L MW,,hif,impf,W L> TT< M B JD XLK>JM,,no complement,no complement,,,,,,,,,,,,,,,,,col 12 25
 4545,HLK,1QH,1QH,15,38,JLKW,W JMS LBB J K DWNG M PNJ >C W JLKW BRKJ K MJM MWGRJM B MWRD,,qal,impf,W JLKW BRKJ K MJM,BRKJ,no complement,no complement,,,,,,,,,,,,,,,,,col 12 33-34
 4825,GLH,1QH,1QH,16,11,HGLWT,KJ >TH >L J STRT NJ NGD BNJ >DM W TWRT KH XBTH B <D QY HGLWT JC< KH L J,,nif,infc,HGLWT JC< KH L J,,L J,L J,to me,0,prep,prps,anim,det,prsf,simple,posture/not motion,goal/recipient,L,,,,,,col 13 12
-4911,BW>,1QH,1QH,16,18,TBJ>,W TBJ> HW B MYRP K ZHB B M<FJ >C W K KSP MZWQQ B KWR NWPXJM L VHR CB<TJM,,hif,impf,W TBJ> HW B MYR[P K ZH]B B M<FJ >C W K KSP,,B MYR[P],B MYRP,in a crucible,0,prep,obj,inanim,und,subs,simple,factive,goal,B,,,,reconstructed?,,col 13 16
-4931,MHR,1QH,1QH,16,19,JMHRW,W JMHRW <LJ RC<J <MJM B MYWQWT M W KWL H JWM JDK>W NPC J,,piel,impf,W JMHRW <LJ RC<J <MJM B MYWQWT M,RC<J <MJM,<LJ,<L J,upon / to me,0,prep,prps,anim,det,prsf,simple,,,<L,,,,,,
+4911,BW>,1QH,1QH,16,18,TBJ>,W TBJ> HW B MYRP K ZHB B M<FJ >C W K KSP MZWQQ B KWR NWPXJM L VHR CB<TJM,,hif,impf,W TBJ> HW B MYR[P K ZH]B B M<FJ >C W K KSP,,B MYR[P],B MYRP,in a crucible,0,prep,obj,inanim,und,subs,simple,,,B,,,,,,col 13 16
+4931,MHR,1QH,1QH,16,19,JMHRW,W JMHRW <LJ RC<J <MJM B MYWQWT M W KWL H JWM JDK>W NPC J,,piel,impf,W JMHRW <LJ RC<J <MJM B MYWQWT M,RC<J <MJM,<LJ,<L J,,0,prep,,,det,,simple,,,<L,,,,,,
 4950,CWB,1QH,1QH,16,20,TCJB,W >TH >L J TCJB S<RH L DMMH W NPC >BJWN PLVTH K YPWR W K VRP M PJ >RJWT,,hif,impf,W >TH TCJB S<RH L DMMH,>TH,L DMMH,L DMMH,,0,prep,,,und,subs,simple,,,L,,,,,,
 5075,HLK,1QH,1QH,17,9,JLKW,W B RZ XBTH B J JLKW RKJL L BNJ HWWT,,qal,impf,W B RZ JLKW RKJL L BNJ HWWT,,L BNJ HWWT,L BN HWH,,0,prep,,,und,subs,complex,,,L,,,,,,
 5203,SBB,1QH,1QH,17,19,SBBW,KJ SBBW NJ B HWWT LB M W JYR M HWPJ< L J L MRWRJM,,qal,perf,KJ SBBW NJ B HWWT LB M,,B HWWT LB M,B HWH LB M,,0,prep,,,det,subs,complex,,,B,,,,,,
