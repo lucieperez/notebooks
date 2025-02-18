@@ -97,8 +97,8 @@ verb_id,lex,scroll,book,chapter,verse_num,gcons_verb,gcons_verse,sign_info,stem,
 9311,CWB,1QH,1QH,24,25,HCJB,W >JN L HCJB DBR <L BWKXT KH,,hif,infc,L HCJB [DBR] <L BWKXT KH,,<L BWKXT KH,<L TWKXH K,to your rebuke,0,prep,other,inanim,det,subs,complex,posture/not motion,other,<L,,,,,,col 20 30-31
 9366,GLH,1QH,1QH,24,33,GLJTH,W MH >D B LW> GLJTH LB J,,qal,perf,B LW> GLJTH LB J,,no complement,no complement,,,,,,,,,,,,,,,,,col 20 34
 9415,GLH,1QH,1QH,24,38,GLJTH,PC< JLWD >CH JKH W YDQT KH > K >KJ B W> R>JTJ ZWT H >BJV B LW> GLJTH <JNJ W >CM<H HCM BBJ,,qal,perf,B LW> GLJTH <JNJ,,no complement,no complement,,,,,,,,,,,,,,,,,col 21 4
-9474,BW>,1QH,1QH,24,44,HBJ>WTH,W HBJ>WTH B BRJT <M KH W TGL LB <PR L HCMR LW M PXJ MCPV L <WMT RXMJ KH,,hif,perf,HBJ>WTH B BRJT <M KH,,B BRJT,B BRJT,in a covenant,0,prep,abs,inanim,und,subs,simple,fictive,goal,B,,,,,,col 21 9
-9522,BW>,1QH,1QH,24,48,HBJ>,W HCBTH L HBJ> B BRJT <M KH W L <MWD B MKWN <WLM L >WR >WRTJM <D NYX,,hif,infc,L HBJ> B BRJT <M KH,,B BRJT,B BRJT,in a covenant,0,prep,abs,inanim,und,subs,simple,fictive,goal,B,,,,,,col 21 13
+9474,BW>,1QH,1QH,24,44,HBJ>WTH,W HBJ>WTH B BRJT <M KH W TGL LB <PR L HCMR LW M PXJ MCPV L <WMT RXMJ KH,,hif,perf,HBJ>WTH B BRJT <M KH,,B BRJT,B BRJT,in a covenant,0,prep,abs,inanim,und,subs,simple,,,B,,,,,,
+9522,BW>,1QH,1QH,24,48,HBJ>,W HCBTH L HBJ> B BRJT <M KH W L <MWD B MKWN <WLM L >WR >WRTJM <D NYX,,hif,infc,L HBJ> B BRJT <M KH,,B BRJT,B BRJT,,0,prep,,,und,subs,simple,,,B,,,,,,
 9539,NWS,1QH,1QH,24,49,NS,W NS XWCK WT L L >JN SWP W QYJ CLWM L >JN XQR,,qal,perf,W NS XWCK,XWCK,no complement,no complement,,,,,,,,,,,,,,,,,
 9587,HLK,1QH,1QH,24,52,THLKW,THLKW P<MJ <L MVWNJ PXJ H W MPRFJ RCT W <RMT,,qal,impf,THLKW P<MJ <L MVWNJ PXJ H W MPRFJ RCT W <RMT,P<MJ,<L MVWNJ PXJ H W MPRFJ RCT W <RMT,<L MVMN PX H= W MPRF RCT W <RMH=,,0,prep,,,und,subs,complex,,,<L,,,,,,
 9607,NTK,1QH,1QH,24,53,TK,>CMR B JYR <PR M HTPRR W M TK DWNG BH W MQWJ >PR,,qal,infc,W M TK DWNG,,no complement,no complement,,,,,,,,,,,,,,,,,
