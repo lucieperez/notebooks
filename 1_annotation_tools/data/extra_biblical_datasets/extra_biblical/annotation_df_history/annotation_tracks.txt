@@ -83,3 +83,13 @@ DataFrame: Extra Biblical dataset
 Current Row Index: 100
 Rows Annotated This Session: 3
 
+Date and Time: 2025-02-19 11:04
+DataFrame: Extra Biblical dataset
+Current Row Index: 110
+Rows Annotated This Session: 11
+
+Date and Time: 2025-02-19 11:29
+DataFrame: Extra Biblical dataset
+Current Row Index: 117
+Rows Annotated This Session: 8
+

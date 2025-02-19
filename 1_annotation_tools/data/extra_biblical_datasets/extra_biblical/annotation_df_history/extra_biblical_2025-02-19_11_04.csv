@@ -109,13 +109,13 @@ verb_id,lex,scroll,book,chapter,verse_num,gcons_verb,gcons_verse,sign_info,stem,
 9943,GLH,1QH,1QH,24,78,TGL,MH JBJ B KJ> >TH >L J PTXTH LBB J L BJNT KH W TGL >WZN J W L HC<N <L VWB KH,,qal,impf,W TGL >WZN J,,no complement,no complement,,,,,,,,,,,,,,,,,col 22 bottom 12
 10033,GLH,1QH,1QH,25,2,TGL,KJ> >T KH >WR L W TGL >WZN <PR T WL MZMH >CR HW > < W T>MN H B >WZN <BD KH <D <WLM CMW<WT PL> KH L HWPJ< L <JNJ KWL CWM<J B JMJN <WZ KH L NHL KWL M B KWX GBWRT KH JHLL CM KH W JTGBR B KBWD KH,,qal,impf,W TGL >WZN <PR,,no complement,no complement,,,,,,,,,,,,,,,,,col 23 top 4
 10082,CWB,1QH,1QH,25,3,TCB,>L TCB JD KH M L HJWT L W MTXZQ B BRJT KH W <WMD L PNJ KH B,,hif,impf,>L TCB JD KH,,no complement,no complement,,,,,,,,,,,,,,,,,col 23 top 9
-10317,GLH,1QH,1QH,25,19,GLJTH,KJ> W M>WR GLJTH W LW> L HCJB WDCKH HNJPWTH L KPR >CMH MCRTJM <M YB> KH W MTHLKJM BWT M L PNJ KH,,qal,perf,W M>WR GLJTH,,no complement,no complement,,,,,,,,,,,,,,,,,col 23 bottom 12
-10321,CWB,1QH,1QH,25,19,HCJB,KJ> W M>WR GLJTH W LW> L HCJB WDCKH HNJPWTH L KPR >CMH MCRTJM <M YB> KH W MTHLKJM BWT M L PNJ KH,,hif,infc,L HCJB,,no complement,no complement,,,,,,,,,,,,,,,,,col 23 bottom 12
-10504,GLH,1QH,1QH,25,26,GLJTH,YDQH W< B L CXT B <T <WWNWT M KWL FVN W MCXJT B RCT M W L CLX M GWJ JKH RC< >JC ZJDN B MRBJ M<L W B NGJ<JM W B MCPVJM L BJM B BSR KJ KWL RWXWT MMZRJM L HRCJ< B BFR WM HRCJ<W B XJJ HM WK L KN RWX M L HRCJ< <L L PL> RZJ KH GLJTH LB J >NJ L BFR,,qal,perf,PL> RZJ KH GLJTH LB[ J],,LB[ J],LB J,,0,vc,,,det,subs,complex,,,,,,,reconstructed,,col 24 bottom 5
-10636,GLH,1QH,1QH,25,33,GLJTH,W >WZN BFR GLJTH W L >NWC B MZMT LB KH W QY T<WDH HFKLTH L BFR,,qal,perf,W >WZN BFR GLJTH,,no complement,no complement,,,,,,,,,,,,,,,,,col 25 top 10
-10767,BW>,1QH,1QH,26,8,JBW>,JBW>,,qal,impf,JBW>,,no complement,no complement,,,,,,,,,,,,,,,,,col 26 top 7
-10782,GLH,1QH,1QH,26,18,GLWT,RZJM W L GLWT NSTRWT LH PJL NW<DT RWM G>JM,,qal,infc,W L GLWT NSTRWT,,no complement,no complement,,,,,,,,,,,,,,,,,col 26 top 15
-10844,CWB,1QH,1QH,26,37,HCJB,L HCJB DBR K PJ KH W LRY H B,,hif,infc,L HCJB DBR K PJ KH,,no complement,no complement,,,,,,,,,,,,,,,,,col 24 bottom 12
+10317,GLH,1QH,1QH,25,19,GLJTH,KJ> W M>WR GLJTH W LW> L HCJB WDCKH HNJPWTH L KPR >CMH MCRTJM <M YB> KH W MTHLKJM BWT M L PNJ KH,,qal,perf,W M>WR GLJTH,,no complement,no complement,,,,,,,,,,,,,,,,,
+10321,CWB,1QH,1QH,25,19,HCJB,KJ> W M>WR GLJTH W LW> L HCJB WDCKH HNJPWTH L KPR >CMH MCRTJM <M YB> KH W MTHLKJM BWT M L PNJ KH,,hif,infc,L HCJB,,no complement,no complement,,,,,,,,,,,,,,,,,
+10504,GLH,1QH,1QH,25,26,GLJTH,YDQH W< B L CXT B <T <WWNWT M KWL FVN W MCXJT B RCT M W L CLX M GWJ JKH RC< >JC ZJDN B MRBJ M<L W B NGJ<JM W B MCPVJM L BJM B BSR KJ KWL RWXWT MMZRJM L HRCJ< B BFR WM HRCJ<W B XJJ HM WK L KN RWX M L HRCJ< <L L PL> RZJ KH GLJTH LB J >NJ L BFR,,qal,perf,PL> RZJ KH GLJTH LB J,,LB J,LB J,,0,vc,,,det,subs,complex,,,,,,,,,
+10636,GLH,1QH,1QH,25,33,GLJTH,W >WZN BFR GLJTH W L >NWC B MZMT LB KH W QY T<WDH HFKLTH L BFR,,qal,perf,W >WZN BFR GLJTH,,no complement,no complement,,,,,,,,,,,,,,,,,
+10767,BW>,1QH,1QH,26,8,JBW>,JBW>,,qal,impf,JBW>,,no complement,no complement,,,,,,,,,,,,,,,,,
+10782,GLH,1QH,1QH,26,18,GLWT,RZJM W L GLWT NSTRWT LH PJL NW<DT RWM G>JM,,qal,infc,W L GLWT NSTRWT,,no complement,no complement,,,,,,,,,,,,,,,,,
+10844,CWB,1QH,1QH,26,37,HCJB,L HCJB DBR K PJ KH W LRY H B,,hif,infc,L HCJB DBR K PJ KH,,no complement,no complement,,,,,,,,,,,,,,,,,
 11088,JY>,1QM,1QM,1,6,JY>,W B QY W JY> B XMH GDWLH L HLXM B MLKJ H YPWN W >P W L HCMJD W L HKRJT >T QRN,,qal,impf,W B QY W JY> B XMH GDWLH,,no complement,no complement,,,,,,,,,,,,,,,,,
 11136,NPL,1QM,1QM,1,9,NPL,W NPL >CWR W >JN <WZR L W,,qal,perf,W NPL >CWR,>CWR,no complement,no complement,,,,,,,,,,,,,,,,,
 11144,SWR,1QM,1QM,1,10,SRH,W SRH MMCLT KTJJM L HKNJ< RC<H L >JN C>RJT,,qal,perf,W SRH MMCLT KTJJM,MMCLT KTJJM,no complement,no complement,,,,,,,,,,,,,,,,,
