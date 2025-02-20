@@ -174,30 +174,30 @@ verb_id,lex,scroll,book,chapter,verse_num,gcons_verb,gcons_verse,sign_info,stem,
 15290,HLK,1QM,1QM,8,13,JTHLKW,W KWL RWXJ GWRL W ML>KJ XBL B XWQJ XWCK JTHLKW W >LJ W TCWQT MH JXD,,hit,impf,W KWL RWXJ GWRL W ML>KJ XBL B XWQJ XWCK JTHLKW,KWL RWXJ GWRL W ML>KJ XBL,B XWQJ XWCK,B XQ XCK,in the laws of darkness,0,prep,abs,inanim,det,subs,complex,fictive,trajectory,B,,,,,,col 13 11-12
 15397,<LH,1QM,1QM,9,1,H<LWT,W >XR H<LWT M M <L H XLLJM L BW> H MXNH JRNNW KWL M >T THLT H MCWB,,hif,infc,>XR H<LWT M M <L H XLLJM,M,M <L H XLLJM,MN <L H XLL=,,0,prep + prep,,,det,,simple,,,MN,<L,,,min excluded,,
 15404,BW>,1QM,1QM,9,1,BW>,W >XR H<LWT M M <L H XLLJM L BW> H MXNH JRNNW KWL M >T THLT H MCWB,,qal,infc,L BW> H MXNH,,H MXNH,H MXNH,to the encampment,0,vc,place,inanim,det,subs,simple,factive,goal,,,,,,,col 14 2
-15429,CWB,1QM,1QM,9,3,CBW,W CBW >L MQWM <WMD M >CR SDRW CM H M<RKH L PNJ NPWL XLLJ H >WJB,,qal,perf,W CBW >L MQWM,,>L MQWM,>L MQWM,to a place,0,prep,place,inanim,und,subs,simple,factive,goal,>L,,,,,,col 14 3
-15440,PNH,1QM,1QM,9,3,PNJ,W CBW >L MQWM <WMD M >CR SDRW CM H M<RKH L PNJ NPWL XLLJ H >WJB,,,,L PNJ NPWL XLLJ H >WJB,XLLJ H >WJB,no complement,no complement,,,,,,,,,,,,,,,,,col 14 3
-15441,NPL,1QM,1QM,9,3,NPWL,W CBW >L MQWM <WMD M >CR SDRW CM H M<RKH L PNJ NPWL XLLJ H >WJB,,qal,infc,L PNJ NPWL XLLJ H >WJB,XLLJ H >WJB,no complement,no complement,,,,,,,,,,,,,,,,,col 14 3
-15630,CWB,1QM,1QM,9,18,TCJB,W L NKBDJ HM TCJB L BWZ,,hif,impf,W L NKBDJ HM TCJB L BWZ,,L NKBDJ HM,L KBD HM,to their notables,0,prep,pers,anim,det,subs,complex,fictive,goal,L,,,,,,col 14 11-12
-15630,CWB,1QM,1QM,9,18,TCJB,W L NKBDJ HM TCJB L BWZ,,hif,impf,W L NKBDJ HM TCJB L BWZ,,L BWZ,L BWZ=,with scorn,0,prep,abs,inanim,und,subs,simple,fictive,other,L,,,,,,col 14 11-12
-15744,HLK,1QM,1QM,10,3,JLKW,W KWL < H MLXMH JLKW W XNW NGD MLK H KTJJM W NGD KWL XJL BLJ<L H NW<DJM <M W L JWM B XRB >L,,qal,impf,JLKW,,no complement,no complement,,,,,,,,,,,,,,,,,col 15 2
-15814,HLK,1QM,1QM,10,7,HTHLK,W HTHLK H KWHN H XRWY L MW<D NQM <L PJ KWL >XJ W W XZQ >T H,,hit,perf,W HTHLK H KWHN,H KWHN,no complement,no complement,,,,,,,,,,,,,,,,,col 15 6-7
-15860,CWB,1QM,1QM,10,10,TCWBW,W >L TXPZW W >L T<RWYW M PNJ HM W >L TCWBW >XWR W >L M,,qal,impf,W >L TCWBW >XWR,,>XWR,>XWR,backwards,0,vc,dir,inanim,det,subs,simple,factive,goal,,,,,,,col 15 8-9
-16091,JY>,1QM,1QM,10,24,Y>T,W <M Y>T H QWL JXLW JD M L HPJL B XLLJ KTJJM W KWL H <M JXCW QWL H TRW<H,,qal,infc,<M Y>T H QWL,H QWL,no complement,no complement,,,,,,,,,,,,,,,,,col 16 8
-16098,NPL,1QM,1QM,10,24,HPJL,W <M Y>T H QWL JXLW JD M L HPJL B XLLJ KTJJM W KWL H <M JXCW QWL H TRW<H,,hif,infc,L HPJL B XLLJ KTJJM,,B XLLJ KTJJM,B XLL= KTJ,in/to the slained of the Kittim,0,prep,pers,anim,det,subs,complex,vertical,other,B,,,,,,col 16 8
-16139,NPL,1QM,1QM,11,1,NPWL,W B HT>ZR L <ZRT BNJ XWCK W XLLJ H BJNJM JXLW L NPWL B RZJ >L W L BXWN B M KWL XRWYJ H MLXMH W H KWHNJM JTQ<W B XYWYRWT H MQR> L Y>T M<RKH >XRT XLJPH L MLXMH W <MDW BJN H M<RKWT,,qal,infc,L NPWL B RZJ >L,,no complement,no complement,,,,,,,,,,,,,,,,,col 16 11
-16161,JY>,1QM,1QM,11,1,Y>T,W B HT>ZR L <ZRT BNJ XWCK W XLLJ H BJNJM JXLW L NPWL B RZJ >L W L BXWN B M KWL XRWYJ H MLXMH W H KWHNJM JTQ<W B XYWYRWT H MQR> L Y>T M<RKH >XRT XLJPH L MLXMH W <MDW BJN H M<RKWT,,qal,infc,L Y>T M<RKH >XRT XLJPH L MLXMH,,L MLXMH,L H MLXMH,to the battle,0,prep,occ,inanim,det,subs,simple,factive,goal,L,,,,,,col 16 12
-16177,CWB,1QM,1QM,11,2,CWB,WLMTQRBJ LXMH JTQ<W L CWB,,qal,infc,L CWB,,no complement,no complement,,,,,,,,,,,,,,,,,col 16 13
-16179,NGC,1QM,1QM,11,3,NGC,W NGC KWHN H RW>C W <MD L PNJ H M<RKH W XZQ >T LBB M B >L W >T JDJ HM B MLXMT W,,nif,perf,W NGC KWHN H RW>C,KWHN H RW>C,no complement,no complement,,,,,,,,,,,,,,,,,col 16 13
-16437,QRB,1QM,1QM,11,22,HTQRB,W TQ<W H KWHNJM B XYWYRWT TRW<H CNJT JJDJ HTQRB,,hit,infc,HTQRB,,no complement,no complement,,,,,,,,,,,,,,,,,col 17 11
-16485,NPL,1QM,1QM,11,24,HPJL,W >NCJ H BJNJM JCLXW JD M B XJL H KTJJM L RW<H JXLW L HPJL B XLLJ HM,,hif,infc,L HPJL B XLLJ HM,,B XLLJ HM,B H XLL= HM,to their slained ones,0,prep,pers,anim,det,subs,complex,vertical,other,B,,,,,,col 16 14
-16494,NWX,1QM,1QM,11,25,JNJXW,W KWL H <M JNJXW QWL H TRW<H,,hif,impf,W KWL H <M JNJXW QWL H TRW<H,KWL H <M,no complement,no complement,,,,,,,,,,,,,,,,,col 16 14
-16552,NPL,1QM,1QM,12,2,NPLW,W NPLW BNJ JPT L >JN QWM W KTJJM JKTW L >JN,,qal,perf,NPLW BNJ JPT,BNJ JPT,no complement,no complement,,,,,,,,,,,,,,,,,col 18 2
-16603,BW>,1QM,1QM,12,5,BW>,>WY H CMC L BW> B JWM H HW>H J<MWD KWHN H RW>C W H KWHNJM W H LWJJM >CR >T W W R>CJ H SRK W BRKW CM >T >L JFR>L,,qal,infc,L BW>,,no complement,no complement,,,,,,,,,,,,,,,,,col 17 5
-16721,SWR,1QM,1QM,12,12,HSJR,L HSJR MMCLT >WJB L >JN <WD W JD GBWRT KH W B MLXMH L >WJBJ NW L MGPT KLH,,hif,infc,L HSJR MMCLT >WJB,,no complement,no complement,,,,,,,,,,,,,,,,,col 18 11
-16788,SWR,1QM,1QM,12,15,HSJR,L HSJR B B >BDWN W T,,hif,infc,L HSJR,,no complement,no complement,,,,,,,,,,,,,,,reconstructed,,col 18 10?
-16915,BW>,1QM,1QM,12,29,JBW>W,W B BWQR JBW>W <D MQWM H M<RKH GBWRJ KTJJM W HMWN >CWR W XJL KWL H GWJM H NQHLJM >M XLLJM NPLW CM B XRB >L,,qal,impf,JBW>W <D MQWM H M<RKH GBWRJ KTJJM W HMWN >CWR W XJL KWL H GWJM,GBWRJ KTJJM W HMWN >CWR W XJL KWL H GWJM,<D MQWM H M<RKH,<D MQWM H M<RKH,to the place of the battle,0,prep,pers,inanim,det,subs,complex,factive,goal,<D,,,,,,col 19 9-10
-16934,NPL,1QM,1QM,12,29,NPLW,W B BWQR JBW>W <D MQWM H M<RKH GBWRJ KTJJM W HMWN >CWR W XJL KWL H GWJM H NQHLJM >M XLLJM NPLW CM B XRB >L,,qal,perf,NPLW CM B XRB >L,,CM,CM=,there,0,vc,adv,inanim,det,adv,simple,vertical,goal,,,,,,,col 19 11
-16940,NGC,1QM,1QM,12,30,NGC,W NGC CM KWHN H RW>C HW MLXMH W KWL R>CJ H M<RKWT W PQWD HM <L XLLJ KTJJM,,nif,perf,W NGC CM KWHN H RW>C,KWHN H RW>C,CM,CM=,there,0,vc,adv,inanim,det,adv,simple,factive,goal,,,,,,,col 19 11
+15429,CWB,1QM,1QM,9,3,CBW,W CBW >L MQWM <WMD M >CR SDRW CM H M<RKH L PNJ NPWL XLLJ H >WJB,,qal,perf,W CBW >L MQWM,,>L MQWM,>L MQWM,to a place,0,prep,place,inanim,und,subs,simple,,,>L,,,,,,
+15440,PNH,1QM,1QM,9,3,PNJ,W CBW >L MQWM <WMD M >CR SDRW CM H M<RKH L PNJ NPWL XLLJ H >WJB,,,,L PNJ NPWL XLLJ H >WJB,XLLJ H >WJB,no complement,no complement,,,,,,,,,,,,,,,,,
+15441,NPL,1QM,1QM,9,3,NPWL,W CBW >L MQWM <WMD M >CR SDRW CM H M<RKH L PNJ NPWL XLLJ H >WJB,,qal,infc,L PNJ NPWL XLLJ H >WJB,XLLJ H >WJB,no complement,no complement,,,,,,,,,,,,,,,,,
+15630,CWB,1QM,1QM,9,18,TCJB,W L NKBDJ HM TCJB L BWZ,,hif,impf,W L NKBDJ HM TCJB L BWZ,,L NKBDJ HM,L KBD HM,,0,prep,,,det,,complex,,,L,,,,,,
+15630,CWB,1QM,1QM,9,18,TCJB,W L NKBDJ HM TCJB L BWZ,,hif,impf,W L NKBDJ HM TCJB L BWZ,,L BWZ,L BWZ=,,0,prep,,,und,subs,simple,,,L,,,,,,
+15744,HLK,1QM,1QM,10,3,JLKW,W KWL < H MLXMH JLKW W XNW NGD MLK H KTJJM W NGD KWL XJL BLJ<L H NW<DJM <M W L JWM B XRB >L,,qal,impf,JLKW,,no complement,no complement,,,,,,,,,,,,,,,,,
+15814,HLK,1QM,1QM,10,7,HTHLK,W HTHLK H KWHN H XRWY L MW<D NQM <L PJ KWL >XJ W W XZQ >T H,,hit,perf,W HTHLK H KWHN,H KWHN,no complement,no complement,,,,,,,,,,,,,,,,,
+15860,CWB,1QM,1QM,10,10,TCWBW,W >L TXPZW W >L T<RWYW M PNJ HM W >L TCWBW >XWR W >L M,,qal,impf,W >L TCWBW >XWR,,>XWR,>XWR,,0,vc,,,und,subs,simple,,,,,,,,,
+16091,JY>,1QM,1QM,10,24,Y>T,W <M Y>T H QWL JXLW JD M L HPJL B XLLJ KTJJM W KWL H <M JXCW QWL H TRW<H,,qal,infc,<M Y>T H QWL,H QWL,no complement,no complement,,,,,,,,,,,,,,,,,
+16098,NPL,1QM,1QM,10,24,HPJL,W <M Y>T H QWL JXLW JD M L HPJL B XLLJ KTJJM W KWL H <M JXCW QWL H TRW<H,,hif,infc,L HPJL B XLLJ KTJJM,,B XLLJ KTJJM,B XLL= KTJ,,0,prep,,,det,,complex,,,B,,,,,,
+16139,NPL,1QM,1QM,11,1,NPWL,W B HT>ZR L <ZRT BNJ XWCK W XLLJ H BJNJM JXLW L NPWL B RZJ >L W L BXWN B M KWL XRWYJ H MLXMH W H KWHNJM JTQ<W B XYWYRWT H MQR> L Y>T M<RKH >XRT XLJPH L MLXMH W <MDW BJN H M<RKWT,,qal,infc,L NPWL B RZJ >L,,no complement,no complement,,,,,,,,,,,,,,,,,
+16161,JY>,1QM,1QM,11,1,Y>T,W B HT>ZR L <ZRT BNJ XWCK W XLLJ H BJNJM JXLW L NPWL B RZJ >L W L BXWN B M KWL XRWYJ H MLXMH W H KWHNJM JTQ<W B XYWYRWT H MQR> L Y>T M<RKH >XRT XLJPH L MLXMH W <MDW BJN H M<RKWT,,qal,infc,L Y>T M<RKH >XRT XLJPH L MLXMH,,L MLXMH,L H MLXMH,,0,prep,,,det,subs,simple,,,L,,,,,,
+16177,CWB,1QM,1QM,11,2,CWB,WLMTQRBJ LXMH JTQ<W L CWB,,qal,infc,L CWB,,no complement,no complement,,,,,,,,,,,,,,,,,
+16179,NGC,1QM,1QM,11,3,NGC,W NGC KWHN H RW>C W <MD L PNJ H M<RKH W XZQ >T LBB M B >L W >T JDJ HM B MLXMT W,,nif,perf,W NGC KWHN H RW>C,KWHN H RW>C,no complement,no complement,,,,,,,,,,,,,,,,,
+16437,QRB,1QM,1QM,11,22,HTQRB,W TQ<W H KWHNJM B XYWYRWT TRW<H CNJT JJDJ HTQRB,,hit,infc,HTQRB,,no complement,no complement,,,,,,,,,,,,,,,,,
+16485,NPL,1QM,1QM,11,24,HPJL,W >NCJ H BJNJM JCLXW JD M B XJL H KTJJM L RW<H JXLW L HPJL B XLLJ HM,,hif,infc,L HPJL B XLLJ HM,,B XLLJ HM,B H XLL= HM,,0,prep,,,det,,complex,,,B,,,,,,
+16494,NWX,1QM,1QM,11,25,JNJXW,W KWL H <M JNJXW QWL H TRW<H,,hif,impf,W KWL H <M JNJXW QWL H TRW<H,KWL H <M,no complement,no complement,,,,,,,,,,,,,,,,,
+16552,NPL,1QM,1QM,12,2,NPLW,W NPLW BNJ JPT L >JN QWM W KTJJM JKTW L >JN,,qal,perf,NPLW BNJ JPT,BNJ JPT,no complement,no complement,,,,,,,,,,,,,,,,,
+16603,BW>,1QM,1QM,12,5,BW>,>WY H CMC L BW> B JWM H HW>H J<MWD KWHN H RW>C W H KWHNJM W H LWJJM >CR >T W W R>CJ H SRK W BRKW CM >T >L JFR>L,,qal,infc,L BW>,,no complement,no complement,,,,,,,,,,,,,,,,,
+16721,SWR,1QM,1QM,12,12,HSJR,L HSJR MMCLT >WJB L >JN <WD W JD GBWRT KH W B MLXMH L >WJBJ NW L MGPT KLH,,hif,infc,L HSJR MMCLT >WJB,,no complement,no complement,,,,,,,,,,,,,,,,,
+16788,SWR,1QM,1QM,12,15,HSJR,L HSJR B B >BDWN W T,,hif,infc,L HSJR,,no complement,no complement,,,,,,,,,,,,,,,,,
+16915,BW>,1QM,1QM,12,29,JBW>W,W B BWQR JBW>W <D MQWM H M<RKH GBWRJ KTJJM W HMWN >CWR W XJL KWL H GWJM H NQHLJM >M XLLJM NPLW CM B XRB >L,,qal,impf,JBW>W <D MQWM H M<RKH GBWRJ KTJJM W HMWN >CWR W XJL KWL H GWJM,GBWRJ KTJJM W HMWN >CWR W XJL KWL H GWJM,<D MQWM H M<RKH,<D MQWM H M<RKH,,0,prep,,,det,subs,complex,,,<D,,,,,,
+16934,NPL,1QM,1QM,12,29,NPLW,W B BWQR JBW>W <D MQWM H M<RKH GBWRJ KTJJM W HMWN >CWR W XJL KWL H GWJM H NQHLJM >M XLLJM NPLW CM B XRB >L,,qal,perf,NPLW CM B XRB >L,,CM,CM=,,0,vc,,,,advb,simple,,,,,,,,,
+16940,NGC,1QM,1QM,12,30,NGC,W NGC CM KWHN H RW>C HW MLXMH W KWL R>CJ H M<RKWT W PQWD HM <L XLLJ KTJJM,,nif,perf,W NGC CM KWHN H RW>C,KWHN H RW>C,CM,CM=,,0,vc,,,,advb,simple,,,,,,,,,
 17046,HLK,1QS,1QS,1,6,LKT,W LW> L LKT <WD B CRJRWT LB >CMH W <JNJ ZNWT L <FWT KWL R<,,qal,infc,L LKT <WD B CRJRWT LB >CMH W <JNJ ZNWT,,no complement,no complement,,,,,,,,,,,,,,,,,
 17061,BW>,1QS,1QS,1,7,HBJ,W L HBJ >T KWL H NDBJM L <FWT XWQJ >L B BRJT XSD,,hif,infc,W L HBJ >T KWL,,no complement,no complement,,,,,,,,,,,,,,,,,
 17080,HLK,1QS,1QS,1,8,HTHLK,L HWXD B <YT >L W L HTHLK L PNJ W TMJM KWL H NGLWT L MW<DJ T<WDWT M,,hit,infc,W L HTHLK L PNJ W TMJM KWL,,L PNJ W,L PNH W=,,0,prep,,,det,subs,complex,,,L,,,,,,
