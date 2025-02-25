@@ -300,10 +300,10 @@ verb_id,lex,scroll,book,chapter,verse_num,gcons_verb,gcons_verse,sign_info,stem,
 22205,CWB,1QS,1QS,7,12,CWB,W B HJWT M >FJM GBWL J L BLTJ CWB,,qal,infc,L BLTJ CWB,,no complement,no complement,,,,,,,,,,,,,,,,,col 10 11
 22272,JY>,1QS,1QS,7,16,Y>T,B RCJT MCLX JDJ W RGLJ >BRK CM W B R>CJT Y>T W BW> L CBT W QWM W <M MCKB JYW< J >RNNH L W,,qal,infc,B R>CJT Y>T,,B R>CJT,B R>CJT,in a beginning,0,prep,other,inanim,und,subs,simple,factive,other,B,,,,,,col 10 13
 22274,BW>,1QS,1QS,7,16,BW>,B RCJT MCLX JDJ W RGLJ >BRK CM W B R>CJT Y>T W BW> L CBT W QWM W <M MCKB JYW< J >RNNH L W,,qal,infc,W BW>,,no complement,no complement,,,,,,,,,,,,,,,,,col 10 13
-22365,CWB,1QS,1QS,7,22,>CJB,LW> >CJB L >JC GMWL R< B VWB >RDP GBR,,hif,impf,LW> >CJB L >JC GMWL R<,,L >JC,L H >JC,to the man,0,prep,pers,anim,det,subs,simple,factive,goal/recipient,L,,,,,,col 10 17-18
-22570,CWB,1QS,1QS,7,33,HCJB,>XLQH XWQ B QW <TJM W YDQ >HBT XSD L NJKN<JM W XZWQ JDJM L NMHRJ LB W L LMD L TW<J RWX BJNH W L HFKJL RWKNJM B LQX W L HCJB <NWH L NGD RMJ RWX W B RWX NCBRH L >NCJ MVH CWLXJ >YB< W MDBRJ >WN W MQNJ HWN,,hif,infc,W L HCJB <NWH L NGD,,L NGD,L NGD=,in a presence,0,prep,other,inanim,und,subs,simple,posture/not motion,other,L,,,,,,col 11 1
-22863,NGC,1QS,1QS,7,49,HGJCN,B RXMJ W HGJCN J W B XSDJ W JBW> MCPV J,,hif,perf,B RXMJ W HGJCN J,,no complement,no complement,,,,,,,,,,,,,,,,,col 11 13
-22869,BW>,1QS,1QS,7,49,JBW>,B RXMJ W HGJCN J W B XSDJ W JBW> MCPV J,,qal,impf,W B XSDJ W JBW> MCPV J,MCPV J,no complement,no complement,,,,,,,,,,,,,,,,,col 11 13-14
-22981,CWB,1QS,1QS,7,55,HCJB,W >JN >XR ZWLT KH L HCJB <L <YT KH W L HFKJL B KWL MXCBT QWDC KH W L HBJV B <WMQ RZJ KH W L HTBWNN B KWL NPL>WTJ KH <M KWX GBWRT KH,,hif,infc,L HCJB <L <YT KH,,<L <YT KH,<L <YH K,against your advice,0,prep,abs,inanim,det,subs,complex,fictive,other,<L,,,,,,col 11 18
-23034,CWB,1QS,1QS,7,58,JCB,W JLWD >CH MH JCB L PNJ KH,,hif,impf,MH JCB L PNJ KH,,L PNJ KH,L PNH K,before you,0,prep,pers,anim,det,subs,complex,posture/not motion,location,L,,,,,,col 11 21
-23061,CWB,1QS,1QS,7,61,JCJB,MH JCJB XMR W JWYR JD W L <YT MH JBJN,,hif,impf,MH JCJB XMR W JWYR JD,XMR W JWYR JD,no complement,no complement,,,,,,,,,,,,,,,,,col 11 22
+22365,CWB,1QS,1QS,7,22,>CJB,LW> >CJB L >JC GMWL R< B VWB >RDP GBR,,hif,impf,LW> >CJB L >JC GMWL R<,,L >JC,L H >JC,to the man,0,prep,pers,anim,det,subs,simple,,,L,,,,,,
+22570,CWB,1QS,1QS,7,33,HCJB,>XLQH XWQ B QW <TJM W YDQ >HBT XSD L NJKN<JM W XZWQ JDJM L NMHRJ LB W L LMD L TW<J RWX BJNH W L HFKJL RWKNJM B LQX W L HCJB <NWH L NGD RMJ RWX W B RWX NCBRH L >NCJ MVH CWLXJ >YB< W MDBRJ >WN W MQNJ HWN,,hif,infc,W L HCJB <NWH L NGD,,L NGD,L NGD=,,0,prep,,,und,subs,simple,,,L,,,,,,
+22863,NGC,1QS,1QS,7,49,HGJCN,B RXMJ W HGJCN J W B XSDJ W JBW> MCPV J,,hif,perf,B RXMJ W HGJCN J,,no complement,no complement,,,,,,,,,,,,,,,,,
+22869,BW>,1QS,1QS,7,49,JBW>,B RXMJ W HGJCN J W B XSDJ W JBW> MCPV J,,qal,impf,W B XSDJ W JBW> MCPV J,MCPV J,no complement,no complement,,,,,,,,,,,,,,,,,
+22981,CWB,1QS,1QS,7,55,HCJB,W >JN >XR ZWLT KH L HCJB <L <YT KH W L HFKJL B KWL MXCBT QWDC KH W L HBJV B <WMQ RZJ KH W L HTBWNN B KWL NPL>WTJ KH <M KWX GBWRT KH,,hif,infc,L HCJB <L <YT KH,,<L <YT KH,<L <YH K,,0,prep,,,det,subs,complex,,,<L,,,,,,
+23034,CWB,1QS,1QS,7,58,JCB,W JLWD >CH MH JCB L PNJ KH,,hif,impf,MH JCB L PNJ KH,,L PNJ KH,L PNH K,,0,prep,,,det,subs,complex,,,L,,,,,,
+23061,CWB,1QS,1QS,7,61,JCJB,MH JCJB XMR W JWYR JD W L <YT MH JBJN,,hif,impf,MH JCJB XMR W JWYR JD,XMR W JWYR JD,no complement,no complement,,,,,,,,,,,,,,,,,
