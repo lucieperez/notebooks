@@ -7,6 +7,7 @@ import datetime
 from IPython.display import display, clear_output
 from ipywidgets import VBox, HBox, Button, Text 
 
+
 AUTO_COLUMNS = ["cmpl_translation", "cmpl_constr", "cmpl_nt", "cmpl_anim", "cmpl_det", "cmpl_indiv", "cmpl_complex"]
 AUTO_CACHE_PATH = "data/biblical_datasets/auto_cache.json"
 
@@ -80,8 +81,8 @@ class AnnotationTool:
             'preposition_2', 
             'preposition_3', 
             'preposition_4',
-           # 'preposition_5',
-           # 'preposition_6',
+            'preposition_5',
+            'preposition_6',
             'comments',
             'reconstructed_verse',
             'Study_Edition' #only for XB
@@ -130,8 +131,8 @@ class AnnotationTool:
             'preposition_2',
             'preposition_3',
             'preposition_4',
-        #    'preposition_5',
-         #   'preposition_6',
+            'preposition_5',
+            'preposition_6',
             'comments',
             'reconstructed_verse',
             'Study_Edition', 
@@ -565,6 +566,9 @@ class AnnotationTool:
         """"""
         row = self.df.iloc[row_index]
         
+        if row["cmpl_lex"] == row["preposition_1"]:
+            return
+   
         if col_index != 0:
             return
         
@@ -900,7 +904,7 @@ class AnnotationTool:
         # Calculate the number of rows annotated in this session
         rows_annotated_this_session = self.current_index - self.get_session_start_index() + 1
 
-        details = f"Date and Time: {current_datetime}\nDataFrame: Extra Biblical dataset\nCurrent Row Index: {current_row_index}\nRows Annotated This Session: {rows_annotated_this_session}\n\n"
+        details = f"Date and Time: {current_datetime}\nDataFrame: Complete dataset\nCurrent Row Index: {current_row_index}\nRows Annotated This Session: {rows_annotated_this_session}\n\n"
 
         with open(self.history_file_path, 'a') as file:
             file.write(details)
