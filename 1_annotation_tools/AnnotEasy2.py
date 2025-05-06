@@ -311,21 +311,22 @@ class AnnotationTool:
         # CMPL_NT
         # Buttons
         self.cmpl_nt_buttons = [
-            widgets.Button(description='abs'),
-            widgets.Button(description='adv'),
-            widgets.Button(description='bopa'),
-            widgets.Button(description='dir'),
+            widgets.Button(description='abstract'),
+            #widgets.Button(description='adv'),
+            widgets.Button(description='body part'),
+            widgets.Button(description='direction'),
             widgets.Button(description='gens'),
-            widgets.Button(description='obj'),
-            widgets.Button(description='occ'),
+            widgets.Button(description='group'),
+            widgets.Button(description='object'),
+            widgets.Button(description='occuptation'),
             widgets.Button(description='other'),
-            widgets.Button(description='pers'),
-            widgets.Button(description='phen'),
+            widgets.Button(description='person'),
+            widgets.Button(description='phenomenon'),
             widgets.Button(description='place'),
-            widgets.Button(description='ppde'),
-            widgets.Button(description='ppin'),
-            widgets.Button(description='prps'),
-            widgets.Button(description='topo'),
+            #widgets.Button(description='ppde'),
+            widgets.Button(description='interrogative pronoun'),
+            #widgets.Button(description='prps'),
+            widgets.Button(description='toponym'),
             
         ]
         
@@ -454,6 +455,7 @@ class AnnotationTool:
         
         self.comments_buttons = [
             widgets.Button(description='reconstructed'),
+            widgets.Button(description='verb rec'),
             widgets.Button(description='reconstructed?'),
             widgets.Button(description='min excluded')
         ]
