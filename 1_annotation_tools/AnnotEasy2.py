@@ -407,8 +407,8 @@ class AnnotationTool:
         self.spatial_arg_type_buttons = [
             widgets.Button(description='goal'),
             widgets.Button(description='trajectory'),
-            widgets.Button(description='goal/traj'),
-            widgets.Button(description='goal/recipient'),
+            #widgets.Button(description='route'),
+            widgets.Button(description='recipient'),
             widgets.Button(description='location'),
             widgets.Button(description='source'),
             widgets.Button(description='other'),
