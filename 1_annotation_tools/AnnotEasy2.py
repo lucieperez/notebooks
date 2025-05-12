@@ -889,7 +889,7 @@ class AnnotationTool:
             self.display_row(self.current_index, self.current_column_index)
 
     def use_prev_translation(self, b):
-        return self._use_prev(b, "translation")
+        return self._use_prev(b, "cmpl_translation")
          
         
     def use_prev_cmpl_lex(self, b):
