@@ -113,3 +113,113 @@ DataFrame: Complete dataset
 Current Row Index: 2840
 Rows Annotated This Session: 255
 
+Date and Time: 2025-05-08 10:49
+DataFrame: Complete dataset
+Current Row Index: 3801
+Rows Annotated This Session: 962
+
+Date and Time: 2025-05-08 10:51
+DataFrame: Complete dataset
+Current Row Index: 3843
+Rows Annotated This Session: 43
+
+Date and Time: 2025-05-08 14:40
+DataFrame: Complete dataset
+Current Row Index: 3934
+Rows Annotated This Session: 92
+
+Date and Time: 2025-05-08 14:40
+DataFrame: Complete dataset
+Current Row Index: 3934
+Rows Annotated This Session: 1
+
+Date and Time: 2025-05-08 15:07
+DataFrame: Complete dataset
+Current Row Index: 3934
+Rows Annotated This Session: 1
+
+Date and Time: 2025-05-08 15:59
+DataFrame: Complete dataset
+Current Row Index: 4402
+Rows Annotated This Session: 469
+
+Date and Time: 2025-05-09 10:30
+DataFrame: Complete dataset
+Current Row Index: 4489
+Rows Annotated This Session: 88
+
+Date and Time: 2025-05-09 10:35
+DataFrame: Complete dataset
+Current Row Index: 4521
+Rows Annotated This Session: 33
+
+Date and Time: 2025-05-09 11:01
+DataFrame: Complete dataset
+Current Row Index: 4589
+Rows Annotated This Session: 69
+
+Date and Time: 2025-05-09 11:26
+DataFrame: Complete dataset
+Current Row Index: 4804
+Rows Annotated This Session: 216
+
+Date and Time: 2025-05-09 11:43
+DataFrame: Complete dataset
+Current Row Index: 4883
+Rows Annotated This Session: 80
+
+Date and Time: 2025-05-09 11:50
+DataFrame: Complete dataset
+Current Row Index: 5039
+Rows Annotated This Session: 157
+
+Date and Time: 2025-05-09 11:53
+DataFrame: Complete dataset
+Current Row Index: 5057
+Rows Annotated This Session: 19
+
+Date and Time: 2025-05-09 11:56
+DataFrame: Complete dataset
+Current Row Index: 2050
+Rows Annotated This Session: -3006
+
+Date and Time: 2025-05-09 11:59
+DataFrame: Complete dataset
+Current Row Index: 5155
+Rows Annotated This Session: 3106
+
+Date and Time: 2025-05-09 11:59
+DataFrame: Complete dataset
+Current Row Index: 5155
+Rows Annotated This Session: 1
+
+Date and Time: 2025-05-09 11:59
+DataFrame: Complete dataset
+Current Row Index: 5155
+Rows Annotated This Session: 1
+
+Date and Time: 2025-05-12 10:35
+DataFrame: Complete dataset
+Current Row Index: 5372
+Rows Annotated This Session: 218
+
+Date and Time: 2025-05-12 11:09
+DataFrame: Complete dataset
+Current Row Index: 5497
+Rows Annotated This Session: 126
+
+Date and Time: 2025-05-12 11:16
+DataFrame: Complete dataset
+Current Row Index: 5528
+Rows Annotated This Session: 32
+
+Date and Time: 2025-05-12 11:49
+DataFrame: Complete dataset
+Current Row Index: 5666
+Rows Annotated This Session: 139
+
+Date and Time: 2025-05-12 13:44
+DataFrame: Complete dataset
+Current Row Index: 5718
+Rows Annotated This Session: 53
+
