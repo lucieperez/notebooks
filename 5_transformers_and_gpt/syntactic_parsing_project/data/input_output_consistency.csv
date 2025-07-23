@@ -1,0 +1,13 @@
+model,temperature,fine_tuned,training_dataset_size,percentage_exact_restitution,percentage_exact_words_restitution
+GPT-4o,0,yes,small,94.5,99.0
+GPT-4o,0,yes,medium,92.30000000000001,99.2
+GPT-4o,0,yes,large,89.06727828746178,98.96788990825688
+GPT-4o mini,0,yes,small,95.0,99.0
+GPT-4o mini,0,yes,medium,94.39999999999999,98.9
+GPT-4o mini,0,yes,large,90.90214067278288,98.77675840978594
+GPT-4o,0,no,small,87.0,87.0
+GPT-4o,0,no,medium,89.1,89.2
+GPT-4o,0,no,large,89.06727828746178,89.18195718654435
+GPT-4o mini,0,no,small,81.5,91.0
+GPT-4o mini,0,no,medium,79.10000000000001,88.8
+GPT-4o mini,0,no,large,78.40214067278288,87.23241590214067
