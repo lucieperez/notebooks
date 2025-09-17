@@ -468,3 +468,243 @@ DataFrame: Complete dataset
 Current Row Index: 11038
 Rows Annotated This Session: 27
 
+Date and Time: 2025-09-16 08:27
+DataFrame: Complete dataset
+Current Row Index: 11066
+Rows Annotated This Session: 29
+
+Date and Time: 2025-09-16 08:36
+DataFrame: Complete dataset
+Current Row Index: 11158
+Rows Annotated This Session: 93
+
+Date and Time: 2025-09-16 10:46
+DataFrame: Complete dataset
+Current Row Index: 11177
+Rows Annotated This Session: 20
+
+Date and Time: 2025-09-16 11:47
+DataFrame: Complete dataset
+Current Row Index: 11409
+Rows Annotated This Session: 233
+
+Date and Time: 2025-09-16 11:53
+DataFrame: Complete dataset
+Current Row Index: 11411
+Rows Annotated This Session: 3
+
+Date and Time: 2025-09-16 12:16
+DataFrame: Complete dataset
+Current Row Index: 11566
+Rows Annotated This Session: 156
+
+Date and Time: 2025-09-16 12:21
+DataFrame: Complete dataset
+Current Row Index: 11702
+Rows Annotated This Session: 137
+
+Date and Time: 2025-09-16 12:34
+DataFrame: Complete dataset
+Current Row Index: 11813
+Rows Annotated This Session: 112
+
+Date and Time: 2025-09-16 12:42
+DataFrame: Complete dataset
+Current Row Index: 11863
+Rows Annotated This Session: 51
+
+Date and Time: 2025-09-16 12:48
+DataFrame: Complete dataset
+Current Row Index: 11960
+Rows Annotated This Session: 98
+
+Date and Time: 2025-09-16 13:03
+DataFrame: Complete dataset
+Current Row Index: 12025
+Rows Annotated This Session: 66
+
+Date and Time: 2025-09-16 13:14
+DataFrame: Complete dataset
+Current Row Index: 12119
+Rows Annotated This Session: 95
+
+Date and Time: 2025-09-16 13:33
+DataFrame: Complete dataset
+Current Row Index: 12175
+Rows Annotated This Session: 57
+
+Date and Time: 2025-09-16 13:33
+DataFrame: Complete dataset
+Current Row Index: 12175
+Rows Annotated This Session: 1
+
+Date and Time: 2025-09-16 13:45
+DataFrame: Complete dataset
+Current Row Index: 12371
+Rows Annotated This Session: 197
+
+Date and Time: 2025-09-16 13:46
+DataFrame: Complete dataset
+Current Row Index: 12371
+Rows Annotated This Session: 1
+
+Date and Time: 2025-09-16 14:05
+DataFrame: Complete dataset
+Current Row Index: 12582
+Rows Annotated This Session: 212
+
+Date and Time: 2025-09-16 14:08
+DataFrame: Complete dataset
+Current Row Index: 12646
+Rows Annotated This Session: 65
+
+Date and Time: 2025-09-16 15:32
+DataFrame: Complete dataset
+Current Row Index: 12703
+Rows Annotated This Session: 58
+
+Date and Time: 2025-09-17 09:27
+DataFrame: Complete dataset
+Current Row Index: 12790
+Rows Annotated This Session: 88
+
+Date and Time: 2025-09-17 09:50
+DataFrame: Complete dataset
+Current Row Index: 13009
+Rows Annotated This Session: 220
+
+Date and Time: 2025-09-17 10:08
+DataFrame: Complete dataset
+Current Row Index: 13195
+Rows Annotated This Session: 187
+
+Date and Time: 2025-09-17 10:36
+DataFrame: Complete dataset
+Current Row Index: 13303
+Rows Annotated This Session: 109
+
+Date and Time: 2025-09-17 10:42
+DataFrame: Complete dataset
+Current Row Index: 13456
+Rows Annotated This Session: 154
+
+Date and Time: 2025-09-17 10:46
+DataFrame: Complete dataset
+Current Row Index: 13636
+Rows Annotated This Session: 181
+
+Date and Time: 2025-09-17 10:47
+DataFrame: Complete dataset
+Current Row Index: 12211
+Rows Annotated This Session: -1424
+
+Date and Time: 2025-09-17 10:48
+DataFrame: Complete dataset
+Current Row Index: 2604
+Rows Annotated This Session: -9606
+
+Date and Time: 2025-09-17 10:51
+DataFrame: Complete dataset
+Current Row Index: 11898
+Rows Annotated This Session: 9295
+
+Date and Time: 2025-09-17 10:53
+DataFrame: Complete dataset
+Current Row Index: 13636
+Rows Annotated This Session: 1739
+
+Date and Time: 2025-09-17 10:53
+DataFrame: Complete dataset
+Current Row Index: 13636
+Rows Annotated This Session: 1
+
+Date and Time: 2025-09-17 10:54
+DataFrame: Complete dataset
+Current Row Index: 6046
+Rows Annotated This Session: -7589
+
+Date and Time: 2025-09-17 10:55
+DataFrame: Complete dataset
+Current Row Index: 6790
+Rows Annotated This Session: 745
+
+Date and Time: 2025-09-17 10:58
+DataFrame: Complete dataset
+Current Row Index: 8735
+Rows Annotated This Session: 1946
+
+Date and Time: 2025-09-17 10:59
+DataFrame: Complete dataset
+Current Row Index: 4352
+Rows Annotated This Session: -4382
+
+Date and Time: 2025-09-17 11:02
+DataFrame: Complete dataset
+Current Row Index: 4352
+Rows Annotated This Session: 1
+
+Date and Time: 2025-09-17 11:24
+DataFrame: Complete dataset
+Current Row Index: 4352
+Rows Annotated This Session: 1
+
+Date and Time: 2025-09-17 11:42
+DataFrame: Complete dataset
+Current Row Index: 4186
+Rows Annotated This Session: -165
+
+Date and Time: 2025-09-17 11:58
+DataFrame: Complete dataset
+Current Row Index: 4358
+Rows Annotated This Session: 173
+
+Date and Time: 2025-09-17 12:08
+DataFrame: Complete dataset
+Current Row Index: 4393
+Rows Annotated This Session: 36
+
+Date and Time: 2025-09-17 12:26
+DataFrame: Complete dataset
+Current Row Index: 4509
+Rows Annotated This Session: 117
+
+Date and Time: 2025-09-17 13:18
+DataFrame: Complete dataset
+Current Row Index: 4595
+Rows Annotated This Session: 87
+
+Date and Time: 2025-09-17 14:02
+DataFrame: Complete dataset
+Current Row Index: 4689
+Rows Annotated This Session: 95
+
+Date and Time: 2025-09-17 14:19
+DataFrame: Complete dataset
+Current Row Index: 4761
+Rows Annotated This Session: 73
+
+Date and Time: 2025-09-17 14:26
+DataFrame: Complete dataset
+Current Row Index: 4857
+Rows Annotated This Session: 97
+
+Date and Time: 2025-09-17 14:28
+DataFrame: Complete dataset
+Current Row Index: 4901
+Rows Annotated This Session: 45
+
+Date and Time: 2025-09-17 14:37
+DataFrame: Complete dataset
+Current Row Index: 13600
+Rows Annotated This Session: 8700
+
+Date and Time: 2025-09-17 14:37
+DataFrame: Complete dataset
+Current Row Index: 13636
+Rows Annotated This Session: 37
+
+Date and Time: 2025-09-17 15:19
+DataFrame: Complete dataset
+Current Row Index: 5392
+Rows Annotated This Session: -8243
+
