@@ -1,0 +1,1 @@
+top20 book_scrolls, all verbs present in the dataset. To have a plot, a book_scroll need to have at least 5 tokens of a verb.
