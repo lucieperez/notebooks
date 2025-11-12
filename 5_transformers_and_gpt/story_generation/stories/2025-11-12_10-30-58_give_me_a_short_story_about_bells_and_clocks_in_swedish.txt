@@ -1,0 +1,8 @@
+### Prompt
+Give me a short story about bells and clocks in Swedish.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Det fanns en liten by där kyrkklockorna och stadens gamla klockor levde ett eget liv när ingen såg på. Varje natt, när alla människor sov, började klockorna att prata med varandra. Klockan på torget berättade historier om alla som hade bott i byn, medan kyrkklockorna slog mjuka toner som fyllde natten med magi. En kväll bestämde sig en liten klocka att slå en speciell melodi, en melodi som fick hela byn att drömma om fred och glädje. När morgonen kom, undrade invånarna varför tiden kändes lite vackrare än vanligt. Kanske var det klockornas hemlighet, som de delade med natten.

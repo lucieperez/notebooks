@@ -1,0 +1,18 @@
+### Prompt
+Give me a story about garlic and onion in English.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Once upon a time, in a cozy little kitchen garden, there lived two close friends: Garlic and Onion. They grew side by side in the rich soil, always chatting about the meals that awaited them beyond the garden fence.
+
+Garlic was small and noble, with a strong, pungent aroma that could spice up any dish. Onion was round and layered, sometimes making people cry, but always adding depth and sweetness to recipes. Despite their differences, they were inseparable and loved dreaming about the flavors they would bring to the world.
+
+One day, a little chef came to the garden looking for the perfect ingredients to create a magical stew. Garlic and Onion both wanted to be chosen. Garlic boasted about its boldness, “I can make the stew unforgettable and give it a powerful kick!” Onion smiled warmly, “But I can bring sweetness and richness that make every bite comforting.”
+
+The chef listened carefully and decided to pick both. As soon as they entered the kitchen, Garlic and Onion worked together. Garlic’s sharpness complemented Onion’s sweetness, creating a harmony of flavors that danced on the chef’s spoon.
+
+The stew became famous throughout the land, and Garlic and Onion realized that though different, together they could create something truly special. From that day on, they remained the best kitchen companions, proving that friendship and teamwork bring the best results.
+
+And so, Garlic and Onion lived happily ever after, always ready to add flavor and joy wherever they were needed.

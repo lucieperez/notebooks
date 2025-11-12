@@ -1,0 +1,26 @@
+### Prompt
+Give me a story about onion and garlic in English.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Sure! Here's a short story about onion and garlic:
+
+---
+
+**The Tale of Onion and Garlic**
+
+Once upon a time, in a bustling kitchen filled with delicious aromas, lived two close friends: Onion and Garlic. They were the heart and soul of every dish, working together to bring flavor and warmth to the meals.
+
+Onion was strong and a bit shy. He often made people shed tears when they sliced him, but deep down, he loved making food delicious. Garlic, on the other hand, was bold and full of character. He had a sharp, unforgettable taste that could transform even the simplest stew into a masterpiece.
+
+One day, a young chef named Maya discovered the magic of Onion and Garlic. She believed that no meal was complete without them. Whenever she cooked, Onion would softly sizzle in butter, releasing his sweet aroma, while Garlic would crackle in oil, sending his pungent scent into the air.
+
+Together, Onion and Garlic knew they were a perfect team. They complemented each other, balancing sharpness with sweetness, strength with subtlety. Their friendship was a reminder that sometimes, the best flavors come from working together.
+
+And so, in kitchens far and wide, Onion and Garlic continued their delicious journey, making the world a tastier place—one meal at a time.
+
+---
+
+Would you like a story in a different style or for children?

@@ -1,0 +1,16 @@
+### Prompt
+Give me a story about mugs and cups in English.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Once upon a time in a cozy kitchen cabinet, there lived a group of mugs and cups. Each had its own personality and story to tell. The tall, sturdy mugs often boasted about how they kept coffee hot during long mornings, while the delicate porcelain cups prided themselves on serving the finest tea at elegant gatherings.
+
+One day, a new shiny glass cup arrived. It was different from everyone else—transparent and sleek. The mugs teased it for being too fragile, and the cups whispered that it didn’t have the warmth of ceramic. Feeling lonely, the glass cup wished to find its place.
+
+A few weeks later, the family who owned the cabinet hosted a big party. The glass cup was chosen to serve refreshing lemonade. Everyone admired how the cool drink sparkled inside it. The mugs realized that while they were great for hot drinks, the glass cup shined in its own way.
+
+From then on, mugs, cups, and the glass cup lived happily together, appreciating their unique roles and knowing that every drink was better when shared among friends.
+
+The end.

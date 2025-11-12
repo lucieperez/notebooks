@@ -1,0 +1,12 @@
+### Prompt
+Give me a short story about watches and clocks in Swedish.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Det var en gång en liten by där alla älskade tid. På torget stod en gammal klocka som hade tickat i hundra år. Invånarna samlades varje dag för att se dess visare röra sig. 
+
+En dag kom en ung urmakare till byn med sin låda full av vackra armbandsur. Han berättade historier om varje klocka och hur de kunde mäta tiden på olika sätt. Folket blev fascinerade och började samla sina egna klockor och klockor.
+
+Tillsammans lärde de sig att varje sekund är värdefull och att tiden, oavsett om den mäts av en stor klocka på torget eller en liten klocka på armen, alltid påminner oss om att leva i nuet. Och så fortsatte tiden sin eviga dans i den lilla byn.

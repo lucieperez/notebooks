@@ -1,0 +1,30 @@
+### Prompt
+Give me a story about watches and clocks in Swedish.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Självklart! Här kommer en kort berättelse om klockor och ur på svenska:
+
+---
+
+I en liten by långt ute på landet fanns en urmakarverkstad som hette "Tidens Trädgård". Där bodde en gammal urmakare vid namn Erik, som hade ägnat hela sitt liv åt att laga och tillverka klockor och urverk.
+
+Erik älskade alla slags klockor – från de minsta armbandsuren till de stora, tunga golvur som stod stadigt på golvet. I hans verkstad hängde väggklockor med snirkliga visare, och på hyllorna stod fickur i små trälådor. Varje klocka hade sin egen historia, och Erik brukade säga att varje tickande urverk bar på ett hemligt minne.
+
+En dag kom en flicka vid namn Lina in i verkstaden. Hon var fascinerad av alla klockor och frågade Erik varför det alltid hördes ett sånt tickande ljud där inne.
+
+"Det är som om tiden själv bor här," svarade Erik med ett leende. "Varje tick är ett litet hjärtslag i vardagen."
+
+Lina bad att få lära sig mer om klockor, och Erik tog henne under sina vingar. Tillsammans rengjorde de gamla urverk, justerade fjädrar och bytte ut små kugghjul. Snart började Lina förstå att varje klocka var som en liten värld, där alla delar behövde fungera tillsammans för att visa timmar, minuter och sekunder.
+
+En kväll, när himlen var mörk och stjärnorna lyste klart, satt de båda i verkstaden. Lina tittade på en gammal väggklocka som plötsligt började slå midnatt trots att den inte hade fungerat på åratal.
+
+"Ser du," sa Erik, "tiden är ibland som magi. Den kan ta oss tillbaka till minnen, och den kan leda oss framåt."
+
+Lina log och kände att även hon hade blivit en del av den magiska världen i Tidens Trädgård, där klockor och ur var mer än bara maskiner – de var berättelser om livets gång.
+
+---
+
+Hoppas du tyckte om berättelsen! Vill du ha den längre eller mer detaljerad?

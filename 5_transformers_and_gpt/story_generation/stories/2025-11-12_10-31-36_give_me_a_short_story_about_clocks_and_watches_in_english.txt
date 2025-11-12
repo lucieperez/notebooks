@@ -1,0 +1,12 @@
+### Prompt
+Give me a short story about clocks and watches in English.
+
+### Model
+gpt-4.1-mini
+
+### Story
+In a quaint village, there was a small clock shop owned by an old watchmaker named Elias. His shop was filled with clocks of every kind—grandfather clocks that chimed deeply, delicate wristwatches that ticked softly, and intricate pocket watches with gleaming hands.
+
+One rainy evening, a curious young girl named Lily wandered into the shop. She was fascinated by the symphony of ticking and chiming. Elias smiled and showed her a special clock, one that didn’t tell the time but instead captured moments. “This clock reminds us that every second counts, not just to keep time, but to live fully,” he said.
+
+Years later, Lily, now a watchmaker herself, crafted a watch inspired by Elias’s words. It was not just a device to measure hours but a reminder to cherish every moment, a timeless treasure passed from one generation to the next.

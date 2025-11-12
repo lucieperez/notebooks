@@ -1,0 +1,18 @@
+### Prompt
+Give me a story about bells and clocks in Swedish.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Det var en gång i en liten by vid namn Klockholm, där tiden var allt. I byns centrum stod en gammal kyrka med ett ståtligt klocktorn, känt för sina mäktiga klockor som kunde höras miltals omkring. Varje timme, på minuten, slog klockorna bestämt och påminde byborna om att värdesätta nuet.
+
+Men en dag hände något märkligt. Klockorna i tornet slutade att slå. Tiden verkade stanna och hela byn blev orolig. Ingen visste varför, och utan klockornas slag kände sig alla förvirrade, som om dagarna smälte samman.
+
+En ung pojke vid namn Erik, som älskade att leka med byns gamla urverk och klockor, bestämde sig för att lösa mysteriet. Han klättrade upp i klocktornet och upptäckte att en av de största klockorna hade fastnat. Den hade en spricka som hindrade den från att svänga fritt.
+
+Med stor möda och försiktighet lyckades Erik reparera klockan. När han frigjorde den började den återigen slå högt och klart. Ett ljus spreds över byn och tiden blev åter levande.
+
+Från den dagen lärde sig byborna att även om klockor och klockspel håller ordning på tiden, så är det människors kärlek och omsorg som egentligen får livet att ticka framåt.
+
+Och varje gång klockorna i Klockholm slår, tänker de på lilla Erik och hans modiga insats som återupplivade byns hjärta.

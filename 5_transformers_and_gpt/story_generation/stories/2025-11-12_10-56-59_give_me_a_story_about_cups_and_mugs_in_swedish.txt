@@ -1,0 +1,14 @@
+### Prompt
+Give me a story about cups and mugs in Swedish.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Det var en gång en liten kökshylla där flera koppar och muggar bodde tillsammans. Varje morgon när solen steg upp, vaknade kopparna och muggarna och förberedde sig för en ny dag med äventyr och värmande drycker.
+
+Den blå koppen, som hette Blåis, älskade att dricka varm choklad. Han brukade berätta historier om fjärran länder och mystiska skogar för de andra muggarna. Den randiga muggen Maja föredrog att fyllas med grönt te och njöt alltid av lugna morgnar på balkongen, medan den stora, röda muggen Roffe var mest för kaffe och pratstunder med familjen.
+
+En dag kom en ny kopp till hyllan – en liten, prickig kopp vid namn Pytte. Pytte kände sig lite blyg och osäker i början, men Blåis och Maja välkomnade henne varmt. Tillsammans upptäckte de att varje kopp och mugg hade sin egen unika historia och stil, och att de tillsammans gjorde köket till en plats full av värme och gemenskap.
+
+Från den dagen blev deras lilla hylla ännu gladare, och varje dryck som hälldes upp fyllde inte bara kopparna och muggarna, utan också deras hjärtan med glädje. Och varje gång någon tog en kopp för att dricka, hördes små skratt och berättelser från hyllan – en påminnelse om att även de minsta sakerna kan skapa stora stunder av lycka.

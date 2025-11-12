@@ -1,0 +1,12 @@
+### Prompt
+Give me a short story about bells and clocks in English.
+
+### Model
+gpt-4.1-mini
+
+### Story
+In a quiet village nestled between rolling hills, the bells of the old church chimed every hour, echoing through the cobblestone streets. Nearby, the grand clock tower stood tall, its hands moving steadily, marking the passage of time for all to see.
+
+One day, the clock stopped. The villagers gathered, worried that time itself had paused. The bells fell silent, as if mourning the stillness. A young girl named Elara, curious and brave, climbed the tower to investigate. She discovered a tiny, forgotten gear jammed between the colossal cogs.
+
+With gentle hands, she freed the gear. The clock began to tick once more, and the bells burst into joyful song, ringing out over the village. From that day on, Elara was known as the Keeper of Time, the one who listened to the whispers of bells and clocks and kept their harmony alive.

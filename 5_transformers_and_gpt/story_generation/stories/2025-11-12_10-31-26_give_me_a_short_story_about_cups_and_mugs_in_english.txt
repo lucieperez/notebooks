@@ -1,0 +1,12 @@
+### Prompt
+Give me a short story about cups and mugs in English.
+
+### Model
+gpt-4.1-mini
+
+### Story
+In a cozy kitchen sat a collection of cups and mugs, each with its own story. There was an elegant porcelain cup named Lily, who loved quiet mornings filled with delicate tea. Next to her stood Max, a sturdy mug covered in bold colors, perfect for strong coffee on busy days. 
+
+Though different, they shared a common purpose: to bring warmth and comfort. One chilly evening, as rain tapped gently on the window, Lily and Max were both filled with hot cocoa. Together, they warmed the hands of a tired artist, inspiring her to paint her happiest memories.
+
+From that day on, the cups and mugs understood that no matter their shape or style, they were all vessels of joy, ready to brighten someone’s day.

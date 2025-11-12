@@ -1,0 +1,14 @@
+### Prompt
+Give me a short story about clocks and bells in English.
+
+### Model
+gpt-4.1-mini
+
+### Story
+In a small village nestled between rolling hills, there stood an ancient clock tower with grand bells that chimed every hour. The villagers relied on the clock to mark their days—planting, working, and resting—all guided by its steady rhythm.
+
+One stormy night, lightning struck the tower, silencing the bells and stopping the clock. The village fell into confusion; without the clock’s chimes, time seemed to lose meaning. Days blended into nights, and the pace of life slowed.
+
+A young girl named Mina, curious and brave, climbed the tower to investigate. She found the gears tangled and the bell’s striker broken. With careful hands and a bit of ingenuity, Mina repaired the mechanism. When dawn broke, the bells rang out clear and strong, restoring order and hope to the village.
+
+From that day on, the villagers cherished the clock and bells even more—reminded that time’s true value is felt not just in hours, but in the moments they share together.

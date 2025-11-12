@@ -1,0 +1,15 @@
+### Prompt
+Give me a short story about onion and garlic in Swedish.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Det var en gång en lök och en vitlök som bodde i samma trädgård. Löken var stolt över sin starka smak och sitt vackra skal, medan vitlöken var känd för att ge maten en extra kick. En dag började de argumentera om vem som var viktigast i köket. 
+
+”Jag kan göra varje maträtt godare och starkare!” sa vitlöken stolt.  
+”Men utan mig skulle många rätter sakna djup och sötma,” svarade löken.
+
+Plötsligt kom kocken förbi och plockade upp dem båda. Han sa, ”Ni är båda ovärderliga för mina recept. Tillsammans skapar ni magi!” 
+
+Sedan dess förstod lök och vitlök att de var bäst när de samarbetade, och de blev bästa vänner för alltid i köket.

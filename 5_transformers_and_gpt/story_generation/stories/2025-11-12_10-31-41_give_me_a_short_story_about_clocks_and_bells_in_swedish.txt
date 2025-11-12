@@ -1,0 +1,12 @@
+### Prompt
+Give me a short story about clocks and bells in Swedish.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Det var en gång en liten by där tiden bestämdes av klockorna och klockspelen i kyrktornet. Varje hel timme slog de stora klockorna och fyllde luften med deras klang. Invånarna samlades ofta runt torget för att höra signalerna, för de visste att varje slag berättade något viktigt – om dagen som gick eller om stunder som väntade.
+
+En dag slutade plötsligt klockorna att ringa. Byborna blev oroliga och samlades i kyrkan för att undersöka vad som hänt. De upptäckte att en liten fågel hade byggt bo inne i klockverket och fastnat där. Tillsammans hjälptes de åt att befria fågeln och reparera klockorna.
+
+När klockorna till slut började slå igen, fylldes byn av en varm glädje. Klockornas och klockspelen återvände till att vara byns hjärta, och från den dagen lyssnade alla ännu noggrannare på deras sång – en påminnelse om både tidens gång och livets värde.

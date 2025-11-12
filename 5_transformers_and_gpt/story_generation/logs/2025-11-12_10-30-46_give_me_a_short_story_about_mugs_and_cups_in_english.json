@@ -1,0 +1,6175 @@
+{
+  "model": "gpt-4.1-mini",
+  "prompt": "Give me a short story about mugs and cups in English.",
+  "story": "In a cozy kitchen, a family of mugs and cups lived on a wooden shelf. Each morning, the mugs felt proud, ready to hold strong coffee, while the delicate cups eagerly awaited their turn with soothing tea. One day, a chipped cup felt sad, worried it was no longer useful. But the wise old mug comforted it, saying, \"Every crack tells a story, and you’re still part of our family.\" From that day on, the chipped cup shined with newfound confidence, proving that even with imperfections, everyone belongs and has value.",
+  "top_k": 10,
+  "token_positions": [
+    {
+      "position": 0,
+      "top_logprobs": [
+        {
+          "token": "In",
+          "logprob": -0.47739657759666443,
+          "probability": 0.6203964451697328
+        },
+        {
+          "token": "Once",
+          "logprob": -0.9773966073989868,
+          "probability": 0.37628945395787083
+        },
+        {
+          "token": "Sure",
+          "logprob": -5.727396488189697,
+          "probability": 0.003255542051883026
+        },
+        {
+          "token": "Certainly",
+          "logprob": -10.102396965026855,
+          "probability": 4.098120688396208e-05
+        },
+        {
+          "token": "On",
+          "logprob": -11.602396965026855,
+          "probability": 9.144143255094394e-06
+        },
+        {
+          "token": "Every",
+          "logprob": -12.477396965026855,
+          "probability": 3.8118460255482595e-06
+        },
+        {
+          "token": "At",
+          "logprob": -13.102396965026855,
+          "probability": 2.0403341489293967e-06
+        },
+        {
+          "token": "**",
+          "logprob": -13.727396965026855,
+          "probability": 1.092112171212027e-06
+        },
+        {
+          "token": "There",
+          "logprob": -13.727396965026855,
+          "probability": 1.092112171212027e-06
+        },
+        {
+          "token": "Of",
+          "logprob": -15.352396965026855,
+          "probability": 2.1504963714424983e-07
+        }
+      ]
+    },
+    {
+      "position": 1,
+      "top_logprobs": [
+        {
+          "token": " a",
+          "logprob": -4.5491004129871726e-05,
+          "probability": 0.9999545100305701
+        },
+        {
+          "token": " the",
+          "logprob": -10.000045776367188,
+          "probability": 4.539785156619626e-05
+        },
+        {
+          "token": " Grandma",
+          "logprob": -17.125045776367188,
+          "probability": 3.6533149744055504e-08
+        },
+        {
+          "token": " an",
+          "logprob": -17.250045776367188,
+          "probability": 3.2240391490788186e-08
+        },
+        {
+          "token": " Mrs",
+          "logprob": -17.625045776367188,
+          "probability": 2.215847541564241e-08
+        },
+        {
+          "token": " Sunny",
+          "logprob": -19.875045776367188,
+          "probability": 2.3354861262818448e-09
+        },
+        {
+          "token": " Kitchen",
+          "logprob": -20.500045776367188,
+          "probability": 1.250095640239903e-09
+        },
+        {
+          "token": "a",
+          "logprob": -21.125045776367188,
+          "probability": 6.691279781801722e-10
+        },
+        {
+          "token": " Aunt",
+          "logprob": -21.125045776367188,
+          "probability": 6.691279781801722e-10
+        },
+        {
+          "token": " Cozy",
+          "logprob": -21.375045776367188,
+          "probability": 5.21117393381704e-10
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "top_logprobs": [
+        {
+          "token": " cozy",
+          "logprob": -0.09976496547460556,
+          "probability": 0.90505011106319
+        },
+        {
+          "token": " quiet",
+          "logprob": -2.5997650623321533,
+          "probability": 0.07429102992553407
+        },
+        {
+          "token": " small",
+          "logprob": -4.599764823913574,
+          "probability": 0.01005419997401961
+        },
+        {
+          "token": " quaint",
+          "logprob": -5.099764823913574,
+          "probability": 0.006098180543124856
+        },
+        {
+          "token": " sunny",
+          "logprob": -5.599764823913574,
+          "probability": 0.003698733467868264
+        },
+        {
+          "token": " little",
+          "logprob": -7.849764823913574,
+          "probability": 0.0003898436393743304
+        },
+        {
+          "token": " bustling",
+          "logprob": -8.849764823913574,
+          "probability": 0.00014341546019726995
+        },
+        {
+          "token": " bright",
+          "logprob": -9.099764823913574,
+          "probability": 0.00011169207270617973
+        },
+        {
+          "token": " cheerful",
+          "logprob": -9.724764823913574,
+          "probability": 5.9784458390956685e-05
+        },
+        {
+          "token": " tiny",
+          "logprob": -10.099764823913574,
+          "probability": 4.1089217290429504e-05
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "top_logprobs": [
+        {
+          "token": " kitchen",
+          "logprob": -0.2014676183462143,
+          "probability": 0.8175300501065259
+        },
+        {
+          "token": " little",
+          "logprob": -1.7014676332473755,
+          "probability": 0.1824156082882186
+        },
+        {
+          "token": " cupboard",
+          "logprob": -10.951467514038086,
+          "probability": 1.7532267564373968e-05
+        },
+        {
+          "token": " cottage",
+          "logprob": -11.076467514038086,
+          "probability": 1.5472171820844394e-05
+        },
+        {
+          "token": " café",
+          "logprob": -11.451467514038086,
+          "probability": 1.0633857812078148e-05
+        },
+        {
+          "token": " wooden",
+          "logprob": -12.576467514038086,
+          "probability": 3.452308176229033e-06
+        },
+        {
+          "token": ",",
+          "logprob": -13.076467514038086,
+          "probability": 2.0939307556595137e-06
+        },
+        {
+          "token": " old",
+          "logprob": -13.201467514038086,
+          "probability": 1.847887406096142e-06
+        },
+        {
+          "token": " corner",
+          "logprob": -14.076467514038086,
+          "probability": 7.703140762437178e-07
+        },
+        {
+          "token": " village",
+          "logprob": -14.201467514038086,
+          "probability": 6.797997863023949e-07
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "top_logprobs": [
+        {
+          "token": ",",
+          "logprob": -0.14093585312366486,
+          "probability": 0.8685450243610213
+        },
+        {
+          "token": " on",
+          "logprob": -2.3909358978271484,
+          "probability": 0.09154396797238286
+        },
+        {
+          "token": " shelf",
+          "logprob": -4.140935897827148,
+          "probability": 0.01590795631366222
+        },
+        {
+          "token": " lived",
+          "logprob": -4.265935897827148,
+          "probability": 0.014038722173257965
+        },
+        {
+          "token": " sat",
+          "logprob": -6.015935897827148,
+          "probability": 0.00243956411305224
+        },
+        {
+          "token": " cabinet",
+          "logprob": -6.015935897827148,
+          "probability": 0.00243956411305224
+        },
+        {
+          "token": " filled",
+          "logprob": -6.515935897827148,
+          "probability": 0.0014796704309008404
+        },
+        {
+          "token": " cupboard",
+          "logprob": -6.515935897827148,
+          "probability": 0.0014796704309008404
+        },
+        {
+          "token": " stood",
+          "logprob": -7.140935897827148,
+          "probability": 0.0007920105085812937
+        },
+        {
+          "token": " nestled",
+          "logprob": -8.140935897827148,
+          "probability": 0.00029136438329879614
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "top_logprobs": [
+        {
+          "token": " a",
+          "logprob": -0.35283440351486206,
+          "probability": 0.7026935473246393
+        },
+        {
+          "token": " mugs",
+          "logprob": -1.6028344631195068,
+          "probability": 0.20132506003130313
+        },
+        {
+          "token": " there",
+          "logprob": -3.227834463119507,
+          "probability": 0.03964325483134883
+        },
+        {
+          "token": " the",
+          "logprob": -3.477834463119507,
+          "probability": 0.030874197906153724
+        },
+        {
+          "token": " lived",
+          "logprob": -3.852834463119507,
+          "probability": 0.021219505212170135
+        },
+        {
+          "token": " all",
+          "logprob": -6.727834224700928,
+          "probability": 0.0011971228516672163
+        },
+        {
+          "token": " on",
+          "logprob": -7.352834224700928,
+          "probability": 0.0006407736876961215
+        },
+        {
+          "token": " two",
+          "logprob": -7.727834224700928,
+          "probability": 0.000440396885684899
+        },
+        {
+          "token": " rows",
+          "logprob": -7.727834224700928,
+          "probability": 0.000440396885684899
+        },
+        {
+          "token": " lined",
+          "logprob": -8.102834701538086,
+          "probability": 0.00030267991361510017
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "top_logprobs": [
+        {
+          "token": " proud",
+          "logprob": -1.1202706098556519,
+          "probability": 0.3261915120405216
+        },
+        {
+          "token": " cheerful",
+          "logprob": -1.6202706098556519,
+          "probability": 0.197845152990599
+        },
+        {
+          "token": " group",
+          "logprob": -2.2452707290649414,
+          "probability": 0.10589886659117678
+        },
+        {
+          "token": " sturdy",
+          "logprob": -2.4952707290649414,
+          "probability": 0.08247412022758271
+        },
+        {
+          "token": " collection",
+          "logprob": -2.7452707290649414,
+          "probability": 0.06423090941636661
+        },
+        {
+          "token": " mug",
+          "logprob": -2.8702707290649414,
+          "probability": 0.05668357861013526
+        },
+        {
+          "token": " bright",
+          "logprob": -3.2452707290649414,
+          "probability": 0.03895801586225124
+        },
+        {
+          "token": " tall",
+          "logprob": -3.8702707290649414,
+          "probability": 0.02085272322269408
+        },
+        {
+          "token": " little",
+          "logprob": -3.9952707290649414,
+          "probability": 0.018402463654481387
+        },
+        {
+          "token": " colorful",
+          "logprob": -4.245270729064941,
+          "probability": 0.014331853104553172
+        }
+      ]
+    },
+    {
+      "position": 7,
+      "top_logprobs": [
+        {
+          "token": " of",
+          "logprob": -1.9361264946837764e-07,
+          "probability": 0.9999998063873693
+        },
+        {
+          "token": " lived",
+          "logprob": -16.375,
+          "probability": 7.734421907141565e-08
+        },
+        {
+          "token": "’s",
+          "logprob": -17.75,
+          "probability": 1.9555681087850496e-08
+        },
+        {
+          "token": " gathered",
+          "logprob": -17.75,
+          "probability": 1.9555681087850496e-08
+        },
+        {
+          "token": " collection",
+          "logprob": -18.125,
+          "probability": 1.3440409951135022e-08
+        },
+        {
+          "token": " owned",
+          "logprob": -18.375,
+          "probability": 1.0467401794744658e-08
+        },
+        {
+          "token": "-owned",
+          "logprob": -18.875,
+          "probability": 6.34880011604368e-09
+        },
+        {
+          "token": " kept",
+          "logprob": -19.625,
+          "probability": 2.9989608248573072e-09
+        },
+        {
+          "token": " cherished",
+          "logprob": -19.625,
+          "probability": 2.9989608248573072e-09
+        },
+        {
+          "token": " treasured",
+          "logprob": -19.875,
+          "probability": 2.335593038799337e-09
+        }
+      ]
+    },
+    {
+      "position": 8,
+      "top_logprobs": [
+        {
+          "token": " mugs",
+          "logprob": -0.00018065694894175977,
+          "probability": 0.9998193593685422
+        },
+        {
+          "token": " cups",
+          "logprob": -9.2501802444458,
+          "probability": 9.609433003108066e-05
+        },
+        {
+          "token": " ceramic",
+          "logprob": -9.8751802444458,
+          "probability": 5.143558836501154e-05
+        },
+        {
+          "token": " dishes",
+          "logprob": -11.5001802444458,
+          "probability": 1.0128267870067775e-05
+        },
+        {
+          "token": " M",
+          "logprob": -11.8751802444458,
+          "probability": 6.9610499198206575e-06
+        },
+        {
+          "token": " ceramics",
+          "logprob": -11.8751802444458,
+          "probability": 6.9610499198206575e-06
+        },
+        {
+          "token": " colorful",
+          "logprob": -12.5001802444458,
+          "probability": 3.7259815240752075e-06
+        },
+        {
+          "token": " mism",
+          "logprob": -12.6251802444458,
+          "probability": 3.2881671540838006e-06
+        },
+        {
+          "token": " coffee",
+          "logprob": -14.7501802444458,
+          "probability": 3.927155633693603e-07
+        },
+        {
+          "token": " crock",
+          "logprob": -14.8751802444458,
+          "probability": 3.465702682702249e-07
+        }
+      ]
+    },
+    {
+      "position": 9,
+      "top_logprobs": [
+        {
+          "token": " and",
+          "logprob": -0.008962692692875862,
+          "probability": 0.991077352510358
+        },
+        {
+          "token": " lived",
+          "logprob": -4.883962631225586,
+          "probability": 0.00756696942971596
+        },
+        {
+          "token": " sat",
+          "logprob": -6.633962631225586,
+          "probability": 0.0013149421177707083
+        },
+        {
+          "token": " stood",
+          "logprob": -11.008962631225586,
+          "probability": 1.6552678419065073e-05
+        },
+        {
+          "token": " gathered",
+          "logprob": -11.883962631225586,
+          "probability": 6.900182956860326e-06
+        },
+        {
+          "token": " proudly",
+          "logprob": -12.008962631225586,
+          "probability": 6.089390086696253e-06
+        },
+        {
+          "token": " lined",
+          "logprob": -12.508962631225586,
+          "probability": 3.6934017865314484e-06
+        },
+        {
+          "token": " rested",
+          "logprob": -12.633962631225586,
+          "probability": 3.259415636614414e-06
+        },
+        {
+          "token": " perched",
+          "logprob": -13.258962631225586,
+          "probability": 1.7446394697913652e-06
+        },
+        {
+          "token": " loved",
+          "logprob": -13.508962631225586,
+          "probability": 1.3587265852507959e-06
+        }
+      ]
+    },
+    {
+      "position": 10,
+      "top_logprobs": [
+        {
+          "token": " cups",
+          "logprob": -4.842555426876061e-06,
+          "probability": 0.9999951574562983
+        },
+        {
+          "token": " a",
+          "logprob": -12.250004768371582,
+          "probability": 4.78509457496562e-06
+        },
+        {
+          "token": " Cups",
+          "logprob": -20.0000057220459,
+          "probability": 2.0611418284566694e-09
+        },
+        {
+          "token": "cups",
+          "logprob": -20.5000057220459,
+          "probability": 1.2501457129751271e-09
+        },
+        {
+          "token": " cup",
+          "logprob": -22.5000057220459,
+          "probability": 1.6918882415252596e-10
+        },
+        {
+          "token": " an",
+          "logprob": -23.0000057220459,
+          "probability": 1.0261820912923629e-10
+        },
+        {
+          "token": " their",
+          "logprob": -23.0000057220459,
+          "probability": 1.0261820912923629e-10
+        },
+        {
+          "token": " coffee",
+          "logprob": -23.0000057220459,
+          "probability": 1.0261820912923629e-10
+        },
+        {
+          "token": " the",
+          "logprob": -23.2500057220459,
+          "probability": 7.991914162723442e-11
+        },
+        {
+          "token": " te",
+          "logprob": -23.2500057220459,
+          "probability": 7.991914162723442e-11
+        }
+      ]
+    },
+    {
+      "position": 11,
+      "top_logprobs": [
+        {
+          "token": " lived",
+          "logprob": -0.03940620273351669,
+          "probability": 0.9613601227133588
+        },
+        {
+          "token": " sat",
+          "logprob": -3.2894062995910645,
+          "probability": 0.037275973588757984
+        },
+        {
+          "token": " rested",
+          "logprob": -7.2894062995910645,
+          "probability": 0.0006827332714776839
+        },
+        {
+          "token": " stood",
+          "logprob": -7.7894062995910645,
+          "probability": 0.0004140986615571241
+        },
+        {
+          "token": " lined",
+          "logprob": -8.414405822753906,
+          "probability": 0.00022165114682434588
+        },
+        {
+          "token": " gathered",
+          "logprob": -11.289405822753906,
+          "probability": 1.2504702020414532e-05
+        },
+        {
+          "token": " spent",
+          "logprob": -11.789405822753906,
+          "probability": 7.584485165951926e-06
+        },
+        {
+          "token": " waited",
+          "logprob": -11.789405822753906,
+          "probability": 7.584485165951926e-06
+        },
+        {
+          "token": " enjoyed",
+          "logprob": -12.664405822753906,
+          "probability": 3.161683804500407e-06
+        },
+        {
+          "token": " happily",
+          "logprob": -12.789405822753906,
+          "probability": 2.7901761644234884e-06
+        }
+      ]
+    },
+    {
+      "position": 12,
+      "top_logprobs": [
+        {
+          "token": " on",
+          "logprob": -0.1879958063364029,
+          "probability": 0.8286181821713008
+        },
+        {
+          "token": " happily",
+          "logprob": -1.9379957914352417,
+          "probability": 0.14399225127629797
+        },
+        {
+          "token": " peacefully",
+          "logprob": -4.062995910644531,
+          "probability": 0.01719741992724328
+        },
+        {
+          "token": " together",
+          "logprob": -5.187995910644531,
+          "probability": 0.005583184811577183
+        },
+        {
+          "token": " quietly",
+          "logprob": -5.937995910644531,
+          "probability": 0.0026373097627607053
+        },
+        {
+          "token": " side",
+          "logprob": -6.937995910644531,
+          "probability": 0.0009702120417203975
+        },
+        {
+          "token": " cheer",
+          "logprob": -7.687995910644531,
+          "probability": 0.00045829571757528565
+        },
+        {
+          "token": " harmon",
+          "logprob": -8.437995910644531,
+          "probability": 0.00021648356824700737
+        },
+        {
+          "token": " proudly",
+          "logprob": -9.187995910644531,
+          "probability": 0.00010225959685791305
+        },
+        {
+          "token": " in",
+          "logprob": -9.812995910644531,
+          "probability": 5.473561789394259e-05
+        }
+      ]
+    },
+    {
+      "position": 13,
+      "top_logprobs": [
+        {
+          "token": " a",
+          "logprob": -0.07008381187915802,
+          "probability": 0.9323156775024631
+        },
+        {
+          "token": " the",
+          "logprob": -2.6950838565826416,
+          "probability": 0.06753671813837533
+        },
+        {
+          "token": " an",
+          "logprob": -9.820083618164062,
+          "probability": 5.4349039439251565e-05
+        },
+        {
+          "token": " wooden",
+          "logprob": -10.070083618164062,
+          "probability": 4.232707447446779e-05
+        },
+        {
+          "token": " open",
+          "logprob": -10.820083618164062,
+          "probability": 1.9993894257116545e-05
+        },
+        {
+          "token": " their",
+          "logprob": -11.320083618164062,
+          "probability": 1.212690987399353e-05
+        },
+        {
+          "token": " two",
+          "logprob": -11.320083618164062,
+          "probability": 1.212690987399353e-05
+        },
+        {
+          "token": " sturdy",
+          "logprob": -12.320083618164062,
+          "probability": 4.461240827581186e-06
+        },
+        {
+          "token": " shelves",
+          "logprob": -14.195083618164062,
+          "probability": 6.84153439200954e-07
+        },
+        {
+          "token": " opposite",
+          "logprob": -15.070083618164062,
+          "probability": 2.851975844353073e-07
+        }
+      ]
+    },
+    {
+      "position": 14,
+      "top_logprobs": [
+        {
+          "token": " wooden",
+          "logprob": -0.13764959573745728,
+          "probability": 0.8714039819248478
+        },
+        {
+          "token": " sunny",
+          "logprob": -2.3876495361328125,
+          "probability": 0.09184530944940668
+        },
+        {
+          "token": " bright",
+          "logprob": -4.2626495361328125,
+          "probability": 0.014084934385475957
+        },
+        {
+          "token": " shelf",
+          "logprob": -5.1376495361328125,
+          "probability": 0.005871474194968778
+        },
+        {
+          "token": " sturdy",
+          "logprob": -5.3876495361328125,
+          "probability": 0.004572708700825231
+        },
+        {
+          "token": " sun",
+          "logprob": -5.6376495361328125,
+          "probability": 0.003561229116960116
+        },
+        {
+          "token": " high",
+          "logprob": -6.0126495361328125,
+          "probability": 0.002447594591404929
+        },
+        {
+          "token": " warm",
+          "logprob": -6.0126495361328125,
+          "probability": 0.002447594591404929
+        },
+        {
+          "token": " tall",
+          "logprob": -6.1376495361328125,
+          "probability": 0.0021599946456976583
+        },
+        {
+          "token": " cheerful",
+          "logprob": -6.8876495361328125,
+          "probability": 0.0010203092247272523
+        }
+      ]
+    },
+    {
+      "position": 15,
+      "top_logprobs": [
+        {
+          "token": " shelf",
+          "logprob": -2.451116051815916e-05,
+          "probability": 0.9999754891398779
+        },
+        {
+          "token": " rack",
+          "logprob": -10.625024795532227,
+          "probability": 2.4300228714755076e-05
+        },
+        {
+          "token": " cupboard",
+          "logprob": -16.125024795532227,
+          "probability": 9.930948065960544e-08
+        },
+        {
+          "token": " tray",
+          "logprob": -16.875024795532227,
+          "probability": 4.691047703367829e-08
+        },
+        {
+          "token": " cabinet",
+          "logprob": -18.000024795532227,
+          "probability": 1.5229602113940857e-08
+        },
+        {
+          "token": " shelves",
+          "logprob": -18.250024795532227,
+          "probability": 1.1860826052203061e-08
+        },
+        {
+          "token": " Shelf",
+          "logprob": -20.125024795532227,
+          "probability": 1.8189165859890641e-09
+        },
+        {
+          "token": " windows",
+          "logprob": -20.250024795532227,
+          "probability": 1.6051882531950961e-09
+        },
+        {
+          "token": " shel",
+          "logprob": -20.375024795532227,
+          "probability": 1.4165736615098496e-09
+        },
+        {
+          "token": " mug",
+          "logprob": -20.875024795532227,
+          "probability": 8.591953574471097e-10
+        }
+      ]
+    },
+    {
+      "position": 16,
+      "top_logprobs": [
+        {
+          "token": ".",
+          "logprob": -0.0001182052365038544,
+          "probability": 0.9998818017494598
+        },
+        {
+          "token": " above",
+          "logprob": -9.125118255615234,
+          "probability": 0.00010889589154296419
+        },
+        {
+          "token": " by",
+          "logprob": -11.750118255615234,
+          "probability": 7.888391925400525e-06
+        },
+        {
+          "token": " beside",
+          "logprob": -14.625118255615234,
+          "probability": 4.450326193238668e-07
+        },
+        {
+          "token": ",",
+          "logprob": -15.250118255615234,
+          "probability": 2.382087955568409e-07
+        },
+        {
+          "token": " near",
+          "logprob": -15.250118255615234,
+          "probability": 2.382087955568409e-07
+        },
+        {
+          "token": " overlooking",
+          "logprob": -15.625118255615234,
+          "probability": 1.6371835129992734e-07
+        },
+        {
+          "token": " beneath",
+          "logprob": -16.250118255615234,
+          "probability": 8.763211859157299e-08
+        },
+        {
+          "token": ".\n\n",
+          "logprob": -18.000118255615234,
+          "probability": 1.5228178820574705e-08
+        },
+        {
+          "token": " next",
+          "logprob": -18.875118255615234,
+          "probability": 6.348049379170258e-09
+        }
+      ]
+    },
+    {
+      "position": 17,
+      "top_logprobs": [
+        {
+          "token": " Each",
+          "logprob": -0.4603961408138275,
+          "probability": 0.6310336178161949
+        },
+        {
+          "token": " The",
+          "logprob": -1.71039617061615,
+          "probability": 0.18079415309629407
+        },
+        {
+          "token": " Every",
+          "logprob": -1.71039617061615,
+          "probability": 0.18079415309629407
+        },
+        {
+          "token": " M",
+          "logprob": -5.2103962898254395,
+          "probability": 0.005459509710737831
+        },
+        {
+          "token": " There",
+          "logprob": -7.0853962898254395,
+          "probability": 0.000837242930679765
+        },
+        {
+          "token": " Among",
+          "logprob": -7.5853962898254395,
+          "probability": 0.0005078135070849365
+        },
+        {
+          "token": " Mug",
+          "logprob": -7.7103962898254395,
+          "probability": 0.00044814384709307697
+        },
+        {
+          "token": " Morning",
+          "logprob": -9.835395812988281,
+          "probability": 5.3523175390625874e-05
+        },
+        {
+          "token": " Cups",
+          "logprob": -10.835395812988281,
+          "probability": 1.969007585242454e-05
+        },
+        {
+          "token": " Mr",
+          "logprob": -11.085395812988281,
+          "probability": 1.533464649260359e-05
+        }
+      ]
+    },
+    {
+      "position": 18,
+      "top_logprobs": [
+        {
+          "token": " morning",
+          "logprob": -0.015181495808064938,
+          "probability": 0.9849331621397208
+        },
+        {
+          "token": " mug",
+          "logprob": -5.140181541442871,
+          "probability": 0.005856626396414135
+        },
+        {
+          "token": " had",
+          "logprob": -5.390181541442871,
+          "probability": 0.004561145223683989
+        },
+        {
+          "token": " day",
+          "logprob": -5.390181541442871,
+          "probability": 0.004561145223683989
+        },
+        {
+          "token": " cup",
+          "logprob": -9.515181541442871,
+          "probability": 7.372404613885478e-05
+        },
+        {
+          "token": " one",
+          "logprob": -11.765181541442871,
+          "probability": 7.770457294598402e-06
+        },
+        {
+          "token": " dawn",
+          "logprob": -12.765181541442871,
+          "probability": 2.8585914871834175e-06
+        },
+        {
+          "token": " morn",
+          "logprob": -14.015181541442871,
+          "probability": 8.190001733417538e-07
+        },
+        {
+          "token": " of",
+          "logprob": -14.390181541442871,
+          "probability": 5.628900384657351e-07
+        },
+        {
+          "token": " Mug",
+          "logprob": -14.640181541442871,
+          "probability": 4.3837920274020775e-07
+        }
+      ]
+    },
+    {
+      "position": 19,
+      "top_logprobs": [
+        {
+          "token": ",",
+          "logprob": -4.320199877838604e-07,
+          "probability": 0.9999995679801056
+        },
+        {
+          "token": " they",
+          "logprob": -15.875,
+          "probability": 1.2751905914873347e-07
+        },
+        {
+          "token": " began",
+          "logprob": -16.0,
+          "probability": 1.1253517471925912e-07
+        },
+        {
+          "token": " brought",
+          "logprob": -16.125,
+          "probability": 9.931194312156244e-08
+        },
+        {
+          "token": " was",
+          "logprob": -18.5,
+          "probability": 9.237449661970594e-09
+        },
+        {
+          "token": " and",
+          "logprob": -19.375,
+          "probability": 3.850741922767617e-09
+        },
+        {
+          "token": " when",
+          "logprob": -19.375,
+          "probability": 3.850741922767617e-09
+        },
+        {
+          "token": " as",
+          "logprob": -20.0,
+          "probability": 2.061153622438558e-09
+        },
+        {
+          "token": " the",
+          "logprob": -20.5,
+          "probability": 1.2501528663867426e-09
+        },
+        {
+          "token": " started",
+          "logprob": -20.625,
+          "probability": 1.103256032343554e-09
+        }
+      ]
+    },
+    {
+      "position": 20,
+      "top_logprobs": [
+        {
+          "token": " the",
+          "logprob": -0.226529061794281,
+          "probability": 0.7972961711189844
+        },
+        {
+          "token": " they",
+          "logprob": -1.6015291213989258,
+          "probability": 0.20158802962681274
+        },
+        {
+          "token": " as",
+          "logprob": -7.726529121398926,
+          "probability": 0.0004409720243406412
+        },
+        {
+          "token": " a",
+          "logprob": -8.476529121398926,
+          "probability": 0.0002083004349930155
+        },
+        {
+          "token": " when",
+          "logprob": -9.101529121398926,
+          "probability": 0.00011149518839548854
+        },
+        {
+          "token": " mugs",
+          "logprob": -9.101529121398926,
+          "probability": 0.00011149518839548854
+        },
+        {
+          "token": " they'd",
+          "logprob": -9.351529121398926,
+          "probability": 8.68325400311003e-05
+        },
+        {
+          "token": " Mrs",
+          "logprob": -10.101529121398926,
+          "probability": 4.1016787600237004e-05
+        },
+        {
+          "token": " sunlight",
+          "logprob": -10.226529121398926,
+          "probability": 3.61971880111794e-05
+        },
+        {
+          "token": " bright",
+          "logprob": -11.601529121398926,
+          "probability": 9.152082386015014e-06
+        }
+      ]
+    },
+    {
+      "position": 21,
+      "top_logprobs": [
+        {
+          "token": " mugs",
+          "logprob": -0.06590630114078522,
+          "probability": 0.9362185827951764
+        },
+        {
+          "token": " cups",
+          "logprob": -3.565906286239624,
+          "probability": 0.02827135193304155
+        },
+        {
+          "token": " bright",
+          "logprob": -4.565906524658203,
+          "probability": 0.010400446670628487
+        },
+        {
+          "token": " cheerful",
+          "logprob": -4.565906524658203,
+          "probability": 0.010400446670628487
+        },
+        {
+          "token": " sunlight",
+          "logprob": -5.565906524658203,
+          "probability": 0.003826110509124196
+        },
+        {
+          "token": " coffee",
+          "logprob": -5.690906524658203,
+          "probability": 0.003376530673248472
+        },
+        {
+          "token": " sun",
+          "logprob": -6.065906524658203,
+          "probability": 0.0023206533312325386
+        },
+        {
+          "token": " little",
+          "logprob": -7.190906524658203,
+          "probability": 0.0007534058298680173
+        },
+        {
+          "token": " warm",
+          "logprob": -7.440906524658203,
+          "probability": 0.0005867530502717735
+        },
+        {
+          "token": " big",
+          "logprob": -7.690906524658203,
+          "probability": 0.0004569637350211926
+        }
+      ]
+    },
+    {
+      "position": 22,
+      "top_logprobs": [
+        {
+          "token": " proudly",
+          "logprob": -1.1363736391067505,
+          "probability": 0.3209809064431431
+        },
+        {
+          "token": " would",
+          "logprob": -1.2613736391067505,
+          "probability": 0.2832646557248696
+        },
+        {
+          "token": " eagerly",
+          "logprob": -2.261373519897461,
+          "probability": 0.10420725567415819
+        },
+        {
+          "token": " bo",
+          "logprob": -2.636373519897461,
+          "probability": 0.07162052959707862
+        },
+        {
+          "token": " enjoyed",
+          "logprob": -3.011373519897461,
+          "probability": 0.04922402213340365
+        },
+        {
+          "token": " loved",
+          "logprob": -3.761373519897461,
+          "probability": 0.02325178164720329
+        },
+        {
+          "token": " admired",
+          "logprob": -3.886373519897461,
+          "probability": 0.020519625283230244
+        },
+        {
+          "token": " were",
+          "logprob": -4.011373519897461,
+          "probability": 0.01810850575464724
+        },
+        {
+          "token": " bask",
+          "logprob": -4.011373519897461,
+          "probability": 0.01810850575464724
+        },
+        {
+          "token": " greeted",
+          "logprob": -4.261373519897461,
+          "probability": 0.014102918461972314
+        }
+      ]
+    },
+    {
+      "position": 23,
+      "top_logprobs": [
+        {
+          "token": " proud",
+          "logprob": -0.0034969616681337357,
+          "probability": 0.9965091455813073
+        },
+        {
+          "token": " important",
+          "logprob": -6.378497123718262,
+          "probability": 0.001697672432002567
+        },
+        {
+          "token": " warm",
+          "logprob": -7.378497123718262,
+          "probability": 0.0006245387855772678
+        },
+        {
+          "token": " strong",
+          "logprob": -7.628497123718262,
+          "probability": 0.0004863912952660404
+        },
+        {
+          "token": " pride",
+          "logprob": -7.878497123718262,
+          "probability": 0.00037880192163230715
+        },
+        {
+          "token": " sturdy",
+          "logprob": -9.128497123718262,
+          "probability": 0.00010852856760751381
+        },
+        {
+          "token": " special",
+          "logprob": -10.003497123718262,
+          "probability": 4.524143788568375e-05
+        },
+        {
+          "token": " proudly",
+          "logprob": -10.878497123718262,
+          "probability": 1.8859437170185916e-05
+        },
+        {
+          "token": " excited",
+          "logprob": -11.128497123718262,
+          "probability": 1.468774443642675e-05
+        },
+        {
+          "token": " a",
+          "logprob": -11.253497123718262,
+          "probability": 1.2961888971100732e-05
+        }
+      ]
+    },
+    {
+      "position": 24,
+      "top_logprobs": [
+        {
+          "token": " to",
+          "logprob": -0.8101662993431091,
+          "probability": 0.44478409276979025
+        },
+        {
+          "token": " as",
+          "logprob": -0.8101662993431091,
+          "probability": 0.44478409276979025
+        },
+        {
+          "token": " when",
+          "logprob": -2.685166358947754,
+          "probability": 0.06820984573423902
+        },
+        {
+          "token": ",",
+          "logprob": -3.560166358947754,
+          "probability": 0.028434094054734373
+        },
+        {
+          "token": " carrying",
+          "logprob": -5.060166358947754,
+          "probability": 0.006344503960108397
+        },
+        {
+          "token": " holding",
+          "logprob": -5.685166358947754,
+          "probability": 0.0033959682529320113
+        },
+        {
+          "token": "—they",
+          "logprob": -6.435166358947754,
+          "probability": 0.0016041418168554204
+        },
+        {
+          "token": " being",
+          "logprob": -6.560166358947754,
+          "probability": 0.0014156501846813339
+        },
+        {
+          "token": " because",
+          "logprob": -8.935166358947754,
+          "probability": 0.0001316759788291157
+        },
+        {
+          "token": " and",
+          "logprob": -9.060166358947754,
+          "probability": 0.00011620364346148936
+        }
+      ]
+    },
+    {
+      "position": 25,
+      "top_logprobs": [
+        {
+          "token": " holding",
+          "logprob": -0.787758469581604,
+          "probability": 0.4548632432107884
+        },
+        {
+          "token": " ready",
+          "logprob": -1.412758469581604,
+          "probability": 0.2434707493417875
+        },
+        {
+          "token": " knowing",
+          "logprob": -1.787758469581604,
+          "probability": 0.1673348357218147
+        },
+        {
+          "token": " filled",
+          "logprob": -2.6627583503723145,
+          "probability": 0.06975554589707567
+        },
+        {
+          "token": " boasting",
+          "logprob": -4.1627583503723145,
+          "probability": 0.01556456612725564
+        },
+        {
+          "token": " as",
+          "logprob": -4.4127583503723145,
+          "probability": 0.012121696288073356
+        },
+        {
+          "token": " for",
+          "logprob": -4.5377583503723145,
+          "probability": 0.010697359428295923
+        },
+        {
+          "token": " carrying",
+          "logprob": -5.0377583503723145,
+          "probability": 0.006488276471227486
+        },
+        {
+          "token": " eager",
+          "logprob": -5.7877583503723145,
+          "probability": 0.003064844789944363
+        },
+        {
+          "token": " being",
+          "logprob": -6.0377583503723145,
+          "probability": 0.002386903522400985
+        }
+      ]
+    },
+    {
+      "position": 26,
+      "top_logprobs": [
+        {
+          "token": " to",
+          "logprob": -0.01603659801185131,
+          "probability": 0.9840913036110317
+        },
+        {
+          "token": " for",
+          "logprob": -4.141036510467529,
+          "probability": 0.01590635585268909
+        },
+        {
+          "token": " with",
+          "logprob": -13.141036987304688,
+          "probability": 1.962999323482127e-06
+        },
+        {
+          "token": "ing",
+          "logprob": -16.203536987304688,
+          "probability": 9.181070009854952e-08
+        },
+        {
+          "token": " filled",
+          "logprob": -16.391036987304688,
+          "probability": 7.611374374222569e-08
+        },
+        {
+          "token": " and",
+          "logprob": -17.141036987304688,
+          "probability": 3.5953586747728134e-08
+        },
+        {
+          "token": " holding",
+          "logprob": -17.516036987304688,
+          "probability": 2.4710514705794726e-08
+        },
+        {
+          "token": " hold",
+          "logprob": -18.016036987304688,
+          "probability": 1.4987684786344403e-08
+        },
+        {
+          "token": "-filled",
+          "logprob": -18.203536987304688,
+          "probability": 1.2425227101988903e-08
+        },
+        {
+          "token": " as",
+          "logprob": -18.266036987304688,
+          "probability": 1.1672420648032403e-08
+        }
+      ]
+    },
+    {
+      "position": 27,
+      "top_logprobs": [
+        {
+          "token": " hold",
+          "logprob": -0.004144761245697737,
+          "probability": 0.9958638164223068
+        },
+        {
+          "token": " be",
+          "logprob": -6.379144668579102,
+          "probability": 0.0016965734687962235
+        },
+        {
+          "token": " warm",
+          "logprob": -6.629144668579102,
+          "probability": 0.0013212927460366686
+        },
+        {
+          "token": " carry",
+          "logprob": -7.379144668579102,
+          "probability": 0.0006241344996070501
+        },
+        {
+          "token": " serve",
+          "logprob": -8.379144668579102,
+          "probability": 0.0002296062509312594
+        },
+        {
+          "token": " fill",
+          "logprob": -9.254144668579102,
+          "probability": 9.571412549401519e-05
+        },
+        {
+          "token": " cradle",
+          "logprob": -9.879144668579102,
+          "probability": 5.123207954137247e-05
+        },
+        {
+          "token": " welcome",
+          "logprob": -10.379144668579102,
+          "probability": 3.107382700267876e-05
+        },
+        {
+          "token": " embrace",
+          "logprob": -10.379144668579102,
+          "probability": 3.107382700267876e-05
+        },
+        {
+          "token": " brew",
+          "logprob": -11.254144668579102,
+          "probability": 1.2953498283477238e-05
+        }
+      ]
+    },
+    {
+      "position": 28,
+      "top_logprobs": [
+        {
+          "token": " hot",
+          "logprob": -0.9789119362831116,
+          "probability": 0.3757196834833522
+        },
+        {
+          "token": " steaming",
+          "logprob": -1.1039118766784668,
+          "probability": 0.3315714766773224
+        },
+        {
+          "token": " warm",
+          "logprob": -1.7289118766784668,
+          "probability": 0.17747742226245466
+        },
+        {
+          "token": " strong",
+          "logprob": -2.603911876678467,
+          "probability": 0.07398359669166231
+        },
+        {
+          "token": " rich",
+          "logprob": -3.853911876678467,
+          "probability": 0.021196655341130945
+        },
+        {
+          "token": " ste",
+          "logprob": -4.478911876678467,
+          "probability": 0.011345752017718433
+        },
+        {
+          "token": " thick",
+          "logprob": -5.603911876678467,
+          "probability": 0.0036834263865882645
+        },
+        {
+          "token": " hearty",
+          "logprob": -5.978911876678467,
+          "probability": 0.0025315794647178848
+        },
+        {
+          "token": " the",
+          "logprob": -6.978911876678467,
+          "probability": 0.0009313160387615146
+        },
+        {
+          "token": " piping",
+          "logprob": -7.603911876678467,
+          "probability": 0.0004984975533101356
+        }
+      ]
+    },
+    {
+      "position": 29,
+      "top_logprobs": [
+        {
+          "token": " coffee",
+          "logprob": -0.20239859819412231,
+          "probability": 0.8167693002811425
+        },
+        {
+          "token": ",",
+          "logprob": -1.7023985385894775,
+          "probability": 0.18224587563875266
+        },
+        {
+          "token": " black",
+          "logprob": -7.702398777008057,
+          "probability": 0.00045174225322426565
+        },
+        {
+          "token": " coffees",
+          "logprob": -7.702398777008057,
+          "probability": 0.00045174225322426565
+        },
+        {
+          "token": " morning",
+          "logprob": -11.077398300170898,
+          "probability": 1.545777723804733e-05
+        },
+        {
+          "token": " and",
+          "logprob": -11.327398300170898,
+          "probability": 1.20385290175346e-05
+        },
+        {
+          "token": " hot",
+          "logprob": -11.327398300170898,
+          "probability": 1.20385290175346e-05
+        },
+        {
+          "token": " brewed",
+          "logprob": -11.452398300170898,
+          "probability": 1.0623964569649058e-05
+        },
+        {
+          "token": " bre",
+          "logprob": -11.577398300170898,
+          "probability": 9.375615825883778e-06
+        },
+        {
+          "token": " tea",
+          "logprob": -11.702398300170898,
+          "probability": 8.273951926165547e-06
+        }
+      ]
+    },
+    {
+      "position": 30,
+      "top_logprobs": [
+        {
+          "token": " and",
+          "logprob": -0.8224572539329529,
+          "probability": 0.4393507306868139
+        },
+        {
+          "token": " that",
+          "logprob": -1.6974573135375977,
+          "probability": 0.1831486220248248
+        },
+        {
+          "token": " or",
+          "logprob": -1.6974573135375977,
+          "probability": 0.1831486220248248
+        },
+        {
+          "token": ",",
+          "logprob": -1.8224573135375977,
+          "probability": 0.1616280916495447
+        },
+        {
+          "token": " for",
+          "logprob": -3.6974573135375977,
+          "probability": 0.024786470636124984
+        },
+        {
+          "token": " to",
+          "logprob": -4.947457313537598,
+          "probability": 0.0071014427344840555
+        },
+        {
+          "token": ".",
+          "logprob": -7.822457313537598,
+          "probability": 0.00040063598398673854
+        },
+        {
+          "token": " while",
+          "logprob": -8.197457313537598,
+          "probability": 0.00027535281649195703
+        },
+        {
+          "token": " with",
+          "logprob": -9.072457313537598,
+          "probability": 0.00011478413120700291
+        },
+        {
+          "token": " brewed",
+          "logprob": -11.072457313537598,
+          "probability": 1.5534342907968253e-05
+        }
+      ]
+    },
+    {
+      "position": 31,
+      "top_logprobs": [
+        {
+          "token": " while",
+          "logprob": -0.05006488412618637,
+          "probability": 0.9511677068129732
+        },
+        {
+          "token": " their",
+          "logprob": -3.5500648021698,
+          "probability": 0.02872277829557381
+        },
+        {
+          "token": " warming",
+          "logprob": -4.300065040588379,
+          "probability": 0.01356767653383809
+        },
+        {
+          "token": " waking",
+          "logprob": -6.300065040588379,
+          "probability": 0.0018361853465697216
+        },
+        {
+          "token": " steaming",
+          "logprob": -6.300065040588379,
+          "probability": 0.0018361853465697216
+        },
+        {
+          "token": " giving",
+          "logprob": -8.175065040588379,
+          "probability": 0.00028158814294434314
+        },
+        {
+          "token": " bold",
+          "logprob": -8.175065040588379,
+          "probability": 0.00028158814294434314
+        },
+        {
+          "token": " filling",
+          "logprob": -8.175065040588379,
+          "probability": 0.00028158814294434314
+        },
+        {
+          "token": " warm",
+          "logprob": -8.300065040588379,
+          "probability": 0.0002485006639529311
+        },
+        {
+          "token": " br",
+          "logprob": -8.675065040588379,
+          "probability": 0.00017079184210728776
+        }
+      ]
+    },
+    {
+      "position": 32,
+      "top_logprobs": [
+        {
+          "token": " the",
+          "logprob": -1.7432603272027336e-06,
+          "probability": 0.9999982567411922
+        },
+        {
+          "token": " cups",
+          "logprob": -13.375001907348633,
+          "probability": 1.553497204890439e-06
+        },
+        {
+          "token": " delicate",
+          "logprob": -16.625001907348633,
+          "probability": 6.023562348842112e-08
+        },
+        {
+          "token": " smaller",
+          "logprob": -21.500001907348633,
+          "probability": 4.599046606658694e-10
+        },
+        {
+          "token": " little",
+          "logprob": -21.750001907348633,
+          "probability": 3.581741098647678e-10
+        },
+        {
+          "token": " tiny",
+          "logprob": -22.625001907348633,
+          "probability": 1.4930918283477907e-10
+        },
+        {
+          "token": " elegant",
+          "logprob": -22.750001907348633,
+          "probability": 1.3176489137912955e-10
+        },
+        {
+          "token": " small",
+          "logprob": -22.875001907348633,
+          "probability": 1.162821085114775e-10
+        },
+        {
+          "token": " their",
+          "logprob": -23.375001907348633,
+          "probability": 7.052866398824247e-11
+        },
+        {
+          "token": " gentle",
+          "logprob": -23.500001907348633,
+          "probability": 6.224132751305368e-11
+        }
+      ]
+    },
+    {
+      "position": 33,
+      "top_logprobs": [
+        {
+          "token": " delicate",
+          "logprob": -0.14595066010951996,
+          "probability": 0.8642003416829561
+        },
+        {
+          "token": " cups",
+          "logprob": -2.1459505558013916,
+          "probability": 0.11695681021438567
+        },
+        {
+          "token": " da",
+          "logprob": -4.020950794219971,
+          "probability": 0.017935903476462574
+        },
+        {
+          "token": " smaller",
+          "logprob": -7.645950794219971,
+          "probability": 0.0004779756375597279
+        },
+        {
+          "token": " little",
+          "logprob": -8.770950317382812,
+          "probability": 0.00015517604406463218
+        },
+        {
+          "token": " small",
+          "logprob": -9.270950317382812,
+          "probability": 9.411902837811804e-05
+        },
+        {
+          "token": " gentle",
+          "logprob": -10.020950317382812,
+          "probability": 4.445868098230535e-05
+        },
+        {
+          "token": " fragile",
+          "logprob": -10.020950317382812,
+          "probability": 4.445868098230535e-05
+        },
+        {
+          "token": " elegant",
+          "logprob": -10.520950317382812,
+          "probability": 2.6965553106151175e-05
+        },
+        {
+          "token": " petite",
+          "logprob": -10.645950317382812,
+          "probability": 2.3797017092658827e-05
+        }
+      ]
+    },
+    {
+      "position": 34,
+      "top_logprobs": [
+        {
+          "token": " cups",
+          "logprob": -0.0005815077456645668,
+          "probability": 0.9994186612971964
+        },
+        {
+          "token": " te",
+          "logprob": -7.500581741333008,
+          "probability": 0.0005527627116791626
+        },
+        {
+          "token": " tea",
+          "logprob": -10.750581741333008,
+          "probability": 2.143293626427408e-05
+        },
+        {
+          "token": " china",
+          "logprob": -12.625581741333008,
+          "probability": 3.2868472301972164e-06
+        },
+        {
+          "token": " porcelain",
+          "logprob": -12.625581741333008,
+          "probability": 3.2868472301972164e-06
+        },
+        {
+          "token": " little",
+          "logprob": -14.750581741333008,
+          "probability": 3.925579209416994e-07
+        },
+        {
+          "token": " cup",
+          "logprob": -17.375581741333008,
+          "probability": 2.84368004148876e-08
+        },
+        {
+          "token": " teaspoons",
+          "logprob": -17.625581741333008,
+          "probability": 2.2146602431159714e-08
+        },
+        {
+          "token": ",",
+          "logprob": -17.750581741333008,
+          "probability": 1.9544308048270917e-08
+        },
+        {
+          "token": "cups",
+          "logprob": -18.000581741333008,
+          "probability": 1.5221122412582152e-08
+        }
+      ]
+    },
+    {
+      "position": 35,
+      "top_logprobs": [
+        {
+          "token": " awaited",
+          "logprob": -1.270203709602356,
+          "probability": 0.28077441950690213
+        },
+        {
+          "token": " dreamed",
+          "logprob": -1.770203709602356,
+          "probability": 0.17029829389395304
+        },
+        {
+          "token": " eagerly",
+          "logprob": -1.770203709602356,
+          "probability": 0.17029829389395304
+        },
+        {
+          "token": " waited",
+          "logprob": -2.3952035903930664,
+          "probability": 0.09115411893044124
+        },
+        {
+          "token": " looked",
+          "logprob": -2.7702035903930664,
+          "probability": 0.06264924865852947
+        },
+        {
+          "token": " whispered",
+          "logprob": -3.0202035903930664,
+          "probability": 0.04879128391409791
+        },
+        {
+          "token": " cherished",
+          "logprob": -3.2702035903930664,
+          "probability": 0.03799869011935869
+        },
+        {
+          "token": " preferred",
+          "logprob": -3.5202035903930664,
+          "probability": 0.029593409620644204
+        },
+        {
+          "token": " hoped",
+          "logprob": -3.7702035903930664,
+          "probability": 0.023047370586310553
+        },
+        {
+          "token": " anticipated",
+          "logprob": -4.520203590393066,
+          "probability": 0.010886806993600175
+        }
+      ]
+    },
+    {
+      "position": 36,
+      "top_logprobs": [
+        {
+          "token": " awaited",
+          "logprob": -0.03074108064174652,
+          "probability": 0.969726621568504
+        },
+        {
+          "token": " waited",
+          "logprob": -3.780740976333618,
+          "probability": 0.02280578661468319
+        },
+        {
+          "token": " anticipated",
+          "logprob": -4.905741214752197,
+          "probability": 0.007403953129264729
+        },
+        {
+          "token": " prepared",
+          "logprob": -9.905740737915039,
+          "probability": 4.988746755689132e-05
+        },
+        {
+          "token": " looked",
+          "logprob": -12.905740737915039,
+          "probability": 2.4837507579545424e-06
+        },
+        {
+          "token": " expected",
+          "logprob": -13.030740737915039,
+          "probability": 2.191902350687025e-06
+        },
+        {
+          "token": " welcomed",
+          "logprob": -13.155740737915039,
+          "probability": 1.934347035249193e-06
+        },
+        {
+          "token": " hoped",
+          "logprob": -13.155740737915039,
+          "probability": 1.934347035249193e-06
+        },
+        {
+          "token": " await",
+          "logprob": -13.780740737915039,
+          "probability": 1.0353813573389566e-06
+        },
+        {
+          "token": " whispered",
+          "logprob": -13.780740737915039,
+          "probability": 1.0353813573389566e-06
+        }
+      ]
+    },
+    {
+      "position": 37,
+      "top_logprobs": [
+        {
+          "token": " their",
+          "logprob": -0.652765691280365,
+          "probability": 0.5206039540455802
+        },
+        {
+          "token": " fragrant",
+          "logprob": -1.7777657508850098,
+          "probability": 0.16901534812331045
+        },
+        {
+          "token": " gentle",
+          "logprob": -1.9027657508850098,
+          "probability": 0.14915552120807857
+        },
+        {
+          "token": " tea",
+          "logprob": -2.5277657508850098,
+          "probability": 0.07983719735333068
+        },
+        {
+          "token": " sweet",
+          "logprob": -3.0277657508850098,
+          "probability": 0.04842370798032337
+        },
+        {
+          "token": " soothing",
+          "logprob": -4.90276575088501,
+          "probability": 0.0074260161318309885
+        },
+        {
+          "token": " light",
+          "logprob": -5.15276575088501,
+          "probability": 0.005783387178570859
+        },
+        {
+          "token": " a",
+          "logprob": -5.52776575088501,
+          "probability": 0.003974860002928921
+        },
+        {
+          "token": " to",
+          "logprob": -5.65276575088501,
+          "probability": 0.0035078016407921685
+        },
+        {
+          "token": " warm",
+          "logprob": -6.02776575088501,
+          "probability": 0.0024108744598418386
+        }
+      ]
+    },
+    {
+      "position": 38,
+      "top_logprobs": [
+        {
+          "token": " turn",
+          "logprob": -0.011096046306192875,
+          "probability": 0.9889652877508318
+        },
+        {
+          "token": " chance",
+          "logprob": -5.011096000671387,
+          "probability": 0.006663595996892317
+        },
+        {
+          "token": " gentle",
+          "logprob": -6.761096000671387,
+          "probability": 0.001157959353940578
+        },
+        {
+          "token": " tea",
+          "logprob": -7.261096000671387,
+          "probability": 0.0007023378508659936
+        },
+        {
+          "token": " moment",
+          "logprob": -7.386096000671387,
+          "probability": 0.0006198109779571608
+        },
+        {
+          "token": " turns",
+          "logprob": -7.386096000671387,
+          "probability": 0.0006198109779571608
+        },
+        {
+          "token": " share",
+          "logprob": -7.886096000671387,
+          "probability": 0.00037593436135748926
+        },
+        {
+          "token": " time",
+          "logprob": -8.011096000671387,
+          "probability": 0.00033176090947310225
+        },
+        {
+          "token": " moments",
+          "logprob": -8.761096000671387,
+          "probability": 0.00015671275714203317
+        },
+        {
+          "token": " sweet",
+          "logprob": -8.886096000671387,
+          "probability": 0.0001382985227733362
+        }
+      ]
+    },
+    {
+      "position": 39,
+      "top_logprobs": [
+        {
+          "token": " for",
+          "logprob": -0.4568493068218231,
+          "probability": 0.6332757632101911
+        },
+        {
+          "token": " with",
+          "logprob": -1.5818493366241455,
+          "probability": 0.20559453291723592
+        },
+        {
+          "token": " to",
+          "logprob": -1.8318493366241455,
+          "probability": 0.16011718323114307
+        },
+        {
+          "token": " filled",
+          "logprob": -6.956849098205566,
+          "probability": 0.0009520918009947928
+        },
+        {
+          "token": ",",
+          "logprob": -11.081849098205566,
+          "probability": 1.5389130672816434e-05
+        },
+        {
+          "token": " holding",
+          "logprob": -11.081849098205566,
+          "probability": 1.5389130672816434e-05
+        },
+        {
+          "token": " at",
+          "logprob": -11.581849098205566,
+          "probability": 9.333979579387275e-06
+        },
+        {
+          "token": " cr",
+          "logprob": -11.581849098205566,
+          "probability": 9.333979579387275e-06
+        },
+        {
+          "token": " of",
+          "logprob": -12.581849098205566,
+          "probability": 3.433779191570645e-06
+        },
+        {
+          "token": " carrying",
+          "logprob": -13.206849098205566,
+          "probability": 1.8379695552988868e-06
+        }
+      ]
+    },
+    {
+      "position": 40,
+      "top_logprobs": [
+        {
+          "token": " fragrant",
+          "logprob": -0.14009299874305725,
+          "probability": 0.8692773899349688
+        },
+        {
+          "token": " sweet",
+          "logprob": -3.2650930881500244,
+          "probability": 0.03819337956714718
+        },
+        {
+          "token": " warm",
+          "logprob": -3.3900930881500244,
+          "probability": 0.03370553916724517
+        },
+        {
+          "token": " tea",
+          "logprob": -3.6400930881500244,
+          "probability": 0.026249900297294442
+        },
+        {
+          "token": " soothing",
+          "logprob": -4.140092849731445,
+          "probability": 0.01592137314065956
+        },
+        {
+          "token": " gentle",
+          "logprob": -4.515092849731445,
+          "probability": 0.010942589063205865
+        },
+        {
+          "token": " hot",
+          "logprob": -6.515092849731445,
+          "probability": 0.001480918390210826
+        },
+        {
+          "token": " aromatic",
+          "logprob": -6.890092849731445,
+          "probability": 0.0010178193323562863
+        },
+        {
+          "token": " steaming",
+          "logprob": -7.265092849731445,
+          "probability": 0.0006995363148746608
+        },
+        {
+          "token": " herbal",
+          "logprob": -7.640092849731445,
+          "probability": 0.0004807838093383
+        }
+      ]
+    },
+    {
+      "position": 41,
+      "top_logprobs": [
+        {
+          "token": " tea",
+          "logprob": -0.0002346488763578236,
+          "probability": 0.9997653786515366
+        },
+        {
+          "token": " teas",
+          "logprob": -8.750234603881836,
+          "probability": 0.00015842415383419218
+        },
+        {
+          "token": " herbal",
+          "logprob": -9.500234603881836,
+          "probability": 7.483427141756957e-05
+        },
+        {
+          "token": " cham",
+          "logprob": -14.875234603881836,
+          "probability": 3.4655142941793446e-07
+        },
+        {
+          "token": " hot",
+          "logprob": -15.125234603881836,
+          "probability": 2.6989452460520207e-07
+        },
+        {
+          "token": " afternoon",
+          "logprob": -15.250234603881836,
+          "probability": 2.381810819886327e-07
+        },
+        {
+          "token": " green",
+          "logprob": -15.375234603881836,
+          "probability": 2.101940671092159e-07
+        },
+        {
+          "token": ",",
+          "logprob": -15.875234603881836,
+          "probability": 1.2748914619143427e-07
+        },
+        {
+          "token": " te",
+          "logprob": -16.250234603881836,
+          "probability": 8.762192333958769e-08
+        },
+        {
+          "token": " morning",
+          "logprob": -16.875234603881836,
+          "probability": 4.690063585632916e-08
+        }
+      ]
+    },
+    {
+      "position": 42,
+      "top_logprobs": [
+        {
+          "token": ".",
+          "logprob": -0.006718690041452646,
+          "probability": 0.9933038298934378
+        },
+        {
+          "token": ".\n\n",
+          "logprob": -5.006718635559082,
+          "probability": 0.0066928289244517665
+        },
+        {
+          "token": " or",
+          "logprob": -12.631718635559082,
+          "probability": 3.2667379637408406e-06
+        },
+        {
+          "token": " and",
+          "logprob": -16.7567195892334,
+          "probability": 5.2801851042087883e-08
+        },
+        {
+          "token": ".\n",
+          "logprob": -17.0067195892334,
+          "probability": 4.112212293919772e-08
+        },
+        {
+          "token": ",",
+          "logprob": -19.6317195892334,
+          "probability": 2.978876594448101e-09
+        },
+        {
+          "token": " leaves",
+          "logprob": -19.8817195892334,
+          "probability": 2.319951424429261e-09
+        },
+        {
+          "token": " inside",
+          "logprob": -22.3817195892334,
+          "probability": 1.9043320948178793e-10
+        },
+        {
+          "token": " ceremonies",
+          "logprob": -22.3817195892334,
+          "probability": 1.9043320948178793e-10
+        },
+        {
+          "token": ".\"",
+          "logprob": -22.8192195892334,
+          "probability": 1.2295292108485045e-10
+        }
+      ]
+    },
+    {
+      "position": 43,
+      "top_logprobs": [
+        {
+          "token": " One",
+          "logprob": -0.09038205444812775,
+          "probability": 0.9135820804893765
+        },
+        {
+          "token": " Though",
+          "logprob": -2.5903820991516113,
+          "probability": 0.07499138046741305
+        },
+        {
+          "token": " Despite",
+          "logprob": -4.590382099151611,
+          "probability": 0.01014897971586193
+        },
+        {
+          "token": " Although",
+          "logprob": -6.965382099151611,
+          "probability": 0.000944002164280282
+        },
+        {
+          "token": " \n\n",
+          "logprob": -8.215381622314453,
+          "probability": 0.0002704612772786581
+        },
+        {
+          "token": " They",
+          "logprob": -10.215381622314453,
+          "probability": 3.660295356504324e-05
+        },
+        {
+          "token": " Over",
+          "logprob": -10.715381622314453,
+          "probability": 2.2200813573236562e-05
+        },
+        {
+          "token": " The",
+          "logprob": -14.090381622314453,
+          "probability": 7.596700654642498e-07
+        },
+        {
+          "token": " But",
+          "logprob": -14.340381622314453,
+          "probability": 5.916316418594631e-07
+        },
+        {
+          "token": "  \n\n",
+          "logprob": -14.340381622314453,
+          "probability": 5.916316418594631e-07
+        }
+      ]
+    },
+    {
+      "position": 44,
+      "top_logprobs": [
+        {
+          "token": " day",
+          "logprob": -0.2645716369152069,
+          "probability": 0.7675346630825127
+        },
+        {
+          "token": " rainy",
+          "logprob": -1.5145716667175293,
+          "probability": 0.21990235617600876
+        },
+        {
+          "token": " chilly",
+          "logprob": -4.514571666717529,
+          "probability": 0.010948293641189315
+        },
+        {
+          "token": " sunny",
+          "logprob": -7.639571666717529,
+          "probability": 0.0004810344510025084
+        },
+        {
+          "token": " storm",
+          "logprob": -7.889571666717529,
+          "probability": 0.00037463000712507693
+        },
+        {
+          "token": " cold",
+          "logprob": -8.514571189880371,
+          "probability": 0.00020052508839763866
+        },
+        {
+          "token": " windy",
+          "logprob": -8.639571189880371,
+          "probability": 0.0001769627694014183
+        },
+        {
+          "token": " quiet",
+          "logprob": -9.139571189880371,
+          "probability": 0.00010733334526961686
+        },
+        {
+          "token": " evening",
+          "logprob": -9.264571189880371,
+          "probability": 9.472134474447982e-05
+        },
+        {
+          "token": " cloudy",
+          "logprob": -9.764571189880371,
+          "probability": 5.745139971673713e-05
+        }
+      ]
+    },
+    {
+      "position": 45,
+      "top_logprobs": [
+        {
+          "token": ",",
+          "logprob": 0.0,
+          "probability": 1.0
+        },
+        {
+          "token": " a",
+          "logprob": -24.875,
+          "probability": 1.57371021068629e-11
+        },
+        {
+          "token": " during",
+          "logprob": -25.75,
+          "probability": 6.560200168153779e-12
+        },
+        {
+          "token": "،",
+          "logprob": -26.25,
+          "probability": 3.97896253583724e-12
+        },
+        {
+          "token": ",a",
+          "logprob": -26.875,
+          "probability": 2.129785170955785e-12
+        },
+        {
+          "token": ",_",
+          "logprob": -28.625,
+          "probability": 3.701011678592672e-13
+        },
+        {
+          "token": "—a",
+          "logprob": -28.75,
+          "probability": 3.2661313427874473e-13
+        },
+        {
+          "token": " when",
+          "logprob": -28.875,
+          "probability": 2.8823507934443873e-13
+        },
+        {
+          "token": ",new",
+          "logprob": -29.0,
+          "probability": 2.543665647376923e-13
+        },
+        {
+          "token": ",*",
+          "logprob": -29.125,
+          "probability": 2.2447770550209742e-13
+        }
+      ]
+    },
+    {
+      "position": 46,
+      "top_logprobs": [
+        {
+          "token": " a",
+          "logprob": -0.002595872851088643,
+          "probability": 0.9974074935133261
+        },
+        {
+          "token": " the",
+          "logprob": -6.252595901489258,
+          "probability": 0.0019254493662159671
+        },
+        {
+          "token": " during",
+          "logprob": -7.377595901489258,
+          "probability": 0.0006251018875155844
+        },
+        {
+          "token": " when",
+          "logprob": -11.252595901489258,
+          "probability": 1.297357577898589e-05
+        },
+        {
+          "token": " as",
+          "logprob": -11.502595901489258,
+          "probability": 1.0103830975910423e-05
+        },
+        {
+          "token": " after",
+          "logprob": -11.627595901489258,
+          "probability": 8.916599540479238e-06
+        },
+        {
+          "token": " an",
+          "logprob": -11.877595901489258,
+          "probability": 6.944254704459359e-06
+        },
+        {
+          "token": " they",
+          "logprob": -14.002595901489258,
+          "probability": 8.293729517537131e-07
+        },
+        {
+          "token": " new",
+          "logprob": -14.377595901489258,
+          "probability": 5.700191378595492e-07
+        },
+        {
+          "token": " little",
+          "logprob": -14.377595901489258,
+          "probability": 5.700191378595492e-07
+        }
+      ]
+    },
+    {
+      "position": 47,
+      "top_logprobs": [
+        {
+          "token": " new",
+          "logprob": -0.8753158450126648,
+          "probability": 0.41673037667911034
+        },
+        {
+          "token": " little",
+          "logprob": -1.3753159046173096,
+          "probability": 0.25275973522382034
+        },
+        {
+          "token": " tiny",
+          "logprob": -2.1253159046173096,
+          "probability": 0.11939524479940765
+        },
+        {
+          "token": " small",
+          "logprob": -2.2503159046173096,
+          "probability": 0.10536593371880677
+        },
+        {
+          "token": " chipped",
+          "logprob": -3.2503159046173096,
+          "probability": 0.038761960814981865
+        },
+        {
+          "token": " curious",
+          "logprob": -3.6253159046173096,
+          "probability": 0.026640680093052812
+        },
+        {
+          "token": " young",
+          "logprob": -4.5003156661987305,
+          "probability": 0.011105490356953943
+        },
+        {
+          "token": " cl",
+          "logprob": -5.0003156661987305,
+          "probability": 0.006735820392635565
+        },
+        {
+          "token": " shy",
+          "logprob": -5.0003156661987305,
+          "probability": 0.006735820392635565
+        },
+        {
+          "token": " storm",
+          "logprob": -6.1253156661987305,
+          "probability": 0.002186800710151824
+        }
+      ]
+    },
+    {
+      "position": 48,
+      "top_logprobs": [
+        {
+          "token": " mug",
+          "logprob": -0.6115221381187439,
+          "probability": 0.5425244431316063
+        },
+        {
+          "token": " cup",
+          "logprob": -0.8615221381187439,
+          "probability": 0.4225184611462729
+        },
+        {
+          "token": " old",
+          "logprob": -4.361522197723389,
+          "probability": 0.012758951213749207
+        },
+        {
+          "token": " te",
+          "logprob": -4.736522197723389,
+          "probability": 0.008769090377826892
+        },
+        {
+          "token": " little",
+          "logprob": -4.736522197723389,
+          "probability": 0.008769090377826892
+        },
+        {
+          "token": " blue",
+          "logprob": -5.611522197723389,
+          "probability": 0.0036555007256442924
+        },
+        {
+          "token": ",",
+          "logprob": -7.861522197723389,
+          "probability": 0.00038528694186824083
+        },
+        {
+          "token": " but",
+          "logprob": -8.61152172088623,
+          "probability": 0.00018199675132922165
+        },
+        {
+          "token": " porcelain",
+          "logprob": -8.73652172088623,
+          "probability": 0.00016061156932849696
+        },
+        {
+          "token": " coffee",
+          "logprob": -9.73652172088623,
+          "probability": 5.908569437023583e-05
+        }
+      ]
+    },
+    {
+      "position": 49,
+      "top_logprobs": [
+        {
+          "token": " felt",
+          "logprob": -0.5423311591148376,
+          "probability": 0.5813913556593666
+        },
+        {
+          "token": " worried",
+          "logprob": -1.2923312187194824,
+          "probability": 0.27462981409702725
+        },
+        {
+          "token": " feared",
+          "logprob": -2.0423312187194824,
+          "probability": 0.12972593856491849
+        },
+        {
+          "token": " whispered",
+          "logprob": -5.417331218719482,
+          "probability": 0.0044389775139063005
+        },
+        {
+          "token": " grew",
+          "logprob": -6.042331218719482,
+          "probability": 0.0023760134452571625
+        },
+        {
+          "token": " was",
+          "logprob": -6.417331218719482,
+          "probability": 0.0016330085671884481
+        },
+        {
+          "token": " named",
+          "logprob": -7.167331218719482,
+          "probability": 0.000771378627479351
+        },
+        {
+          "token": " nerv",
+          "logprob": -7.167331218719482,
+          "probability": 0.000771378627479351
+        },
+        {
+          "token": " fell",
+          "logprob": -7.292331218719482,
+          "probability": 0.0006807392494704837
+        },
+        {
+          "token": " wondered",
+          "logprob": -7.792331218719482,
+          "probability": 0.00041288922607361545
+        }
+      ]
+    },
+    {
+      "position": 50,
+      "top_logprobs": [
+        {
+          "token": " sad",
+          "logprob": -0.28010258078575134,
+          "probability": 0.7557062165420201
+        },
+        {
+          "token": " left",
+          "logprob": -1.7801026105880737,
+          "probability": 0.1686208440968921
+        },
+        {
+          "token": " forgotten",
+          "logprob": -3.530102491378784,
+          "probability": 0.029301912519719617
+        },
+        {
+          "token": " lonely",
+          "logprob": -4.155102729797363,
+          "probability": 0.015684179814243297
+        },
+        {
+          "token": " useless",
+          "logprob": -4.405102729797363,
+          "probability": 0.012214851521165401
+        },
+        {
+          "token": " ashamed",
+          "logprob": -5.655102729797363,
+          "probability": 0.003499613553748877
+        },
+        {
+          "token": " shy",
+          "logprob": -5.780102729797363,
+          "probability": 0.0030883981214264527
+        },
+        {
+          "token": " overlooked",
+          "logprob": -6.155102729797363,
+          "probability": 0.00212262291749458
+        },
+        {
+          "token": " out",
+          "logprob": -6.655102729797363,
+          "probability": 0.0012874358784691422
+        },
+        {
+          "token": " unnoticed",
+          "logprob": -6.780102729797363,
+          "probability": 0.0011361581750252956
+        }
+      ]
+    },
+    {
+      "position": 51,
+      "top_logprobs": [
+        {
+          "token": ",",
+          "logprob": -0.1661415994167328,
+          "probability": 0.8469263014280977
+        },
+        {
+          "token": " and",
+          "logprob": -2.0411415100097656,
+          "probability": 0.12988036648781295
+        },
+        {
+          "token": " it",
+          "logprob": -4.041141510009766,
+          "probability": 0.017577396185503226
+        },
+        {
+          "token": " for",
+          "logprob": -5.666141510009766,
+          "probability": 0.0034611945286152504
+        },
+        {
+          "token": " about",
+          "logprob": -6.291141510009766,
+          "probability": 0.0018526439277687119
+        },
+        {
+          "token": " that",
+          "logprob": -9.541141510009766,
+          "probability": 7.183480069348182e-05
+        },
+        {
+          "token": " to",
+          "logprob": -9.666141510009766,
+          "probability": 6.339398910977945e-05
+        },
+        {
+          "token": " because",
+          "logprob": -9.916141510009766,
+          "probability": 4.9371288360716346e-05
+        },
+        {
+          "token": " she",
+          "logprob": -10.166141510009766,
+          "probability": 3.8450398036570026e-05
+        },
+        {
+          "token": " thinking",
+          "logprob": -10.666141510009766,
+          "probability": 2.3321345287334165e-05
+        }
+      ]
+    },
+    {
+      "position": 52,
+      "top_logprobs": [
+        {
+          "token": " thinking",
+          "logprob": -0.6694517731666565,
+          "probability": 0.5119891870714788
+        },
+        {
+          "token": " worried",
+          "logprob": -1.7944517135620117,
+          "probability": 0.16621856275094937
+        },
+        {
+          "token": " fearing",
+          "logprob": -1.7944517135620117,
+          "probability": 0.16621856275094937
+        },
+        {
+          "token": " believing",
+          "logprob": -1.9194517135620117,
+          "probability": 0.14668736677977603
+        },
+        {
+          "token": " afraid",
+          "logprob": -5.419451713562012,
+          "probability": 0.0044295746578591625
+        },
+        {
+          "token": " worrying",
+          "logprob": -5.669451713562012,
+          "probability": 0.003449756212213966
+        },
+        {
+          "token": " unsure",
+          "logprob": -8.294451713562012,
+          "probability": 0.0002498995018401793
+        },
+        {
+          "token": " convinced",
+          "logprob": -8.544451713562012,
+          "probability": 0.00019462192772228562
+        },
+        {
+          "token": " wondering",
+          "logprob": -8.794451713562012,
+          "probability": 0.0001515717097129824
+        },
+        {
+          "token": " wishing",
+          "logprob": -9.294451713562012,
+          "probability": 9.193288908598699e-05
+        }
+      ]
+    },
+    {
+      "position": 53,
+      "top_logprobs": [
+        {
+          "token": " it",
+          "logprob": -0.01661183498799801,
+          "probability": 0.9835253806907901
+        },
+        {
+          "token": " she",
+          "logprob": -4.2666120529174805,
+          "probability": 0.014029233028227143
+        },
+        {
+          "token": " no",
+          "logprob": -6.2666120529174805,
+          "probability": 0.001898650225467562
+        },
+        {
+          "token": " she'd",
+          "logprob": -8.14161205291748,
+          "probability": 0.0002911674423766939
+        },
+        {
+          "token": " that",
+          "logprob": -8.76661205291748,
+          "probability": 0.00015585070114476998
+        },
+        {
+          "token": " he",
+          "logprob": -10.26661205291748,
+          "probability": 3.47749919056776e-05
+        },
+        {
+          "token": " they",
+          "logprob": -10.26661205291748,
+          "probability": 3.47749919056776e-05
+        },
+        {
+          "token": " about",
+          "logprob": -11.14161205291748,
+          "probability": 1.4496373360104545e-05
+        },
+        {
+          "token": " nobody",
+          "logprob": -11.89161205291748,
+          "probability": 6.847601911359264e-06
+        },
+        {
+          "token": " they'd",
+          "logprob": -12.64161205291748,
+          "probability": 3.234578109411559e-06
+        }
+      ]
+    },
+    {
+      "position": 54,
+      "top_logprobs": [
+        {
+          "token": " was",
+          "logprob": -0.39688488841056824,
+          "probability": 0.6724114235255887
+        },
+        {
+          "token": " wasn",
+          "logprob": -2.0218849182128906,
+          "probability": 0.13240565588686437
+        },
+        {
+          "token": " wouldn",
+          "logprob": -2.1468849182128906,
+          "probability": 0.11684758120483962
+        },
+        {
+          "token": " would",
+          "logprob": -3.7718849182128906,
+          "probability": 0.02300865295860307
+        },
+        {
+          "token": " wouldn't",
+          "logprob": -3.7718849182128906,
+          "probability": 0.02300865295860307
+        },
+        {
+          "token": " wasn't",
+          "logprob": -4.271884918212891,
+          "probability": 0.013955453458080554
+        },
+        {
+          "token": " might",
+          "logprob": -4.521884918212891,
+          "probability": 0.01086851808126968
+        },
+        {
+          "token": " could",
+          "logprob": -6.021884918212891,
+          "probability": 0.002425094180049809
+        },
+        {
+          "token": " couldn",
+          "logprob": -6.146884918212891,
+          "probability": 0.0021401381023698858
+        },
+        {
+          "token": " no",
+          "logprob": -6.396884918212891,
+          "probability": 0.0016667412300066173
+        }
+      ]
+    },
+    {
+      "position": 55,
+      "top_logprobs": [
+        {
+          "token": " no",
+          "logprob": -0.052700430154800415,
+          "probability": 0.9486641610948808
+        },
+        {
+          "token": " less",
+          "logprob": -3.0527005195617676,
+          "probability": 0.0472312032237743
+        },
+        {
+          "token": " useless",
+          "logprob": -6.427700519561768,
+          "probability": 0.0016161628999134512
+        },
+        {
+          "token": " broken",
+          "logprob": -7.177700519561768,
+          "probability": 0.0007634212977000386
+        },
+        {
+          "token": " now",
+          "logprob": -7.552700519561768,
+          "probability": 0.0005246912731099276
+        },
+        {
+          "token": " too",
+          "logprob": -7.802700519561768,
+          "probability": 0.0004086299743687439
+        },
+        {
+          "token": " unwanted",
+          "logprob": -8.42770004272461,
+          "probability": 0.00021872396811198276
+        },
+        {
+          "token": " forgotten",
+          "logprob": -8.67770004272461,
+          "probability": 0.00017034239764209718
+        },
+        {
+          "token": " not",
+          "logprob": -8.80270004272461,
+          "probability": 0.00015032663829798423
+        },
+        {
+          "token": " imperfect",
+          "logprob": -8.80270004272461,
+          "probability": 0.00015032663829798423
+        }
+      ]
+    },
+    {
+      "position": 56,
+      "top_logprobs": [
+        {
+          "token": " longer",
+          "logprob": -9.088346359931165e-07,
+          "probability": 0.999999091165777
+        },
+        {
+          "token": " good",
+          "logprob": -14.000000953674316,
+          "probability": 8.315279260963632e-07
+        },
+        {
+          "token": " use",
+          "logprob": -17.875,
+          "probability": 1.7257827987960214e-08
+        },
+        {
+          "token": " more",
+          "logprob": -21.625,
+          "probability": 4.058652126475693e-10
+        },
+        {
+          "token": " match",
+          "logprob": -21.625,
+          "probability": 4.058652126475693e-10
+        },
+        {
+          "token": " better",
+          "logprob": -21.875,
+          "probability": 3.1608814543136926e-10
+        },
+        {
+          "token": " less",
+          "logprob": -22.625,
+          "probability": 1.493094676197164e-10
+        },
+        {
+          "token": " fun",
+          "logprob": -22.75,
+          "probability": 1.3176514270095466e-10
+        },
+        {
+          "token": " long",
+          "logprob": -22.875,
+          "probability": 1.162823303022097e-10
+        },
+        {
+          "token": " different",
+          "logprob": -23.125,
+          "probability": 9.056076989672867e-11
+        }
+      ]
+    },
+    {
+      "position": 57,
+      "top_logprobs": [
+        {
+          "token": " useful",
+          "logprob": -0.048809681087732315,
+          "probability": 0.9523623650210986
+        },
+        {
+          "token": " special",
+          "logprob": -3.673809766769409,
+          "probability": 0.025379595190362602
+        },
+        {
+          "token": " needed",
+          "logprob": -4.29880952835083,
+          "probability": 0.01358472161567682
+        },
+        {
+          "token": " beautiful",
+          "logprob": -5.42380952835083,
+          "probability": 0.004410313390905787
+        },
+        {
+          "token": " loved",
+          "logprob": -6.17380952835083,
+          "probability": 0.0020832845329697017
+        },
+        {
+          "token": " wanted",
+          "logprob": -6.79880952835083,
+          "probability": 0.0011151018551288799
+        },
+        {
+          "token": " perfect",
+          "logprob": -8.048810005187988,
+          "probability": 0.0003194818781412537
+        },
+        {
+          "token": " good",
+          "logprob": -8.298810005187988,
+          "probability": 0.00024881273687353154
+        },
+        {
+          "token": " valuable",
+          "logprob": -8.923810005187988,
+          "probability": 0.00013317986097264613
+        },
+        {
+          "token": " welcome",
+          "logprob": -9.298810005187988,
+          "probability": 9.15330905973719e-05
+        }
+      ]
+    },
+    {
+      "position": 58,
+      "top_logprobs": [
+        {
+          "token": ".",
+          "logprob": -0.0019291093340143561,
+          "probability": 0.9980727502014557
+        },
+        {
+          "token": ".\n\n",
+          "logprob": -6.25192928314209,
+          "probability": 0.0019267333340007235
+        },
+        {
+          "token": ",",
+          "logprob": -14.50192928314209,
+          "probability": 5.033755711460609e-07
+        },
+        {
+          "token": ".\n",
+          "logprob": -18.251928329467773,
+          "probability": 1.1838270042185199e-08
+        },
+        {
+          "token": " or",
+          "logprob": -19.001928329467773,
+          "probability": 5.5920028102442495e-09
+        },
+        {
+          "token": " and",
+          "logprob": -21.251928329467773,
+          "probability": 5.893927599475101e-10
+        },
+        {
+          "token": ";",
+          "logprob": -22.814428329467773,
+          "probability": 1.235434339894116e-10
+        },
+        {
+          "token": "—but",
+          "logprob": -22.876928329467773,
+          "probability": 1.1605831571448761e-10
+        },
+        {
+          "token": ":\n\n",
+          "logprob": -23.501928329467773,
+          "probability": 6.212153986084462e-11
+        },
+        {
+          "token": "—",
+          "logprob": -23.501928329467773,
+          "probability": 6.212153986084462e-11
+        }
+      ]
+    },
+    {
+      "position": 59,
+      "top_logprobs": [
+        {
+          "token": " But",
+          "logprob": -0.39930129051208496,
+          "probability": 0.6707885686732893
+        },
+        {
+          "token": " The",
+          "logprob": -1.274301290512085,
+          "probability": 0.2796262775144032
+        },
+        {
+          "token": " Seeing",
+          "logprob": -3.024301290512085,
+          "probability": 0.04859176093604638
+        },
+        {
+          "token": " To",
+          "logprob": -7.399301528930664,
+          "probability": 0.0006116798526374409
+        },
+        {
+          "token": " \n\n",
+          "logprob": -8.649301528930664,
+          "probability": 0.000175249211923361
+        },
+        {
+          "token": " S",
+          "logprob": -10.024301528930664,
+          "probability": 4.430993990780296e-05
+        },
+        {
+          "token": " Hearing",
+          "logprob": -10.274301528930664,
+          "probability": 3.450861589804384e-05
+        },
+        {
+          "token": " Not",
+          "logprob": -10.399301528930664,
+          "probability": 3.0453746642505213e-05
+        },
+        {
+          "token": " Yet",
+          "logprob": -10.899301528930664,
+          "probability": 1.847113104180008e-05
+        },
+        {
+          "token": " Watching",
+          "logprob": -11.149301528930664,
+          "probability": 1.4385331319568439e-05
+        }
+      ]
+    },
+    {
+      "position": 60,
+      "top_logprobs": [
+        {
+          "token": " the",
+          "logprob": -0.30245479941368103,
+          "probability": 0.7390018908227869
+        },
+        {
+          "token": " a",
+          "logprob": -1.4274548292160034,
+          "probability": 0.2399187800879666
+        },
+        {
+          "token": " when",
+          "logprob": -3.927454710006714,
+          "probability": 0.019693735081044245
+        },
+        {
+          "token": " then",
+          "logprob": -7.302454948425293,
+          "probability": 0.0006738823963356773
+        },
+        {
+          "token": " an",
+          "logprob": -7.802454948425293,
+          "probability": 0.0004087303344182086
+        },
+        {
+          "token": " to",
+          "logprob": -9.052454948425293,
+          "probability": 0.00011710320143308643
+        },
+        {
+          "token": " as",
+          "logprob": -9.927454948425293,
+          "probability": 4.8815877060215604e-05
+        },
+        {
+          "token": " that",
+          "logprob": -9.927454948425293,
+          "probability": 4.8815877060215604e-05
+        },
+        {
+          "token": " soon",
+          "logprob": -9.927454948425293,
+          "probability": 4.8815877060215604e-05
+        },
+        {
+          "token": " together",
+          "logprob": -11.427454948425293,
+          "probability": 1.089229446623197e-05
+        }
+      ]
+    },
+    {
+      "position": 61,
+      "top_logprobs": [
+        {
+          "token": " wise",
+          "logprob": -0.33447134494781494,
+          "probability": 0.7157163534235199
+        },
+        {
+          "token": " oldest",
+          "logprob": -1.959471344947815,
+          "probability": 0.14093290612366233
+        },
+        {
+          "token": " mugs",
+          "logprob": -3.0844712257385254,
+          "probability": 0.04575422115935752
+        },
+        {
+          "token": " other",
+          "logprob": -3.9594712257385254,
+          "probability": 0.01907319704130692
+        },
+        {
+          "token": " kind",
+          "logprob": -4.084471225738525,
+          "probability": 0.016832037311339025
+        },
+        {
+          "token": " smallest",
+          "logprob": -4.084471225738525,
+          "probability": 0.016832037311339025
+        },
+        {
+          "token": " old",
+          "logprob": -4.584471225738525,
+          "probability": 0.010209146694754121
+        },
+        {
+          "token": " biggest",
+          "logprob": -4.834471225738525,
+          "probability": 0.007950891440365353
+        },
+        {
+          "token": " eldest",
+          "logprob": -5.084471225738525,
+          "probability": 0.006192160479872267
+        },
+        {
+          "token": " others",
+          "logprob": -5.584471225738525,
+          "probability": 0.0037557351809034234
+        }
+      ]
+    },
+    {
+      "position": 62,
+      "top_logprobs": [
+        {
+          "token": " old",
+          "logprob": -0.05087018385529518,
+          "probability": 0.9504020400533352
+        },
+        {
+          "token": " oldest",
+          "logprob": -3.050870180130005,
+          "probability": 0.04731773152136505
+        },
+        {
+          "token": ",",
+          "logprob": -6.800870418548584,
+          "probability": 0.0011128061190886491
+        },
+        {
+          "token": " mug",
+          "logprob": -7.925870418548584,
+          "probability": 0.0003612752522535995
+        },
+        {
+          "token": " eldest",
+          "logprob": -8.675869941711426,
+          "probability": 0.00017065442687202586
+        },
+        {
+          "token": " big",
+          "logprob": -8.800869941711426,
+          "probability": 0.00015060200312691215
+        },
+        {
+          "token": " biggest",
+          "logprob": -8.800869941711426,
+          "probability": 0.00015060200312691215
+        },
+        {
+          "token": " largest",
+          "logprob": -9.175869941711426,
+          "probability": 0.00010350714211357119
+        },
+        {
+          "token": " tallest",
+          "logprob": -9.425869941711426,
+          "probability": 8.061144333153243e-05
+        },
+        {
+          "token": " blue",
+          "logprob": -9.800869941711426,
+          "probability": 5.5403380749628255e-05
+        }
+      ]
+    },
+    {
+      "position": 63,
+      "top_logprobs": [
+        {
+          "token": " mug",
+          "logprob": -0.0005780545179732144,
+          "probability": 0.9994221125233518
+        },
+        {
+          "token": " te",
+          "logprob": -7.500577926635742,
+          "probability": 0.0005527648203055893
+        },
+        {
+          "token": " coffee",
+          "logprob": -11.250577926635742,
+          "probability": 1.299978256208939e-05
+        },
+        {
+          "token": " kettle",
+          "logprob": -12.625577926635742,
+          "probability": 3.286859768548273e-06
+        },
+        {
+          "token": " travel",
+          "logprob": -12.750577926635742,
+          "probability": 2.900643564973771e-06
+        },
+        {
+          "token": " ceramic",
+          "logprob": -13.375577926635742,
+          "probability": 1.5526026182122772e-06
+        },
+        {
+          "token": " Mug",
+          "logprob": -13.875577926635742,
+          "probability": 9.417010902958544e-07
+        },
+        {
+          "token": " blue",
+          "logprob": -14.125577926635742,
+          "probability": 7.333975465416072e-07
+        },
+        {
+          "token": " tea",
+          "logprob": -14.625577926635742,
+          "probability": 4.4482809773550774e-07
+        },
+        {
+          "token": " mugs",
+          "logprob": -14.750577926635742,
+          "probability": 3.925594184341833e-07
+        }
+      ]
+    },
+    {
+      "position": 64,
+      "top_logprobs": [
+        {
+          "token": " reminded",
+          "logprob": -0.4776010513305664,
+          "probability": 0.6202696033604406
+        },
+        {
+          "token": " said",
+          "logprob": -2.3526010513305664,
+          "probability": 0.09512142445825729
+        },
+        {
+          "token": " smiled",
+          "logprob": -2.3526010513305664,
+          "probability": 0.09512142445825729
+        },
+        {
+          "token": " comfort",
+          "logprob": -2.8526010513305664,
+          "probability": 0.05769406032947222
+        },
+        {
+          "token": " reass",
+          "logprob": -3.2276010513305664,
+          "probability": 0.0396525091143658
+        },
+        {
+          "token": " told",
+          "logprob": -3.4776010513305664,
+          "probability": 0.030881405149014104
+        },
+        {
+          "token": " whispered",
+          "logprob": -3.4776010513305664,
+          "probability": 0.030881405149014104
+        },
+        {
+          "token": " encouraged",
+          "logprob": -3.9776010513305664,
+          "probability": 0.018730519037884637
+        },
+        {
+          "token": " assured",
+          "logprob": -5.352601051330566,
+          "probability": 0.004735816862751861
+        },
+        {
+          "token": " gently",
+          "logprob": -5.727601051330566,
+          "probability": 0.003254876156086851
+        }
+      ]
+    },
+    {
+      "position": 65,
+      "top_logprobs": [
+        {
+          "token": "ed",
+          "logprob": 0.0,
+          "probability": 1.0
+        },
+        {
+          "token": "ingly",
+          "logprob": -26.5,
+          "probability": 3.0988191387218256e-12
+        },
+        {
+          "token": "edly",
+          "logprob": -27.625,
+          "probability": 1.006039279283317e-12
+        },
+        {
+          "token": "eded",
+          "logprob": -31.875,
+          "probability": 1.435037960133826e-14
+        },
+        {
+          "token": "ly",
+          "logprob": -32.75,
+          "probability": 5.9821282237671354e-15
+        },
+        {
+          "token": "ened",
+          "logprob": -33.0,
+          "probability": 4.658886145103398e-15
+        },
+        {
+          "token": "ED",
+          "logprob": -33.125,
+          "probability": 4.111452592548034e-15
+        },
+        {
+          "token": "ered",
+          "logprob": -33.75,
+          "probability": 2.2007019879753665e-15
+        },
+        {
+          "token": "led",
+          "logprob": -34.875,
+          "probability": 7.144633303166281e-16
+        },
+        {
+          "token": "ged",
+          "logprob": -35.0,
+          "probability": 6.305116760146989e-16
+        }
+      ]
+    },
+    {
+      "position": 66,
+      "top_logprobs": [
+        {
+          "token": " it",
+          "logprob": -0.021083755418658257,
+          "probability": 0.979136953109624
+        },
+        {
+          "token": " her",
+          "logprob": -3.8960838317871094,
+          "probability": 0.0203213375975529
+        },
+        {
+          "token": ",",
+          "logprob": -7.646083831787109,
+          "probability": 0.00047791205307341186
+        },
+        {
+          "token": " the",
+          "logprob": -9.77108383178711,
+          "probability": 5.707845506899962e-05
+        },
+        {
+          "token": " him",
+          "logprob": -12.02108383178711,
+          "probability": 6.016024903461774e-06
+        },
+        {
+          "token": " them",
+          "logprob": -14.39608383178711,
+          "probability": 5.59577483474128e-07
+        },
+        {
+          "token": ":",
+          "logprob": -16.77108383178711,
+          "probability": 5.204881379913451e-08
+        },
+        {
+          "token": " its",
+          "logprob": -17.89608383178711,
+          "probability": 1.689777582296434e-08
+        },
+        {
+          "token": " gently",
+          "logprob": -18.27108383178711,
+          "probability": 1.1613660158536688e-08
+        },
+        {
+          "token": " and",
+          "logprob": -18.77108383178711,
+          "probability": 7.044040957635584e-09
+        }
+      ]
+    },
+    {
+      "position": 67,
+      "top_logprobs": [
+        {
+          "token": ",",
+          "logprob": -0.002681248588487506,
+          "probability": 0.9973223427480368
+        },
+        {
+          "token": ":",
+          "logprob": -6.127681255340576,
+          "probability": 0.002181633751996093
+        },
+        {
+          "token": " saying",
+          "logprob": -8.252680778503418,
+          "probability": 0.000260559118915994
+        },
+        {
+          "token": ".",
+          "logprob": -9.127680778503418,
+          "probability": 0.00010861720055697391
+        },
+        {
+          "token": " gently",
+          "logprob": -9.377680778503418,
+          "probability": 8.459116084879512e-05
+        },
+        {
+          "token": " by",
+          "logprob": -10.502680778503418,
+          "probability": 2.7462729086268367e-05
+        },
+        {
+          "token": " and",
+          "logprob": -12.752680778503418,
+          "probability": 2.894550350045243e-06
+        },
+        {
+          "token": " with",
+          "logprob": -12.877680778503418,
+          "probability": 2.554431718290083e-06
+        },
+        {
+          "token": " warmly",
+          "logprob": -13.002680778503418,
+          "probability": 2.2542780792548442e-06
+        },
+        {
+          "token": ".\n\n",
+          "logprob": -13.127680778503418,
+          "probability": 1.989393422506751e-06
+        }
+      ]
+    },
+    {
+      "position": 68,
+      "top_logprobs": [
+        {
+          "token": " saying",
+          "logprob": -0.007873844355344772,
+          "probability": 0.9921570731573438
+        },
+        {
+          "token": " “",
+          "logprob": -5.382874011993408,
+          "probability": 0.004594598006462282
+        },
+        {
+          "token": " \"",
+          "logprob": -6.132874011993408,
+          "probability": 0.0021703344215433266
+        },
+        {
+          "token": " reminding",
+          "logprob": -6.882874011993408,
+          "probability": 0.0010251933889995853
+        },
+        {
+          "token": " explaining",
+          "logprob": -10.00787353515625,
+          "probability": 4.5043875362219283e-05
+        },
+        {
+          "token": " whisper",
+          "logprob": -12.25787353515625,
+          "probability": 4.7475895344391786e-06
+        },
+        {
+          "token": " showing",
+          "logprob": -13.50787353515625,
+          "probability": 1.3602071751400613e-06
+        },
+        {
+          "token": " sharing",
+          "logprob": -13.88287353515625,
+          "probability": 9.348558084083184e-07
+        },
+        {
+          "token": " telling",
+          "logprob": -15.88287353515625,
+          "probability": 1.2651897561633229e-07
+        },
+        {
+          "token": " pointing",
+          "logprob": -16.13287353515625,
+          "probability": 9.853307728339158e-08
+        }
+      ]
+    },
+    {
+      "position": 69,
+      "top_logprobs": [
+        {
+          "token": ",",
+          "logprob": 0.0,
+          "probability": 1.0
+        },
+        {
+          "token": " that",
+          "logprob": -17.875,
+          "probability": 1.7257827987960214e-08
+        },
+        {
+          "token": " every",
+          "logprob": -18.375,
+          "probability": 1.0467401794744658e-08
+        },
+        {
+          "token": " the",
+          "logprob": -19.625,
+          "probability": 2.9989608248573072e-09
+        },
+        {
+          "token": ":",
+          "logprob": -20.0,
+          "probability": 2.061153622438558e-09
+        },
+        {
+          "token": " everyone",
+          "logprob": -20.0,
+          "probability": 2.061153622438558e-09
+        },
+        {
+          "token": " all",
+          "logprob": -20.125,
+          "probability": 1.8189616875530459e-09
+        },
+        {
+          "token": " gently",
+          "logprob": -20.125,
+          "probability": 1.8189616875530459e-09
+        },
+        {
+          "token": ",“",
+          "logprob": -20.375,
+          "probability": 1.4166087866431961e-09
+        },
+        {
+          "token": " with",
+          "logprob": -20.75,
+          "probability": 9.736200313009565e-10
+        }
+      ]
+    },
+    {
+      "position": 70,
+      "top_logprobs": [
+        {
+          "token": " “",
+          "logprob": -0.5759414434432983,
+          "probability": 0.5621753632865646
+        },
+        {
+          "token": " \"",
+          "logprob": -0.8259414434432983,
+          "probability": 0.43782261315102805
+        },
+        {
+          "token": " **",
+          "logprob": -14.20094108581543,
+          "probability": 6.801577463075181e-07
+        },
+        {
+          "token": " *",
+          "logprob": -14.57594108581543,
+          "probability": 4.6746512692378715e-07
+        },
+        {
+          "token": " ",
+          "logprob": -14.57594108581543,
+          "probability": 4.6746512692378715e-07
+        },
+        {
+          "token": " ",
+          "logprob": -15.57594108581543,
+          "probability": 1.7197080965986015e-07
+        },
+        {
+          "token": "  \n",
+          "logprob": -15.70094108581543,
+          "probability": 1.5176370685979162e-07
+        },
+        {
+          "token": " ”",
+          "logprob": -17.82594108581543,
+          "probability": 1.812558998542523e-08
+        },
+        {
+          "token": " ‘",
+          "logprob": -18.32594108581543,
+          "probability": 1.0993726051540667e-08
+        },
+        {
+          "token": " «",
+          "logprob": -18.57594108581543,
+          "probability": 8.561922457812375e-09
+        }
+      ]
+    },
+    {
+      "position": 71,
+      "top_logprobs": [
+        {
+          "token": "Every",
+          "logprob": -0.16148388385772705,
+          "probability": 0.8508802442619482
+        },
+        {
+          "token": "It's",
+          "logprob": -3.0364837646484375,
+          "probability": 0.04800338428373921
+        },
+        {
+          "token": "Even",
+          "logprob": -3.7864837646484375,
+          "probability": 0.022675193154012094
+        },
+        {
+          "token": "Your",
+          "logprob": -4.2864837646484375,
+          "probability": 0.013753199862814345
+        },
+        {
+          "token": "Beauty",
+          "logprob": -4.2864837646484375,
+          "probability": 0.013753199862814345
+        },
+        {
+          "token": "It",
+          "logprob": -4.4114837646484375,
+          "probability": 0.012137156279560541
+        },
+        {
+          "token": "Our",
+          "logprob": -4.4114837646484375,
+          "probability": 0.012137156279560541
+        },
+        {
+          "token": "We",
+          "logprob": -4.9114837646484375,
+          "probability": 0.007361557405277187
+        },
+        {
+          "token": "Each",
+          "logprob": -5.0364837646484375,
+          "probability": 0.006496551608355808
+        },
+        {
+          "token": "You",
+          "logprob": -6.0364837646484375,
+          "probability": 0.0023899477752233698
+        }
+      ]
+    },
+    {
+      "position": 72,
+      "top_logprobs": [
+        {
+          "token": " crack",
+          "logprob": -0.07488931715488434,
+          "probability": 0.9278461773001169
+        },
+        {
+          "token": " cup",
+          "logprob": -3.5748894214630127,
+          "probability": 0.028018523850304206
+        },
+        {
+          "token": " mark",
+          "logprob": -4.324889183044434,
+          "probability": 0.013235016679533595
+        },
+        {
+          "token": " sip",
+          "logprob": -4.699889183044434,
+          "probability": 0.009096285068463132
+        },
+        {
+          "token": " one",
+          "logprob": -4.949889183044434,
+          "probability": 0.007084193934359815
+        },
+        {
+          "token": " chip",
+          "logprob": -4.949889183044434,
+          "probability": 0.007084193934359815
+        },
+        {
+          "token": " scratch",
+          "logprob": -6.074889183044434,
+          "probability": 0.0022999010400349693
+        },
+        {
+          "token": " stain",
+          "logprob": -6.324889183044434,
+          "probability": 0.0017911647309659725
+        },
+        {
+          "token": " scar",
+          "logprob": -6.449889183044434,
+          "probability": 0.0015806973270962408
+        },
+        {
+          "token": " spot",
+          "logprob": -7.949889183044434,
+          "probability": 0.00035270124774117916
+        }
+      ]
+    },
+    {
+      "position": 73,
+      "top_logprobs": [
+        {
+          "token": " tells",
+          "logprob": -0.08984119445085526,
+          "probability": 0.9140763341399035
+        },
+        {
+          "token": " and",
+          "logprob": -2.96484112739563,
+          "probability": 0.05156866144188629
+        },
+        {
+          "token": " holds",
+          "logprob": -4.214841365814209,
+          "probability": 0.014774665348204413
+        },
+        {
+          "token": " has",
+          "logprob": -4.339841365814209,
+          "probability": 0.013038596406514346
+        },
+        {
+          "token": " shows",
+          "logprob": -5.339841365814209,
+          "probability": 0.0047966315596884735
+        },
+        {
+          "token": " is",
+          "logprob": -7.339841365814209,
+          "probability": 0.0006491534907121149
+        },
+        {
+          "token": " adds",
+          "logprob": -7.839841365814209,
+          "probability": 0.0003937314949763779
+        },
+        {
+          "token": " carries",
+          "logprob": -7.964841365814209,
+          "probability": 0.0003474668247666557
+        },
+        {
+          "token": " makes",
+          "logprob": -8.21484088897705,
+          "probability": 0.00027060756425531724
+        },
+        {
+          "token": ",",
+          "logprob": -10.96484088897705,
+          "probability": 1.729936280919912e-05
+        }
+      ]
+    },
+    {
+      "position": 74,
+      "top_logprobs": [
+        {
+          "token": " a",
+          "logprob": -0.00017541198758408427,
+          "probability": 0.999824603396199
+        },
+        {
+          "token": " your",
+          "logprob": -8.750175476074219,
+          "probability": 0.00015843352138402063
+        },
+        {
+          "token": " our",
+          "logprob": -11.000175476074219,
+          "probability": 1.6698770298481327e-05
+        },
+        {
+          "token": " its",
+          "logprob": -15.875175476074219,
+          "probability": 1.274966845680052e-07
+        },
+        {
+          "token": " the",
+          "logprob": -16.75017547607422,
+          "probability": 5.3148525431332363e-08
+        },
+        {
+          "token": " stories",
+          "logprob": -17.00017547607422,
+          "probability": 4.139211322501212e-08
+        },
+        {
+          "token": " of",
+          "logprob": -19.50017547607422,
+          "probability": 3.3976715571153832e-09
+        },
+        {
+          "token": " part",
+          "logprob": -21.37517547607422,
+          "probability": 5.210498089913861e-10
+        },
+        {
+          "token": " where",
+          "logprob": -21.37517547607422,
+          "probability": 5.210498089913861e-10
+        },
+        {
+          "token": " us",
+          "logprob": -21.62517547607422,
+          "probability": 4.057939992616974e-10
+        }
+      ]
+    },
+    {
+      "position": 75,
+      "top_logprobs": [
+        {
+          "token": " story",
+          "logprob": -2.7968066206085496e-05,
+          "probability": 0.9999720323248966
+        },
+        {
+          "token": " beautiful",
+          "logprob": -11.250027656555176,
+          "probability": 1.3006937921996861e-05
+        },
+        {
+          "token": " tale",
+          "logprob": -11.625027656555176,
+          "probability": 8.939528983688169e-06
+        },
+        {
+          "token": " unique",
+          "logprob": -12.250027656555176,
+          "probability": 4.784985054095847e-06
+        },
+        {
+          "token": " memory",
+          "logprob": -15.000027656555176,
+          "probability": 3.058938604144094e-07
+        },
+        {
+          "token": " lovely",
+          "logprob": -15.125027656555176,
+          "probability": 2.699503843353609e-07
+        },
+        {
+          "token": " special",
+          "logprob": -15.375027656555176,
+          "probability": 2.1023757071080576e-07
+        },
+        {
+          "token": " warm",
+          "logprob": -15.875027656555176,
+          "probability": 1.2751553245960644e-07
+        },
+        {
+          "token": " wonderful",
+          "logprob": -15.875027656555176,
+          "probability": 1.2751553245960644e-07
+        },
+        {
+          "token": " cherished",
+          "logprob": -16.250028610229492,
+          "probability": 8.763997475877685e-08
+        }
+      ]
+    },
+    {
+      "position": 76,
+      "top_logprobs": [
+        {
+          "token": ",",
+          "logprob": -0.2835032641887665,
+          "probability": 0.753140663742758
+        },
+        {
+          "token": ".",
+          "logprob": -2.158503293991089,
+          "probability": 0.11549785807573362
+        },
+        {
+          "token": ";",
+          "logprob": -2.408503293991089,
+          "probability": 0.08994982231245133
+        },
+        {
+          "token": " and",
+          "logprob": -3.283503293991089,
+          "probability": 0.037496664598891415
+        },
+        {
+          "token": "—",
+          "logprob": -5.78350305557251,
+          "probability": 0.0030779143958326862
+        },
+        {
+          "token": " —",
+          "logprob": -7.78350305557251,
+          "probability": 0.0004165504165380642
+        },
+        {
+          "token": "—you",
+          "logprob": -8.908503532409668,
+          "probability": 0.00013523405602359253
+        },
+        {
+          "token": "—we",
+          "logprob": -9.158503532409668,
+          "probability": 0.0001053203887290961
+        },
+        {
+          "token": "—it",
+          "logprob": -9.658503532409668,
+          "probability": 6.388004485704965e-05
+        },
+        {
+          "token": "—and",
+          "logprob": -9.908503532409668,
+          "probability": 4.974982895730674e-05
+        }
+      ]
+    },
+    {
+      "position": 77,
+      "top_logprobs": [
+        {
+          "token": " and",
+          "logprob": -0.007431396283209324,
+          "probability": 0.9925961482684232
+        },
+        {
+          "token": " making",
+          "logprob": -5.007431507110596,
+          "probability": 0.0066880594973088205
+        },
+        {
+          "token": " just",
+          "logprob": -7.757431507110596,
+          "probability": 0.0004275533392861607
+        },
+        {
+          "token": " every",
+          "logprob": -8.382431030273438,
+          "probability": 0.000228852920279925
+        },
+        {
+          "token": " showing",
+          "logprob": -10.632431030273438,
+          "probability": 2.4120920336222254e-05
+        },
+        {
+          "token": " reminding",
+          "logprob": -11.257431030273438,
+          "probability": 1.2910998276359085e-05
+        },
+        {
+          "token": " adding",
+          "logprob": -12.007431030273438,
+          "probability": 6.098723748248924e-06
+        },
+        {
+          "token": " each",
+          "logprob": -12.382431030273438,
+          "probability": 4.191587446479378e-06
+        },
+        {
+          "token": " you",
+          "logprob": -12.632431030273438,
+          "probability": 3.26441158563041e-06
+        },
+        {
+          "token": " dear",
+          "logprob": -13.382431030273438,
+          "probability": 1.5419988474320664e-06
+        }
+      ]
+    },
+    {
+      "position": 78,
+      "top_logprobs": [
+        {
+          "token": " every",
+          "logprob": -0.2749512493610382,
+          "probability": 0.7596091537539369
+        },
+        {
+          "token": " together",
+          "logprob": -2.274951219558716,
+          "probability": 0.10280192303614874
+        },
+        {
+          "token": " you",
+          "logprob": -2.524951219558716,
+          "probability": 0.08006221816179893
+        },
+        {
+          "token": " your",
+          "logprob": -3.774951219558716,
+          "probability": 0.022938209550622424
+        },
+        {
+          "token": " you're",
+          "logprob": -4.274951457977295,
+          "probability": 0.013912724054313352
+        },
+        {
+          "token": " that",
+          "logprob": -4.649951457977295,
+          "probability": 0.009562066081306834
+        },
+        {
+          "token": " stories",
+          "logprob": -5.524951457977295,
+          "probability": 0.003986062178952927
+        },
+        {
+          "token": " makes",
+          "logprob": -6.524951457977295,
+          "probability": 0.0014663903268678246
+        },
+        {
+          "token": " even",
+          "logprob": -6.899951457977295,
+          "probability": 0.0010078343501790453
+        },
+        {
+          "token": " we",
+          "logprob": -7.149951457977295,
+          "probability": 0.0007849021811257009
+        }
+      ]
+    },
+    {
+      "position": 79,
+      "top_logprobs": [
+        {
+          "token": "’re",
+          "logprob": -0.8415771722793579,
+          "probability": 0.43103017821065803
+        },
+        {
+          "token": " still",
+          "logprob": -1.591577172279358,
+          "probability": 0.20360423940871375
+        },
+        {
+          "token": " are",
+          "logprob": -2.0915770530700684,
+          "probability": 0.12349222837027604
+        },
+        {
+          "token": " make",
+          "logprob": -2.3415770530700684,
+          "probability": 0.09617584415800375
+        },
+        {
+          "token": " hold",
+          "logprob": -2.4665770530700684,
+          "probability": 0.08487488457289706
+        },
+        {
+          "token": " bring",
+          "logprob": -3.2165770530700684,
+          "probability": 0.040092056639990915
+        },
+        {
+          "token": " carry",
+          "logprob": -4.341577053070068,
+          "probability": 0.013015985109643758
+        },
+        {
+          "token": "’ve",
+          "logprob": -6.216577053070068,
+          "probability": 0.0019960659649435014
+        },
+        {
+          "token": " shine",
+          "logprob": -6.341577053070068,
+          "probability": 0.0017615220314171713
+        },
+        {
+          "token": " add",
+          "logprob": -6.966577053070068,
+          "probability": 0.0009428747989040288
+        }
+      ]
+    },
+    {
+      "position": 80,
+      "top_logprobs": [
+        {
+          "token": " still",
+          "logprob": -0.04424867406487465,
+          "probability": 0.9567160174285292
+        },
+        {
+          "token": " perfect",
+          "logprob": -4.044248580932617,
+          "probability": 0.017522866726232916
+        },
+        {
+          "token": " special",
+          "logprob": -4.544248580932617,
+          "probability": 0.010628155915518604
+        },
+        {
+          "token": " loved",
+          "logprob": -4.794248580932617,
+          "probability": 0.008277216149610873
+        },
+        {
+          "token": " just",
+          "logprob": -5.544248580932617,
+          "probability": 0.003909880058883943
+        },
+        {
+          "token": " cherished",
+          "logprob": -6.794248580932617,
+          "probability": 0.0011201993920182522
+        },
+        {
+          "token": " part",
+          "logprob": -7.419248580932617,
+          "probability": 0.000599599526797794
+        },
+        {
+          "token": " beautiful",
+          "logprob": -7.794248580932617,
+          "probability": 0.00041209832633626407
+        },
+        {
+          "token": " unique",
+          "logprob": -8.419248580932617,
+          "probability": 0.00022058033884503372
+        },
+        {
+          "token": " as",
+          "logprob": -8.919248580932617,
+          "probability": 0.00013378873843931453
+        }
+      ]
+    },
+    {
+      "position": 81,
+      "top_logprobs": [
+        {
+          "token": " perfect",
+          "logprob": -0.7310649752616882,
+          "probability": 0.48139604212429926
+        },
+        {
+          "token": " part",
+          "logprob": -1.106065034866333,
+          "probability": 0.33085831888374495
+        },
+        {
+          "token": " loved",
+          "logprob": -2.106065034866333,
+          "probability": 0.12171597345787495
+        },
+        {
+          "token": " here",
+          "logprob": -3.981065034866333,
+          "probability": 0.018665749074130607
+        },
+        {
+          "token": " special",
+          "logprob": -4.231064796447754,
+          "probability": 0.014536903461414721
+        },
+        {
+          "token": " full",
+          "logprob": -4.731064796447754,
+          "probability": 0.008817077646630735
+        },
+        {
+          "token": " cherished",
+          "logprob": -4.981064796447754,
+          "probability": 0.006866746975597396
+        },
+        {
+          "token": " a",
+          "logprob": -5.481064796447754,
+          "probability": 0.004164892573188819
+        },
+        {
+          "token": " needed",
+          "logprob": -5.481064796447754,
+          "probability": 0.004164892573188819
+        },
+        {
+          "token": " the",
+          "logprob": -6.231064796447754,
+          "probability": 0.001967355947333857
+        }
+      ]
+    },
+    {
+      "position": 82,
+      "top_logprobs": [
+        {
+          "token": " of",
+          "logprob": 0.0,
+          "probability": 1.0
+        },
+        {
+          "token": " our",
+          "logprob": -22.75,
+          "probability": 1.3176514270095466e-10
+        },
+        {
+          "token": " ",
+          "logprob": -24.375,
+          "probability": 2.5946094982764667e-11
+        },
+        {
+          "token": "of",
+          "logprob": -25.75,
+          "probability": 6.560200168153779e-12
+        },
+        {
+          "token": "\tof",
+          "logprob": -26.75,
+          "probability": 2.413362771833214e-12
+        },
+        {
+          "token": "aking",
+          "logprob": -27.125,
+          "probability": 1.6586783589142312e-12
+        },
+        {
+          "token": " ",
+          "logprob": -28.1875,
+          "probability": 5.732239023403102e-13
+        },
+        {
+          "token": " của",
+          "logprob": -28.625,
+          "probability": 3.701011678592672e-13
+        },
+        {
+          "token": "  \n",
+          "logprob": -28.75,
+          "probability": 3.2661313427874473e-13
+        },
+        {
+          "token": " this",
+          "logprob": -29.0,
+          "probability": 2.543665647376923e-13
+        }
+      ]
+    },
+    {
+      "position": 83,
+      "top_logprobs": [
+        {
+          "token": " our",
+          "logprob": -0.024056850001215935,
+          "probability": 0.9762302094917326
+        },
+        {
+          "token": " this",
+          "logprob": -4.024056911468506,
+          "probability": 0.01788027889027157
+        },
+        {
+          "token": " the",
+          "logprob": -5.649056911468506,
+          "probability": 0.0035208356694015628
+        },
+        {
+          "token": " many",
+          "logprob": -6.399056911468506,
+          "probability": 0.0016631250079228192
+        },
+        {
+          "token": " every",
+          "logprob": -8.024056434631348,
+          "probability": 0.0003274888875429041
+        },
+        {
+          "token": " morning",
+          "logprob": -8.899056434631348,
+          "probability": 0.0001365176790834029
+        },
+        {
+          "token": " us",
+          "logprob": -9.274056434631348,
+          "probability": 9.382713719944937e-05
+        },
+        {
+          "token": " countless",
+          "logprob": -9.774056434631348,
+          "probability": 5.69090354245298e-05
+        },
+        {
+          "token": " family",
+          "logprob": -10.899056434631348,
+          "probability": 1.8475658765557328e-05
+        },
+        {
+          "token": " warm",
+          "logprob": -11.274056434631348,
+          "probability": 1.2698122188168e-05
+        }
+      ]
+    },
+    {
+      "position": 84,
+      "top_logprobs": [
+        {
+          "token": " family",
+          "logprob": -0.17683610320091248,
+          "probability": 0.8379171052009198
+        },
+        {
+          "token": " morning",
+          "logprob": -2.8018360137939453,
+          "probability": 0.06069851694246802
+        },
+        {
+          "token": " warm",
+          "logprob": -2.9268360137939453,
+          "probability": 0.05356625319320662
+        },
+        {
+          "token": " mornings",
+          "logprob": -4.551836013793945,
+          "probability": 0.010547820650686324
+        },
+        {
+          "token": " little",
+          "logprob": -5.426836013793945,
+          "probability": 0.0043969858196517796
+        },
+        {
+          "token": " circle",
+          "logprob": -5.426836013793945,
+          "probability": 0.0043969858196517796
+        },
+        {
+          "token": " shelf",
+          "logprob": -5.426836013793945,
+          "probability": 0.0043969858196517796
+        },
+        {
+          "token": " kitchen",
+          "logprob": -5.551836013793945,
+          "probability": 0.0038803263665510837
+        },
+        {
+          "token": " home",
+          "logprob": -5.676836013793945,
+          "probability": 0.003424375999498669
+        },
+        {
+          "token": " daily",
+          "logprob": -5.676836013793945,
+          "probability": 0.003424375999498669
+        }
+      ]
+    },
+    {
+      "position": 85,
+      "top_logprobs": [
+        {
+          "token": ".\"",
+          "logprob": -0.007704111281782389,
+          "probability": 0.9923254893193195
+        },
+        {
+          "token": ".”",
+          "logprob": -5.507704257965088,
+          "probability": 0.004055406872549546
+        },
+        {
+          "token": ".\"\n\n",
+          "logprob": -5.632704257965088,
+          "probability": 0.003578884003745255
+        },
+        {
+          "token": "’s",
+          "logprob": -10.88270378112793,
+          "probability": 1.8780268613316946e-05
+        },
+        {
+          "token": ",",
+          "logprob": -11.75770378112793,
+          "probability": 7.828780704252202e-06
+        },
+        {
+          "token": "!\"",
+          "logprob": -12.25770378112793,
+          "probability": 4.748395525295623e-06
+        },
+        {
+          "token": ".",
+          "logprob": -12.38270378112793,
+          "probability": 4.19044434331994e-06
+        },
+        {
+          "token": ".”\n\n",
+          "logprob": -12.50770378112793,
+          "probability": 3.698054153432986e-06
+        },
+        {
+          "token": ".“",
+          "logprob": -14.75770378112793,
+          "probability": 3.897720401596184e-07
+        },
+        {
+          "token": "—",
+          "logprob": -15.63270378112793,
+          "probability": 1.6248115987515122e-07
+        }
+      ]
+    },
+    {
+      "position": 86,
+      "top_logprobs": [
+        {
+          "token": " From",
+          "logprob": -0.008866284042596817,
+          "probability": 0.9911729055462312
+        },
+        {
+          "token": " Together",
+          "logprob": -4.758866310119629,
+          "probability": 0.008575325648758425
+        },
+        {
+          "token": " That",
+          "logprob": -8.758866310119629,
+          "probability": 0.0001570625679359595
+        },
+        {
+          "token": " Inspired",
+          "logprob": -10.383866310119629,
+          "probability": 3.092745336414231e-05
+        },
+        {
+          "token": " The",
+          "logprob": -10.508866310119629,
+          "probability": 2.7293381798685116e-05
+        },
+        {
+          "token": " They",
+          "logprob": -11.258866310119629,
+          "probability": 1.2892480672889244e-05
+        },
+        {
+          "token": " Em",
+          "logprob": -11.758866310119629,
+          "probability": 7.81968480785989e-06
+        },
+        {
+          "token": " Soon",
+          "logprob": -11.883866310119629,
+          "probability": 6.900847622124169e-06
+        },
+        {
+          "token": " Real",
+          "logprob": -13.133866310119629,
+          "probability": 1.9771259461398112e-06
+        },
+        {
+          "token": " With",
+          "logprob": -13.508866310119629,
+          "probability": 1.3588574656013493e-06
+        }
+      ]
+    },
+    {
+      "position": 87,
+      "top_logprobs": [
+        {
+          "token": " then",
+          "logprob": -0.575939416885376,
+          "probability": 0.5621765025686553
+        },
+        {
+          "token": " that",
+          "logprob": -0.825939416885376,
+          "probability": 0.43782350042481233
+        },
+        {
+          "token": "那",
+          "logprob": -18.575939178466797,
+          "probability": 8.561938788399043e-09
+        },
+        {
+          "token": " than",
+          "logprob": -19.075939178466797,
+          "probability": 5.193078381746857e-09
+        },
+        {
+          "token": "then",
+          "logprob": -19.325939178466797,
+          "probability": 4.044373510255636e-09
+        },
+        {
+          "token": " there",
+          "logprob": -19.950939178466797,
+          "probability": 2.164797142563795e-09
+        },
+        {
+          "token": " entonces",
+          "logprob": -20.700939178466797,
+          "probability": 1.0225777636164588e-09
+        },
+        {
+          "token": "that",
+          "logprob": -20.950939178466797,
+          "probability": 7.96384363055904e-10
+        },
+        {
+          "token": "That",
+          "logprob": -21.200939178466797,
+          "probability": 6.202247655737601e-10
+        },
+        {
+          "token": " That",
+          "logprob": -21.575939178466797,
+          "probability": 4.2627383181948934e-10
+        }
+      ]
+    },
+    {
+      "position": 88,
+      "top_logprobs": [
+        {
+          "token": " day",
+          "logprob": -1.1637164789135568e-05,
+          "probability": 0.9999883629029224
+        },
+        {
+          "token": " moment",
+          "logprob": -11.625011444091797,
+          "probability": 8.939673916649299e-06
+        },
+        {
+          "token": " morning",
+          "logprob": -12.875011444091797,
+          "probability": 2.5612594594859474e-06
+        },
+        {
+          "token": " time",
+          "logprob": -17.875011444091797,
+          "probability": 1.7257630488922603e-08
+        },
+        {
+          "token": " afternoon",
+          "logprob": -18.375011444091797,
+          "probability": 1.0467282005523084e-08
+        },
+        {
+          "token": " night",
+          "logprob": -19.625011444091797,
+          "probability": 2.9989265046707144e-09
+        },
+        {
+          "token": " Day",
+          "logprob": -19.750011444091797,
+          "probability": 2.646543351450753e-09
+        },
+        {
+          "token": " hour",
+          "logprob": -20.000011444091797,
+          "probability": 2.0611300345422665e-09
+        },
+        {
+          "token": " days",
+          "logprob": -20.125011444091797,
+          "probability": 1.8189408713076304e-09
+        },
+        {
+          "token": " lesson",
+          "logprob": -20.125011444091797,
+          "probability": 1.8189408713076304e-09
+        }
+      ]
+    },
+    {
+      "position": 89,
+      "top_logprobs": [
+        {
+          "token": " on",
+          "logprob": -0.20154538750648499,
+          "probability": 0.8174664739531972
+        },
+        {
+          "token": ",",
+          "logprob": -1.7015453577041626,
+          "probability": 0.18240143068513529
+        },
+        {
+          "token": " forward",
+          "logprob": -8.951545715332031,
+          "probability": 0.00012953677823485232
+        },
+        {
+          "token": " onward",
+          "logprob": -13.576545715332031,
+          "probability": 1.2699338882662455e-06
+        },
+        {
+          "token": " forth",
+          "logprob": -13.701545715332031,
+          "probability": 1.1207127228821733e-06
+        },
+        {
+          "token": " onwards",
+          "logprob": -16.45154571533203,
+          "probability": 7.16447674010029e-08
+        },
+        {
+          "token": " ahead",
+          "logprob": -17.82654571533203,
+          "probability": 1.811463403119465e-08
+        },
+        {
+          "token": "on",
+          "logprob": -19.26404571533203,
+          "probability": 4.302602712703814e-09
+        },
+        {
+          "token": ",on",
+          "logprob": -19.26404571533203,
+          "probability": 4.302602712703814e-09
+        },
+        {
+          "token": " after",
+          "logprob": -19.88904571533203,
+          "probability": 2.303017274351526e-09
+        }
+      ]
+    },
+    {
+      "position": 90,
+      "top_logprobs": [
+        {
+          "token": ",",
+          "logprob": 0.0,
+          "probability": 1.0
+        },
+        {
+          "token": " the",
+          "logprob": -21.0,
+          "probability": 7.582560427911907e-10
+        },
+        {
+          "token": ",the",
+          "logprob": -22.875,
+          "probability": 1.162823303022097e-10
+        },
+        {
+          "token": "，",
+          "logprob": -23.8125,
+          "probability": 4.5536814829435366e-11
+        },
+        {
+          "token": " they",
+          "logprob": -24.125,
+          "probability": 3.331544542166412e-11
+        },
+        {
+          "token": "،",
+          "logprob": -24.375,
+          "probability": 2.5946094982764667e-11
+        },
+        {
+          "token": ",m",
+          "logprob": -24.875,
+          "probability": 1.57371021068629e-11
+        },
+        {
+          "token": ",,",
+          "logprob": -24.9375,
+          "probability": 1.478363929001648e-11
+        },
+        {
+          "token": ",'",
+          "logprob": -25.1875,
+          "probability": 1.1513509855710022e-11
+        },
+        {
+          "token": ",_",
+          "logprob": -25.25,
+          "probability": 1.0815941557285693e-11
+        }
+      ]
+    },
+    {
+      "position": 91,
+      "top_logprobs": [
+        {
+          "token": " the",
+          "logprob": -0.092848040163517,
+          "probability": 0.9113319756325282
+        },
+        {
+          "token": " they",
+          "logprob": -2.717848062515259,
+          "probability": 0.06601666541677724
+        },
+        {
+          "token": " all",
+          "logprob": -3.967848062515259,
+          "probability": 0.0189140913146209
+        },
+        {
+          "token": " mugs",
+          "logprob": -5.96784782409668,
+          "probability": 0.002559744515517953
+        },
+        {
+          "token": " chipped",
+          "logprob": -7.71784782409668,
+          "probability": 0.00044481689868720387
+        },
+        {
+          "token": " cups",
+          "logprob": -7.96784782409668,
+          "probability": 0.00034642374902098814
+        },
+        {
+          "token": " every",
+          "logprob": -8.34284782409668,
+          "probability": 0.0002380933286206997
+        },
+        {
+          "token": " both",
+          "logprob": -9.59284782409668,
+          "probability": 6.821488075024005e-05
+        },
+        {
+          "token": " each",
+          "logprob": -10.59284782409668,
+          "probability": 2.5094852209974888e-05
+        },
+        {
+          "token": " everyone",
+          "logprob": -11.09284782409668,
+          "probability": 1.5220797266307106e-05
+        }
+      ]
+    },
+    {
+      "position": 92,
+      "top_logprobs": [
+        {
+          "token": " chipped",
+          "logprob": -0.005529000423848629,
+          "probability": 0.994486256367775
+        },
+        {
+          "token": " cups",
+          "logprob": -6.255528926849365,
+          "probability": 0.0019198102482758234
+        },
+        {
+          "token": " mugs",
+          "logprob": -6.255528926849365,
+          "probability": 0.0019198102482758234
+        },
+        {
+          "token": " cup",
+          "logprob": -6.505528926849365,
+          "probability": 0.0014951497247057194
+        },
+        {
+          "token": " little",
+          "logprob": -10.130529403686523,
+          "probability": 3.98443715468264e-05
+        },
+        {
+          "token": " chip",
+          "logprob": -10.130529403686523,
+          "probability": 3.98443715468264e-05
+        },
+        {
+          "token": " chips",
+          "logprob": -10.880529403686523,
+          "probability": 1.8821148433706558e-05
+        },
+        {
+          "token": " mug",
+          "logprob": -10.880529403686523,
+          "probability": 1.8821148433706558e-05
+        },
+        {
+          "token": " cracked",
+          "logprob": -10.880529403686523,
+          "probability": 1.8821148433706558e-05
+        },
+        {
+          "token": " shelf",
+          "logprob": -11.130529403686523,
+          "probability": 1.4657925138473811e-05
+        }
+      ]
+    },
+    {
+      "position": 93,
+      "top_logprobs": [
+        {
+          "token": " cup",
+          "logprob": 0.0,
+          "probability": 1.0
+        },
+        {
+          "token": " little",
+          "logprob": -22.5,
+          "probability": 1.6918979226151304e-10
+        },
+        {
+          "token": "cup",
+          "logprob": -22.875,
+          "probability": 1.162823303022097e-10
+        },
+        {
+          "token": " Cup",
+          "logprob": -25.0,
+          "probability": 1.3887943864964021e-11
+        },
+        {
+          "token": " but",
+          "logprob": -26.375,
+          "probability": 3.5114221133765118e-12
+        },
+        {
+          "token": " one",
+          "logprob": -27.375,
+          "probability": 1.2917800047859961e-12
+        },
+        {
+          "token": " beauty",
+          "logprob": -27.625,
+          "probability": 1.006039279283317e-12
+        },
+        {
+          "token": " tea",
+          "logprob": -27.875,
+          "probability": 7.835041785064389e-13
+        },
+        {
+          "token": " smile",
+          "logprob": -28.0,
+          "probability": 6.914400106940203e-13
+        },
+        {
+          "token": " mug",
+          "logprob": -28.0,
+          "probability": 6.914400106940203e-13
+        }
+      ]
+    },
+    {
+      "position": 94,
+      "top_logprobs": [
+        {
+          "token": " held",
+          "logprob": -0.7509393692016602,
+          "probability": 0.4719230344957793
+        },
+        {
+          "token": " smiled",
+          "logprob": -2.00093936920166,
+          "probability": 0.13520821313185774
+        },
+        {
+          "token": " embraced",
+          "logprob": -2.00093936920166,
+          "probability": 0.13520821313185774
+        },
+        {
+          "token": " stood",
+          "logprob": -2.50093936920166,
+          "probability": 0.08200792670943202
+        },
+        {
+          "token": " sh",
+          "logprob": -2.62593936920166,
+          "probability": 0.07237174130845826
+        },
+        {
+          "token": " gle",
+          "logprob": -3.25093936920166,
+          "probability": 0.038737801637172185
+        },
+        {
+          "token": " gl",
+          "logprob": -4.50093936920166,
+          "probability": 0.011098565988868356
+        },
+        {
+          "token": " felt",
+          "logprob": -5.00093936920166,
+          "probability": 0.00673162055109252
+        },
+        {
+          "token": " wore",
+          "logprob": -5.25093936920166,
+          "probability": 0.005242591356530417
+        },
+        {
+          "token": " s",
+          "logprob": -5.37593936920166,
+          "probability": 0.0046265706336548655
+        }
+      ]
+    },
+    {
+      "position": 95,
+      "top_logprobs": [
+        {
+          "token": "ined",
+          "logprob": -0.38687121868133545,
+          "probability": 0.6791785548048132
+        },
+        {
+          "token": "one",
+          "logprob": -1.1368712186813354,
+          "probability": 0.32082123262877393
+        },
+        {
+          "token": "inned",
+          "logprob": -16.761871337890625,
+          "probability": 5.253052866930357e-08
+        },
+        {
+          "token": " one",
+          "logprob": -17.011871337890625,
+          "probability": 4.09108168628085e-08
+        },
+        {
+          "token": "ivered",
+          "logprob": -17.261871337890625,
+          "probability": 3.1861376208846095e-08
+        },
+        {
+          "token": "imm",
+          "logprob": -17.511871337890625,
+          "probability": 2.481366474118197e-08
+        },
+        {
+          "token": "unned",
+          "logprob": -18.886871337890625,
+          "probability": 6.2738769635949385e-09
+        },
+        {
+          "token": "immers",
+          "logprob": -19.886871337890625,
+          "probability": 2.3080303513456914e-09
+        },
+        {
+          "token": "ied",
+          "logprob": -20.011871337890625,
+          "probability": 2.0368296361338082e-09
+        },
+        {
+          "token": "immer",
+          "logprob": -20.011871337890625,
+          "probability": 2.0368296361338082e-09
+        }
+      ]
+    },
+    {
+      "position": 96,
+      "top_logprobs": [
+        {
+          "token": " with",
+          "logprob": -0.3023500442504883,
+          "probability": 0.7390793091413732
+        },
+        {
+          "token": " brighter",
+          "logprob": -2.1773500442504883,
+          "probability": 0.11334148294914792
+        },
+        {
+          "token": " brightly",
+          "logprob": -3.0523500442504883,
+          "probability": 0.04724775949553903
+        },
+        {
+          "token": " proudly",
+          "logprob": -3.3023500442504883,
+          "probability": 0.0367965920934952
+        },
+        {
+          "token": " even",
+          "logprob": -3.4273500442504883,
+          "probability": 0.032472878548178326
+        },
+        {
+          "token": " brightest",
+          "logprob": -3.9273500442504883,
+          "probability": 0.019695796448594823
+        },
+        {
+          "token": " just",
+          "logprob": -5.302350044250488,
+          "probability": 0.004979877213115276
+        },
+        {
+          "token": " the",
+          "logprob": -6.302350044250488,
+          "probability": 0.0018319944462632473
+        },
+        {
+          "token": " bright",
+          "logprob": -6.302350044250488,
+          "probability": 0.0018319944462632473
+        },
+        {
+          "token": " a",
+          "logprob": -6.802350044250488,
+          "probability": 0.001111160800081928
+        }
+      ]
+    },
+    {
+      "position": 97,
+      "top_logprobs": [
+        {
+          "token": " pride",
+          "logprob": -0.7669205069541931,
+          "probability": 0.4644411115312488
+        },
+        {
+          "token": " confidence",
+          "logprob": -1.141920566558838,
+          "probability": 0.31920537755906575
+        },
+        {
+          "token": " new",
+          "logprob": -1.891920566558838,
+          "probability": 0.15078194381396995
+        },
+        {
+          "token": " newfound",
+          "logprob": -2.891920566558838,
+          "probability": 0.05546957722902708
+        },
+        {
+          "token": " a",
+          "logprob": -5.016920566558838,
+          "probability": 0.006624896256962744
+        },
+        {
+          "token": " happiness",
+          "logprob": -7.016920566558838,
+          "probability": 0.0008965822113492283
+        },
+        {
+          "token": " renewed",
+          "logprob": -7.141920566558838,
+          "probability": 0.000791231024428141
+        },
+        {
+          "token": " joy",
+          "logprob": -7.516920566558838,
+          "probability": 0.0005438046001362591
+        },
+        {
+          "token": " quiet",
+          "logprob": -7.891920566558838,
+          "probability": 0.00037375107143086255
+        },
+        {
+          "token": " its",
+          "logprob": -8.51692008972168,
+          "probability": 0.00020005462779804412
+        }
+      ]
+    },
+    {
+      "position": 98,
+      "top_logprobs": [
+        {
+          "token": " confidence",
+          "logprob": -0.3511350750923157,
+          "probability": 0.7038886696069815
+        },
+        {
+          "token": " pride",
+          "logprob": -1.351135015487671,
+          "probability": 0.25894618585632134
+        },
+        {
+          "token": " joy",
+          "logprob": -3.351135015487671,
+          "probability": 0.0350445554059058
+        },
+        {
+          "token": " purpose",
+          "logprob": -7.22613525390625,
+          "probability": 0.0007273263701196193
+        },
+        {
+          "token": " happiness",
+          "logprob": -7.35113525390625,
+          "probability": 0.0006418632687986612
+        },
+        {
+          "token": " courage",
+          "logprob": -7.97613525390625,
+          "probability": 0.00034356465017104
+        },
+        {
+          "token": " hope",
+          "logprob": -9.35113525390625,
+          "probability": 8.686674728204487e-05
+        },
+        {
+          "token": " grace",
+          "logprob": -9.35113525390625,
+          "probability": 8.686674728204487e-05
+        },
+        {
+          "token": " warmth",
+          "logprob": -9.35113525390625,
+          "probability": 8.686674728204487e-05
+        },
+        {
+          "token": " charm",
+          "logprob": -9.60113525390625,
+          "probability": 6.765189080612237e-05
+        }
+      ]
+    },
+    {
+      "position": 99,
+      "top_logprobs": [
+        {
+          "token": ",",
+          "logprob": -1.1041145626222715e-05,
+          "probability": 0.999988958915327
+        },
+        {
+          "token": "—",
+          "logprob": -11.500011444091797,
+          "probability": 1.0129977669573009e-05
+        },
+        {
+          "token": " —",
+          "logprob": -14.625011444091797,
+          "probability": 4.4508015647462866e-07
+        },
+        {
+          "token": ".",
+          "logprob": -15.250011444091797,
+          "probability": 2.3823424036006546e-07
+        },
+        {
+          "token": " and",
+          "logprob": -17.000011444091797,
+          "probability": 4.1398903412289764e-08
+        },
+        {
+          "token": "—and",
+          "logprob": -17.250011444091797,
+          "probability": 3.224149839578872e-08
+        },
+        {
+          "token": " –",
+          "logprob": -18.375011444091797,
+          "probability": 1.0467282005523084e-08
+        },
+        {
+          "token": "—a",
+          "logprob": -18.750011444091797,
+          "probability": 7.194050700477681e-09
+        },
+        {
+          "token": " as",
+          "logprob": -19.000011444091797,
+          "probability": 5.602732318987407e-09
+        },
+        {
+          "token": "—the",
+          "logprob": -19.125011444091797,
+          "probability": 4.944393917516994e-09
+        }
+      ]
+    },
+    {
+      "position": 100,
+      "top_logprobs": [
+        {
+          "token": " knowing",
+          "logprob": -0.24043306708335876,
+          "probability": 0.7862872721873119
+        },
+        {
+          "token": " reminding",
+          "logprob": -2.6154329776763916,
+          "probability": 0.07313611553422673
+        },
+        {
+          "token": " proud",
+          "logprob": -3.1154329776763916,
+          "probability": 0.04435929640379392
+        },
+        {
+          "token": " proving",
+          "logprob": -3.4904329776763916,
+          "probability": 0.030487668833038488
+        },
+        {
+          "token": " and",
+          "logprob": -3.9904329776763916,
+          "probability": 0.018491705890403127
+        },
+        {
+          "token": " realizing",
+          "logprob": -4.240433216094971,
+          "probability": 0.014401351594221873
+        },
+        {
+          "token": " happy",
+          "logprob": -4.615433216094971,
+          "probability": 0.009897894550807968
+        },
+        {
+          "token": " grateful",
+          "logprob": -5.115433216094971,
+          "probability": 0.006003376511667637
+        },
+        {
+          "token": " embracing",
+          "logprob": -5.240433216094971,
+          "probability": 0.0052979611765958026
+        },
+        {
+          "token": " cherished",
+          "logprob": -5.990433216094971,
+          "probability": 0.0025025796575442894
+        }
+      ]
+    },
+    {
+      "position": 101,
+      "top_logprobs": [
+        {
+          "token": " that",
+          "logprob": -0.004458604846149683,
+          "probability": 0.9955513199766708
+        },
+        {
+          "token": " even",
+          "logprob": -5.879458427429199,
+          "probability": 0.002796299264013528
+        },
+        {
+          "token": " every",
+          "logprob": -6.504458427429199,
+          "probability": 0.0014967511386224821
+        },
+        {
+          "token": " beauty",
+          "logprob": -9.8794584274292,
+          "probability": 5.1216007544504943e-05
+        },
+        {
+          "token": " it",
+          "logprob": -10.3794584274292,
+          "probability": 3.1064078843815794e-05
+        },
+        {
+          "token": " love",
+          "logprob": -10.5044584274292,
+          "probability": 2.7413953361311096e-05
+        },
+        {
+          "token": " sometimes",
+          "logprob": -11.2544584274292,
+          "probability": 1.2949434646285474e-05
+        },
+        {
+          "token": " everyone",
+          "logprob": -11.6294584274292,
+          "probability": 8.900007598796373e-06
+        },
+        {
+          "token": " a",
+          "logprob": -12.3794584274292,
+          "probability": 4.204065908812278e-06
+        },
+        {
+          "token": " all",
+          "logprob": -12.5044584274292,
+          "probability": 3.7100751427883277e-06
+        }
+      ]
+    },
+    {
+      "position": 102,
+      "top_logprobs": [
+        {
+          "token": " even",
+          "logprob": -0.30919164419174194,
+          "probability": 0.7340400820274487
+        },
+        {
+          "token": " every",
+          "logprob": -2.0591917037963867,
+          "probability": 0.12755703210160615
+        },
+        {
+          "token": " beauty",
+          "logprob": -2.4341917037963867,
+          "probability": 0.0876685805978298
+        },
+        {
+          "token": " imperfections",
+          "logprob": -3.6841917037963867,
+          "probability": 0.02511746887520243
+        },
+        {
+          "token": " no",
+          "logprob": -5.059191703796387,
+          "probability": 0.006350690678044482
+        },
+        {
+          "token": " love",
+          "logprob": -5.309191703796387,
+          "probability": 0.004945922873105314
+        },
+        {
+          "token": " all",
+          "logprob": -5.934191703796387,
+          "probability": 0.0026473617424030986
+        },
+        {
+          "token": " in",
+          "logprob": -6.184191703796387,
+          "probability": 0.002061767398056812
+        },
+        {
+          "token": " together",
+          "logprob": -6.309191703796387,
+          "probability": 0.0018195033426350372
+        },
+        {
+          "token": " imper",
+          "logprob": -6.559191703796387,
+          "probability": 0.0014170306280452056
+        }
+      ]
+    },
+    {
+      "position": 103,
+      "top_logprobs": [
+        {
+          "token": " imperfect",
+          "logprob": -0.4905754625797272,
+          "probability": 0.6122739520375694
+        },
+        {
+          "token": " imperfections",
+          "logprob": -1.4905754327774048,
+          "probability": 0.2252430060321761
+        },
+        {
+          "token": " with",
+          "logprob": -1.9905754327774048,
+          "probability": 0.13661678904435243
+        },
+        {
+          "token": " the",
+          "logprob": -4.365575313568115,
+          "probability": 0.012707342365394574
+        },
+        {
+          "token": " imper",
+          "logprob": -4.990575313568115,
+          "probability": 0.006801750227180985
+        },
+        {
+          "token": " flaws",
+          "logprob": -5.490575313568115,
+          "probability": 0.004125470052492637
+        },
+        {
+          "token": " flawed",
+          "logprob": -7.240575313568115,
+          "probability": 0.0007168991996083603
+        },
+        {
+          "token": " a",
+          "logprob": -7.740575313568115,
+          "probability": 0.00043482134448591766
+        },
+        {
+          "token": " broken",
+          "logprob": -7.740575313568115,
+          "probability": 0.00043482134448591766
+        },
+        {
+          "token": " in",
+          "logprob": -8.365575790405273,
+          "probability": 0.00023274298301955118
+        }
+      ]
+    },
+    {
+      "position": 104,
+      "top_logprobs": [
+        {
+          "token": " imperfections",
+          "logprob": -0.387801855802536,
+          "probability": 0.6785467800519047
+        },
+        {
+          "token": " flaws",
+          "logprob": -1.1378018856048584,
+          "probability": 0.32052279381431
+        },
+        {
+          "token": " a",
+          "logprob": -7.512801647186279,
+          "probability": 0.0005460491067362419
+        },
+        {
+          "token": " imper",
+          "logprob": -8.512802124023438,
+          "probability": 0.00020088014445115388
+        },
+        {
+          "token": " scars",
+          "logprob": -10.262802124023438,
+          "probability": 3.490773486217206e-05
+        },
+        {
+          "token": " blem",
+          "logprob": -10.387802124023438,
+          "probability": 3.0805967892111145e-05
+        },
+        {
+          "token": " little",
+          "logprob": -10.637802124023438,
+          "probability": 2.3991711917648715e-05
+        },
+        {
+          "token": " faults",
+          "logprob": -10.887802124023438,
+          "probability": 1.8684764028688375e-05
+        },
+        {
+          "token": " imperfect",
+          "logprob": -10.887802124023438,
+          "probability": 1.8684764028688375e-05
+        },
+        {
+          "token": " small",
+          "logprob": -11.012802124023438,
+          "probability": 1.6489246380841555e-05
+        }
+      ]
+    },
+    {
+      "position": 105,
+      "top_logprobs": [
+        {
+          "token": ",",
+          "logprob": 0.0,
+          "probability": 1.0
+        },
+        {
+          "token": "—",
+          "logprob": -22.625,
+          "probability": 1.493094676197164e-10
+        },
+        {
+          "token": "—and",
+          "logprob": -24.0,
+          "probability": 3.775134544279098e-11
+        },
+        {
+          "token": "—or",
+          "logprob": -24.375,
+          "probability": 2.5946094982764667e-11
+        },
+        {
+          "token": "،",
+          "logprob": -25.625,
+          "probability": 7.433680672352188e-12
+        },
+        {
+          "token": "—a",
+          "logprob": -26.0,
+          "probability": 5.109089028063325e-12
+        },
+        {
+          "token": "—in",
+          "logprob": -26.375,
+          "probability": 3.5114221133765118e-12
+        },
+        {
+          "token": "—even",
+          "logprob": -26.75,
+          "probability": 2.413362771833214e-12
+        },
+        {
+          "token": "，",
+          "logprob": -26.875,
+          "probability": 2.129785170955785e-12
+        },
+        {
+          "token": " they",
+          "logprob": -27.375,
+          "probability": 1.2917800047859961e-12
+        }
+      ]
+    },
+    {
+      "position": 106,
+      "top_logprobs": [
+        {
+          "token": " everyone",
+          "logprob": -0.16348031163215637,
+          "probability": 0.8491832178685598
+        },
+        {
+          "token": " it",
+          "logprob": -2.413480281829834,
+          "probability": 0.08950325534169973
+        },
+        {
+          "token": " every",
+          "logprob": -3.413480281829834,
+          "probability": 0.03292640755812941
+        },
+        {
+          "token": " they",
+          "logprob": -3.663480281829834,
+          "probability": 0.025643111989999405
+        },
+        {
+          "token": " there",
+          "logprob": -6.538480281829834,
+          "probability": 0.0014466853833387922
+        },
+        {
+          "token": " each",
+          "logprob": -7.913480281829834,
+          "probability": 0.0003657793475800149
+        },
+        {
+          "token": " all",
+          "logprob": -8.163480758666992,
+          "probability": 0.0002848691064904556
+        },
+        {
+          "token": " we",
+          "logprob": -8.413480758666992,
+          "probability": 0.00022185628320761826
+        },
+        {
+          "token": " together",
+          "logprob": -9.413480758666992,
+          "probability": 8.161636548679184e-05
+        },
+        {
+          "token": " one",
+          "logprob": -9.913480758666992,
+          "probability": 4.950282800205126e-05
+        }
+      ]
+    },
+    {
+      "position": 107,
+      "top_logprobs": [
+        {
+          "token": " has",
+          "logprob": -0.19440267980098724,
+          "probability": 0.8233263006371274
+        },
+        {
+          "token": " belongs",
+          "logprob": -1.8194026947021484,
+          "probability": 0.16212255868231426
+        },
+        {
+          "token": " belonged",
+          "logprob": -5.069402694702148,
+          "probability": 0.0062861737845586
+        },
+        {
+          "token": " had",
+          "logprob": -5.319402694702148,
+          "probability": 0.004895677065937174
+        },
+        {
+          "token": " is",
+          "logprob": -6.819402694702148,
+          "probability": 0.0010923732077575568
+        },
+        {
+          "token": " can",
+          "logprob": -7.319402694702148,
+          "probability": 0.0006625578423535965
+        },
+        {
+          "token": " holds",
+          "logprob": -7.319402694702148,
+          "probability": 0.0006625578423535965
+        },
+        {
+          "token": " matters",
+          "logprob": -8.194402694702148,
+          "probability": 0.000276195200317355
+        },
+        {
+          "token": "’s",
+          "logprob": -8.444402694702148,
+          "probability": 0.00021510103828771963
+        },
+        {
+          "token": " deserves",
+          "logprob": -8.444402694702148,
+          "probability": 0.00021510103828771963
+        }
+      ]
+    },
+    {
+      "position": 108,
+      "top_logprobs": [
+        {
+          "token": " and",
+          "logprob": -0.0748603418469429,
+          "probability": 0.9278730623183253
+        },
+        {
+          "token": ".",
+          "logprob": -2.8248603343963623,
+          "probability": 0.05931694078727428
+        },
+        {
+          "token": "—and",
+          "logprob": -4.699860572814941,
+          "probability": 0.009096545318989364
+        },
+        {
+          "token": " on",
+          "logprob": -6.949860572814941,
+          "probability": 0.0009587688228133358
+        },
+        {
+          "token": " somewhere",
+          "logprob": -6.949860572814941,
+          "probability": 0.0009587688228133358
+        },
+        {
+          "token": " in",
+          "logprob": -7.199860572814941,
+          "probability": 0.0007466899099914749
+        },
+        {
+          "token": "—",
+          "logprob": -7.699860572814941,
+          "probability": 0.00045289032370789616
+        },
+        {
+          "token": " —",
+          "logprob": -8.199860572814941,
+          "probability": 0.00027469186681601835
+        },
+        {
+          "token": " together",
+          "logprob": -9.699860572814941,
+          "probability": 6.129204023412934e-05
+        },
+        {
+          "token": ",",
+          "logprob": -9.824860572814941,
+          "probability": 5.409003565970954e-05
+        }
+      ]
+    },
+    {
+      "position": 109,
+      "top_logprobs": [
+        {
+          "token": " has",
+          "logprob": -0.14269447326660156,
+          "probability": 0.8670189258932047
+        },
+        {
+          "token": " is",
+          "logprob": -2.7676944732666016,
+          "probability": 0.06280664033580143
+        },
+        {
+          "token": " matters",
+          "logprob": -2.8926944732666016,
+          "probability": 0.05542666555808947
+        },
+        {
+          "token": " can",
+          "logprob": -5.267694473266602,
+          "probability": 0.0051554829855359665
+        },
+        {
+          "token": " serves",
+          "logprob": -5.267694473266602,
+          "probability": 0.0051554829855359665
+        },
+        {
+          "token": " adds",
+          "logprob": -6.392694473266602,
+          "probability": 0.0016737402716782428
+        },
+        {
+          "token": " shines",
+          "logprob": -6.892694473266602,
+          "probability": 0.001015174791168607
+        },
+        {
+          "token": " brings",
+          "logprob": -7.267694473266602,
+          "probability": 0.0006977187500690477
+        },
+        {
+          "token": " contributes",
+          "logprob": -7.767694473266602,
+          "probability": 0.0004231878137732535
+        },
+        {
+          "token": " holds",
+          "logprob": -8.517694473266602,
+          "probability": 0.00019989976875407826
+        }
+      ]
+    },
+    {
+      "position": 110,
+      "top_logprobs": [
+        {
+          "token": " a",
+          "logprob": -0.7401757836341858,
+          "probability": 0.4770300540739944
+        },
+        {
+          "token": " value",
+          "logprob": -0.7401757836341858,
+          "probability": 0.4770300540739944
+        },
+        {
+          "token": " purpose",
+          "logprob": -3.365175724029541,
+          "probability": 0.034555943274850655
+        },
+        {
+          "token": " worth",
+          "logprob": -4.740175724029541,
+          "probability": 0.008737110730264987
+        },
+        {
+          "token": " their",
+          "logprob": -6.240175724029541,
+          "probability": 0.0019495129164785912
+        },
+        {
+          "token": " something",
+          "logprob": -7.365175724029541,
+          "probability": 0.000632914178481747
+        },
+        {
+          "token": " special",
+          "logprob": -10.8651762008667,
+          "probability": 1.911234300755754e-05
+        },
+        {
+          "token": " meaning",
+          "logprob": -10.9901762008667,
+          "probability": 1.686658350530388e-05
+        },
+        {
+          "token": " great",
+          "logprob": -11.9901762008667,
+          "probability": 6.204869314402658e-06
+        },
+        {
+          "token": " importance",
+          "logprob": -12.1151762008667,
+          "probability": 5.4757779509025475e-06
+        }
+      ]
+    },
+    {
+      "position": 111,
+      "top_logprobs": [
+        {
+          "token": ".",
+          "logprob": -0.0005258689634501934,
+          "probability": 0.9994742692813993
+        },
+        {
+          "token": " in",
+          "logprob": -7.625525951385498,
+          "probability": 0.000487838596651634
+        },
+        {
+          "token": " on",
+          "logprob": -10.37552547454834,
+          "probability": 3.118649296889579e-05
+        },
+        {
+          "token": "—",
+          "logprob": -12.25052547454834,
+          "probability": 4.782603595254609e-06
+        },
+        {
+          "token": ",",
+          "logprob": -14.25052547454834,
+          "probability": 6.472550121722247e-07
+        },
+        {
+          "token": " —",
+          "logprob": -15.12552547454834,
+          "probability": 2.698160316211511e-07
+        },
+        {
+          "token": " around",
+          "logprob": -16.000526428222656,
+          "probability": 1.1247594861775877e-07
+        },
+        {
+          "token": " at",
+          "logprob": -16.125526428222656,
+          "probability": 9.925967627043623e-08
+        },
+        {
+          "token": " to",
+          "logprob": -16.250526428222656,
+          "probability": 8.759635686020964e-08
+        },
+        {
+          "token": ".\n\n",
+          "logprob": -16.250526428222656,
+          "probability": 8.759635686020964e-08
+        }
+      ]
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 19,
+    "completion_tokens": 112,
+    "total_tokens": 131
+  },
+  "created": 1762939843,
+  "id": "chatcmpl-Cb1TXRbSoxkbQM5AOUIJV38JHE6HQ"
+}

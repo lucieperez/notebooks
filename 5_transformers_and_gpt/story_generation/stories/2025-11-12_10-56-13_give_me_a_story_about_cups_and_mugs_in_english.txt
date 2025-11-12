@@ -1,0 +1,22 @@
+### Prompt
+Give me a story about cups and mugs in English.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Once upon a time in a cozy little kitchen, there lived a collection of cups and mugs. Each had its own personality and purpose, and though they were all used to hold warm drinks, they often dreamed of adventures beyond the cupboard shelf.
+
+There was Clara, a delicate porcelain cup with gold trim, who loved hosting elegant tea parties with floral prints and soft jazz playing in the background. She enjoyed the gentle caress of hot chamomile and the company of friends during quiet afternoons.
+
+Next to Clara stood Max, a sturdy ceramic mug with a bright red handle. Max was the kitchen’s early riser, always ready to hold the strong black coffee that fueled the household’s busy mornings. He loved the warmth and the energy that coffee brought, always proud to be the go-to mug for starting the day.
+
+In the back corner was Old Blue, a chipped but loyal mug with a faded logo from a distant café. Old Blue had traveled far and wide before settling in the kitchen and had many stories to tell. He always fancied himself a brave adventurer who had sipped coffee in bustling cities and quiet mountain cabins alike.
+
+One rainy afternoon, the cups and mugs overheard the family talking about a picnic they planned in the nearby park. Excitement buzzed through the cupboard. Clara dreamed of serving delicate tea under a blooming cherry tree. Max imagined holding refreshing iced coffee in the warm sunshine. Old Blue longed to feel the breeze and see the world beyond the kitchen window again.
+
+When the day of the picnic arrived, the family chose Max for their coffee and Clara for their tea, but in the hurry, Old Blue was left behind. Feeling sad but understanding, Old Blue wished them well and enjoyed the quiet kitchen once more.
+
+However, as the family returned, one of the children spotted Old Blue sitting quietly on the shelf and decided to bring him along next time. The little act made Old Blue feel cherished once again.
+
+From then on, each cup and mug had its turn to go on adventures, sharing stories, warmth, and comfort wherever they went. And in that cozy kitchen, the cups and mugs knew they were part of something much bigger than themselves — a circle of care, joy, and shared moments.

@@ -1,0 +1,8 @@
+### Prompt
+Give me a short story about cups and mugs in Swedish.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Det var en gång en liten samling koppar och muggar som bodde i ett mysigt skåp i köket. Varje morgon vaknade de av doften av nybryggt kaffe och te. Kopparna älskade att användas under söndagsfikat, medan muggarna föredrog vardagsmorgnarna med varmt choklad. En dag bestämde sig kopparna och muggarna för att arrangera en fest i skåpet. De skrattade, klirrade och berättade historier om alla de människor de mött. När kvällen kom, somnade de nöjda och lyckliga, redo för många fler äventyr tillsammans.

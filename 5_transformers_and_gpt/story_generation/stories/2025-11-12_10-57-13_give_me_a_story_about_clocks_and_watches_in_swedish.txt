@@ -1,0 +1,16 @@
+### Prompt
+Give me a story about clocks and watches in Swedish.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Det var en gång en liten stad där alla invånare var besatta av tid. På varje gata fanns det butiker som sålde antika klockor och moderna armbandsur. Bland alla dessa urmakare fanns en gammal man vid namn Gustaf, som hade en liten verkstad fylld med tickande och kluckande urverk.
+
+Gustaf älskade alla typer av klockor, från stora väggklockor till små fickur. Varje tidmätare hade sin egen historia, och Gustaf berättade gärna om dem för de nyfikna som kom för att köpa eller laga sina klockor.
+
+En dag hittade Gustaf en trasig klocka på marknaden. Den var vacker men mystisk, med symboler som han aldrig tidigare sett. När han lagade den började något märkligt hända: tiden i staden började förändras. Klockor och klockspel började ticka snabbare eller långsammare, och invånarna kände att deras dagar krympte eller förlängdes på ett märkligt sätt.
+
+Gustaf insåg att denna urgamla klocka hade makten att leka med tiden själv. Han bestämde sig för att skydda klockan och använda dess krafter klokt, så att alla i staden kunde uppskatta varje sekund utan att bli fångade i tidens snabba flöde.
+
+Från den dagen blev Gustafs verkstad en plats där folk inte bara kom för att laga sina klockor, utan också för att lära sig att värdesätta varje ögonblick. Och staden, med alla sina tickande klockor och glänsande armbandsur, levde i harmoni med tiden, tack vare den vise urmakaren och hans magiska klocka.

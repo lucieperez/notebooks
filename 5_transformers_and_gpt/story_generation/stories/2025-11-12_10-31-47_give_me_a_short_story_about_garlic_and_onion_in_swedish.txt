@@ -1,0 +1,8 @@
+### Prompt
+Give me a short story about garlic and onion in Swedish.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Det var en gång en vitlöksklyfta och en lökring som bodde tillsammans i en liten grönsakslåda i köket. Vitlöken var stark och modig, medan löken var mild och lite blyg. En dag hörde de att kocken skulle laga en stor festmåltid och behövde deras hjälp. Vitlöken och löken bestämde sig för att samarbeta. Tillsammans skapade de en smak som gjorde rätten oemotståndlig. Från den dagen visste de att deras olikheter gjorde dem starkare tillsammans, och de blev bästa vänner i köket.

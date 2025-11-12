@@ -1,0 +1,30 @@
+### Prompt
+Tell me a story.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Sure! Here’s a story for you:
+
+---
+
+**The Whispering Forest**
+
+In a small village nestled between rolling hills and dense woods, there was a legend about the Whispering Forest. The villagers believed that if you listened closely, the trees would share secrets from long ago. Few dared to venture deep into the forest, for it was said to be enchanted.
+
+One curious girl named Elara decided she wanted to uncover the truth. Armed with a lantern and her grandmother’s old journal, she stepped into the forest one misty morning. The air was cool, and a soft breeze made the leaves rustle like whispers.
+
+As she journeyed deeper, Elara heard faint murmurs—not from the wind, but from the trees themselves. They spoke in riddles and rhymes, telling tales of forgotten heroes, hidden treasures, and nature’s magic.
+
+At the heart of the forest, Elara found an ancient oak with a hollow trunk. Inside, she discovered a glowing crystal, pulsing gently like a heartbeat. The trees explained that this crystal held the forest’s memory and magic, and only a true listener could unlock its power.
+
+Elara placed her hand on the crystal, and suddenly, visions of the past filled her mind—stories of friendship between humans and forest spirits, of harmony and respect.
+
+When she returned to the village, Elara shared these stories, reminding everyone of the bond they once had with nature. The Whispering Forest was no longer a place of fear but a symbol of hope and unity.
+
+From that day on, the villagers listened carefully to the whispers of the trees, and the forest flourished, alive with magic and life.
+
+---
+
+I hope you enjoyed the story! Would you like to hear another?

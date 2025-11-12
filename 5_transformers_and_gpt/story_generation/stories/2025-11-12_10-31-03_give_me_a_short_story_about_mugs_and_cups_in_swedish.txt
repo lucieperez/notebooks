@@ -1,0 +1,8 @@
+### Prompt
+Give me a short story about mugs and cups in Swedish.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Det var en gång en samling muggar och koppar som bodde på en hylla i ett mysigt kök. Muggarna, stora och robusta, älskade att fyllas med varm choklad medan kopparna, små och eleganta, föredrog kaffe och te. En dag bestämde sig muggarna för att ordna en fest för alla på hyllan. Kopparna blev först lite nervösa men snart dansade alla tillsammans och insåg att oavsett storlek eller form, kunde de alla njuta av en härlig stund tillsammans. Från den dagen brukade de ordna gemensamma kaffestunder där både muggar och koppar var med – en perfekt blandning av styrka och finess.

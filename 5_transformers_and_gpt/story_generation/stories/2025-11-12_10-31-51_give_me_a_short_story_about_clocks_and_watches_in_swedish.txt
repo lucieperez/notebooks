@@ -1,0 +1,22 @@
+### Prompt
+Give me a short story about clocks and watches in Swedish.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Självklart! Här är en kort berättelse på svenska om klockor och armbandsur:
+
+---
+
+I en liten stad fanns det en gammal urmakare som hette Erik. Han älskade allt som hade med klockor och armbandsur att göra. Varje dag satt han i sin lilla butik och reparerade klockor, stora som små.
+
+En dag kom en pojke in med en trasig fickklocka som hade tillhört hans farfar. Erik tog försiktigt emot den och började arbeta. När han öppnade fickklockan, fann han en liten inskription: "Tiden är vår dyrbaraste skatt."
+
+Erik log och sa till pojken: "Den här klockan är inte bara ett föremål, den är en påminnelse om att varje stund är värdefull."
+
+Från den dagen började pojken samla på klockor och lärde sig att uppskatta varje ögonblick i livet.
+
+---
+
+Vill du ha berättelsen översatt till engelska också?

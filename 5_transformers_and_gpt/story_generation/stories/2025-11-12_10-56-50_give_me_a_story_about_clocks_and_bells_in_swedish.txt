@@ -1,0 +1,20 @@
+### Prompt
+Give me a story about clocks and bells in Swedish.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Det var en gång i en liten by vid namn Klockstaden, där tiden verkade leva sitt eget liv. Byborna var stolta över sina gamla klockor och mäktiga kyrkklockor som hade hängt i tornet i hundratals år. Varje morgon, middag och kväll samlades alla för att höra klockorna slå, en tradition som förde dem samman och gav en känsla av trygghet och ordning.
+
+En särskild klocka i byn var den stora stålklockan i kyrktornet, kallad "Stora Klara". Hon var byns hjärta och räknades som en av de mest precisa klockorna i hela landet. Men en dag började Stora Klara att slå oregelbundet. Ibland slog hon för snabbt, ibland tystnade hon helt och hållet.
+
+Byborna blev oroliga. Utan Stora Klaras jämna slag kände de som om tiden i byn började försvinna. Människor kom för sent till sina möten, barn missade skolans start och lantbrukarna visste inte längre när det var dags att skörda.
+
+En ung pojke vid namn Erik, som älskade allt som hade med klockor att göra, bestämde sig för att undersöka mysteriet. Varför slog Stora Klara så konstigt? Han gick upp i kyrktornet och började noggrant undersöka klockans mekanism. Erik upptäckte att en liten fjäder i klockans urverk hade gått av och att damm och rost hade börjat samla sig i kugghjulen.
+
+Med hjälp av byns smed och en gammal bok om urmakeri lyckades Erik laga klockan. Han rengjorde kugghjulen, bytte ut den trasiga fjädern och smorde hela mekanismen. När han försiktigt slog i gång Stora Klara igen, hörde byborna det klara och trygga ljudet eka över kullarna.
+
+Från och med den dagen blev Erik den nya vårdaren av klockorna i Klockstaden. Han visste att i varje tickande ur och varje rungande klocka fanns mer än bara tid – det fanns hjärtat av hela byn.
+
+Och så fortsatte klockorna och klockspelet i Klockstaden att föra folket samman, varje slag en påminnelse om att tiden är både ömtålig och värdefull.

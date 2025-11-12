@@ -1,0 +1,20 @@
+### Prompt
+Give me a story about mugs and cups in Swedish.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Självklart! Här kommer en liten historia på svenska om muggar och koppar:
+
+---
+
+I ett litet kök på landet bodde det en samling muggar och koppar tillsammans i ett skåp. Varje dag såg de fram emot att bli använda, fyllas med varm choklad, kaffe eller te. Muggarnas favoritstund var på morgonen, då solen strålade in genom fönstret och fyllde rummet med ljus. Kopparna däremot älskade eftermiddagen, när familjen samlades för att dricka te och prata.
+
+En dag började en liten mugg känna sig ledsen. "Varför är det alltid kopparna som får vara med på fikat?" frågade den. Kopparna log vänligt och svarade, "Men du är så stark och tålig. Vi behöver dig för att hålla våra varma drycker vid liv under frukosten, och utan dig skulle inget morgonkaffe smaka lika gott."
+
+Muggarna och kopparna insåg då att de alla hade sin unika roll att spela, oavsett storlek eller form. Tillsammans skapade de harmonin i köket, och ingen behövde känna sig mindre värd. Från den dagen uppskattade de varandra ännu mer och såg fram emot varje stund tillsammans, vare sig det var morgon eller eftermiddag.
+
+---
+
+Vill du att jag skriver en längre berättelse eller med ett annat tema?

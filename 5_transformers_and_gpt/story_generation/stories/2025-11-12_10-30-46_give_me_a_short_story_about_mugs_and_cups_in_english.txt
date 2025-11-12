@@ -1,0 +1,8 @@
+### Prompt
+Give me a short story about mugs and cups in English.
+
+### Model
+gpt-4.1-mini
+
+### Story
+In a cozy kitchen, a family of mugs and cups lived on a wooden shelf. Each morning, the mugs felt proud, ready to hold strong coffee, while the delicate cups eagerly awaited their turn with soothing tea. One day, a chipped cup felt sad, worried it was no longer useful. But the wise old mug comforted it, saying, "Every crack tells a story, and you’re still part of our family." From that day on, the chipped cup shined with newfound confidence, proving that even with imperfections, everyone belongs and has value.

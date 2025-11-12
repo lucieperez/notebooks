@@ -1,0 +1,14 @@
+### Prompt
+Give me a short story about watches and clocks in English.
+
+### Model
+gpt-4.1-mini
+
+### Story
+In a quaint little village, there was a tiny shop filled with watches and clocks of every kind. The shopkeeper, Mr. Ticktock, loved each timepiece as if it had a heart. Every morning, he wound the clocks carefully, whispering, “Keep time true and steady.”
+
+One night, as the village slept, the clocks began to chime together, creating a magical melody. Suddenly, the watches inside the shop started to glow, their hands moving in harmony. The timepieces weren’t just telling time—they were telling stories.
+
+Each tick revealed a memory: a grandfather’s laughter, a child’s first step, a long-lost love’s promise. Mr. Ticktock watched in awe as his beloved clocks and watches shared the moments they had quietly witnessed.
+
+From that night on, villagers came not just for the time, but for the stories held within each tick and tock, reminding them that time is not just counted—it’s lived.
