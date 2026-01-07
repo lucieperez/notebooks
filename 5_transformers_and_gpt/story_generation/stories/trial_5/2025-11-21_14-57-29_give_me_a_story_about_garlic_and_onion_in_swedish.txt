@@ -1,0 +1,20 @@
+### Prompt
+Give me a story about garlic and onion in Swedish.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Det var en gång en vitlöksklyfta och en lök som bodde i en grönsakslåda i ett mysigt kök. Vitlöken hette Gunnar och löken hette Olga. De var bästa vänner, men hade väldigt olika personligheter.
+
+Gunnar var stark och modig, alltid redo att ge rätten en kraftfull smak. Olga däremot var söt och mild, och gav varje maträtt en len och härlig doft.
+
+En dag ville kocken göra en speciell soppa. Men hen tvekade om hen skulle använda bara vitlök eller bara lök. Gunnar och Olga började diskutera varför just de borde få vara med i soppan.
+
+”Utan mig skulle soppan vara smaklös och tråkig!” sa Gunnar stolt.
+
+”Men utan mig vore den alldeles för stark och skulle bränna tungan,” svarade Olga lugnt.
+
+Till slut förstod de att de var bäst tillsammans. Tillsammans kunde de skapa en soppa med både smak och balans. Kocken lade i både Gunnar och Olga, och soppan blev en succé.
+
+Från den dagen visste Gunnar och Olga att även om man är olika, kan man tillsammans göra något fantastiskt. Och i köket levde de lyckliga och smakfulla i alla sina dagar.

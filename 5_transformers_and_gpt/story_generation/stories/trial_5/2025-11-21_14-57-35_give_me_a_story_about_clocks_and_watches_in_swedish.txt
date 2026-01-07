@@ -1,0 +1,16 @@
+### Prompt
+Give me a story about clocks and watches in Swedish.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Det var en gång i en liten svensk by vid namn Ticktack, där alla invånare älskade klockor och armbandsur. Byborna hade en ovanlig tradition: varje år samlades de för att fira Ticktacks Klockfestival, där de visade upp sina mest unika och vackra klockor.
+
+I byn bodde en gammal urmakare vid namn Gunnar, som var känd över hela landet för sina magiska klockor. Gunnar hade ärvt sin passion för urmakeri från sin farfar och spenderade dagarna i sin lilla verkstad fylld med tickande urverk och glimmande urtavlor.
+
+En dag fick Gunnar en idé. Han ville skapa en klocka som inte bara visade tiden, utan också kunde stoppa den för en stund. Han arbetade dag och natt, skruvade på små kugghjul och finslipade varje detalj. Till slut var klockan klar: en vacker guldklocka med blåa visare och en liten knapp på sidan.
+
+När Gunnar visade sin klocka på festivalen, samlades hela byn i förundran. Med ett enkelt tryck på knappen stannade tiden runt dem, och för en kort stund kunde alla njuta av stillheten och friden. Men bara för några sekunder – för tiden måste alltid fortsätta sin eviga resa.
+
+Klockan blev en skatt i Ticktack, en påminnelse om att även om tiden aldrig stannar, kan vi ibland få en chans att uppskatta dess värde lite extra. Och så levde byn vidare, i takt med tickandet från sina älskade klockor och armbandsur.

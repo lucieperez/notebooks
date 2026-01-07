@@ -1,0 +1,16 @@
+### Prompt
+Give me a story about garlic and onion in Swedish.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Det var en gång en vitlök och en lök som bodde i en liten trädgård utanför en mysig liten by. Vitlöken hette Viggo och löken hette Lova. Trots att de var olika, delade de en stark vänskap och hjälpte alltid varandra.
+
+Varje morgon vaknade Viggo och Lova med solen, redo att möta dagens äventyr. Viggo brukade sprida sin starka doft för att skydda trädgården från nyfikna insekter, medan Lova med sina många lager skyddade marken från att torka ut.
+
+En dag upptäckte de att en grupp hungriga kaniner närmade sig och hotade att äta upp hela trädgården. Viggo och Lova visste att de måste samarbeta för att rädda sitt hem. Viggo spred sin kraftiga vitlöksdoft som fick kaninerna att backa, medan Lova fällde sina lager som en sköld för att blockera vägen.
+
+Tack vare deras samarbete och mod lyckades de skrämma bort kaninerna och rädda trädgården. Från den dagen blev Viggo och Lova inte bara vänner, utan också trädgårdens hjältar. Och varje gång någon lagade mat med vitlök och lök, påmindes de om den starka vänskapen och modiga hjärtat i den lilla trädgården.
+
+Slut.

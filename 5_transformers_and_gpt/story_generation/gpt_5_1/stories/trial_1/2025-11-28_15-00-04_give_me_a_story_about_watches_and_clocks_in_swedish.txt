@@ -1,0 +1,120 @@
+### Prompt
+Give me a story about watches and clocks in Swedish.
+
+### Model
+gpt-5.1-2025-11-13
+
+### Story
+Det var en gång en liten stad som hette Tidköping, där nästan allt handlade om klockor. På torget stod ett gammalt klocktorn som varje timme spelade en kort melodi, och runt torget låg små butiker som sålde armbandsur, väggklockor och fickur.
+
+I en av butikerna arbetade en gammal urmakare som hette Alfons. Hans händer darrade lite när han gick, men när han höll i en klocka blev de plötsligt stadiga, som om tiden själv höll dem stilla. Han kunde lyssna på ett tickande och direkt säga vad som var fel, som om klockorna pratade med honom.
+
+En regnig tisdag kom en flicka in i butiken. Hon hette Maja och var kanske tio år. I handen höll hon ett trasigt armbandsur med sprucket glas och en stoppad sekundvisare.
+
+“Kan du laga den här?” frågade hon försiktigt. “Den tillhörde min morfar.”
+
+Alfons tog emot klockan och höll den mot örat. Den var alldeles tyst.
+
+“Den är väldigt gammal,” sa han mjukt. “Men gamla klockor har ofta starka hjärtan. De behöver bara lite hjälp för att börja slå igen.”
+
+Maja såg sig omkring i butiken. Överallt hängde väggklockor: några med gungande pendlar, några digitala med blåa siffror, några gömda bakom målade träskivor där små gökar tittade ut och hoade varje timme. På en hylla stod ett fickur i silver, öppet, med en elegant visartavla där minuterna gled förbi i stilla cirklar.
+
+“Varför har du så många olika klockor?” undrade hon.
+
+Alfons log. “Därför att alla mäter tid, men ingen berättar samma historia. En väckarklocka bryr sig om morgnar. En köksklocka minns måltider. En kyrkklocka minns högtider. Och ett armbandsur,” han nickade mot hennes klocka, “minns vägarna du gått.”
+
+Maja funderade en stund. “Men… tiden är väl samma ändå?”
+
+“Sekunderna är samma,” sa Alfons. “Men vad vi fyller dem med är olika. Klockorna ser allt, men de säger ingenting. De bara tickar.”
+
+Han skruvade av baksidan på morfars klocka. Inuti fanns ett litet urverk med slitna kuggar. Några tänder var nästan nedmalda, som om de jobbat för hårt i många år.
+
+“Den här har gått länge,” mumlade han. “Har din morfar haft den hela sitt liv?”
+
+Maja nickade. “Han sa att han fick den av sin pappa, den dag han åkte hemifrån för första gången. Han brukade säga att så länge klockan går, har jag tid kvar.”
+
+“Kloka ord,” sa Alfons tyst.
+
+Han tog fram en liten låda med reservdelar. Där låg pyttesmå kugghjul i olika färger av metall, fjädrar spända som miniatyrsnäckor och visare i alla former. Med en pincett lyfte han ur det slitna kugghjulet och letade efter ett som passade.
+
+Under tiden vandrade Majas blick vidare. På disken stod en märklig klocka utan visare. På urtavlan satt istället små hål som lyste svagt.
+
+“Vad är det där för klocka?” frågade hon.
+
+“Aha,” sa Alfons och följde hennes blick. “Det är en stjärnklocka. Den visar inte timmar och minuter, utan nätter. Varje litet ljus är en natt i någons liv. När en natt har gått, slocknar en stjärna.”
+
+“Men då vet man ju inte vad klockan är,” protesterade Maja.
+
+“Nej,” log han. “Men man kan se hur mycket av ens tid som varit fylld av mörker… och hur mycket stjärnljus man fått.”
+
+Maja förstod inte riktigt, men det lät vackert.
+
+Efter en stunds pillande suckade Alfons. “Det här kugghjulet är speciellt. Jag har inget exakt likadant.” Han tittade upp. “Men jag kan göra ett.”
+
+“Göra ett?” Maja spärrade upp ögonen.
+
+“Ja,” sa han. “Men det tar tid. Och tid är en märklig sak. Är du beredd att vänta?”
+
+“Hur länge?” frågade hon.
+
+Han ryckte på axlarna. “Kanske en timme. Kanske en dag. Kanske mer. När man gör något viktigt måste man låta klockorna få gå sin egen takt.”
+
+Maja tänkte på sin telefon i fickan, som alltid visade tiden på sekunden. “Jag kan stanna,” sa hon till slut. “Jag vill se hur du gör.”
+
+Alfons lyste upp. “Då ska vi göra så här: medan jag arbetar med kugghjulet, får du lyssna på klockorna.”
+
+“Lyssna?” upprepade hon.
+
+“Ja,” sa han. “Stäng ögonen en stund.”
+
+Hon gjorde som han sa. Först hörde hon bara ett osorterat brus av tickande. Men efter en stund märkte hon att varje klocka hade sitt eget tempo. Vissa tickade snabbt, nästan ivrigt. Andra tog god tid på sig mellan varje slag, som om de andades lugnt.
+
+“Ser du,” sa Alfons mjukt medan han filade på det lilla hjulet, “en del människor lever som den där snabba väckarklockan på hyllan. Allt ska ske nu, genast, helst igår. Andra lever mer som den där stora pendelklockan i hörnet, som svänger långsamt men säkert. Samma sekunder, olika rytm.”
+
+“Vilken klocka är du?” frågade Maja med slutna ögon.
+
+“Jag?” skrattade han lågt. “Jag har nog varit alla. Ibland för snabb, ibland för långsam. Men nu försöker jag bara gå i takt med det jag gör just nu.”
+
+Hon öppnade ögonen. “Vilken klocka är jag då?”
+
+Han tittade på henne en stund. “Du,” sa han, “är en klocka vars visare håller på att vakna. Du vet att tiden finns, men du håller fortfarande på att bestämma vad du vill fylla den med.”
+
+Maja visste inte riktigt vad hon skulle svara på det, så hon frågade istället: “Är du aldrig rädd för att klockorna ska stanna för alltid?”
+
+Alfons stannade upp med filen i handen. “Jo,” sa han eftertänksamt. “Men sedan påminner jag mig själv: även en stoppad klocka har haft ett liv. Den har suttit på handleder, hängt på väggar, sett människor gå förbi. Den har följt med genom sorger och glädje. Till slut får allt vila.”
+
+Han fäste det nya kugghjulet på plats, satte tillbaka fjädern och skruvade noggrant igen baksidan.
+
+“När människor slutar leva,” fortsatte han mjukt, “slutar deras klockor också förr eller senare. Det är inte sorgligt för klockan. Den har gjort sitt arbete.”
+
+Han vände sig till henne. “Men din morfars klocka,” sa han, “har mer att göra.”
+
+Han vred upp den försiktigt. Ett svagt, tveksamt tickande började, som ett hjärta som precis vaknat efter en lång sömn. Tick… tack… tick… tack. Ljudet blev stadigare, starkare.
+
+Majas ögon tårades. “Den… den går igen.”
+
+“Ja,” log Alfons. “Nu delar den sin tid med dig.”
+
+“Vad kostar det?” frågade hon, torkade ögonen med ärmen.
+
+“En sak,” sa han.
+
+Hon stelnade till. “Jag har inte så mycket pengar…”
+
+“Jag vill inte ha pengar,” avbröt han vänligt. “Jag vill att du lovar mig att titta på tiden ibland… utan att stressa. Att använda den, inte jaga den.”
+
+Maja kände på klockan runt sin handled. Den var lite för stor, remmen nött, glaset hade kvar en tunn spricka, men den tickade. Hon nickade allvarligt.
+
+“Jag lovar.”
+
+När hon gick ut ur butiken hade regnet upphört. Stadens klockor slog helt olika tider – kyrkklockan ringde hel, någon väggklocka i ett fönster slog halv, och en bil körde förbi med en digital display som visade 15:03. Men på Majas handled tickade morfars klocka med ett lugnt, gammalt tempo som inte brydde sig om exakta minuter.
+
+Hon tittade på den, sedan på himlen.
+
+Kanske, tänkte hon, är alla klockor bara påminnelser. Inte om hur lite tid man har kvar, utan om hur mycket man fortfarande kan fylla.
+
+I det gamla klocktornet i Tidköping stod Alfons vid sitt fönster och såg henne gå över torget. Runt honom tickade och slog hans många klockor i en brokig symfoni. Han log för sig själv.
+
+En klocka till hade hittat en ny berättelse att följa.
+
+Och ute i staden gick tiden, som alltid, men för Maja började den den dagen att betyda något annat än bara siffror. Hon hade en klocka som mindes någon hon älskade – och varje tick kändes som ett tyst litet steg framåt, i takt med hennes egna.

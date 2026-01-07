@@ -1,0 +1,18 @@
+### Prompt
+Give me a story about bells and clocks in Swedish.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Det var en gång en liten by vid namn Klockstaden, känd för sina många klockor och vackra klockspel. I byns centrum stod en gammal klocktorn, där en stor, skinande klocka hängde högt uppe. Varje timme ringde klockan ut över hela byn, och dess klang fyllde luften med en varm och trygg känsla.
+
+I klocktornet bodde en klok urmakare vid namn Erik. Han älskade sina klockor och spenderade dagarna med att reparera och justera dem, så att varje sekund skulle vara perfekt. Men det fanns en särskild klocka som Erik drömde om att laga – den mystiska gamla klockan som hängde längst upp i tornet. Den hade inte ringt på många år, och ingen visste varför.
+
+En dag när Erik klättrade upp i tornet för att undersöka den gamla klockan, upptäckte han att dess stora ringklocka var täckt av damm och spindelväv. Han började rengöra den försiktigt och fann en liten, gömd mekanism som behövde en särskild nyckel för att sättas igång.
+
+Erik sökte över hela byn efter nyckeln, och till slut fann han den i en gammal bybok, gömd mellan sidorna. När han satte in nyckeln och vred om, började klockan sakta att röra sig. Plötsligt fylldes hela tornet av en klar, magisk ton som ringde ut över Klockstaden.
+
+Från och med den dagen hördes den gamla klockan ringa tillsammans med de andra klockorna, och byborna kände sig lyckligare än någonsin. Det sägs att den magiska klingan inte bara mätte tiden, utan också förde med sig glädje och samhörighet till alla i Klockstaden.
+
+Och så levde klockorna och deras ljud lyckliga i alla sina dagar.

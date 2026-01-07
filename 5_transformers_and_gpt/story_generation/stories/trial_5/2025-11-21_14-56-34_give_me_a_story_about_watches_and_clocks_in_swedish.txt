@@ -1,0 +1,16 @@
+### Prompt
+Give me a story about watches and clocks in Swedish.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Det var en gång i en liten by i Sverige där tiden alltid verkade leka. I denna by fanns en gammal urmakarverkstad, ägd av en vänlig man vid namn Herr Persson. Herr Persson hade ärvt verkstaden från sin farfar, och i den fanns hyllor fulla med klockor och armbandsur i alla möjliga former och storlekar.
+
+Varje dag satt Herr Persson vid sin arbetsbänk och reparerade de olika klockorna som byborna kom in med. Vissa var gamla väggklockor, andra var eleganta fickur och några var små moderna armbandsur. Men det mest speciella med verkstaden var inte bara alla klockor – det var att varje gång Herr Persson satte igång en klocka efter att ha lagat den, hördes ett mjukt tickande som fyllde hela rummet med liv.
+
+En kväll, när månen lyste starkt över byn, hände något magiskt i verkstaden. En av de stora väggklockorna började tala! Den berättade historier om tiden som gått, om somrar och vintrar, om glädje och sorg som klockorna i byn hade varit vittne till. Herr Persson blev först förvånad, men sedan glad över att hans klockor kanske bar på mer än bara tid – de bar på minnen.
+
+Från den dagen började Herr Persson samla alla berättelser klockorna ville dela, och varje vecka fick byborna samlas i verkstaden för att lyssna på klockornas historier. Tiden blev inte längre bara något som tickade framåt, utan något levande och magiskt, förvandlat av klockornas viskningar och Herr Perssons kärlek till sin konst.
+
+Och så levde klockor och människor tillsammans i harmoni, med tidens berättelser som band dem samman för alltid.

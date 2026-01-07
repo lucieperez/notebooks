@@ -1,0 +1,50 @@
+### Prompt
+Give me a story about garlic and onion in Swedish.
+
+### Model
+gpt-5.1-2025-11-13
+
+### Story
+Vitlöken och Löken
+
+Det var en gång en liten vitlök som hette Villy och en gul lök som hette Lova. De bodde längst in i en kökslåda, bakom stekpannor och kastruller, där det alltid luktade lite starkt och hemligt.
+
+Villy var kaxig och sa:
+"Alla vet att JAG gör maten godast! Utan vitlök smakar allt tråkigt."
+
+Lova fnös.
+"Ursäkta mig, men vem är det som är grunden i nästan all mat? Soppor, grytor, såser – det är JAG. Utan lök blir det ingenting."
+
+De började bråka varje kväll när köket hade somnat. Morötterna suckade, potatisarna gömde sig djupare i sin påse och tomaterna rullade åt andra hållet för att slippa höra.
+
+En dag bestämde kocken att hen skulle laga en stor gryta. Hen öppnade lådan, tog upp Lova och lät henne bli först.
+
+"Ha!" viskade Lova till Villy. "Ser du? Jag börjar!"
+
+Kocken skalade Lova, hackade henne fint och la henne i den varma pannan med lite olja. Lova började fräsa, bli mjuk och dofta sött.
+
+"Åh, så gott det luktar!" sa kocken. "Men något saknas..."
+
+Långsamt vände kocken sig om mot Villy.
+
+Nu blev Villy stolt.
+"Min tur!" ropade han tyst så bara vitlökarna hörde.
+
+Kocken skalade några klyftor av Villy, hackade dem och la dem i pannan tillsammans med Lova – men lite senare, så att Villy inte skulle brännas. Plötsligt fyllde en djup, varm doft hela köket. Lova och Villy möttes i pannan.
+
+"Ehm… det doftar faktiskt väldigt gott tillsammans," mumlade Lova.
+
+"Ja… du gör ju en bra grund," erkände Villy. "Utan dig hade det nog blivit för starkt med bara mig."
+
+"Utan dig hade det blivit lite tråkigt," sa Lova. "Du ger liksom… karaktär."
+
+Kocken smakade på grytan, log nöjt och sa:
+"Perfekt! Lök först för sötman, vitlök sen för smaken. Tillsammans blir det bäst."
+
+Den kvällen åt alla i huset av grytan och tog om flera gånger. I kökslådan blev det ovanligt tyst. Morötterna, potatisarna och tomaterna log för sig själva.
+
+Från den dagen slutade Villy och Lova att bråka om vem som var viktigast. I stället brukade de säga:
+
+"En bra rätt börjar ofta med lök – och blir oförglömlig med vitlök."
+
+Och varje gång kocken öppnade lådan, hoppades de båda två att få komma med – tillsammans.

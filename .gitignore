@@ -99,6 +99,13 @@ __pypackages__/
 celerybeat-schedule
 celerybeat.pid
 
+# R statistical models
+
+*.rds
+*.RData
+*.RDataTmp*
+.Rhistory
+
 # SageMath parsed files
 *.sage.py
 

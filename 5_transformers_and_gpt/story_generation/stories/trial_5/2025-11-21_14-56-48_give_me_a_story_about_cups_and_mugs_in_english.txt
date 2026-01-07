@@ -1,0 +1,20 @@
+### Prompt
+Give me a story about cups and mugs in English.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Once upon a time in a cozy little kitchen, there lived a family of cups and mugs. Each morning, as the sun streamed through the window, they would wake up and prepare for their day of holding warm drinks and sharing moments with their humans.
+
+There was Clara, a delicate porcelain teacup with intricate blue flowers painted on her surface. She loved quiet mornings filled with herbal tea and soft music. Next to her stood Max, a sturdy ceramic mug with a bright red handle, perfect for strong coffee and adventurous souls.
+
+One day, a new mug arrived—a shiny, black travel mug named Jet. Jet was sleek and modern, designed to keep drinks hot for hours. At first, the other cups and mugs were unsure about Jet. He was different, always ready to go on adventures outside the kitchen, while they preferred the safety and comfort of their cozy shelf.
+
+But soon, Jet shared stories of distant places—the park bench at sunrise, the bustling city bus, and the peaceful lake during sunset. Inspired by Jet’s tales, Clara and Max began to dream beyond the countertop.
+
+Together, the cups and mugs decided to start a new tradition. Each day, one of them would be chosen to accompany their human on an outing, bringing a little warmth and joy wherever they went. Clara enjoyed picnics in the garden, Max loved morning hikes, and Jet continued his travels across town.
+
+In time, the cups and mugs learned that no matter their shape or size, they all had a special role. They were more than just vessels—they were companions in life’s small, beautiful moments.
+
+And so, in that cozy little kitchen, the cups and mugs lived happily, ready to share warmth, stories, and friendship with anyone who needed it.

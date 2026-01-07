@@ -1,0 +1,64 @@
+### Prompt
+Give me a story about onion and garlic in Swedish.
+
+### Model
+gpt-5.1-2025-11-13
+
+### Story
+Lök och Vitlök
+
+Det var en gång en liten lök som hette Loke och en kaxig vitlöksklyfta som hette Vivi. De bodde längst ner i en skafferlåda i ett litet hus i Småland. Varje kväll pratade de om vad de ville bli när de “blev tillagade”.
+
+“Jag ska bli en fin löksoppa,” sa Loke stolt. “Alla kommer att gråta av lycka när de smakar mig.”
+
+“De gråter redan när de skalar dig,” fnissade Vivi. “Jag däremot, jag ska bli en magisk vitlökssås. Alla grillkvällars drottning!”
+
+Loke suckade. “Du tror alltid att du är bäst bara för att du luktar starkt.”
+
+“Starkt är bra,” sa Vivi. “Jag skrämmer bort basilusker, vampyrer och ibland människor också. Det är superkrafter!”
+
+En kväll öppnades skafferiet. En hand sträckte sig in och tog först Loke.
+
+“Lycka till,” ropade Vivi. “Försök att inte få alla att gråta för mycket!”
+
+Loke hamnade på en skärbräda i köket. Kocken skalade honom varsamt och skar honom i tunna skivor. Mycket riktigt började kocken gråta.
+
+“Du ser!” mumlade Loke nöjt, fast han själv höll på att bli väldigt nervös. “Det är mina starka känslor som kommer ut…”
+
+Snart hamnade han i en varm kastrull med smör. Han fräste mjukt och spred en mild, söt doft i hela köket. Han märkte att ingen längre grät. I stället log de.
+
+“Åh, vad gott det luktar,” sa kocken.
+
+Loke blev varm av stolthet – och av spisplattan.
+
+Lite senare öppnades skafferiet igen. Nu var det Vivis tur.
+
+“Äntligen!” sa hon. “Nu ska de få känna på riktig smak.”
+
+Hon skalades, pressades och hamnade i en liten skål med yoghurt, citron, salt och örter. Hon blandades runt tills hon blev en krämig, vit sås.
+
+“Perfekt till grillat,” sa kocken nöjt.
+
+Vivi smakade på sig själv – bildligt talat – och tänkte: “Oj. Jag är faktiskt rätt god.”
+
+På kvällen satt familjen vid bordet. På spisen stod en gryta där Loke simmade bland grönsaker och buljong. På bordet stod en skål med Vivis sås.
+
+“Vilken god gryta!” sa någon. “Den där löken gör verkligen skillnad.”
+
+“Och den här vitlökssåsen!” sa en annan. “Den är ju fantastisk.”
+
+Loke hörde det och bubblade av glädje i grytan. Vivi stod stolt och glänste i såsskålen.
+
+Efter middagen pratade de med varandra i kökets tysta kväll, som bara ingredienser kan.
+
+“Så,” sa Loke, “det verkar som om både lök och vitlök behövs för en riktigt god middag.”
+
+“Ja,” höll Vivi med. “Du ger värme och sötma, jag ger styrka och sting. Tillsammans blir vi bäst.”
+
+Från den dagen slutade de tävla om vem som var viktigast. I stället berättade de för alla andra grönsaker i skafferiet:
+
+“Kom ihåg,” sa Loke, “ingen rätt blir riktigt god utan lite lök…”
+
+“…och en gnutta vitlök,” fyllde Vivi i.
+
+Och så levde de lyckliga – eller åtminstone väldigt välsmakande – så länge köket fanns.

@@ -1,0 +1,96 @@
+### Prompt
+Give me a story about clocks and bells in Swedish.
+
+### Model
+gpt-5.1-2025-11-13
+
+### Story
+Klockorna i Tornbyn
+
+I den lilla byn Tornbyn stod ett gammalt rådhus med ett högt torn. I tornet fanns en uråldrig klocka, så gammal att ingen riktigt visste när den byggts. Den kallades bara Tornklockan. Under Tornklockan hängde tre bronsklockor, kyrkklockor som ringde vid högtider, bröllop och begravningar.
+
+Varje dag, prick klockan tolv, slog Tornklockan sina slag, och de tre bronsklockorna svarade med en kort melodi. Det var som en hälsning till hela byn: nu är det middag, nu får ni vila en stund.
+
+En dag märkte byborna att något var fel. Klockan på torget, den som alla tittade på på väg till jobbet, gick fel. Den visade fem i tolv när Tornklockan redan hade slagit tolv sina djupa, tunga slag. Bronsklockorna hade ringt, men torgets klocka stod envis kvar.
+
+– Den är väl bara lite efter, sa bagaren Stina. Jag går upp i tornet efter stängning och tittar.
+
+När Stina klättrat upp i tornet såg hon att kugghjulen i den stora urtavlans mekanism var dammiga och tröga. Oljan hade torkat, metallen gnisslade.
+
+– Jaha, sa hon till sig själv, allt som mäter tid blir visst också gammalt.
+
+Hon tog fram en oljeflaska som alltid stod på en hylla i tornet och började försiktigt smörja kugghjul, pinnar och axlar. Tornklockan ovanför henne tickade långsamt och djupt, som en gammal man som drar efter andan.
+
+När hon var klar drog hon upp lodet som drev klockan. Maskineriet satte fart, och visarna började röra sig igen. Men precis när det skulle slå nästa heltimme, kom inget slag. Tornklockan var tyst.
+
+Stina rynkade pannan.
+
+– Vad är det här nu då?
+
+Hon lyssnade. Tystnaden var nästan öronbedövande. Hon klättrade ännu högre upp, ända till själva klockkammaren där de stora klockorna hängde. Där upptäckte hon något märkligt: Tornklockans slagkläpp, den tunga järnbit som skulle slå mot klockans insida, hängde orörlig. En tunn, nästan osynlig spricka hade gått genom fästet.
+
+– Slagkläppen är trött, mumlade hon. Eller så har den slagit för många tolvslag.
+
+Bredvid Tornklockan hängde de tre bronsklockorna, som brukade ringa sin melodi. De var tysta nu, som om de väntade.
+
+– Ni då, frågade Stina lågt. Kan inte ni hjälpa till?
+
+Såklart fick hon inget svar. Men i samma stund började en svag vind stryka genom klockkammaren, och en tunn ton hördes när vinden fick en av bronsklockorna att svänga till. Ett ensamt, ljust "ding" ekade i tornet.
+
+Stina fick en idé. Om Tornklockan inte längre kunde slå tolvslagen, kanske bronsklockorna kunde ta över? Om hon bara kunde koppla om mekanismen, så att slagverket slog på bronsklockorna i stället.
+
+Det blev många kvällar i tornet. Med stearinljus, verktyg och kalla fingrar arbetade hon sig igenom rostiga skruvar och tröga axlar. Hon läste i en dammig gammal bok om urverk som låg gömd i ett skåp, med ritningar på hur man kunde leda slag från en klocka till en annan.
+
+Under tiden märkte byborna att något saknades. De kunde fortfarande se visarna på tornets urtavla röra sig, men när timslagen uteblev tappade de något osynligt men viktigt.
+
+– Det känns som om dagen aldrig börjar och aldrig slutar, sa gamle Erik på bänken vid torget. När inte klockan slår, flyter timmarna bara ihop.
+
+Barnen tyckte först att det var roligt.
+
+– Inga klockslag, inga läggtider, skrattade de.
+
+Men redan efter några kvällar kände de att någonting var fel. Utan klockslag blev kvällen längre och längre, och till slut visste ingen riktigt när det var natt.
+
+En vecka senare, precis innan midnatt, var Stina klar. Hon stod i klockkammaren med sotiga kinder och oljiga händer. Den trasiga slagkläppen till Tornklockan vilade nu stilla, men en ny, smidigare mekanism hade monterats. När slagverket slog, skulle kraften fördelas till de tre bronsklockorna, som kunde spela en enkel melodi för varje heltimme.
+
+– Om det här fungerar, sa hon till klockorna, får ni bära tiden tillsammans nu.
+
+Hon gick ner till rådhussalen där den stora pendeln gungade fram och tillbaka, redo att släppa nästa slag. Hon ställde visarna så att klockan snart skulle slå tolv, midnatt, och satte sig sedan vid fönstret för att vänta.
+
+Mitt i natten var torget tomt. Endast några få fönster lyste. Luften var stilla och kylig. När visaren kröp mot tolv, höll Stina andan.
+
+Ett klick hördes i mekanismen, som ett beslutsamt steg. Ett kraftigt "klonk" gick genom tornets träbjälkar. Sedan, plötsligt:
+
+Ding–dong–ding, ding–dong–ding...
+
+De tre bronsklockorna ringde, inte längre bara en kort melodi vid lunchtid, utan en långsam, högtidlig följd av toner. Tolv gånger sjöng de sin nya sång genom natten. Ljus tändes i husen runt torget. Folk drog undan gardiner och öppnade fönster.
+
+– Klockorna! ropade någon. De sjunger!
+
+Det var som om tornet, som så länge bara slagit tunga, ensamma toner, nu hade lärt sig att tala i ackord, i flera röster samtidigt. Varje timslag blev till ett litet stycke musik, och varje gång klockorna ringde, spetsade byborna öronen.
+
+Nästa dag samlades många vid torget. De väntade till klockan slog tio. När melodin ljöd igen, började barnen nynna med. En liten pojke räknade tonerna högt:
+
+– En, två, tre, fyra... tio!
+
+– Nu hör man tiden, sa gamla Ingrid. Inte bara ser den.
+
+Med tiden började byborna lägga märke till något annat. Förr hade de bara tittat upp på urtavlan för att veta hur mycket klockan var. Nu väntade de också på klang och klangfärg. Gråa, trötta morgnar blev lite lättare när bronsklockorna sjöng sin ljusa melodi. När det regnade kändes slaget vid tolv som ett löfte: halva dagen har gått, du klarar resten också.
+
+En kväll, när skymningen föll och det snart skulle slå sex, satt Stina åter uppe i klockkammaren. Hon strök med handen över Tornklockans kalla metall.
+
+– Du som slog så länge, sa hon tyst. Nu får du vila, men din tid är inte borta. Den bara låter annorlunda.
+
+Då, precis när bronsklockorna skulle börja sin melodi, vibrerade Tornklockan svagt. Ingen slagkläpp rörde vid den, men ändå svarade den med en svag resonans, som en djup, nästan ohörbar bas. Ett brummande som bara den som var nära kunde uppfatta.
+
+Stina log.
+
+– Så du sjunger med ändå.
+
+Från den dagen levde Tornbyn med både tidens tickande och dess klang. Klockorna på väggarna i husen, med sina små, snabba tick–tack, visade minuterna som rann. Tornets stora ur visade timmarna som kom och gick. Och bronsklockornas melodi band ihop allt – som en påminnelse om att tid inte bara är siffror på en tavla, utan också rytmer, pauser, tystnad och ljud.
+
+Och när barnen frågade varför klockorna i tornet spelade så vackert, brukade de vuxna säga:
+
+– För att tiden inte vill gå ensam. Den vill ringa, klinga och dela sina steg med oss.
+
+Så fortsatte dagarna, slag för slag, klang efter klang, i den lilla byn där klockor och klockklang blivit en del av allt som levde och andades.

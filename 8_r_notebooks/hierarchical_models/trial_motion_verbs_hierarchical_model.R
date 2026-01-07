@@ -1,106 +1,38 @@
-# Load packages
-library(dplyr)
-library(forcats)
-library(bayesrules)
+### Load packages
 library(tidyverse)
 library(bayesplot)
-library(rstanarm)
 library(janitor)
 library(tidybayes)
 library(broom.mixed)
 library(brms)
 set.seed(84735)
 
-options(mc.cores = 2)
+options(brms.backend = "rstan", mc.cores = 2)
 
 
-file_path <- "data/combined_datasets.csv"
-df_raw <- readr::read_csv(file_path, show_col_types=FALSE)
-
-# Clean column names to be simple (lowercase, underscores)
-df <- df_raw %>% clean_names()
-
-# Drop rows where complement == "no complement"
-df <- df %>%
-  filter(complement != "no complement" | is.na(complement)) %>%
-  mutate(cmpl_constr = forcats::fct_drop(cmpl_constr))
-
-# Drop rows with reconstructed occurrences, min, not predicate
-df <- df %>%
-  filter(!(comments %in% c("reconstructed", "verb rec", "reconstructed?", "not predicate", "min excluded")) | is.na(comments)) %>%
-  mutate(cmpl_constr = forcats::fct_drop(cmpl_constr))
-df %>% count(comments, sort = TRUE)
-
-# Keep only goals (motion_type)
-df <- df %>%
-  filter(spatial_arg_type == "goal") %>%
-  mutate(cmpl_constr = forcats::fct_drop(cmpl_constr))
-df %>% count(spatial_arg_type, sort = TRUE)
-
-# Keep only horizontal goals (motion_type), excluding vertical and posture/not motion
-df <- df %>%
-  filter(!(motion_type %in% c("vertical", "posture/not motion")) | is.na(motion_type)) %>%
-  mutate(cmpl_constr = forcats::fct_drop(cmpl_constr))
-df %>% count(motion_type, sort = TRUE)
+### Loading files and filtering
+df <- readr::read_csv("data/filtered_dataset.csv", show_col_types = FALSE)
 
 
-# Look at the data
-glimpse(df)
-
-# Print categories of dependent variable
-levels(df$cmpl_constr)
-
-
-# Create book_scroll (even if one of the parts is missing)
+### Coerce relevant fields to factors
 df <- df %>%
   mutate(
-    book = as.character(book),
-    scroll = as.character(scroll),
-    book_scroll = ifelse(is.na(book) & is.na(scroll), NA_character_,
-                         ifelse(is.na(book), paste0("NA_", scroll),
-                                ifelse(is.na(scroll), paste0(book, "_NA"), paste(book, scroll, sep = "_"))))
+    cmpl_constr = as.factor(cmpl_constr),
+    lex = as.factor(lex),            
+    book_scroll = as.factor(book_scroll),    
+    cmpl_anim = as.factor(cmpl_anim),
+    cmpl_det = as.factor(cmpl_det),
+    cmpl_indiv = as.factor(cmpl_indiv),
+    cmpl_complex = as.factor(cmpl_complex),
+    motion_type = as.factor(motion_type)
   )
 
-# Create a cmpl_syntax column to try out the model with stan_glmer
-
-df <- df %>%
-  mutate(
-    cmpl_syntax = case_when(
-      cmpl_constr %in% c("prep", "prep + dir-he") ~ "prepositional",
-      cmpl_constr %in% c("dir-he", "vc") ~ "non-prepositional",
-      TRUE ~ NA_character_   # fallback in case of unexpected value
-    ),
-    cmpl_syntax = factor(cmpl_syntax, levels = c("prepositional", "non-prepositional"))
-  )
-df %>% count(cmpl_constr, cmpl_syntax)
-levels(df$cmpl_syntax)
-nlevels(df$cmpl_syntax)
-
-# Save the filtered dataset
-readr::write_csv(df, "data/filtered_dataset.csv")
-list.files("data")
-
-View(df)
-
-# Coerce relevant fields to factors
-df <- df %>%
-  mutate(
-    cmpl_constr   = as.factor(cmpl_constr),
-    lex           = as.factor(lex),            
-    book_scroll   = as.factor(book_scroll),    
-    cmpl_anim     = as.factor(cmpl_anim),
-    cmpl_det      = as.factor(cmpl_det),
-    cmpl_indiv    = as.factor(cmpl_indiv),
-    cmpl_complex  = as.factor(cmpl_complex),
-    motion_type   = as.factor(motion_type)
-  )
-
-# Basic sanity: drop rows missing key fields
+### Basic sanity: drop rows missing key fields
 df <- df %>%
   filter(!is.na(cmpl_constr), !is.na(lex), !is.na(book_scroll))
 
 
-# Number of book_scrolls and lexemes
+### Number of book_scrolls and lexemes
 nlevels(df$book_scroll)
 nlevels(df$lex)
 
@@ -109,151 +41,180 @@ df %>% summarize(
   n_lex    = nlevels(lex)
 )
 
-# Checks on the data
+# Show the book_scrolls categories
+table(df$book_scroll)
+table(df$cmpl_constr) # remove the prep + dir-he category
+table(df$cmpl_anim)
+table(df$cmpl_det)
+table(df$cmpl_complex)
+table(df$motion_type)
 
-# Confirm binary variable (dependent variable)
-
-df_chk <- df %>%
-  mutate(
-    cmpl_syntax = fct_drop(as.factor(cmpl_syntax)),
-    # make sure the first level is the "success" you want (optional)
-    cmpl_syntax = fct_relevel(cmpl_syntax, "prepositional")
-  )
-
-levels(df_chk$cmpl_syntax)
-df_chk %>% count(cmpl_syntax)
-
-# Remove NAs and drop unused levels
-
-df_chk <- df_chk %>%
-  filter(!is.na(cmpl_syntax), !is.na(book_scroll), !is.na(lex),
-         !is.na(cmpl_anim), !is.na(cmpl_det), !is.na(cmpl_complex), !is.na(cmpl_indiv), !is.na(motion_type)) %>%
-  mutate(
-    book_scroll   = fct_drop(as.factor(book_scroll)),
-    lex           = fct_drop(as.factor(lex)),
-    cmpl_anim     = fct_drop(as.factor(cmpl_anim)),
-    cmpl_det      = fct_drop(as.factor(cmpl_det)),
-    cmpl_complex  = fct_drop(as.factor(cmpl_complex)),
-    cmpl_indiv    = fct_drop(as.factor(cmpl_indiv)),
-    motion_type   = fct_drop(as.factor(motion_type))
-  )
-
-# sanity
-sapply(df_chk[c("book_scroll","lex","cmpl_anim","cmpl_det","cmpl_complex","cmpl_indiv","motion_type")], nlevels)
-
-# complete separation (a predictor that appear only with one outcome)
-
-# helper to flag levels that are all one class
-flag_sep <- function(var){
-  df_chk %>% count({{var}}, cmpl_syntax) %>%
-    tidyr::pivot_wider(names_from = cmpl_syntax, values_from = n, values_fill = 0) %>%
-    mutate(total = rowSums(across(where(is.numeric)))) %>%
-    filter(prepositional == 0 | `non-prepositional` == 0) %>%
-    arrange(desc(total))
-}
-
-flag_sep(cmpl_anim)
-flag_sep(cmpl_det)
-flag_sep(cmpl_complex)
-flag_sep(cmpl_indiv)
-flag_sep(motion_type)
-
-# Show problematic rows of comp_indiv
-
-problem_levels <- df %>%
-  count(cmpl_indiv, cmpl_syntax) %>%
-  pivot_wider(names_from = cmpl_syntax, values_from = n, values_fill = 0) %>%
-  mutate(total = rowSums(across(where(is.numeric)))) %>%
-  filter(prepositional == 0 | `non-prepositional` == 0) %>%
-  pull(cmpl_indiv)
-
-problem_levels
-
-# View problematic rows 
-View(df %>% filter(cmpl_indiv %in% problem_levels))
-
-# NB: for now, remove cmpl_indiv from the models
-
-# Choose baseline categories
+### Choose baseline categories
 
 levels(df$cmpl_constr)
 levels(df$cmpl_det)
+levels(df$cmpl_anim)
 levels(df$cmpl_anim)
 
 # Dependent variable
 df$cmpl_constr <- relevel(df$cmpl_constr, ref = "prep")
 
 # Individual predictor variables
-df$cmpl_anim    <- relevel(df$cmpl_anim, ref = "inanim")
-df$cmpl_det     <- relevel(df$cmpl_det,  ref = "det")
+df$cmpl_anim <- relevel(df$cmpl_anim, ref = "inanim")
+df$cmpl_det <- relevel(df$cmpl_det,  ref = "det")
 df$cmpl_complex <- relevel(df$cmpl_complex, ref = "simple")
-df$motion_type  <- relevel(df$motion_type, ref = "factive")
-
-# Define priors
-
-gp <- get_prior(
-  cmpl_constr ~ cmpl_anim + cmpl_det + cmpl_complex + motion_type +
-    (1 | book_scroll) + (1 | lex),
-  data = df,
-  family = categorical(link = "logit", refcat = "prep")
-)
-
-# all distributional parameters (one per non-reference category)
-dpars <- unique(gp$dpar[gp$class %in% c("b","Intercept") & nzchar(gp$dpar)])
-
-# fixed-effect priors for every category-specific linear predictor
-pri_fixed <- do.call(c, lapply(dpars, function(dp) c(
-  set_prior("normal(0, 2)",   class = "b",        dpar = dp),
-  set_prior("normal(0, 2.5)", class = "Intercept", dpar = dp)
-)))
-
-# random-intercept SDs (per category & per grouping factor)
-pri_re <- do.call(c, lapply(dpars, function(dp) c(
-  set_prior("student_t(3, 0, 2.5)", class = "sd", group = "book_scroll", coef = "Intercept", dpar = dp),
-  set_prior("student_t(3, 0, 2.5)", class = "sd", group = "lex",         coef = "Intercept", dpar = dp)
-)))
-
-priors <- c(pri_fixed, pri_re)
-priors
-
-# Sanity checks
-
-# outcome actually has all intended levels and nonzero counts?
-table(df$cmpl_constr, useNA = "ifany")
-
-# Hierarchical model - book_scroll and verb as crossed factors
+df$motion_type <- relevel(df$motion_type, ref = "factive")
 
 # Using a df without empty levels
 df0 <- droplevels(df)
 
-motion_verb_1 <- brm(
+### Define priors
+
+# Get priors for book_scroll and lexeme as crossed factors
+
+gp <- get_prior(
   cmpl_constr ~ cmpl_anim + cmpl_det + cmpl_complex + motion_type +
     (1 | book_scroll) + (1 | lex),
-  data = df,
-  family = categorical(link = "logit", refcat = "prep"),
-  prior  = priors,
-  chains = 1, 
-  iter = 4000, 
-  warmup = 2000,
-  cores = 4,
-  seed = 84735,
-  control = list(adapt_delta = 0.8, maxtreedepth = 12),
-  refresh = 200, 
-  silent = 0
+  data = df0,
+  family = categorical(link = "logit", refcat = "prep")
 )
 
-# Debug model
+gp
+
+# all distributional parameters (one per non-reference category)
+dpars <- unique(gp$dpar[gp$class %in% c("b","Intercept") & nzchar(gp$dpar)])
+
+dpars
+
+# Predictors (or fixed effects) priors (I use them for both models, crossed/nested)
+
+# should I define priors for the base levels as well?
+# check with 2.5 as priors for dep var
+#
+
+pri_manual <- c(
+  # cmpl_animanim
+  set_prior("normal(0, 1.5)", class="b", coef="cmpl_animanim", dpar="mudirhe"),
+  set_prior("normal(0, 1.5)", class="b", coef="cmpl_animanim", dpar="muprepdirhe"),
+  set_prior("normal(0, 1.5)", class="b", coef="cmpl_animanim", dpar="muvc"),
+  
+  # cmpl_complexcomplex
+  set_prior("normal(0, 1.5)", class="b", coef="cmpl_complexcomplex", dpar="mudirhe"),
+  set_prior("normal(0, 1.5)", class="b", coef="cmpl_complexcomplex", dpar="muprepdirhe"),
+  set_prior("normal(0, 1.5)", class="b", coef="cmpl_complexcomplex", dpar="muvc"),
+  
+  # cmpl_detund
+  set_prior("normal(0, 1.5)", class="b", coef="cmpl_detund", dpar="mudirhe"),
+  set_prior("normal(0, 1.5)", class="b", coef="cmpl_detund", dpar="muprepdirhe"),
+  set_prior("normal(0, 1.5)", class="b", coef="cmpl_detund", dpar="muvc"),
+  
+  # motion_typefictive
+  set_prior("normal(0, 1.5)", class="b", coef="motion_typefictive", dpar="mudirhe"),
+  set_prior("normal(0, 1.5)", class="b", coef="motion_typefictive", dpar="muprepdirhe"),
+  set_prior("normal(0, 1.5)", class="b", coef="motion_typefictive", dpar="muvc"),
+  
+  # intercepts for each category-specific predictor
+  set_prior("normal(0, 2.5)", class="Intercept", dpar="mudirhe"),
+  set_prior("normal(0, 2.5)", class="Intercept", dpar="muprepdirhe"),
+  set_prior("normal(0, 2.5)", class="Intercept", dpar="muvc")
+)
+
+# Group-Level parameters' priors, random-intercept standard deviation (sd) (Crossed model)
+pri_re <- do.call(c, lapply(dpars, function(dp) c(
+  set_prior("student_t(3, 0, 2.5)", class = "sd", group = "book_scroll", coef = "Intercept", dpar = dp),
+  set_prior("student_t(3, 0, 2.5)", class = "sd", group = "lex", coef = "Intercept", dpar = dp)
+)))
+
+priors <- c(pri_manual, pri_re)
+priors
+
+### Predictor prior check
+
+
+### Hierarchical model - book_scroll and verb as crossed factors
+
+### Model 1 - BOok_scroll / lex as crossed factors
+
+# model code
+
+motion_verb_1 <- brm(
+  cmpl_constr ~ cmpl_anim + cmpl_det + cmpl_complex + motion_type +
+    (1 | book_scroll) + (1 | lex), # crossed factors
+  data = df0,
+  family = categorical(link = "logit", refcat = "prep"),
+  prior = priors,
+  chains = 4,
+  iter = 8000, 
+  warmup = 4000,
+  seed = 84735,
+  init = "0",                        # fixes many init failures
+  control = list(adapt_delta = 0.8, max_treedepth = 10),
+  refresh = 1000
+)
+
+# save the fitted model to a file
+saveRDS(motion_verb_1, file = "models/motion_verb_1.rds")
+
+
+### Model 2 - Book_scroll / lex as nested factors
+
+### # Get priors for book_scroll and lexeme as nested factors
+
+gp_2 <- get_prior(
+  cmpl_constr ~ cmpl_anim + cmpl_det + cmpl_complex + motion_type +
+    (1 | book_scroll) + (1 | book_scroll:lex), # or (1 | book_scroll/lex), less explicit
+  data = df0,
+  family = categorical(link = "logit", refcat = "prep")
+)
+
+gp_2
+
+# all distributional parameters (one per non-reference category)
+dpars_2 <- unique(gp_2$dpar[gp_2$class %in% c("b","Intercept") & nzchar(gp_2$dpar)])
+
+# Group-Level parameters' priors, random-intercept standard deviation (sd)
+pri_re_2 <- do.call(c, lapply(dpars_2, function(dp) c(
+  set_prior("student_t(3, 0, 2.5)", class = "sd", group = "book_scroll", coef = "Intercept", dpar = dp),
+  set_prior("student_t(3, 0, 2.5)", class = "sd", group = "book_scroll:lex", coef = "Intercept", dpar = dp)
+)))
+
+
+priors_2 <- c(pri_manual, pri_re_2) # I use the same priors for the fixed effects as for model 1
+priors_2
+
+# model code
+motion_verb_2_nested <- brm(
+  cmpl_constr ~ cmpl_anim + cmpl_det + cmpl_complex + motion_type +
+    (1 | book_scroll) + (1 | book_scroll:lex), # or (1 | book_scroll/lex) but less explicit
+  data = df0,
+  family = categorical(link = "logit", refcat = "prep"),
+  prior = priors_2,
+  chains = 4,
+  iter = 8000, 
+  warmup = 4000,
+  seed = 84735,
+  init = "0",                        # fixes many init failures
+  control = list(adapt_delta = 0.9, max_treedepth = 12), # increased to fixe divergent transitions
+  refresh = 1000
+)
+
+# Notes adapt_delta = 0.8 and max_treedepth = 10 ==> 15 divergent transitions
+
+# save the fitted model to a file
+saveRDS(motion_verb_2_nested, file = "models/motion_verb_2_nested.rds")
+
+# Debug model: works
 
 m_dbg <- brm(
   cmpl_constr ~ cmpl_anim + cmpl_det + cmpl_complex + motion_type +
     (1 | book_scroll) + (1 | lex),
   data = df0,
   family = categorical(link = "logit", refcat = "prep"),
-  prior   = priors,
-  chains  = 1,
-  iter    = 1500, warmup = 1000,
-  seed    = 84735,
-  init   = "0",                        # <- crucial: fixes many init failures
+  prior = priors,
+  chains = 2,
+  iter = 1000, warmup = 500,
+  seed = 84735,
+  init  = "0",                        # <- crucial: fixes many init failures
   control = list(adapt_delta = 0.995, max_treedepth = 15),
-  refresh = 50
+  refresh = 250
 )

@@ -1,0 +1,14 @@
+### Prompt
+Give me a story about cups and mugs in Swedish.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Det var en gång i ett litet kök där koppar och muggar bodde tillsammans i en stor skåp. Kopparna var alltid glamorösa och eleganta, med fina mönster och tunna handtag. Muggarna, däremot, var robusta och mysiga, perfekta för stora mängder varm choklad eller te.
+
+En dag bestämde sig en liten kopp vid namn Klara för att utforska världen utanför skåpet. Hon ville förstå varför muggarna alltid verkade så glada trots att de var enklare till utseendet. Klara smög försiktigt ut och träffade en av muggarna, Mats, som bjöd henne på en varm kopp te.
+
+Mats berättade att det som gjorde muggarna speciella inte var deras utseende, utan hur mycket glädje och värme de spred till människorna som drack ur dem. Klara förstod att det inte handlade om att vara finast eller mest prålig, utan om att fylla sitt syfte med kärlek och omtanke.
+
+Efter den dagen återvände Klara till skåpet, men hon kände sig annorlunda. Hon och muggarna blev goda vänner och tillsammans skapade de en härlig atmosfär i köket – där både elegans och värme hade sin plats. Och så levde de lyckliga, fyllda med kaffe, te och glädje.

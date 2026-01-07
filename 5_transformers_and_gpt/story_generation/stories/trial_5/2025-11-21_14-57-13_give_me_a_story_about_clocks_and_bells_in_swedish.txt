@@ -1,0 +1,16 @@
+### Prompt
+Give me a story about clocks and bells in Swedish.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Det var en gång i en liten svensk by vid namn Klocktorp, där tiden tycktes flyta på ett alldeles särskilt sätt. I byns centrum stod en gammal kyrka med ett högt klocktorn, där de stora kyrkklockorna klämtade varje hel timme och samlade byborna till både glädje och eftertanke.
+
+Klocktornets stora urverk var ett mästerverk från 1700-talet, byggt av byns urmakare, Herr Magnus. Han hade ägnat hela sitt liv åt att finjustera de många små kugghjulen och pendlarna så att klockan alltid skulle gå exakt. Både unga och gamla älskade ljudet av klockorna som ekade över åkrar och skogar, och många sade att dessa ljud höll tiden i byn levande.
+
+Men en dag började klockorna plötsligt slå oregelbundet. I stället för att ge trygghet, skapade de förvirring och oro. Herr Magnus, som nu var gammal och trött, kallades till tornet för att undersöka problemet. Efter långa timmar med skruvmejsel och förstoringsglas upptäckte han att en av de minsta kugghjulen var sprucket.
+
+Med möda och stor noggrannhet lyckades han laga det lilla kugghjulet. När han drog i den stora klockans kedja nästa gång, fyllde en klar och harmonisk klockklang återigen byn. Byns invånare jublande av glädje. De förstod att varje liten del i klockverket, hur obetydlig den än verkade, var viktig för att hela systemet skulle fungera.
+
+Från den dagen tänkte byborna extra mycket på tiden, på hur varje ögonblick räknas och hur viktiga både de stora och små ljuden — klockan och klockornas klang — är för att skapa balans i livet. Och i Klocktorp fortsatte klockorna och klocktornen att slå och ringa, som ett hjärta som aldrig slutade slå.

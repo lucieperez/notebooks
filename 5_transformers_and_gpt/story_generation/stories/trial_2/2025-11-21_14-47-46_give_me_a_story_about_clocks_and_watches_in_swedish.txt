@@ -1,0 +1,16 @@
+### Prompt
+Give me a story about clocks and watches in Swedish.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Det var en gång en gammal urmaker vid namn Erik som bodde i en liten by i Sverige. Han hade ärvt sin fars verkstad, fylld med alla möjliga slags klockor och fickur. Varje dag satt Erik vid sin bänk och reparerade gamla klockor, noggrant mejslande små kugghjul och fjädrar.
+
+En dag fick Erik ett ovanligt uppdrag. En kvinna från byn kom in med ett mycket gammalt väggur som hade stått orört i hennes familj i generationer. Klockan hade slutat fungera för länge sedan, och hon hoppades att Erik kunde få liv i den igen.
+
+Erik arbetade i flera dagar, rengjorde och bytte ut trasiga delar, och sakta men säkert började klockan ticka igen. Men det var något magiskt med detta ur. När visarna rörde sig, tycktes tiden i rummet sakta ner. Människor runt omkring kände hur stress och oro försvann, och en lugn ro spred sig.
+
+Ryktet om det magiska uret spred sig snabbt, och snart kom folk från hela landet för att låta Erik reparera sina klockor och få ett ögonblick av tidens stillhet.
+
+Erik insåg att klockor och ur inte bara handlar om att mäta tid, utan också om att vårda ögonblick, minnen och livets rytm. Och så fortsatte han sitt arbete, med omtanke och kärlek till tiden själv.

@@ -1,0 +1,62 @@
+### Prompt
+Give me a story about garlic and onion in Swedish.
+
+### Model
+gpt-5.1-2025-11-13
+
+### Story
+Det var en gång en liten vitlök som hette Vitto och en lök som hette Lova. De bodde längst in i ett skafferi, bakom mjölpaket och konservburkar. Varje kväll, när köket tystnade och lamporna släcktes, började de prata.
+
+“Idag tog de nästan mig,” suckade Lova en kväll. “Kocken öppnade lådan, tittade rakt på mig, men tog en morot i stället.”
+
+“Du klagar?” skrattade Vitto. “De vågar knappt röra mig. Alla säger bara: ‘Men åh, vad det luktar vitlök!’ och så stänger de lådan igen.”
+
+Lova log snett. “Du ska bara veta hur många som gråter när de skär i mig. Jag hinner knappt känna köksluften innan någon står där med tårar i ögonen.”
+
+“Fast det är ju inte ditt fel,” sa Vitto. “Du är bara stark. Som jag, fast på ett annat sätt.”
+
+De satt tysta en stund. Från fönstret hördes ett avlägset tåg, och kylskåpet brummade dovt.
+
+“Tror du vi någonsin hamnar i samma gryta?” frågade Vitto försiktigt.
+
+“Jag vet inte,” svarade Lova. “Men om vi gör det, då tycker jag att vi ska göra det ordentligt. Inga halvmessyrer. Stekpanna, olivolja, riktig värme.”
+
+Vitto sken upp. “Tänk dig: först du, så du får bli mjuk och gyllene. Sen kommer jag in med min doft. Tillsammans. Det skulle bli magi.”
+
+Dagarna gick. Morötter försvann, potatisar bars ut, tomater kom och gick. Men ingen rörde Vitto och Lova. De började nästan tro att de var bortglömda.
+
+En regnig söndag öppnades skafferidörren plötsligt på vid gavel. En hand sträcktes in, resolut och bestämt, och grep tag om både Lova och Vitto på en gång.
+
+“Nu, Lova!” viskade Vitto. “Nu händer det.”
+
+“Jag är med dig,” svarade hon.
+
+I köket tändes lamporna. En skärbräda lades fram, en kniv glänste i ljuset. Först skalades Lova. Tunna bruna skal föll som prassliga löv runt henne. Sedan delades hon mitt itu, skivades, hackades. Tårarna började rinna på kocken, men han log ändå.
+
+“Åh, vad det luktar lök,” mumlade han nöjt.
+
+Sedan var det Vittos tur. Klyftorna befriades från det torra skalet, pressades genom en vitlökspress och föll som små, doftande snöflingor på skärbrädan.
+
+En stekpanna sattes på spisen, en klick smör och en skvätt olja smälte och började fräsa. Lova hamnade först i pannan. Hon kände värmen omfamna henne, hur hon sakta blev mjukare, sötare, gyllene.
+
+“Det här… är inte så dumt,” tänkte hon.
+
+Sedan kom Vitto, finfördelad och redo, ned i den varma pannan. En ny doft spred sig genom köket – fyllig, rund, varm.
+
+“Tillsammans nu,” viskade han.
+
+De fräste sida vid sida, löken karamelliserades, vitlöken gav sin djupa, aromatiska ton. Tillsammans blev de basen till en soppa, en enkel grönsakssoppa som värmde hela huset.
+
+När familjen satte sig vid bordet fylldes rummet av “Mmm…” och nöjda suckar.
+
+“Vad gott det luktar,” sa någon.  
+“Det måste vara vitlök och lök,” sa en annan. “Det blir alltid godare med båda.”
+
+Om någon hade lyssnat riktigt noga, hade man kanske kunnat höra två små röster inifrån grytan:
+
+“Vi lyckades, Lova.”  
+“Ja, Vitto. Tillsammans blev vi precis den där magin vi drömde om.”
+
+Och så blev det. Från den dagen berättade familjen alltid att hemligheten med god mat var enkel: lite tålamod, lite värme – och alltid både vitlök och lök.
+
+Slut.

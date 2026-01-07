@@ -1,0 +1,18 @@
+### Prompt
+Give me a story about mugs and cups in English.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Once upon a time in a cozy kitchen, there lived a collection of mugs and cups. Each had its own personality and story, and they loved sharing tales about the many drinks they had held.
+
+There was Max, a sturdy coffee mug with a bold red glaze. Max loved mornings because he got to hold hot, strong coffee that woke everyone up. Next to him stood Lily, a delicate porcelain teacup adorned with tiny blue flowers. She preferred peaceful afternoons, when she was filled with fragrant green tea during quiet tea times.
+
+One day, a new cup arrived—a shiny glass cup named Gus. Gus was curious about everything and loved hearing the stories from Max and Lily. Max told Gus about the rush of espresso shots, and Lily shared the calm of chamomile tea. Gus realized that every mug and cup played a special role.
+
+As days passed, the mugs and cups worked together to serve their family. They learned that whether holding coffee, tea, hot chocolate, or even just water, their true joy came from bringing comfort and happiness to those who used them.
+
+And so, in the warm kitchen light, the mugs and cups lived happily, knowing they were more than just vessels—they were cherished companions in everyday moments.
+
+The End.

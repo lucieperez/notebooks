@@ -1,0 +1,18 @@
+### Prompt
+Give me a story about garlic and onion in Swedish.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Det var en gång en liten lök som hette Oliver och en vitlöksklyfta som hette Gerd. De bodde tillsammans i en trädgård full av färgglada grönsaker och kryddor. Oliver var rund och söt, medan Gerd var stark och spännande i smaken.
+
+Varje dag brukade de två vännerna prata om sina drömmar. Oliver drömde om att bli en del av en varm och krämig soppa, där han kunde sprida sin milda smak. Gerd ville däremot bli en krydda i en het pastasås, där hans styrka kunde lysa.
+
+En dag kom en kock till trädgården. Han plockade både Oliver och Gerd och tog med dem till sitt kök. Först skar han Oliver i små bitar och lät honom koka långsamt i en soppa full av grönsaker. Sedan hackade han Gerd fint och fräste honom i olivolja tills doften fyllde hela köket.
+
+När Oliver och Gerd förenades i kocken gryta, skapade de en rätt som var både mild och stark på samma gång. Deras smaker dansade tillsammans och gjorde maten oemotståndligt god.
+
+Så lärde sig Oliver och Gerd att även om de var olika, kunde de tillsammans skapa något fantastiskt. Och från den dagen var de inte bara grannar i trädgården, utan bästa vänner i köket.
+
+Slut.

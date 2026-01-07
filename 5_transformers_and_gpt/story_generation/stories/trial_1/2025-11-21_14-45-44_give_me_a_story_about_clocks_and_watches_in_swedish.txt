@@ -1,0 +1,16 @@
+### Prompt
+Give me a story about clocks and watches in Swedish.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Det var en gång en liten by där tiden verkade stå stilla. I byns hjärta låg en gammal klockbutik, fylld med både antika klockor och moderna armbandsur. Butiken ägdes av den vänlige gamle urmakaren Erik, som älskade att reparera och sköta om sina klockor.
+
+Varje klocka i butiken hade sin egen historia. En stor väggklocka från 1800-talet hade räddats från en gammal herrgård och kunde fortfarande slå varje timme med ett djupt, vackert ljud. På en hylla låg en samling fickur, alla unika och vackert dekorerade med intrikata mönster. Erik berättade för barnen i byn att varje gång en klocka reparerades, gav den lite av sin historia till ägaren.
+
+En dag kom en ung flicka vid namn Mia till butiken med en trasig armbandsur som tillhört hennes farfar. Uret hade slutat fungera för flera år sedan, men Mia önskade att kunna bära det igen som en påminnelse om sin farfar. Erik tog emot uret med varsam hand och lovade att göra sitt bästa.
+
+Under flera dagar arbetade Erik noggrant med uret, bytte små kugghjul och smorde kroppens mekanismer. När uret till slut började ticka igen, kändes det som om tiden återvänt till livet. Mia strålade av glädje och tackade Erik för hans skicklighet.
+
+Från den dagen blev klockbutiken en plats där tidens magi kunde kännas i varje tickande sekund. Erik och hans klockor påminde byborna om att även om tiden går vidare, bär vi alltid våra minnen med oss – i varje klocka, i varje stund.

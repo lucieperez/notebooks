@@ -1,0 +1,60 @@
+### Prompt
+Give me a story about garlic and onion in Swedish.
+
+### Model
+gpt-5.1-2025-11-13
+
+### Story
+Det var en gång en liten vitlök som hette Vitto och en gul lök som hette Lola. De bodde längst in i en mörk kökslåda, tillsammans med potatisar, morötter och en mycket stolt purjolök.
+
+Vitto var stark och doftade kraftigt. När någon öppnade lådan spred sig hans lukt direkt.
+
+"Du luktar för mycket," sa potatisarna ibland.  
+"Man börjar nästan gråta," skämtade morötterna.
+
+Lola, den gula löken, log bara.  
+"De gråter inte av Vitto," sa hon mjukt. "Det är jag som får folk att gråta."
+
+Hon hade rätt. Varje gång kocken tog fram henne, började tårarna rinna i köket. Kocken skar, hackade och skivade, och alla som var i närheten sa:  
+"Åh, den här löken! Mina ögon!"
+
+Lola blev ledsen av det. Hon ville inte göra någon illa. På kvällen viskade hon till Vitto i lådan:
+
+"Varför måste jag få alla att gråta? Jag vill bara hjälpa till."
+
+Vitto funderade en stund.  
+"Du får dem att gråta," sa han, "men du gör maten godare. Utan dig är soppan tråkig, såsen tom och grytan utan själ."
+
+"Men du då?" frågade Lola. "Alla säger att du luktar för starkt."
+
+Vitto skrattade lite.  
+"Ja, de klagar. Men när jag hamnar i pannan, då blir det fest. De säger: 'Mmm, vad gott det luktar!'. Vi är starka, du och jag. Ibland är styrka lite jobbig för andra, men innerst inne behövs den."
+
+Nästa dag öppnade kocken lådan.
+
+"Perfekt,” mumlade kocken. "Lök och vitlök. I dag ska vi göra en riktig gryta."
+
+Lola darrade lite när hon lades på skärbrädan.  
+"Nu börjar de snart gråta igen," tänkte hon.
+
+Kniven började hacka: *tack, tack, tack*. Visst, ögonen tårades i köket, men snart spreds en varm, söt doft av stekt lök. Lola kände hur hon mjuknade i den heta pannan, hur hon blev gyllene och mild.
+
+Sedan kom Vitto. Han krossades, hackades och släpptes lös i smöret bredvid henne. Doften blev djupare, fylligare. Hela köket fylldes av värme.
+
+"Åh, vad gott det luktar!" sa kocken. "Den här grytan kommer bli fantastisk."
+
+Lola tittade på Vitto i pannans glans.  
+"Hör du?" viskade hon. "De är glada. Inte ledsna."
+
+"Jag sa ju det," svarade Vitto. "Vi gör människor glada på ett annat sätt. Genom magen."
+
+Grytan puttrade länge. Lola och Vitto gav all sin smak, all sin kraft. När maten serverades runt bordet blev det tyst för en stund – alla åt.
+
+"Den bästa grytan vi gjort," sa kocken nöjt. "Tack vare löken och vitlöken."
+
+Senare, tillbaka i kökslådan, när nya lökar och nya vitlökar rullade in, berättade Lola och Vitto sin historia:
+
+"Var inte rädda för att vara starka," sa Lola. "Ibland innebär det tårar först…"  
+"…men det kan sluta i värme, glädje och mätta magar," fyllde Vitto i.
+
+Och sedan dess var det ingen i lådan som skämdes över sin doft, sina lager eller sina tårar. För alla visste att även det som först verkar jobbigt kan göra världen lite godare i slutändan.

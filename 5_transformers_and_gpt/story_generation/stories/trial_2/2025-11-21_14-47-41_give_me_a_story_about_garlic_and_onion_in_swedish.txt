@@ -1,0 +1,12 @@
+### Prompt
+Give me a story about garlic and onion in Swedish.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Det var en gång en vitlöksklyfta som hette Gunnel och en liten lök som hette Olle. De bodde båda i en grönsaksträdgård tillsammans med andra växter. Gunnel älskade sin starka doft och sitt kraftfulla smak, medan Olle var mer mild och söt i smaken.
+
+En dag bestämde sig Gunnel och Olle för att samarbeta och bli bästa vänner. De tänkte att tillsammans kunde de skapa en ännu bättre smak än vad någon av dem kunde göra ensam. När de blev tillagade i samma gryta, fyllde Gunnel rummet med sin skarpa doft medan Olle gav en mjuk och rund smak.
+
+Folket som åt maten blev överlyckliga och sa att det var den bästa rätten de någonsin smakat. Från den dagen visste Gunnel och Olle att tillsammans var de oslagbara, och i trädgården berättades deras historia om vänskap och smak i många år framöver.

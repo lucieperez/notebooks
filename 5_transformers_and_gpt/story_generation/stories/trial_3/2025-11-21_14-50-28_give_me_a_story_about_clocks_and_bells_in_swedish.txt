@@ -1,0 +1,18 @@
+### Prompt
+Give me a story about clocks and bells in Swedish.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Det var en gång i en liten by vid namn Tidholm, där klockor och klockor spelade en viktig roll i invånarnas liv. I byns mitt stod ett gammalt kyrktorn med en stor mässingsklocka som ringde varje timme och påminde alla om tidens gång.
+
+I samma torn fanns också en unik samling av handgjorda väggklockor som hade samlats genom generationer. Varje klocka hade sin egen karaktär och ljud, och de berättade historier om byns historia och traditioner. Invånarna brukade samlas i kyrkan för att lyssna på klockornas melodier under speciella högtider.
+
+En dag upptäckte en ung pojke vid namn Erik att klockorna slutade ringa som de brukade. Han klättrade upp i tornet och fann att en av de hanterade klockmekanismerna hade fastnat. Med stor försiktighet reparerade han klockan och snart fylldes byn igen med de välbekanta ljuden av klockspel och klockringningar.
+
+Klockorna och klockornas ljud påminde alla i Tidholm om vikten av att ta hand om tiden och värdesätta varje ögonblick. Tack vare Erik fortsatte traditionen att leva vidare, och klockorna i byn ringde än starkare och klarare än någonsin tidigare.
+
+Och så levde Tidholm i takt med sina klockor och klockor, där varje klang var en påminnelse om livets gång.
+
+Slut.

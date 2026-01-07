@@ -1,0 +1,24 @@
+### Prompt
+Give me a story about cups and mugs in English.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Sure! Here's a short story about cups and mugs:
+
+---
+
+In a cozy little kitchen on Maple Street, there lived a collection of cups and mugs. Each one had its own unique shape, color, and story. There was Clara, the delicate porcelain teacup with gold trim, who loved quiet afternoons filled with chamomile tea and soft music. Next to her stood Max, the sturdy ceramic mug adorned with a painted mountain scene, who preferred strong black coffee to wake up the house in the morning.
+
+One rainy day, the kitchen cabinet door creaked open, and out tumbled a new arrival—a bright red mug with a big smile painted on its side. “Hello, everyone! I’m Ruby!” it exclaimed cheerfully. The older cups and mugs welcomed Ruby warmly and told her all about the kitchen’s routines and adventures.
+
+As days passed, Ruby was curious about everything—from the way steam swirled above a freshly poured cup of tea, to the clinking sounds of spoons stirring sugar and honey. She soon discovered that each cup and mug had a special role: some were for soothing tea during quiet moments, others were for energizing coffee on busy mornings, and a few were even reserved for hot chocolate on snowy winter nights.
+
+One evening, the family gathered around the kitchen table, sipping their favorite drinks. Clara felt proud holding fragrant Earl Grey, Max was content with his espresso, and Ruby beamed as she carried a cozy cup of warm milk for the youngest child. Though different in appearance and use, they all shared the joy of bringing comfort and happiness to the family.
+
+And so, in that little kitchen on Maple Street, the cups and mugs lived happily, united by the simple magic of warm drinks and shared moments.
+
+---
+
+Would you like me to make the story longer or add a moral?

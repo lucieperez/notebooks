@@ -1,0 +1,20 @@
+### Prompt
+Give me a story about watches and clocks in Swedish.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Det var en gång i en liten by vid namn Tidshamn, där alla invånare älskade klockor och urverk. Byborna var kända för sina otroliga kunskaper om både gamla väggklockor och moderna armbandsur. 
+
+I byns mitt stod ett stort torn med en gammal klocka som hette Gamla Tid. Den här klockan hade tickat i hundratals år och höll ordning på hela byns liv. Varje timme ringde den med en djup och välbekant klang som fick alla att stanna upp och minnas hur värdefull tid är.
+
+En dag upptäckte en liten pojke vid namn Emil ett trasigt armbandsur på marken. Han tog hem det och började försiktigt undersöka klockans inre delar. Emil hade ärvt sin farfars passion för klockor och drömde om att en dag bli den bästa urmakaren i hela Tidshamn.
+
+När Emil reparerade armbandsuret märkte han att det inte bara visade tiden, utan också hade magiska egenskaper – det kunde stoppa tiden för några sekunder, vilket gav bäraren möjlighet att tänka igenom svåra beslut och göra kloka val.
+
+Ryktet om Emils magiska klocka spreds snabbt, och snart började byborna inse att tid inte bara var en ständig rörelse av sekunder, utan något värdefullt som kunde uppskattas och vårdas. Gamla Tid i tornet tickade vidare, mer betydelsefull än någonsin, och Tidshamn blev känt som klockornas och tidens magiska by.
+
+Och så levde klockorna och urverken i perfekt harmoni med människornas hjärtan, alla påminda om att varje ögonblick är en gåva.
+
+Slut.

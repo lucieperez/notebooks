@@ -1,0 +1,16 @@
+### Prompt
+Give me a story about mugs and cups in Swedish.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Det var en gång i en liten by där alla muggar och koppar levde tillsammans på en hylla i ett mysigt kök. Muggarna var tuffa och stora, perfekta för varma drycker som kaffe och choklad, medan kopparna var små och eleganta, idealiska för te och små munsbitar.
+
+En dag började muggarna och kopparna att bråka om vem som var viktigast. Muggarna sade: "Vi är starkare och kan hålla mer dryck, därför är vi viktigare!" Kopparna svarade: "Men vi är vackrare och används vid speciella tillfällen, så vi är viktigare!"
+
+Problemet växte tills den gamle tekannan i hörnet bestämde sig för att tala. "Varför bråkar ni om det? Ni har olika styrkor och användningsområden. Utan varandra skulle ni inte kunna göra alla glada. Tillsammans är ni ett perfekt team."
+
+Muggarna och kopparna funderade på tekannans ord och insåg att det var sant. Sedan den dagen arbetade de sida vid sida, uppskattade varandras olikheter och gjorde köket till en plats full av både värme och skönhet.
+
+Och så levde muggarna och kopparna lyckliga tillsammans, med varma drycker och glada stunder för alla i byn.

@@ -1,0 +1,16 @@
+### Prompt
+Give me a story about watches and clocks in Swedish.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Det var en gång i en liten svensk by där tiden tycktes stå stilla. I en gammal verkstad, dold bland smala gränder, bodde en klockmakare vid namn Erik. Hans passion var att reparera och skapa klockor och armbandsur som kunde berätta mer än bara stundens tid.
+
+Erik hade ärvt sin verkstad från sin farfar, och varje klocka han rörde vid verkade få liv. Han sa alltid att klockorna hade sina egna historier och själar. En dag fick han in en gammal, rostig väggklocka som inte hade fungerat på många år. Det sades att den tillhört en berömd upptäcktsresande som rest världen runt.
+
+När Erik försiktigt öppnade klockan och började undersöka dess mekanik, märkte han att den varsamt tickade tillbaka till liv. Men det var mer än så – varje gång klockan slog tolv, visade dess visare bilder från olika platser på jorden, som små levande målningar. Byborna samlades nyfiket i verkstaden för att se dessa magiska ögonblick.
+
+Tack vare Erik och hans klockornas berättelser, började byborna uppskatta tidens värde på ett nytt sätt. De lärde sig att varje sekund var en chans till något nytt, och att även en tyst klocka hade en historia att berätta. Och så blev Eriks verkstad byns hjärta, där tiden inte bara mättes, utan också levdes.
+
+Slut.

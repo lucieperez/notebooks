@@ -1,0 +1,18 @@
+### Prompt
+Give me a story about cups and mugs in English.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Once upon a time in a cozy little kitchen, there lived a group of cups and mugs. Each had its own personality and purpose, and they all belonged to a kind family who loved to share stories over warm drinks.
+
+There was Clara, the delicate porcelain teacup with a floral pattern. She was graceful and elegant, always ready for a gentle sip of chamomile or green tea. Next to her stood Max, a sturdy ceramic mug with bold stripes. Max was the family’s go-to for strong morning coffee, full of energy and warmth.
+
+Across the shelf lived Benny, a chipped but loyal travel mug. Benny had been on many adventures, carrying hot chocolate up snowy mountains and iced tea through sunny parks. He loved the stories the family told him about their days, feeling proud to be part of their lives.
+
+One chilly evening, a new member arrived: a shiny glass cup named Glimmer. She was transparent and modern, a bit shy but eager to find her place among the others. The cups and mugs welcomed her warmly, sharing tales of the times they helped the family feel comforted and connected.
+
+Together, they realized that no matter their shape, size, or material, each cup and mug had a special role in the family’s story—a role that brought warmth, happiness, and a little magic to every day.
+
+And so, in that little kitchen, the cups and mugs lived happily together, ready to fill with whatever drink brought comfort next.

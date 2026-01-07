@@ -1,0 +1,24 @@
+### Prompt
+Give me a story about mugs and cups in English.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Once upon a time in a cozy kitchen, there lived a proud group of mugs and cups. Each had its own personality and purpose, but they all shared one common goal: to bring warmth and comfort to anyone who used them.
+
+The mugs were sturdy and strong, with thick handles and wide bodies. They loved holding hot coffee and tea, keeping the drinks warm through chilly mornings. The mugs often boasted about their durability. "We are the champions of cozy mornings," said Morton the Mug, standing tall on the shelf.
+
+The cups, on the other hand, were delicate and elegant. With their slender handles and graceful shapes, they were perfect for serving tea at fancy gatherings or sipping hot chocolate with whipped cream. Clara the Cup was proud of her fine porcelain and intricate floral designs. "We bring a touch of elegance and charm," she would say softly.
+
+One day, a new set of glasses arrived in the kitchen. They were sleek, modern, and clear as crystal. The mugs and cups felt uncertain about their place now. The glasses didn't hold hot drinks, but they were perfect for cold juices and sparkling water.
+
+Feeling a little jealous, Morton grumbled, "Why would anyone choose these glasses over us? We keep drinks warm and comforting!"
+
+Clara sighed, "Perhaps there’s room enough for all of us."
+
+A wise old teapot, who had witnessed many kitchen seasons, chimed in, "Every vessel has its time and purpose. Mugs for warmth, cups for elegance, and glasses for refreshment. Together, you make a complete collection that brings joy to every moment."
+
+From that day on, the mugs, cups, and glasses celebrated their differences and worked together—each proud of their unique role. And the kitchen was a happier place, filled with warmth, elegance, and refreshment for all who entered.
+
+The end.

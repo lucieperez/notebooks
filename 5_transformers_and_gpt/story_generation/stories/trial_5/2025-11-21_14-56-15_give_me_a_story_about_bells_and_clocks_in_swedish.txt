@@ -1,0 +1,18 @@
+### Prompt
+Give me a story about bells and clocks in Swedish.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Det var en gång i en liten by i Sverige där alla älskade klockor och klockspel. I byns mitt stod ett gammalt torn med en stor klocka som hade funnits där i hundratals år. Tornets klocka var inte som andra klockor – dess klockor hade magiska egenskaper.
+
+Varje morgon när solen steg, började klockorna i tornet att ringa och sprida en vacker melodi över hela byn. Det sades att ljudet från klockorna gav byborna lycka och harmoni under hela dagen. Men en dag hände något märkligt. Klockorna slutade plötsligt att ringa.
+
+Borna blev oroliga. Utan klockornas klang kändes byn tom och tyst. En liten flicka vid namn Elin bestämde sig för att ta reda på vad som hade hänt. Hon klättrade upp i tornet och upptäckte att en liten fågel hade byggt sitt bo mitt i klockverket, vilket gjorde att klockorna fastnade.
+
+Istället för att bli arg bestämde sig Elin för att hjälpa fågeln och samtidigt laga klockorna. Hon försiktigt flyttade boet till en säker plats i tornet och reparerade klockverket med hjälp av byns urmakare. När hon var klar började klockorna ringa igen, ännu vackrare än tidigare.
+
+Från den dagen visste alla i byn att klangen från klockorna inte bara var en signal utan en symbol för gemenskap, omtanke och respekt för naturen. Och varje gång klockorna ringde, mindes alla Elins mod och vänlighet.
+
+Så levde byn lyckligt vidare, alltid med tiden i takt med de magiska klockorna och deras vackra, klingande toner.

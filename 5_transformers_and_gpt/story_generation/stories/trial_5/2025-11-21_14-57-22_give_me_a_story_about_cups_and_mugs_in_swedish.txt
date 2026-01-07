@@ -1,0 +1,20 @@
+### Prompt
+Give me a story about cups and mugs in Swedish.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Det var en gång i en liten butik vid namn "Kopp & Mugg". Där bodde många olika koppar och muggar, var och en med sin egen historia och personlighet.
+
+På en hylla högst upp stod en elegant porslinskopp vid namn Klara. Hon var vit med små blå blommor målande runt om, och hon älskade att känna doften av nybryggt te. Varje morgon brukade Klara drömma om att få fyllas med varm, kryddig chai.
+
+Bredvid henne stod en stor, robust mugg som hette Max. Han var gjord av grovt keramik och hade en djup, röd färg. Max älskade kaffe – ju starkare, desto bättre. Han brukade skryta för de andra kopparna om hur mycket kaffe han kunde hålla i sin stora mage.
+
+Längre ner på hyllan satt en liten, brun glaskopp som hette Lilla Ljus. Hon var lite blyg och kände sig ofta osynlig bland de större och mer färgglada muggarna. Men alla visste att hon var den bästa på att kyla ner drycker, och på varma sommardagar blev hon den mest eftertraktade koppen i hela butiken.
+
+En dag kom en liten flicka in i butiken tillsammans med sin mormor. Flickan såg sig nyfiket omkring innan hennes blick föll på Klara. "Mormor, kan vi köpa den där fina koppen med blommor?" frågade hon. Mormodern log och nickade, och så blev Klara köpt och fick följa med hem.
+
+Men även om Klara flyttade, fortsatte Max och Lilla Ljus att leva sina liv i butiken. De visste att varje kopp och mugg hade sin egen speciella plats och sin egen historia att berätta. Och varje gång någon valde en av dem, kände de sig stolta och lyckliga över att få vara en del av människors vardag.
+
+Så i "Kopp & Mugg" fortsatte äventyren, dag efter dag, kopp efter kopp och mugg efter mugg. Och alla levde lyckliga med vetskapen om att de gjorde varje stund lite mysigare.

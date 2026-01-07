@@ -1,0 +1,14 @@
+### Prompt
+Give me a story about cups and mugs in Swedish.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Det var en gång i ett litet kök där koppar och muggar levde tillsammans i skåpet. Varje morgon brukade de vänta på att bli fyllda med ångande kaffe eller te. Kopparna var alltid lite finare och användes vid speciella tillfällen, medan muggarna var robusta och älskade för sin vardaglighet.
+
+En dag började koppen Anna känna sig avundsjuk på muggen Max. Max fick alltid vara med på äventyr när familjen tog med sig fika ut i trädgården, medan Anna mest stod kvar i skåpet. Men Max tröstade henne och sa: "Vi har alla våra stunder. När jag blir lite sliten och repig är det du som glänser vid festliga tillfällen."
+
+De insåg att trots sina olikheter, var de båda viktiga delar i familjens vardag. Och från och med den dagen hjälptes Anna och Max åt att göra varje fika stund perfekt, oavsett om det var inne i köket eller ute i solen.
+
+Slutet.

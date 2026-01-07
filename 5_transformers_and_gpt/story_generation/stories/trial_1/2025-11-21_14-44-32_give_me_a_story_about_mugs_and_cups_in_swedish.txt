@@ -1,0 +1,18 @@
+### Prompt
+Give me a story about mugs and cups in Swedish.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Det var en gång en liten kopp och en stor mugg som bodde tillsammans i ett skåp i ett mysigt kök. Koppen var vit med blåa blommor på, och muggen var röd med en gul rand runt kanten.
+
+Varje morgon tittade koppen ut genom skåpets dörr och längtade efter att få fyllas med varmt te eller kaffe. Muggen däremot älskade att vara fylld med tjock, varm choklad under kalla vinterdagar. Trots sina olika favoritdrycker var de bästa vänner.
+
+En dag hände något ovanligt. En ny glasburk flyttades in i skåpet. Den var blank, genomskinlig och väldigt bullrig när den öppnades och stängdes. Kopp och mugg kände sig lite avundsjuka över all uppmärksamhet den nya burken fick.
+
+Men snart insåg de att de hade något som burken saknade: värme och myskänsla. Ingen ville hålla i burken och dricka direkt ur den, men koppen och muggen var alltid med vid frukostbordet och fick känna värmen från människors händer.
+
+Från den dagen kände de sig stolta över sina olika former och färger, och visste att de båda hade sin speciella plats i köket och i människornas liv.
+
+Och så levde koppen och muggen lyckliga tillsammans, fyllda med kärlek och varma drycker, dag efter dag.

@@ -1,0 +1,20 @@
+### Prompt
+Give me a story about mugs and cups in Swedish.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Det var en gång i ett litet kök i en mysig stuga, där muggar och koppar bodde tillsammans i ett stort skåp ovanför diskbänken. Muggarna och kopparna hade levt där i många år och kände varandra väl, men de hade aldrig riktigt förstått varandras olikheter.
+
+Muggarna var stora och robusta, perfekta för heta drycker som kaffe och té. De älskade att bli fyllda med något varmt som fick dem att känna sig viktiga och användbara. Kopparna, däremot, var mindre och mer ömtåliga. De föredrog att servera finare drycker som espresso eller varm choklad, och de njöt av att bli omhändertagna med en extra försiktighet.
+
+En dag kom en ny kopp till skåpet. Den var liten, blommig och väldigt vacker, men också lite blyg. Muggarna hälsade glatt, men kopparna var mer reserverade. Den nya koppen kände sig osäker på om hon passade in bland alla starka muggar och eleganta koppar.
+
+När kvällen kom, och det var dags för familjen att dricka kvällste, hände något speciellt. Den nya koppen blev vald för att servera te med honung till barnen, eftersom hon var just lagom i storlek och hade en fin form som barnen tyckte om. Muggarna såg det och började inse att även om de var stora och starka, så hade kopparna sina egna unika fördelar.
+
+Från den dagen blev muggar och koppar goda vänner. De lärde sig att uppskatta varandras olikheter och hur varje sort har sin egen viktiga roll i köket. Och varje gång någon tog fram en kopp eller mugg, kände de sig stolta över att vara delar av just den fina samlingen.
+
+Och så levde de lyckliga, fyllda med te, kaffe och värme, i sin lilla skåpen under solens ljus.
+
+Slut.

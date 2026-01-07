@@ -1,0 +1,16 @@
+### Prompt
+Give me a story about clocks and bells in Swedish.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Det var en gång i en liten by som hette Klocktorp, berömd för sina gamla klockor och vackra kyrkklockor. I byns mitt reste sig en gammal klockstapel med en stor, mässingsfärgad klocka som hade ringt i flera hundra år. Varje morgon och kväll hördes dess mäktiga klang över hela byn, som en trygg påminnelse om tidens gång.
+
+En dag upptäckte byns urmakare, Herr Lindgren, att klockan började gå långsamt. Han skyndade sig upp i tornet med sina verktyg för att reparera den. När han lyfte på klockans stora kläpp, hittade han något oväntat — en liten glittrande nyckel fastkilad där.
+
+Nyfiken tog Herr Lindgren nyckeln och försökte vrida på den. Plötsligt började tornets gamla urverk att röra sig snabbare och en mjuk, melodisk klockfågel började spela en hemlig melodi på små klockor runt tornet. Byn fylldes av ett magiskt ljud, som om själva tiden lekte.
+
+Från och med den dagen ringde byns klockor inte bara för att visa timmar och minuter, utan också för att sprida glädje och harmoni. Och Herr Lindgren visste att ibland finns det mer i en klocka än bara tid — det kan vara en magisk portal till något underbart och oväntat.
+
+Så varje gång du hör en klocka slå eller en kyrkklocka ringa, tänk på Klocktorp och dess magiska klockfågel, som påminner oss om att tiden är fylld av både mysterier och mirakel.

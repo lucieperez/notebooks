@@ -1,0 +1,18 @@
+### Prompt
+Give me a story about watches and clocks in Swedish.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Det var en gång en liten by vid namn Tidsdal, där alla invånare älskade klockor och ur. Varje hus hade minst en väggklocka, och på torget stod en stor, gammal kyrkklocka som ringde varje hel timme.
+
+I byn bodde en klok gammal urmakare vid namn Erik. Han hade ärvt sin fars lilla urbutik där han reparerade och skapade unika klockor. Erik var särskilt stolt över sin samling av gamla fickur, som han sa bar på historiens hemligheter.
+
+En dag när Erik höll på att reparera en gammal väckarklocka, upptäckte han en liten hemlig lucka inuti klockan. När han öppnade den fann han en liten lapp med en karta och orden: "Den som följer tiden, finner skatten."
+
+Nyfiken bestämde sig Erik för att följa kartan. Den ledde honom genom skogar, över berg och ända till en gammal klockstapel i utkanten av byn. Där, under en lös sten, hittade han en låda fylld med fantastiska urdelar och gamla ritningar – en skatt som kunde ge liv åt nya, magiska klockor som aldrig stannade.
+
+Med denna skatt i händerna började Erik skapa klockor som inte bara visade tiden, utan också berättade historier och bar på framtidens löften. Tidsdal blev känd som en plats där tiden inte bara mättes, utan också kändes och levdes.
+
+Och så fortsatte klockorna och urens tickande i Tidsdal, evigt som tiden själv.

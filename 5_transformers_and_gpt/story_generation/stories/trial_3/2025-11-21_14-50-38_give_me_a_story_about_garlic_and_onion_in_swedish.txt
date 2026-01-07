@@ -1,0 +1,20 @@
+### Prompt
+Give me a story about garlic and onion in Swedish.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Det var en gång en vitlök och en lök som bodde i en liten trädgård vid utkanten av en mysig by. Vitlöken hette Vita och löken hette Loke. De var bästa vänner, trots att de hade väldigt olika personligheter.
+
+Vita var stark och modig, alltid redo att sprida sin arom och hjälpa till att förbättra smaken på alla maträtter i byn. Loke däremot var mjukare i sitt sätt och ibland lite blyg, men han hade en sällsynt förmåga att göra människor glada med sin milda sötma.
+
+En dag när hösten närmade sig och skörden var nästan klar, hände något ovanligt i trädgården. En stark blåst kom och hotade att riva upp alla växter. Vita och Loke bestämde sig för att samarbeta för att skydda sina vänner och sig själva från stormens vrede.
+
+Vita spred sina starka dofter för att hålla bort insekter och små djur som kunde skadas i stormen. Loke böjde sig mjukt med vinden och hjälpte till att dämpa dess kraft, samtidigt som han skyddade de känsligare plantorna bakom sig.
+
+Tillsammans klarade de stormen bättre än någon annan planta i trädgården. När solen återvände, var trädgården full av liv och glädje. Byns människor märkte hur goda smakerna blev i maten efter stormen och tackade Vita och Loke för deras hjältemod.
+
+Från den dagen blev vitlöken och löken en symbol för samarbete och vänskap i hela byn. De visade att även de som är olika kan bli starka tillsammans.
+
+Slut.

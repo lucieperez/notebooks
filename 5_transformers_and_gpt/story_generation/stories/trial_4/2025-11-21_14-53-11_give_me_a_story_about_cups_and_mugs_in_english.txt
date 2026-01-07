@@ -1,0 +1,20 @@
+### Prompt
+Give me a story about cups and mugs in English.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Once upon a time, in a cozy little kitchen, there lived a collection of cups and mugs. They sat together on a wooden shelf, each with its own unique shape, color, and personality.
+
+There was Max, a tall, elegant cup with a delicate floral pattern. He loved to hold warm tea and had a calming presence. Next to him was Molly, a cheerful polka-dotted mug, who adored hot chocolate and loved making everyone smile with her bright colors.
+
+One rainy afternoon, the cups and mugs overheard the humans talking about a big family gathering. Everyone would be coming over to share stories and laughter. The cups and mugs grew excited—they wanted to make sure they were ready to serve the best drinks!
+
+Max polished himself until he gleamed, hoping to make a good impression with the special jasmine tea. Molly practiced holding steaming mugs of marshmallow-topped hot chocolate in her handle, ready to bring comfort to chilly fingers.
+
+When the day arrived, the kitchen buzzed with happiness. The humans filled Max with soothing jasmine tea and filled Molly with rich hot chocolate for the children. The cups and mugs felt proud as they helped create moments of warmth and joy.
+
+And from that day on, Max and Molly, along with their friends, knew that no matter their size or design, they each had an important role in bringing comfort and happiness to those who used them.
+
+The end.

@@ -1,0 +1,14 @@
+### Prompt
+Give me a story about cups and mugs in Swedish.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Det var en gång en liten kopp och en stor mugg som bodde i ett mysigt kök på landet. Koppen hette Kalle och var liten och nätt, medan muggen hette Maja och var stor och stadig.
+
+Varje morgon brukade Kalle fyllas med ångande varmt kaffe, och Maja med rykande het te. De älskade sina uppgifter, men drömde ibland om att byta plats för en dag.
+
+En dag när solen sken extra starkt, bestämde de sig för att byta. Kalle fylldes med te och Maja med kaffe. Till en början kändes det konstigt, men snart insåg de att det nya perspektivet gav dem massor av glädje och energi.
+
+Efter den dagen blev Kalle och Maja bästa vänner och hjälpte varandra att möta varje morgon med nyfikenhet och värme. Och i det lilla köket på landet hade de allra bästa koppar- och muggäventyren tillsammans.

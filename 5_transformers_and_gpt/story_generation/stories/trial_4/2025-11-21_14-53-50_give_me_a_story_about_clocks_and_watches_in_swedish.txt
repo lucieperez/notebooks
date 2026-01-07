@@ -1,0 +1,16 @@
+### Prompt
+Give me a story about clocks and watches in Swedish.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Det var en gång en liten stad som hette Tidshamn, där alla älskade klockor och armbandsur. Staden var känd för sina skickliga urmakare som kunde reparera och skapa de mest fantastiska klockor i hela landet.
+
+En dag upptäckte den unga urmakaren Elin en gammal och mystisk klocka i sin farfars verkstad. Klockan hade inga siffror eller visare, men när hon vände den upp och ner började den ticka och visade en magisk karta. Kartan ledde till en gömd dal där tiden stod stilla.
+
+Nyfiken och modig bestämde sig Elin för att följa kartan. När hon kom fram till dalen insåg hon att alla klockor och klockspel där aldrig slutade ticka och spela, men folket som bodde där levde i en evig stund av lugn och frid. Hon lärde sig att ibland behöver man stanna upp och uppskatta ögonblicket, istället för att alltid rusa framåt.
+
+När Elin återvände till Tidshamn tog hon med sig både den gamla klockan och visdomen om tidens värde. Hon började skapa klockor som inte bara mätte tid, utan också påminde människor om att leva i nuet och njuta av varje sekund.
+
+Och från den dagen blev Tidshamn inte bara en stad fylld med klockor, utan också en plats där tiden fick en ny, meningsfull betydelse.

@@ -1,0 +1,16 @@
+### Prompt
+Give me a story about cups and mugs in Swedish.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Det var en gång en liten by där alla koppar och muggar bodde tillsammans i ett stort köksskåp. De levde ett lugnt och harmoniskt liv, men drömde alla om att få användas av människor och fyllas med värmande drycker.
+
+En dag kom en liten flicka till köket. Hon öppnade skåpet och valde en stor blå kopp med vita prickar. Koppen kände sig stolt och glad när hon fylldes med varm choklad. Nästa dag valde flickan en vacker grönmugg som doftade lite av mynta. Muggen kände sig speciell när hon fick vara med och värma flickans händer under en kall vinterdag.
+
+Efter flera sådana dagar började kopparna och muggarna prata med varandra om vem som fått användas och vem som fortfarande stod kvar på hyllan. De insåg att även om det var roligt att bli använda, så var deras vänskap och gemenskap det viktigaste.
+
+Så varje kväll när köket blev tyst och mörkt, berättade kopparna och muggarna historier för varandra om sina äventyr och drömmar. Och även om de var olika i form och färg, visste de att tillsammans var de en familj.
+
+Och så levde de lyckliga, fyllda med värme både inuti och runt omkring sig. Slut.

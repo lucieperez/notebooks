@@ -1,0 +1,14 @@
+### Prompt
+Give me a story about onion and garlic in Swedish.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Det var en gång en lök och en vitlök som bodde i en liten grönsaksträdgård vid kanten av en bondgård. Lök och vitlök var goda vänner, men de hade väldigt olika personligheter. Lök var mjuk och lite blyg, medan vitlök var stark och modig.
+
+En dag hörde de att bonden skulle laga en stor festmåltid och behövde hjälp med att smaksätta maten. Lök blev orolig, för hon tänkte att hon kanske inte var tillräckligt smakrik. Vitlök, däremot, var ivrig och sa: "Vi kan göra maten fantastisk tillsammans! Jag ger styrka och krydda, och du ger sötma och mildhet."
+
+Så lök och vitlök samarbetade och skapade en perfekt blandning som fick allas smaklökar att dansa av glädje. Från den dagen lärde de sig att deras olikheter gjorde dem starkare tillsammans, och i trädgården blev de kända som det oslagbara smakparet.
+
+Och så levde lök och vitlök lyckliga, kryddade och starka i sin lilla trädgård, redo att hjälpa till i varje maträtt som behövde en extra gnista.

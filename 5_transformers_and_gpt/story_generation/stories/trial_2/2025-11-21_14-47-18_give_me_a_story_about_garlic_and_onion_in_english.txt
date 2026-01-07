@@ -1,0 +1,28 @@
+### Prompt
+Give me a story about garlic and onion in English.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Sure! Here's a short story about garlic and onion:
+
+---
+
+**The Tale of Garlic and Onion**
+
+Once upon a time, in a vibrant vegetable garden, lived two neighbors: Garlic and Onion. Though they were both bulbs and often found side by side in recipes, their personalities were quite different.
+
+Garlic was known for his strong and courageous spirit. He stood tall and proud, with a bold aroma that could fill the air and keep unwanted pests away. Garlic loved to protect his garden friends and was always ready to add flavor and zest to any dish.
+
+Onion, on the other hand, was more sensitive. She was layered and complex, often bringing tears to those who came close. But beneath her sometimes tear-inducing nature, Onion had a sweet and gentle heart. She believed in kindness and harmony and enjoyed bringing people together with her rich, savory taste.
+
+One day, a cold wind swept through the garden, threatening the plants with frost. Garlic and Onion knew they had to work together to save their home. Garlic used his strong scent to ward off the chill, while Onion’s layers kept her and her friends insulated from the cold.
+
+Through their combined strengths, they protected the garden until the warm sun returned. From that day on, Garlic and Onion became the best of friends, each appreciating the other’s unique qualities.
+
+And so, in kitchens around the world, Garlic and Onion continue to team up—adding courage and kindness to every meal they touch.
+
+---
+
+Would you like a longer story or perhaps a poem about Garlic and Onion?

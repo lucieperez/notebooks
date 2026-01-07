@@ -1,0 +1,20 @@
+### Prompt
+Give me a story about clocks and watches in Swedish.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Det var en gång en liten stad vid namn Tidsdal, där alla invånare älskade klockor och urverk. Stadens hjärta var en gammal klockbutik som hette "Tidens Skatt", ledd av en klok gammal urmakare vid namn Herr Lindström.
+
+Herr Lindström hade ärvt butiken från sin farfar, och varje klocka i butiken hade en egen historia. Några klockor hade rest jorden runt, andra hade räddat livet på sina ägare genom att ringa exakt vid rätt tid. Men den mest speciella var en antik fickur, som sades kunna stanna tiden en kort stund när den drogs upp helt.
+
+En dag kom en ung flicka vid namn Emma till butiken. Hon hade alltid varit fascinerad av tidens mysterium och drömde om att förstå hur klockor kunde mäta något så flyktigt som tid. Herr Lindström visade henne det magiska fickuret och berättade dess hemlighet.
+
+Emma övade sig under Herr Lindströms vägledning, och en dag, när hon höll i fickuret och drog upp det, kände hon hur allt runt omkring henne stannade. Fåglarna i luften stod stilla, bladen på träden slutade röra sig, och stadens brus tystnade. Men Emma kunde fortfarande röra sig fritt.
+
+Hon insåg att tiden inte bara var något som gick – den var även något man kunde förstå och respektera. Emma bestämde sig för att lära sig konsten att laga och skapa klockor, så att hon kunde hjälpa andra att uppskatta varje ögonblick.
+
+Åren gick, och tack vare Emma blomstrade "Tidens Skatt" på nytt. Klockorna i Tidsdal ticken tyst, men ständigt påminner invånarna om att varje sekund är värdefull, och att tiden, trots sin flyktighet, alltid är med oss.
+
+Och så lever klockorna och deras berättelser vidare, från generation till generation, i det lilla samhället där tiden aldrig riktigt går förlorad.

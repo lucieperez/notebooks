@@ -1,0 +1,16 @@
+### Prompt
+Give me a story about mugs and cups in English.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Once upon a time in a cozy little kitchen, there lived a group of mugs and cups. Each had its own unique shape, color, and personality. There was Max the Mighty Mug, big and sturdy, perfect for holding a steaming hot coffee. Next to him stood Clara the Charming Cup, delicate and graceful, often used for sipping fragrant teas.
+
+Every morning, the kitchen would come alive with laughter and warmth as the family brewed their favorite drinks. Max loved the mornings when he was filled with strong espresso, feeling energized and important. Clara, on the other hand, cherished the quiet afternoons when she held calming chamomile tea, bringing peace to the room.
+
+One day, a new arrival joined them—a small, bright yellow cup named Sunny. Sunny was cheerful and curious, eager to find out what made each mug and cup special. She asked Max why he was so robust, and Max explained his purpose was to hold hearty drinks that gave strength. Clara shared how her delicate design made tea taste even more delightful.
+
+As days passed, Sunny realized that although they all held different drinks, together they created the perfect collection for every mood and moment. They celebrated their differences and learned that whether big or small, plain or decorated, each mug and cup had a special place in the family’s heart.
+
+From that day on, the mugs and cups lived happily on their shelf, ready to share warmth, comfort, and joy with everyone who came to the kitchen. And whenever someone picked one up, they carried not just a drink, but a little story of friendship and belonging.

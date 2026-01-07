@@ -1,0 +1,18 @@
+### Prompt
+Give me a story about watches and clocks in Swedish.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Det var en gång en liten by där tiden verkade stå stilla. I byns mitt låg en gammal klockbutik, fylld med tickande klockor och blänkande armbandsur. Ägaren, en äldre man vid namn Herr Tid, hade ägnat sitt liv åt att reparera och vårda dessa tidsmätare.
+
+En dag fick Herr Tid en ovanlig kund; en ung flicka som hette Elsa. Hon bar med sig en trasig fickur som hade tillhört hennes farfar. "Det här uret betyder allt för mig," sade Elsa med bestämd röst. Herr Tid tog försiktigt emot uret och lovade att göra sitt bästa.
+
+När Herr Tid öppnade uret såg han att mekanismen var intrasslad och gammal. Med stor skicklighet trädde han varsamt bort varje liten kugge och rengjorde dem noggrant. Under tiden berättade Elsa historier om sin farfar och de äventyr de haft tillsammans.
+
+När reparationen var klar gav Herr Tid tillbaka uret till Elsa. "Det är inte bara en klocka," sade han, "det är en bärare av minnen och tidens gåva." Elsa log och kände hur pulsen i uret återigen började slå i takt med hennes egna.
+
+Från den dagen blev klockbutiken en plats där tidens magi kunde kännas och där varje sekund värderades högt. Herr Tid och Elsa fortsatte tillsammans att samla och vårda klockor, och i varje tickande visare fanns en berättelse om livet självt.
+
+Och så levde klockorna och deras historier vidare, lika evigt som tiden själv.

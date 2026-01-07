@@ -1,0 +1,16 @@
+### Prompt
+Give me a story about bells and clocks in Swedish.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Det var en gång en liten by vid namn Klocktorp, där tiden alltid tycktes stå stilla. I byns mitt stod en gammal kyrka med ett stort torn fyllt av både klockor och en urtavla som räknade timmarna på sitt unika sätt.
+
+Varje morgon när solen steg, ringde kyrkklockorna ut över byn och väckte alla invånare. Klockorna hade en magisk klang som fick hela byn att fyllas med glädje och hopp. Men en dag blev tornets stora klocka tyst. Den tickade inte längre, och byn började långsamt förlora sin rytm.
+
+En ung pojke vid namn Elias bestämde sig för att undersöka vad som hänt. Han klättrade upp i tornet och upptäckte att urverket, som drev både klockan och klockspelet, hade fastnat på grund av ett trasigt kugghjul. Med varsamma händer och mycket tålamod reparerade Elias mekanismen.
+
+När han slutligen fick allt att fungera igen, började klockan slå med sin klara, starka röst. Men inte bara det – klockspelet spelade en vacker melodi som spreds över hela byn, och folk samlades för att fira att tiden återigen flödade som den skulle.
+
+Från den dagen blev Elias byns klockmästare, och tack vare hans omsorg fortsatte klockorna att hålla tiden och fylla Klocktorp med liv och rörelse. Och varje gång kyrkklockorna ringde visste alla att tiden är en skatt som måste skötas om med kärlek och respekt.

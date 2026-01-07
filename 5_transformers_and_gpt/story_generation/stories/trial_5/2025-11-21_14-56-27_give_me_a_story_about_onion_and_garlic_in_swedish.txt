@@ -1,0 +1,18 @@
+### Prompt
+Give me a story about onion and garlic in Swedish.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Det var en gång en lök och en vitlök som bodde tillsammans i köksskåpet. Löken hette Lilli och vitlöken hette Victor. Trots att de båda var lökar, hade de väldigt olika personligheter.
+
+Lilli, löken, var mild och lite blyg. Hon gillade att smyga in i maten och ge den en söt och mjuk smak, utan att någon märkte att hon var där. Victor, vitlöken, var däremot stark och modig. Han älskade att sprida sin kraftfulla doft och starka smak, och han ville alltid vara med i maten och göra den extra speciell.
+
+En dag kom en kock till köket som ville laga en stor festmåltid. Han tog fram både Lilli och Victor och började skära dem i små bitar. Lilli blev lite nervös, men Victor sa lugnande: "Oroa dig inte, tillsammans gör vi maten fantastisk!"
+
+När de båda grönsakerna tillsattes i pannan och började stekas, fylldes hela köket av en underbar doft. Maten blev så god att gästerna vid festen aldrig ville sluta äta.
+
+Från den dagen förstod Lilli och Victor att även om de var olika, var de bäst tillsammans och gjorde maten magisk när de samarbetade.
+
+Och så levde de lyckliga i köket, alltid redo att göra nästa maträtt ännu godare.

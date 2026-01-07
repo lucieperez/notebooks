@@ -1,0 +1,34 @@
+### Prompt
+Give me a story about garlic and onion in English.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Sure! Here’s a short story about garlic and onion:
+
+---
+
+**The Tale of Garlic and Onion**
+
+Once upon a time, in a cozy vegetable garden, lived two close friends: Garlic and Onion. They grew side by side, sharing the same rich soil and warm sunlight. Though they looked quite different — Garlic was small and white, while Onion was round and purple — they had one important thing in common: they both loved to make people’s meals delicious.
+
+Garlic was proud of its strong, spicy flavor that could bring any dish to life. Onion, on the other hand, was known for its sweet, savory taste that could make even the simplest soup special.
+
+One day, a little girl named Mia came to the garden with her mother. They were preparing to cook dinner, but Mia didn’t like the smell of strong vegetables. She frowned when she saw Garlic and Onion, thinking they would make the meal too stinky and spicy.
+
+Garlic and Onion felt sad. They wanted to show Mia that they weren’t just strong and smelly — they were important and could make food tasty and healthy.
+
+Just then, the wise old Tomato came by and said, “Why don’t you let Mia try a little of your magic in her meal? Sometimes, the best flavors come from friends who seem strong at first.”
+
+Mia watched as her mother chopped tiny pieces of Garlic and Onion and added them to a bubbling pot of vegetable soup. When the soup was ready, Mia took a careful sip. To her surprise, it was warm, comforting, and delicious!
+
+“Wow,” Mia said, smiling, “I didn’t know Garlic and Onion could taste so good together!”
+
+From that day on, Garlic and Onion weren’t just neighbors in the garden — they were heroes in Mia’s kitchen, bringing flavor and friendship to every meal.
+
+And so, Garlic and Onion lived happily ever after, knowing their true worth was not just in their smell, but in the joy they brought to others.
+
+---
+
+Would you like the story to be longer, or maybe have a different style?

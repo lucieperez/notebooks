@@ -1,0 +1,16 @@
+### Prompt
+Give me a story about clocks and bells in Swedish.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Det var en gång en liten by vid namn Klocktorp, där tiden tycktes ha sin egen magi. I byns mitt stod ett gammalt klocktorn, med en stor, glänsande klocka som varje hel timme klämde i med sina starka, djupa ljud. Men denna klocka var inte som andra klockor — den hade en hemlighet.
+
+Varje kväll, när solen gick ner och byborna tände sina ljus, började klockan att tala med byns stora kyrkklocka. De utbytte historier om dagen som gått och berättade om drömmar de hört från vinden. Klocktornets lilla klocka brukade klämta fast och ibland fråga om ljudet från skogen kunde vara ett sagoväsen. Kyrkklockan, djup och resonant, svarade alltid med visdom och lugn.
+
+En natt hörde en nyfiken pojke vid namn Emil deras samtal. Han smög ut ur sitt hus och klättrade upp i klocktornet. Där fann han inte bara klockan utan även en liten kista med gamla nycklar och brev från byns förfäder som berättade om klockornas magiska gåva att föra samman alla bybor genom tiden.
+
+Från den dagen hjälpte Emil till att vårda klockorna och berättade deras historier för varje ny generation, så att tiden i Klocktorp aldrig skulle tystna och alltid skulle klinga av vänskap och magi.
+
+Slut.

@@ -1,0 +1,16 @@
+### Prompt
+Give me a story about clocks and bells in Swedish.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Det var en gång en liten by vid namn Klocktorp, där klockor och klockspel var viktigare än något annat. I byns mitt stod ett högt klocktorn med en stor, glänsande klocka som alla invånare höll kär. Varje timme ringde klockan ut över nejden och samlade byborna till gemenskap.
+
+Men Klocktorp hade också en hemlighet. I tornet fanns inte bara en klocka, utan många små klockor som satt gömda i väggarna. Dessa små klockor spelade en mjuk melodi varje morgon när solen gick upp, och varje kväll när den gick ner. Melodin fick byborna att känna sig trygga och lugna, som om tiden själv vakade över dem.
+
+En dag slutade klockorna att klinga. Den stora klockan tystnade, och de små melodiska ringningarna försvann. Byborna blev oroliga och samlades i torget för att diskutera vad som hade hänt. En gammal urmakare, som bodde i utkanten av byn, erbjöd sig att klättra upp i tornet och undersöka klockorna.
+
+När urmakaren kom upp i tornet, upptäckte han att nattetidens starka vindar hade lossnat några av ringarna och spärrade mekanismen. Med varsamma händer rättade han till allt och smorde de rostiga kugghjulen. När han slog i den stora klockan, hördes ett klangfullt ljud som fyllde hela byn med glädje.
+
+Från den dagen visste byborna att klockorna och klockspelen inte bara höll tiden, utan också deras hjärtan i takt. Och varje gång klockan ringde, tänkte de på urmakarens omsorg och tidens magi som binder dem samman.

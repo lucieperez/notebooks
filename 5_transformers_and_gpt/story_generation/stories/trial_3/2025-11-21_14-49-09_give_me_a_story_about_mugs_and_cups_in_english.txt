@@ -1,0 +1,16 @@
+### Prompt
+Give me a story about mugs and cups in English.
+
+### Model
+gpt-4.1-mini
+
+### Story
+Once upon a time in a cozy little kitchen, there lived a family of mugs and cups. Each morning, as the sun peeked through the window, the mugs and cups would line up on the wooden shelf, ready for their daily adventure.
+
+There was Max, the sturdy blue mug with a confident handle, who loved holding hot coffee to wake up sleepy humans. Next to him sat Clara, a delicate porcelain teacup with intricate floral patterns, who enjoyed the gentle company of warm tea and soft conversations. Nearby was Benny, a cheerful polka-dotted cup who preferred colorful fruit juices and always brightened up the table.
+
+One day, the kitchen received a new arrival: a small, shiny espresso cup named Ellie. She was tiny but full of spirit, always eager to jump into action. At first, the older mugs and cups doubted if Ellie could keep up with their morning routines. But Ellie quickly proved herself by sharing her rich, bold espresso with everyone, inspiring the others to embrace new flavors and experiences.
+
+Together, Max, Clara, Benny, and Ellie learned that no matter their size, shape, or the drinks they held, they all played an important part in making every morning special. From that day forward, the mugs and cups celebrated their differences and cherished their unique roles, creating a joyful harmony on the kitchen shelf.
+
+And so, the mugs and cups lived happily, sharing warmth, stories, and laughter, one sip at a time.
