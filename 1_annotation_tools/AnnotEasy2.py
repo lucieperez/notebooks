@@ -93,6 +93,23 @@ class AnnotationTool:
         #
         with open(AUTO_CACHE_PATH) as auto_cache_file:
             self.auto_cache = json.load(auto_cache_file)
+            
+
+    def filter_rows(self, motion_val="fictive", spatial_val="goal"):
+        # Store the complete original data before filtering
+        self.full_df = self.df.copy() 
+
+        # 1. Capture the original index as a column to bypass duplicate ID errors
+        self.df['original_row_index'] = self.df.index
+
+        # 2. Apply both filters using the & (AND) operator
+        mask = (self.df['motion_type'].str.contains(motion_val, na=False)) & \
+               (self.df['spatial_arg_type'].str.contains(spatial_val, na=False))
+
+        self.df = self.df[mask].reset_index(drop=True)
+
+        self.current_index = 0
+        print(f"Filtered to {len(self.df)} rows where motion is '{motion_val}' and spatial arg is '{spatial_val}'.")
 
     def configure_dataframe(self):
         pd.set_option('display.max_colwidth', None)  # For older versions of pandas, use -1 instead of None
@@ -393,6 +410,7 @@ class AnnotationTool:
         self.motion_type_buttons = [
             widgets.Button(description='factive'),
             widgets.Button(description='fictive'),
+            widgets.Button(description='metaphor'),
             widgets.Button(description='vertical'),
             widgets.Button(description='posture/not motion'),
 
@@ -912,15 +930,22 @@ class AnnotationTool:
             file.write(details)
 
     def save_dataframe(self, historical_filename, current_filename):
-        # Save the DataFrame to a CSV file with a timestamp
-        self.df.to_csv(historical_filename, index=False)
+        if hasattr(self, 'full_df') and 'original_row_index' in self.df.columns:
+            updated_full_df = self.full_df.copy()
 
-        # Save the DataFrame to a CSV file without a timestamp
-        self.df.to_csv(current_filename, index=False)
+            # Place edited rows back into their original physical positions
+            for _, row in self.df.iterrows():
+                orig_idx = int(row['original_row_index'])
+                # Drop the helper column before putting the row back
+                updated_full_df.iloc[orig_idx] = row.drop('original_row_index')
 
-        print(f"DataFrame saved as {historical_filename} and {current_filename}.")
-
-
+            updated_full_df.to_csv(historical_filename, index=False)
+            updated_full_df.to_csv(current_filename, index=False)
+            print(f"Saved: {len(updated_full_df)} rows total (including {len(self.df)} filtered updates).")
+        else:
+            self.df.to_csv(historical_filename, index=False)
+            self.df.to_csv(current_filename, index=False)
+    
 
     def display(self):
         # Initial display of the tool
