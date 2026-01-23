@@ -20,7 +20,7 @@ summary(motion_verb_1)
 coef <-fixef(motion_verb_1, summary = TRUE)
 coef
 
-pp_check(motion_verb_1, ndraws=NULL)
+pp_check(motion_verb_1, type = "bars", ndraws=NULL)
 
 # Conditional effects
 conditional_effects(motion_verb_1, categorical = TRUE, surface = TRUE)
@@ -40,16 +40,18 @@ summary(motion_verb_2)
 coef <-fixef(motion_verb_2, summary = TRUE)
 coef
 
-pp_check(motion_verb_2)
+pp_check(motion_verb_2, type = "bars", ndraws=NULL)
 
 # Model diagnostic with plot
 
 par(ask = FALSE)
 
 # MODEL 1
+pdf("plots/model1_normal_priors_crossed.pdf")
 color_scheme_set("red")
 plot(motion_verb_1)
 title("Model 1: Normal Priors - Crossed")
+
 dev.off()
 
 # MODEL 2
@@ -70,7 +72,7 @@ color_scheme_set("green")
 plot(motion_verb_4)
 title("Model 4: Student-T Priors - Nested")
 
-pp_check(motion_verb_2)
+pp_check(motion_verb_2, ndraws=NULL)
 
 # Conditional effects
 conditional_effects(motion_verb_2, categorical = TRUE, surface = TRUE)
