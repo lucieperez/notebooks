@@ -4,9 +4,9 @@ library(bayesplot)
 
 # MODELS
 motion_verb_1 <- readRDS("models/motion_verb_1.rds")
-motion_verb_2 <- readRDS("models/motion_verb_2_nested.rds")
-motion_verb_3 <- readRDS("models/motion_verb_3.rds")
-motion_verb_4 <- readRDS("models/motion_verb_4_nested.rds")
+#motion_verb_2 <- readRDS("models/motion_verb_2_nested.rds")
+#motion_verb_3 <- readRDS("models/motion_verb_3.rds")
+#motion_verb_4 <- readRDS("models/motion_verb_4_nested.rds")
 
 
 # Prior summary
@@ -16,9 +16,25 @@ prior_summary(motion_verb_1)
 # how to see information about the base levels?
 summary(motion_verb_1)
 
+# ranef, to see a list with the group-level effects
+# of each grouping variables
+
+ranef(motion_verb_1)
+
+dim(ranef(motion_verb_1)$book_scroll)
+
+conditional_effects(categorical=TRUE, motion_verb_1)
+
+
 #  extract the results of the fixed effects (grouping variables) and the credible intervals 
 coef <-fixef(motion_verb_1, summary = TRUE)
 coef
+
+
+# get the odds ratio
+exp(fixef(motion_verb_1))
+
+plot(motion_verb_1)
 
 pp_check(motion_verb_1, type = "bars", ndraws=NULL)
 

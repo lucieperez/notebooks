@@ -57,6 +57,7 @@ table(df$motion_type)
 table(df$verse_genre)
 table(df$era_style, df$book_canonical)
 
+nrow(df[df$lex == "BW>[" & df$cmpl_constr == "dir-he", ])
 
 ### Choose baseline categories
 
@@ -140,8 +141,6 @@ pri_manual <- c(
   set_prior("normal(0, 1.5)", class="b", coef="verse_genrepoetry", dpar="muvc"),
   set_prior("normal(0, 1.5)", class="b", coef="verse_genreprophetic", dpar="mudirhe"),
   set_prior("normal(0, 1.5)", class="b", coef="verse_genreprophetic", dpar="muvc"),
-  set_prior("normal(0, 1.5)", class="b", coef="verse_genreQumran", dpar="mudirhe"),
-  set_prior("normal(0, 1.5)", class="b", coef="verse_genreQumran", dpar="muvc"),
   
   # era_style (ref = CBH)
   set_prior("normal(0, 1.5)", class="b", coef="era_styleother", dpar="mudirhe"),
@@ -158,8 +157,8 @@ pri_manual <- c(
 
 # Group-Level parameters' priors, random-intercept standard deviation (sd) (Crossed model)
 pri_re <- do.call(c, lapply(dpars, function(dp) c(
-  set_prior("student_t(3, 0, 1)", class = "sd", group = "book_scroll", coef = "Intercept", dpar = dp),
-  set_prior("student_t(3, 0, 1)", class = "sd", group = "lex", coef = "Intercept", dpar = dp)
+  set_prior("student_t(3, 0, 2.5)", class = "sd", group = "book_scroll", coef = "Intercept", dpar = dp),
+  set_prior("student_t(3, 0, 2.5)", class = "sd", group = "lex", coef = "Intercept", dpar = dp)
 )))
 
 priors <- c(pri_manual, pri_re)
@@ -194,7 +193,7 @@ prior_only_model <- brm(
 pp_check(
   prior_only_model,
   type = "bars",
-  ndraws = 2000,
+  ndraws = NULL,
 )
 
 # Have a look at the grouping variables SD implications
@@ -217,8 +216,6 @@ setNames(lapply(sd_names, \(nm) summ_sd(dr[[nm]])), sd_names)
 
 # model code
 
-#TODO: correlation between the independent variables
-
 motion_verb_1 <- brm(
   cmpl_constr ~ cmpl_anim + cmpl_det + cmpl_complex + motion_type +
     verse_genre + era_style +
@@ -232,10 +229,11 @@ motion_verb_1 <- brm(
   seed = 84735,
   init = "0",                        # fixes many init failures
   control = list(adapt_delta = 0.9, max_treedepth = 10),
-  refresh = 1000
+  refresh = 1000,
+  save_pars = save_pars(all = TRUE)
 )
 
-summary(motion_verb_1)
+#summary(motion_verb_1)
 
 # save the fitted model to a file
 saveRDS(motion_verb_1, file = "models/motion_verb_1.rds")
