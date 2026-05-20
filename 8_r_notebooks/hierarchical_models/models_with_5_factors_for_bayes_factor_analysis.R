@@ -202,311 +202,221 @@ pri_intercepts <- c(
 
 # SECTION 2: Models
 
-# List of predictors to add/remove: cmpl_anim + cmpl_det + cmpl_complex + cmpl_indiv + motion_type + verse_genre + era_style +
+# Best model so far: cmpl_anim, cmpl_det, cmpl_complex, cmpl_indiv, verse_genre, era_style + hierarchical part
+
+# Models to train, removing one predictor from the "best model":
+
+# m5_anim_removed: cmpl_det, cmpl_complex, cmpl_indiv, verse_genre, era_style + hierarchical part
 
 
-################################################### EMPTY MODEL ###################################################
-
-pri_empty <- c(
-  
-  # category-specific intercepts for the DV (non-reference categories)
-  set_prior("normal(-2, 1)", class="Intercept", dpar="mudirhe"),
-  set_prior("normal(-2, 1)", class="Intercept", dpar="muvc")
-)
-
-priors_empty <- c(pri_empty, pri_re)
-
-m_empty <- brm(
-  cmpl_constr ~ 1 + (1 | book_scroll) + (1 | lex), # crossed factors
-  data = df0,
-  family = categorical(link = "logit", refcat = "prep"),
-  prior = priors_empty,
-  chains = 4,
-  iter = 8000, 
-  warmup = 4000,
-  seed = 84735,
-  init = "0",                        # fixes many init failures
-  control = list(adapt_delta = 0.9, max_treedepth = 10),
-  refresh = 1000,
-  save_pars = save_pars(all = TRUE)
-)
-
-saveRDS(m_empty, file = "models/models_for_bayes_factor_analysis/m_empty.rds")
-
-################################################## FULL MODEL ################################################## 
-
-pri_full <- c(
-  pri_cmpl_anim,
+pri_m5_anim_removed <- c(
   pri_cmpl_complex,
   pri_cmpl_det,
   pri_cmpl_indiv,
-  pri_motion_type,
   pri_verse_genre,
   pri_era_style,
   pri_intercepts
 )
 
-priors_full <- c(pri_full, pri_re)
+priors_m5_anim_removed <- c(pri_m5_anim_removed, pri_re)
 
-m_full <- brm(
-  cmpl_constr ~ cmpl_anim + cmpl_det + cmpl_complex + cmpl_indiv + motion_type + verse_genre + era_style + 
-    (1 | book_scroll) + (1 | lex), # crossed factors
-  data = df0,
-  family = categorical(link = "logit", refcat = "prep"),
-  prior = priors_full,
-  chains = 4,
-  iter = 8000, 
-  warmup = 4000,
-  seed = 84735,
-  init = "0",                        # fixes many init failures
-  control = list(adapt_delta = 0.9, max_treedepth = 10),
-  refresh = 1000,
-  save_pars = save_pars(all = TRUE)
-)
-
-saveRDS(m_full, file = "models/models_for_bayes_factor_analysis/m_full.rds")
-
-################################################### MODEL WITHOUT ANIMACY ###################################################
-
-pri_without_animacy <- c(
-  pri_cmpl_complex,
-  pri_cmpl_det,
-  pri_cmpl_indiv,
-  pri_motion_type,
-  pri_verse_genre,
-  pri_era_style,
-  pri_intercepts
-)
-
-
-priors_without_animacy <- c(pri_without_animacy, pri_re)
-
-m_without_animacy <- brm(
-  cmpl_constr ~ cmpl_complex + cmpl_det + cmpl_indiv + motion_type +
+m5_anim_removed <- brm(
+  cmpl_constr ~ cmpl_complex + cmpl_det + cmpl_indiv +
     verse_genre + era_style +
-    (1 | book_scroll) + (1 | lex), # crossed factors
+    (1 | book_scroll) + (1 | lex),
   data = df0,
   family = categorical(link = "logit", refcat = "prep"),
-  prior = priors_without_animacy,
+  prior = priors_m5_anim_removed,
   chains = 4,
-  iter = 8000, 
+  iter = 8000,
   warmup = 4000,
   seed = 84735,
-  init = "0",                        # fixes many init failures
+  init = "0",
   control = list(adapt_delta = 0.9, max_treedepth = 10),
   refresh = 1000,
   save_pars = save_pars(all = TRUE)
 )
 
-saveRDS(m_without_animacy, file = "models/models_for_bayes_factor_analysis/m_without_animacy.rds")
+saveRDS(m5_anim_removed, file = "models/models_for_bayes_factor_analysis/m5_anim_removed.rds")
 
 
 
 
-################################################### MODEL WITHOUT COMPLEXITY ###################################################
+# m5_det_removed: cmpl_anim, cmpl_complex, cmpl_indiv, verse_genre, era_style + hierarchical part
 
-pri_without_complexity <- c(
+
+pri_m5_det_removed <- c(
   pri_cmpl_anim,
-  pri_cmpl_det,
+  pri_cmpl_complex,
   pri_cmpl_indiv,
-  pri_motion_type,
   pri_verse_genre,
   pri_era_style,
   pri_intercepts
 )
 
-priors_without_complexity <- c(pri_without_complexity, pri_re)
+priors_m5_det_removed <- c(pri_m5_det_removed, pri_re)
 
-m_without_complexity <- brm(
-  cmpl_constr ~ cmpl_anim + cmpl_det + cmpl_indiv + motion_type +
+m5_det_removed <- brm(
+  cmpl_constr ~ cmpl_anim + cmpl_complex + cmpl_indiv +
     verse_genre + era_style +
-    (1 | book_scroll) + (1 | lex), # crossed factors
+    (1 | book_scroll) + (1 | lex),
   data = df0,
   family = categorical(link = "logit", refcat = "prep"),
-  prior = priors_without_complexity,
+  prior = priors_m5_det_removed,
   chains = 4,
-  iter = 8000, 
+  iter = 8000,
   warmup = 4000,
   seed = 84735,
-  init = "0",                        # fixes many init failures
+  init = "0",
   control = list(adapt_delta = 0.9, max_treedepth = 10),
   refresh = 1000,
   save_pars = save_pars(all = TRUE)
 )
 
-saveRDS(m_without_complexity, file = "models/models_for_bayes_factor_analysis/m_without_complexity.rds")
+saveRDS(m5_det_removed, file = "models/models_for_bayes_factor_analysis/m5_det_removed.rds")
 
 
-################################################### MODEL WITHOUT DEFINITENESS ###################################################
 
-pri_without_definiteness <- c(
+
+# m5_complex_removed: cmpl_anim, cmpl_det, cmpl_indiv, verse_genre, era_style + hierarchical part
+
+pri_m5_complex_removed <- c(
   pri_cmpl_anim,
-  pri_cmpl_complex,
+  pri_cmpl_det,
   pri_cmpl_indiv,
-  pri_motion_type,
   pri_verse_genre,
   pri_era_style,
   pri_intercepts
 )
 
-priors_without_definiteness <- c(pri_without_definiteness, pri_re)
+priors_m5_complex_removed <- c(pri_m5_complex_removed, pri_re)
 
-m_without_definiteness <- brm(
-  cmpl_constr ~ cmpl_anim + cmpl_complex + cmpl_indiv + motion_type +
+m5_complex_removed <- brm(
+  cmpl_constr ~ cmpl_anim + cmpl_det + cmpl_indiv +
     verse_genre + era_style +
-    (1 | book_scroll) + (1 | lex), # crossed factors
+    (1 | book_scroll) + (1 | lex),
   data = df0,
   family = categorical(link = "logit", refcat = "prep"),
-  prior = priors_without_definiteness,
+  prior = priors_m5_complex_removed,
   chains = 4,
-  iter = 8000, 
+  iter = 8000,
   warmup = 4000,
   seed = 84735,
-  init = "0",                        # fixes many init failures
+  init = "0",
   control = list(adapt_delta = 0.9, max_treedepth = 10),
   refresh = 1000,
   save_pars = save_pars(all = TRUE)
 )
 
-saveRDS(m_without_definiteness, file = "models/models_for_bayes_factor_analysis/m_without_definiteness.rds")
+saveRDS(m5_complex_removed, file = "models/models_for_bayes_factor_analysis/m5_complex_removed.rds")
 
 
 
-################################################### MODEL WITHOUT MOTION TYPE ###################################################
 
-pri_without_motion_type <- c(
+
+# m5_indiv_removed: cmpl_anim, cmpl_det, cmpl_complex, verse_genre, era_style + hierarchical part
+
+
+pri_m5_indiv_removed <- c(
   pri_cmpl_anim,
-  pri_cmpl_complex,
   pri_cmpl_det,
-  pri_cmpl_indiv,
+  pri_cmpl_complex,
   pri_verse_genre,
   pri_era_style,
   pri_intercepts
 )
 
-priors_without_motion_type <- c(pri_without_motion_type, pri_re)
+priors_m5_indiv_removed <- c(pri_m5_indiv_removed, pri_re)
 
-m_without_motion_type <- brm(
-  cmpl_constr ~ cmpl_anim + cmpl_det + cmpl_complex + cmpl_indiv +
-    verse_genre + era_style +
-    (1 | book_scroll) + (1 | lex), # crossed factors
-  data = df0,
-  family = categorical(link = "logit", refcat = "prep"),
-  prior = priors_without_motion_type,
-  chains = 4,
-  iter = 8000, 
-  warmup = 4000,
-  seed = 84735,
-  init = "0",                        # fixes many init failures
-  control = list(adapt_delta = 0.9, max_treedepth = 10),
-  refresh = 1000,
-  save_pars = save_pars(all = TRUE)
-)
-
-saveRDS(m_without_motion_type, file = "models/models_for_bayes_factor_analysis/m_without_motion_type.rds")
-
-
-
-
-################################################### MODEL WITHOUT ERA STYLE ###################################################
-
-
-pri_without_era <- c(
-  pri_cmpl_anim,
-  pri_cmpl_complex,
-  pri_cmpl_det,
-  pri_cmpl_indiv,
-  pri_motion_type,
-  pri_verse_genre,
-  pri_intercepts
-)
-
-priors_without_era <- c(pri_without_era, pri_re)
-
-m_without_era <- brm(
-  cmpl_constr ~ cmpl_anim + cmpl_det + cmpl_complex + cmpl_indiv +
-    verse_genre + motion_type +
-    (1 | book_scroll) + (1 | lex), # crossed factors
-  data = df0,
-  family = categorical(link = "logit", refcat = "prep"),
-  prior = priors_without_era,
-  chains = 4,
-  iter = 8000, 
-  warmup = 4000,
-  seed = 84735,
-  init = "0",                        # fixes many init failures
-  control = list(adapt_delta = 0.9, max_treedepth = 10),
-  refresh = 1000,
-  save_pars = save_pars(all = TRUE)
-)
-
-saveRDS(m_without_era, file = "models/models_for_bayes_factor_analysis/m_without_era.rds")
-
-
-
-################################################### MODEL WITHOUT GENRE ###################################################
-
-pri_without_genre <- c(
-  pri_cmpl_anim,
-  pri_cmpl_complex,
-  pri_cmpl_det,
-  pri_cmpl_indiv,
-  pri_motion_type,
-  pri_era_style,
-  pri_intercepts
-)
-
-priors_without_genre <- c(pri_without_genre, pri_re)
-
-m_without_genre <- brm(
-  cmpl_constr ~ cmpl_anim + cmpl_det + cmpl_complex + cmpl_indiv +
-    era_style + motion_type +
-    (1 | book_scroll) + (1 | lex), # crossed factors
-  data = df0,
-  family = categorical(link = "logit", refcat = "prep"),
-  prior = priors_without_genre,
-  chains = 4,
-  iter = 8000, 
-  warmup = 4000,
-  seed = 84735,
-  init = "0",                        # fixes many init failures
-  control = list(adapt_delta = 0.9, max_treedepth = 10),
-  refresh = 1000,
-  save_pars = save_pars(all = TRUE)
-)
-
-saveRDS(m_without_genre, file = "models/models_for_bayes_factor_analysis/m_without_genre.rds")
-
-
-################################################### MODEL WITHOUT INDIVIDUATION ###################################################
-
-pri_without_individuation <- c(
-  pri_cmpl_anim,
-  pri_cmpl_complex,
-  pri_cmpl_det,
-  pri_motion_type,
-  pri_verse_genre,
-  pri_era_style,
-  pri_intercepts
-)
-
-priors_without_individuation <- c(pri_without_individuation, pri_re)
-
-m_without_individuation <- brm(
+m5_indiv_removed <- brm(
   cmpl_constr ~ cmpl_anim + cmpl_det + cmpl_complex +
-    motion_type + verse_genre + era_style +
-    (1 | book_scroll) + (1 | lex), # crossed factors
+    verse_genre + era_style +
+    (1 | book_scroll) + (1 | lex),
   data = df0,
   family = categorical(link = "logit", refcat = "prep"),
-  prior = priors_without_individuation,
+  prior = priors_m5_indiv_removed,
   chains = 4,
-  iter = 8000, 
+  iter = 8000,
   warmup = 4000,
   seed = 84735,
-  init = "0",                        # fixes many init failures
+  init = "0",
   control = list(adapt_delta = 0.9, max_treedepth = 10),
   refresh = 1000,
   save_pars = save_pars(all = TRUE)
 )
 
-saveRDS(m_without_individuation, file = "models/models_for_bayes_factor_analysis/m_without_individuation.rds")
+saveRDS(m5_indiv_removed, file = "models/models_for_bayes_factor_analysis/m5_indiv_removed.rds")
+
+
+
+
+# m5_verse_genre_removed: cmpl_anim, cmpl_det, cmpl_complex, cmpl_indiv, era_style + hierarchical part
+
+
+pri_m5_verse_genre_removed <- c(
+  pri_cmpl_anim,
+  pri_cmpl_det,
+  pri_cmpl_complex,
+  pri_cmpl_indiv,
+  pri_era_style,
+  pri_intercepts
+)
+
+priors_m5_verse_genre_removed <- c(pri_m5_verse_genre_removed, pri_re)
+
+m5_verse_genre_removed <- brm(
+  cmpl_constr ~ cmpl_anim + cmpl_det + cmpl_complex + cmpl_indiv +
+    era_style +
+    (1 | book_scroll) + (1 | lex),
+  data = df0,
+  family = categorical(link = "logit", refcat = "prep"),
+  prior = priors_m5_verse_genre_removed,
+  chains = 4,
+  iter = 8000,
+  warmup = 4000,
+  seed = 84735,
+  init = "0",
+  control = list(adapt_delta = 0.9, max_treedepth = 10),
+  refresh = 1000,
+  save_pars = save_pars(all = TRUE)
+)
+
+saveRDS(m5_verse_genre_removed, file = "models/models_for_bayes_factor_analysis/m5_verse_genre_removed.rds")
+
+
+
+
+# m5_era_removed: cmpl_anim, cmpl_det, cmpl_complex, cmpl_indiv, verse_genre + hierarchical part
+
+
+pri_m5_era_removed <- c(
+  pri_cmpl_anim,
+  pri_cmpl_det,
+  pri_cmpl_complex,
+  pri_cmpl_indiv,
+  pri_verse_genre,
+  pri_intercepts
+)
+
+priors_m5_era_removed <- c(pri_m5_era_removed, pri_re)
+
+m5_era_removed <- brm(
+  cmpl_constr ~ cmpl_anim + cmpl_det + cmpl_complex + cmpl_indiv +
+    verse_genre +
+    (1 | book_scroll) + (1 | lex),
+  data = df0,
+  family = categorical(link = "logit", refcat = "prep"),
+  prior = priors_m5_era_removed,
+  chains = 4,
+  iter = 8000,
+  warmup = 4000,
+  seed = 84735,
+  init = "0",
+  control = list(adapt_delta = 0.9, max_treedepth = 10),
+  refresh = 1000,
+  save_pars = save_pars(all = TRUE)
+)
+
+saveRDS(m5_era_removed, file = "models/models_for_bayes_factor_analysis/m5_era_removed.rds")
+
+

@@ -1,0 +1,9 @@
+"model_id","Model","log_BF","BF"
+"..1","cmpl_anim + cmpl_det + cmpl_indiv + motion_type + verse_genre + era_style + (1 | book_scroll) + (1 | lex)",-41.093130916219,1.42390166862523e-18
+"..2","cmpl_complex + cmpl_det + cmpl_indiv + motion_type + verse_genre + era_style + (1 | book_scroll) + (1 | lex)",-248.597785010729,1.08481019111919e-108
+"..3","cmpl_anim + cmpl_complex + cmpl_indiv + motion_type + verse_genre + era_style + (1 | book_scroll) + (1 | lex)",0.158083510950519,1.17126400399382
+"..4","cmpl_anim + cmpl_det + cmpl_complex + cmpl_indiv + verse_genre + motion_type + (1 | book_scroll) + (1 | lex)",-2.27582922886677,0.102711701604262
+"..5","cmpl_anim + cmpl_det + cmpl_complex + cmpl_indiv + era_style + motion_type + (1 | book_scroll) + (1 | lex)",-7.12495459572506,0.000804769549272971
+"..6","cmpl_anim + cmpl_det + cmpl_complex + cmpl_indiv + verse_genre + era_style + (1 | book_scroll) + (1 | lex)",1.89553218310493,6.65608972072928
+"..7","cmpl_anim + cmpl_det + cmpl_complex + motion_type + verse_genre + era_style + (1 | book_scroll) + (1 | lex)",-163.416442514913,1.06940143741509e-71
+"denominator","cmpl_anim + cmpl_det + cmpl_complex + cmpl_indiv + motion_type + verse_genre + era_style + (1 | book_scroll) + (1 | lex)",0,1

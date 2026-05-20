@@ -1,0 +1,8 @@
+"model_id","Model","log_BF","BF"
+"..1","cmpl_complex + cmpl_det + cmpl_indiv + verse_genre + era_style + (1 | book_scroll) + (1 | lex)",-250.2890471558,1.99916177568649e-109
+"..2","cmpl_anim + cmpl_complex + cmpl_indiv + verse_genre + era_style + (1 | book_scroll) + (1 | lex)",-0.907447709934559,0.403552894786395
+"..3","cmpl_anim + cmpl_det + cmpl_indiv + verse_genre + era_style + (1 | book_scroll) + (1 | lex)",-42.5328248849605,3.37465089996245e-19
+"..4","cmpl_anim + cmpl_det + cmpl_complex + verse_genre + era_style + (1 | book_scroll) + (1 | lex)",-164.695341653969,2.97660991819376e-72
+"..5","cmpl_anim + cmpl_det + cmpl_complex + cmpl_indiv + era_style + (1 | book_scroll) + (1 | lex)",-8.45724962121699,0.000212355325802238
+"..6","cmpl_anim + cmpl_det + cmpl_complex + cmpl_indiv + verse_genre + (1 | book_scroll) + (1 | lex)",-3.62532299997201,0.0266404910686486
+"denominator","cmpl_anim + cmpl_det + cmpl_complex + cmpl_indiv + verse_genre + era_style + (1 | book_scroll) + (1 | lex)",0,1

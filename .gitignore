@@ -139,3 +139,4 @@ dmypy.json
 # Vim
 .viminfo
 .Rproj.user
+.positai
