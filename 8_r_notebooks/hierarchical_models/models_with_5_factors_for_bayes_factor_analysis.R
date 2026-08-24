@@ -80,7 +80,7 @@ df$cmpl_constr <- relevel(df$cmpl_constr, ref = "prep")
 df$cmpl_anim <- relevel(df$cmpl_anim, ref = "inanim")
 df$cmpl_det <- relevel(df$cmpl_det,  ref = "det")
 df$cmpl_complex <- relevel(df$cmpl_complex, ref = "simple")
-df$cmpl_indiv <- relevel(df$cmpl_indiv, ref = "subs")
+df$cmpl_indiv <- relevel(df$cmpl_indiv, ref = "nmpr")
 df$motion_type <- relevel(df$motion_type, ref = "factive")
 
 df$verse_genre <- relevel(df$verse_genre, ref = "prose")
@@ -149,7 +149,7 @@ pri_cmpl_det <- c(
 pri_cmpl_indiv <- c(
   set_prior("normal(0, 1.5)", class = "b", coef = "cmpl_indivadj", dpar = "mudirhe"),
   set_prior("normal(0, 1.5)", class = "b", coef = "cmpl_indivadv", dpar = "mudirhe"),
-  set_prior("normal(0, 1.5)", class = "b", coef = "cmpl_indivnmpr", dpar = "mudirhe"),
+  set_prior("normal(0, 1.5)", class = "b", coef = "cmpl_indivsubs", dpar = "mudirhe"),
   set_prior("normal(0, 1.5)", class = "b", coef = "cmpl_indivppde", dpar = "mudirhe"),
   set_prior("normal(0, 1.5)", class = "b", coef = "cmpl_indivppin", dpar = "mudirhe"),
   set_prior("normal(0, 1.5)", class = "b", coef = "cmpl_indivprsf", dpar = "mudirhe"),
@@ -157,7 +157,7 @@ pri_cmpl_indiv <- c(
   
   set_prior("normal(0, 1.5)", class = "b", coef = "cmpl_indivadj", dpar = "muvc"),
   set_prior("normal(0, 1.5)", class = "b", coef = "cmpl_indivadv", dpar = "muvc"),
-  set_prior("normal(0, 1.5)", class = "b", coef = "cmpl_indivnmpr", dpar = "muvc"),
+  set_prior("normal(0, 1.5)", class = "b", coef = "cmpl_indivsubs", dpar = "muvc"),
   set_prior("normal(0, 1.5)", class = "b", coef = "cmpl_indivppde", dpar = "muvc"),
   set_prior("normal(0, 1.5)", class = "b", coef = "cmpl_indivppin", dpar = "muvc"),
   set_prior("normal(0, 1.5)", class = "b", coef = "cmpl_indivprsf", dpar = "muvc"),

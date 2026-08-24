@@ -1,10 +1,10 @@
 "model_id","Model","log_BF","BF"
-"full_model","cmpl_anim + cmpl_det + cmpl_complex + cmpl_indiv + motion_type + verse_genre + era_style + (1 | book_scroll) + (1 | lex)",660.798183556129,9.57204584793796e+286
-"complexity_removed","cmpl_anim + cmpl_det + cmpl_indiv + motion_type + verse_genre + era_style + (1 | book_scroll) + (1 | lex)",619.627882963804,1.26174154903759e+269
-"animacy_removed","cmpl_complex + cmpl_det + cmpl_indiv + motion_type + verse_genre + era_style + (1 | book_scroll) + (1 | lex)",412.116465038069,9.5478737443152e+178
-"defin_removed","cmpl_anim + cmpl_complex + cmpl_indiv + motion_type + verse_genre + era_style + (1 | book_scroll) + (1 | lex)",660.839262401677,9.97344245159109e+286
-"era_removed","cmpl_anim + cmpl_det + cmpl_complex + cmpl_indiv + verse_genre + motion_type + (1 | book_scroll) + (1 | lex)",658.360618545063,8.3634167165971e+285
-"genre_removed","cmpl_anim + cmpl_det + cmpl_complex + cmpl_indiv + era_style + motion_type + (1 | book_scroll) + (1 | lex)",653.449781768318,6.16076187561257e+283
-"motion_removed","cmpl_anim + cmpl_det + cmpl_complex + cmpl_indiv + verse_genre + era_style + (1 | book_scroll) + (1 | lex)",662.471826892652,5.10339091129646e+287
-"individuation_removed","cmpl_anim + cmpl_det + cmpl_complex + motion_type + verse_genre + era_style + (1 | book_scroll) + (1 | lex)",497.365321567971,1.00696562917996e+216
+"full_model","cmpl_anim + cmpl_det + cmpl_complex + cmpl_indiv + motion_type + verse_genre + era_style + (1 | book_scroll) + (1 | lex)",657.498369604332,3.53113059321053e+285
+"complexity_removed","cmpl_anim + cmpl_det + cmpl_indiv + motion_type + verse_genre + era_style + (1 | book_scroll) + (1 | lex)",613.126468585257,1.89427058494847e+266
+"animacy_removed","cmpl_complex + cmpl_det + cmpl_indiv + motion_type + verse_genre + era_style + (1 | book_scroll) + (1 | lex)",408.211627067157,1.92334451823925e+177
+"defin_removed","cmpl_anim + cmpl_complex + cmpl_indiv + motion_type + verse_genre + era_style + (1 | book_scroll) + (1 | lex)",656.278607448844,1.04274425597074e+285
+"era_removed","cmpl_anim + cmpl_det + cmpl_complex + cmpl_indiv + verse_genre + motion_type + (1 | book_scroll) + (1 | lex)",655.234365134344,3.67002591751437e+284
+"genre_removed","cmpl_anim + cmpl_det + cmpl_complex + cmpl_indiv + era_style + motion_type + (1 | book_scroll) + (1 | lex)",649.598248776222,1.30898568612886e+282
+"motion_removed","cmpl_anim + cmpl_det + cmpl_complex + cmpl_indiv + verse_genre + era_style + (1 | book_scroll) + (1 | lex)",659.389175016205,2.33926884211238e+286
+"individuation_removed","cmpl_anim + cmpl_det + cmpl_complex + motion_type + verse_genre + era_style + (1 | book_scroll) + (1 | lex)",503.708928229667,5.72806602879452e+218
 "empty_model","1 + (1 | book_scroll) + (1 | lex)",0,1
